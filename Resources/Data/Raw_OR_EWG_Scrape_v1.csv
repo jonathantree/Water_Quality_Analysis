@@ -1,0 +1,3005 @@
+,Utility,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit
+0,City of Pendleton,Arsenic,0.750 ppb,0.004 ppb,10 ppb
+1,City of Pendleton,Chromium (hexavalent),0.0472 ppb,0.02 ppb,
+2,City of Pendleton,Haloacetic acids (HAA5)†,15.3 ppb,0.1 ppb,60 ppb
+3,City of Pendleton,Haloacetic acids (HAA9)†,16.2 ppb,0.06 ppb,
+4,City of Pendleton,Nitrate,1.40 ppm,0.14 ppm,10 ppm
+5,City of Pendleton,Total trihalomethanes (TTHMs)†,25.5 ppb,0.15 ppb,80 ppb
+6,City of Pendleton,Uranium,0.89 pCi/L,0.43 pCi/L,20 pCi/L
+7,City of Pendleton,Chlorate,125.9 ppb,210 ppb,
+8,City of Pendleton,Chromium (total),0.0338 ppb,,100 ppb
+9,City of Pendleton,Manganese,3.99 ppb,100 ppb,
+10,City of Pendleton,Molybdenum,0.381 ppb,40 ppb,
+11,City of Pendleton,Strontium,0.0703 ppb,"1,500 ppb",
+12,City of Pendleton,Vanadium,8.72 ppb,21 ppb,
+13,City of Pendleton,None,,,
+14,City of Hermiston,Arsenic,2.25 ppb,0.004 ppb,10 ppb
+15,City of Hermiston,Chromium (hexavalent),0.113 ppb,0.02 ppb,
+16,City of Hermiston,Haloacetic acids (HAA5)†,17.7 ppb,0.1 ppb,60 ppb
+17,City of Hermiston,Haloacetic acids (HAA9)†,23.0 ppb,0.06 ppb,
+18,City of Hermiston,Nitrate,1.10 ppm,0.14 ppm,10 ppm
+19,City of Hermiston,Total trihalomethanes (TTHMs)†,31.6 ppb,0.15 ppb,80 ppb
+20,City of Hermiston,Uranium,1.62 pCi/L,0.43 pCi/L,20 pCi/L
+21,City of Hermiston,Chromium (total),0.0763 ppb,,100 ppb
+22,City of Hermiston,Germanium,1.18 ppb,,
+23,City of Hermiston,Manganese,2.61 ppb,100 ppb,
+24,City of Hermiston,Molybdenum,2.69 ppb,40 ppb,
+25,City of Hermiston,Strontium,0.151 ppb,"1,500 ppb",
+26,City of Hermiston,Vanadium,4.48 ppb,21 ppb,
+27,City of Hermiston,Xylenes (total),0.0471 ppb,"1,800 ppb","10,000 ppb"
+28,City of Hermiston,None,,,
+29,"Milton-freewater, City Of",Total trihalomethanes (TTHMs)†,1.14 ppb,0.15 ppb,80 ppb
+30,"Milton-freewater, City Of",Nitrate,0.0628 ppm,0.14 ppm,10 ppm
+31,"Milton-freewater, City Of",None,,,
+32,"Umatilla, City of",Haloacetic acids (HAA5)†,1.33 ppb,0.1 ppb,60 ppb
+33,"Umatilla, City of",Total trihalomethanes (TTHMs)†,16.1 ppb,0.15 ppb,80 ppb
+34,"Umatilla, City of",None,,,
+35,"Stanfield, City of",Arsenic,0.257 ppb,0.004 ppb,10 ppb
+36,"Stanfield, City of",Haloacetic acids (HAA5)†,0.809 ppb,0.1 ppb,60 ppb
+37,"Stanfield, City of",Total trihalomethanes (TTHMs)†,4.51 ppb,0.15 ppb,80 ppb
+38,"Stanfield, City of",Barium,4.73 ppb,700 ppb,"2,000 ppb"
+39,"Stanfield, City of",Chromium (total),0.308 ppb,,100 ppb
+40,"Stanfield, City of",Fluoride,1.19 ppm,,4 ppm
+41,"Stanfield, City of",Nitrate,0.0394 ppm,0.14 ppm,10 ppm
+42,"Stanfield, City of",Nitrate and nitrite,0.108 ppm,0.14 ppm,10 ppm
+43,"Stanfield, City of",None,,,
+44,"Adrian, City of",Arsenic,20.9 ppb,0.004 ppb,10 ppb
+45,"Adrian, City of",Nitrate,2.41 ppm,0.14 ppm,10 ppm
+46,"Adrian, City of",Uranium,12.26 pCi/L,0.43 pCi/L,20 pCi/L
+47,"Adrian, City of",Barium,154.0 ppb,700 ppb,"2,000 ppb"
+48,"Adrian, City of",Chromium (total),1.47 ppb,,100 ppb
+49,"Adrian, City of",Fluoride,0.769 ppm,,4 ppm
+50,"Adrian, City of",None,,,
+51,City of Ontario,Arsenic,0.809 ppb,0.004 ppb,10 ppb
+52,City of Ontario,Chromium (hexavalent),0.570 ppb,0.02 ppb,
+53,City of Ontario,Haloacetic acids (HAA5)†,21.0 ppb,0.1 ppb,60 ppb
+54,City of Ontario,Haloacetic acids (HAA9)†,41.9 ppb,0.06 ppb,
+55,City of Ontario,Nitrate,1.04 ppm,0.14 ppm,10 ppm
+56,City of Ontario,Nitrate and nitrite,1.12 ppm,0.14 ppm,10 ppm
+57,City of Ontario,Total trihalomethanes (TTHMs)†,45.2 ppb,0.15 ppb,80 ppb
+58,City of Ontario,Uranium,1.84 pCi/L,0.43 pCi/L,20 pCi/L
+59,City of Ontario,Barium,51.3 ppb,700 ppb,"2,000 ppb"
+60,City of Ontario,Chlorate,163.8 ppb,210 ppb,
+61,City of Ontario,Chromium (total),0.667 ppb,,100 ppb
+62,City of Ontario,Fluoride,0.577 ppm,,4 ppm
+63,City of Ontario,Manganese,1.83 ppb,100 ppb,
+64,City of Ontario,Molybdenum,3.78 ppb,40 ppb,
+65,City of Ontario,Selenium,0.403 ppb,30 ppb,50 ppb
+66,City of Ontario,Strontium,0.290 ppb,"1,500 ppb",
+67,City of Ontario,Vanadium,4.28 ppb,21 ppb,
+68,City of Ontario,None,,,
+69,Fischers Place Mobile Home Park,Arsenic,9.90 ppb,0.004 ppb,10 ppb
+70,Fischers Place Mobile Home Park,Total trihalomethanes (TTHMs)†,1.66 ppb,0.15 ppb,80 ppb
+71,Fischers Place Mobile Home Park,None,,,
+72,"Jordan Valley, City of",Arsenic,4.36 ppb,0.004 ppb,10 ppb
+73,"Jordan Valley, City of","Radium, combined (-226 &amp; -228)",0.67 pCi/L,0.05 pCi/L,5 pCi/L
+74,"Jordan Valley, City of",Uranium,1.23 pCi/L,0.43 pCi/L,20 pCi/L
+75,"Jordan Valley, City of",Barium,122.0 ppb,700 ppb,"2,000 ppb"
+76,"Jordan Valley, City of",Fluoride,0.890 ppm,,4 ppm
+77,"Jordan Valley, City of",Nitrate,0.0857 ppm,0.14 ppm,10 ppm
+78,"Jordan Valley, City of",Selenium,5.54 ppb,30 ppb,50 ppb
+79,"Jordan Valley, City of",None,,,
+80,"Nyssa, City of",Arsenic,11.6 ppb,0.004 ppb,10 ppb
+81,"Nyssa, City of",Haloacetic acids (HAA5)†,0.254 ppb,0.1 ppb,60 ppb
+82,"Nyssa, City of",Nitrate,3.51 ppm,0.14 ppm,10 ppm
+83,"Nyssa, City of",Nitrate and nitrite,5.54 ppm,0.14 ppm,10 ppm
+84,"Nyssa, City of",Total trihalomethanes (TTHMs)†,10.8 ppb,0.15 ppb,80 ppb
+85,"Nyssa, City of",Uranium,4.69 pCi/L,0.43 pCi/L,20 pCi/L
+86,"Nyssa, City of",Barium,41.2 ppb,700 ppb,"2,000 ppb"
+87,"Nyssa, City of",Chromium (total),1.35 ppb,,100 ppb
+88,"Nyssa, City of",Fluoride,0.522 ppm,,4 ppm
+89,"Nyssa, City of",Nitrite,0.197 ppm,,1 ppm
+90,"Nyssa, City of",Selenium,1.09 ppb,30 ppb,50 ppb
+91,"Nyssa, City of",None,,,
+92,Eagle River Village Mobile Home Park,Bromodichloromethane,1.89 ppb,0.06 ppb,
+93,Eagle River Village Mobile Home Park,Bromoform,4.36 ppb,0.5 ppb,
+94,Eagle River Village Mobile Home Park,Dibromoacetic acid,2.72 ppb,0.04 ppb,
+95,Eagle River Village Mobile Home Park,Dibromochloromethane,4.53 ppb,0.1 ppb,
+96,Eagle River Village Mobile Home Park,Haloacetic acids (HAA5)†,3.36 ppb,0.1 ppb,60 ppb
+97,Eagle River Village Mobile Home Park,Nitrate,0.550 ppm,0.14 ppm,10 ppm
+98,Eagle River Village Mobile Home Park,Total trihalomethanes (TTHMs)†,10.9 ppb,0.15 ppb,80 ppb
+99,Eagle River Village Mobile Home Park,Uranium,1.34 pCi/L,0.43 pCi/L,20 pCi/L
+100,Eagle River Village Mobile Home Park,Barium,34.0 ppb,700 ppb,"2,000 ppb"
+101,Eagle River Village Mobile Home Park,Chloroform,0.308 ppb,0.4 ppb,
+102,Eagle River Village Mobile Home Park,Dichloroacetic acid,0.383 ppb,0.2 ppb,
+103,Eagle River Village Mobile Home Park,Fluoride,0.120 ppm,,4 ppm
+104,Eagle River Village Mobile Home Park,Monobromoacetic acid,0.0923 ppb,25 ppb,
+105,Eagle River Village Mobile Home Park,Selenium,1.50 ppb,30 ppb,50 ppb
+106,Eagle River Village Mobile Home Park,None,,,
+107,"Cedar Vale, City of",Bromodichloromethane,7.45 ppb,0.06 ppb,
+108,"Cedar Vale, City of",Chloroform,39.5 ppb,0.4 ppb,
+109,"Cedar Vale, City of",Dibromochloromethane,0.844 ppb,0.1 ppb,
+110,"Cedar Vale, City of",Dichloroacetic acid,21.9 ppb,0.2 ppb,
+111,"Cedar Vale, City of",Haloacetic acids (HAA5)†,42.0 ppb,0.1 ppb,60 ppb
+112,"Cedar Vale, City of","Radium, combined (-226 &amp; -228)*",1.70 pCi/L,0.05 pCi/L,5 pCi/L
+113,"Cedar Vale, City of",Total trihalomethanes (TTHMs)†,47.6 ppb,0.15 ppb,80 ppb
+114,"Cedar Vale, City of",Trichloroacetic acid,16.9 ppb,0.1 ppb,
+115,"Cedar Vale, City of",Aluminum*,23.8 ppb,600 ppb,
+116,"Cedar Vale, City of",Barium*,53.5 ppb,700 ppb,"2,000 ppb"
+117,"Cedar Vale, City of",Chromium (total)*,0.183 ppb,,100 ppb
+118,"Cedar Vale, City of",Dibromoacetic acid,0.0196 ppb,0.04 ppb,
+119,"Cedar Vale, City of",Dichloromethane (methylene chloride)*,0.214 ppb,4 ppb,5 ppb
+120,"Cedar Vale, City of",Fluoride*,0.0333 ppm,,4 ppm
+121,"Cedar Vale, City of",Monobromoacetic acid,0.0621 ppb,25 ppb,
+122,"Cedar Vale, City of",Monochloroacetic acid,3.07 ppb,53 ppb,
+123,"Cedar Vale, City of",Nitrate*,0.144 ppm,0.14 ppm,10 ppm
+124,"Cedar Vale, City of",None,,,
+125,"Brookings, City of",Haloacetic acids (HAA5)†,0.238 ppb,0.1 ppb,60 ppb
+126,"Brookings, City of","Radium, combined (-226 &amp; -228)",0.15 pCi/L,0.05 pCi/L,5 pCi/L
+127,"Brookings, City of",Total trihalomethanes (TTHMs)†,8.06 ppb,0.15 ppb,80 ppb
+128,"Brookings, City of",Barium,30.3 ppb,700 ppb,"2,000 ppb"
+129,"Brookings, City of",Nitrate,0.106 ppm,0.14 ppm,10 ppm
+130,"Brookings, City of",Nitrate and nitrite,0.258 ppm,0.14 ppm,10 ppm
+131,"Brookings, City of",None,,,
+132,"Gold Beach, City of",Haloacetic acids (HAA5)†,5.19 ppb,0.1 ppb,60 ppb
+133,"Gold Beach, City of",Total trihalomethanes (TTHMs)†,16.2 ppb,0.15 ppb,80 ppb
+134,"Gold Beach, City of",Barium,16.7 ppb,700 ppb,"2,000 ppb"
+135,"Gold Beach, City of",Nitrate,0.0397 ppm,0.14 ppm,10 ppm
+136,"Gold Beach, City of",None,,,
+137,Harbor Water People's Utility District,Haloacetic acids (HAA5)†,1.47 ppb,0.1 ppb,60 ppb
+138,Harbor Water People's Utility District,Total trihalomethanes (TTHMs)†,5.93 ppb,0.15 ppb,80 ppb
+139,Harbor Water People's Utility District,Nitrate,0.235 ppm,0.14 ppm,10 ppm
+140,Harbor Water People's Utility District,None,,,
+141,Langlois Water District,Haloacetic acids (HAA5)†,30.8 ppb,0.1 ppb,60 ppb
+142,Langlois Water District,Total trihalomethanes (TTHMs)†,49.1 ppb,0.15 ppb,80 ppb
+143,Langlois Water District,Barium,75.7 ppb,700 ppb,"2,000 ppb"
+144,Langlois Water District,Nitrate,0.273 ppm,0.14 ppm,10 ppm
+145,Langlois Water District,None,,,
+146,Nesika Beach-ophir Water District,Total trihalomethanes (TTHMs)†,4.16 ppb,0.15 ppb,80 ppb
+147,Nesika Beach-ophir Water District,Nitrate,0.263 ppm,0.14 ppm,10 ppm
+148,Nesika Beach-ophir Water District,None,,,
+149,Old Sheep Ranch Water Association,Nitrate,2.00 ppm,0.14 ppm,10 ppm
+150,Old Sheep Ranch Water Association,Nitrate and nitrite,1.74 ppm,0.14 ppm,10 ppm
+151,Old Sheep Ranch Water Association,Barium,62.7 ppb,700 ppb,"2,000 ppb"
+152,Old Sheep Ranch Water Association,Fluoride,0.148 ppm,,4 ppm
+153,Old Sheep Ranch Water Association,None,,,
+154,"Port Orford, City of",Haloacetic acids (HAA5)†,33.0 ppb,0.1 ppb,60 ppb
+155,"Port Orford, City of",Total trihalomethanes (TTHMs)†,63.0 ppb,0.15 ppb,80 ppb
+156,"Port Orford, City of",Barium,13.5 ppb,700 ppb,"2,000 ppb"
+157,"Port Orford, City of",Nitrate,0.0798 ppm,0.14 ppm,10 ppm
+158,"Port Orford, City of",Nitrate and nitrite,0.256 ppm,0.14 ppm,10 ppm
+159,"Port Orford, City of",None,,,
+160,Rainbow Rock Service Association,Haloacetic acids (HAA5)†,10.3 ppb,0.1 ppb,60 ppb
+161,Rainbow Rock Service Association,"Radium, combined (-226 &amp; -228)",0.45 pCi/L,0.05 pCi/L,5 pCi/L
+162,Rainbow Rock Service Association,Total trihalomethanes (TTHMs)†,63.9 ppb,0.15 ppb,80 ppb
+163,Rainbow Rock Service Association,Barium,25.0 ppb,700 ppb,"2,000 ppb"
+164,Rainbow Rock Service Association,Nitrate,0.240 ppm,0.14 ppm,10 ppm
+165,Rainbow Rock Service Association,Nitrate and nitrite,0.237 ppm,0.14 ppm,10 ppm
+166,Rainbow Rock Service Association,None,,,
+167,Rainbow Rock Village Mobile Home Park,Haloacetic acids (HAA5)†,37.3 ppb,0.1 ppb,60 ppb
+168,Rainbow Rock Village Mobile Home Park,Nitrate,0.952 ppm,0.14 ppm,10 ppm
+169,Rainbow Rock Village Mobile Home Park,Total trihalomethanes (TTHMs)†,49.9 ppb,0.15 ppb,80 ppb
+170,Rainbow Rock Village Mobile Home Park,None,,,
+171,Saunders Creek Hoc,Nitrate,0.301 ppm,0.14 ppm,10 ppm
+172,Saunders Creek Hoc,Nitrate and nitrite,0.291 ppm,0.14 ppm,10 ppm
+173,Saunders Creek Hoc,Barium,50.5 ppb,700 ppb,"2,000 ppb"
+174,Saunders Creek Hoc,None,,,
+175,City of Corvallis,Chromium (hexavalent),0.511 ppb,0.02 ppb,
+176,City of Corvallis,Haloacetic acids (HAA5)†,16.2 ppb,0.1 ppb,60 ppb
+177,City of Corvallis,Haloacetic acids (HAA9)†,16.2 ppb,0.06 ppb,
+178,City of Corvallis,Total trihalomethanes (TTHMs)†,19.8 ppb,0.15 ppb,80 ppb
+179,City of Corvallis,Chlorate,172.6 ppb,210 ppb,
+180,City of Corvallis,Chromium (total),0.507 ppb,,100 ppb
+181,City of Corvallis,Fluoride,0.707 ppm,,4 ppm
+182,City of Corvallis,Manganese,1.24 ppb,100 ppb,
+183,City of Corvallis,Nitrate,0.0292 ppm,0.14 ppm,10 ppm
+184,City of Corvallis,Strontium,0.0301 ppb,"1,500 ppb",
+185,City of Corvallis,Vanadium,2.09 ppb,21 ppb,
+186,City of Corvallis,None,,,
+187,City of Albany,Haloacetic acids (HAA5)†,21.9 ppb,0.1 ppb,60 ppb
+188,City of Albany,Haloacetic acids (HAA9)†,23.0 ppb,0.06 ppb,
+189,City of Albany,"Radium, combined (-226 &amp; -228)",0.83 pCi/L,0.05 pCi/L,5 pCi/L
+190,City of Albany,Total trihalomethanes (TTHMs)†,41.4 ppb,0.15 ppb,80 ppb
+191,City of Albany,Chlorate,93.1 ppb,210 ppb,
+192,City of Albany,Chromium (hexavalent),0.0384 ppb,0.02 ppb,
+193,City of Albany,Chromium (total),0.0294 ppb,,100 ppb
+194,City of Albany,Manganese,4.35 ppb,100 ppb,
+195,City of Albany,Nitrate,0.127 ppm,0.14 ppm,10 ppm
+196,City of Albany,Strontium,0.0263 ppb,"1,500 ppb",
+197,City of Albany,Vanadium,0.453 ppb,21 ppb,
+198,City of Albany,None,,,
+199,City of Lebanon,Haloacetic acids (HAA5)†,13.4 ppb,0.1 ppb,60 ppb
+200,City of Lebanon,Haloacetic acids (HAA9)†,25.6 ppb,0.06 ppb,
+201,City of Lebanon,Total trihalomethanes (TTHMs)†,22.1 ppb,0.15 ppb,80 ppb
+202,City of Lebanon,Chlorate,70.0 ppb,210 ppb,
+203,City of Lebanon,Chromium (hexavalent),0.00963 ppb,0.02 ppb,
+204,City of Lebanon,Fluoride,0.380 ppm,,4 ppm
+205,City of Lebanon,Manganese,131.3 ppb,100 ppb,
+206,City of Lebanon,Nitrate,0.0468 ppm,0.14 ppm,10 ppm
+207,City of Lebanon,Strontium,0.0231 ppb,"1,500 ppb",
+208,City of Lebanon,Vanadium,0.223 ppb,21 ppb,
+209,City of Lebanon,None,,,
+210,City of Dallas,Chromium (hexavalent),0.149 ppb,0.02 ppb,
+211,City of Dallas,Haloacetic acids (HAA5)†,21.0 ppb,0.1 ppb,60 ppb
+212,City of Dallas,Haloacetic acids (HAA9)†,27.3 ppb,0.06 ppb,
+213,City of Dallas,Total trihalomethanes (TTHMs)†,33.4 ppb,0.15 ppb,80 ppb
+214,City of Dallas,Chromium (total),0.245 ppb,,100 ppb
+215,City of Dallas,Molybdenum,0.150 ppb,40 ppb,
+216,City of Dallas,Nitrate,0.0850 ppm,0.14 ppm,10 ppm
+217,City of Dallas,Nitrate and nitrite,0.110 ppm,0.14 ppm,10 ppm
+218,City of Dallas,Nitrite,0.01000 ppm,,1 ppm
+219,City of Dallas,Strontium,0.0246 ppb,"1,500 ppb",
+220,City of Dallas,Vanadium,1.01 ppb,21 ppb,
+221,City of Dallas,None,,,
+222,"Monmouth, City of",Nitrate,5.50 ppm,0.14 ppm,10 ppm
+223,"Monmouth, City of",Nitrate and nitrite,7.57 ppm,0.14 ppm,10 ppm
+224,"Monmouth, City of",Total trihalomethanes (TTHMs)†,4.82 ppb,0.15 ppb,80 ppb
+225,"Monmouth, City of",Asbestos,0.13 MFL,,7 MFL
+226,"Monmouth, City of",Fluoride,0.792 ppm,,4 ppm
+227,"Monmouth, City of",None,,,
+228,"Sweet Home, City of",Haloacetic acids (HAA5)†,7.34 ppb,0.1 ppb,60 ppb
+229,"Sweet Home, City of",Total trihalomethanes (TTHMs)†,14.8 ppb,0.15 ppb,80 ppb
+230,"Sweet Home, City of",Fluoride,0.622 ppm,,4 ppm
+231,"Sweet Home, City of",Nitrate,0.0299 ppm,0.14 ppm,10 ppm
+232,"Sweet Home, City of",None,,,
+233,Independence Water Association,Chloroform,1.59 ppb,0.4 ppb,
+234,Independence Water Association,Dichloroacetic acid,1.000 ppb,0.2 ppb,
+235,Independence Water Association,Haloacetic acids (HAA5)†,1.000 ppb,0.1 ppb,60 ppb
+236,Independence Water Association,Nitrate,0.658 ppm,0.14 ppm,10 ppm
+237,Independence Water Association,Nitrate and nitrite,0.658 ppm,0.14 ppm,10 ppm
+238,Independence Water Association,Total trihalomethanes (TTHMs)†,1.59 ppb,0.15 ppb,80 ppb
+239,Independence Water Association,Barium,19.5 ppb,700 ppb,"2,000 ppb"
+240,Independence Water Association,Chromium (total),0.400 ppb,,100 ppb
+241,Independence Water Association,None,,,
+242,Philomath Public Works,Haloacetic acids (HAA5)†,23.1 ppb,0.1 ppb,60 ppb
+243,Philomath Public Works,Total trihalomethanes (TTHMs)†,39.7 ppb,0.15 ppb,80 ppb
+244,Philomath Public Works,None,,,
+245,"Harrisburg, City of",Arsenic,3.68 ppb,0.004 ppb,10 ppb
+246,"Harrisburg, City of",Haloacetic acids (HAA5)†,5.75 ppb,0.1 ppb,60 ppb
+247,"Harrisburg, City of","Radium, combined (-226 &amp; -228)",0.40 pCi/L,0.05 pCi/L,5 pCi/L
+248,"Harrisburg, City of",Total trihalomethanes (TTHMs)†,39.6 ppb,0.15 ppb,80 ppb
+249,"Harrisburg, City of",Barium,64.5 ppb,700 ppb,"2,000 ppb"
+250,"Harrisburg, City of",Chromium (total),0.437 ppb,,100 ppb
+251,"Harrisburg, City of",None,,,
+252,Luckiamute Domestic Water Co-op,Haloacetic acids (HAA5)†,14.6 ppb,0.1 ppb,60 ppb
+253,Luckiamute Domestic Water Co-op,Nitrate,4.71 ppm,0.14 ppm,10 ppm
+254,Luckiamute Domestic Water Co-op,Nitrate and nitrite,5.24 ppm,0.14 ppm,10 ppm
+255,Luckiamute Domestic Water Co-op,Total trihalomethanes (TTHMs)†,14.2 ppb,0.15 ppb,80 ppb
+256,Luckiamute Domestic Water Co-op,Barium,8.00 ppb,700 ppb,"2,000 ppb"
+257,Luckiamute Domestic Water Co-op,Nitrite,0.110 ppm,,1 ppm
+258,Luckiamute Domestic Water Co-op,None,,,
+259,Lyons Mehama Water District,Haloacetic acids (HAA5)†,7.80 ppb,0.1 ppb,60 ppb
+260,Lyons Mehama Water District,Nitrate,1.28 ppm,0.14 ppm,10 ppm
+261,Lyons Mehama Water District,Nitrate and nitrite,0.726 ppm,0.14 ppm,10 ppm
+262,Lyons Mehama Water District,Total trihalomethanes (TTHMs)†,12.1 ppb,0.15 ppb,80 ppb
+263,Lyons Mehama Water District,None,,,
+264,"Bandon, City of",Haloacetic acids (HAA5)†,9.66 ppb,0.1 ppb,60 ppb
+265,"Bandon, City of",Total trihalomethanes (TTHMs)†,37.9 ppb,0.15 ppb,80 ppb
+266,"Bandon, City of",None,,,
+267,Bridge Water District,Haloacetic acids (HAA5)†,1.75 ppb,0.1 ppb,60 ppb
+268,Bridge Water District,Nitrate,0.426 ppm,0.14 ppm,10 ppm
+269,Bridge Water District,Total trihalomethanes (TTHMs)†,10.2 ppb,0.15 ppb,80 ppb
+270,Bridge Water District,None,,,
+271,Coos Bay North Bend Water Board,Haloacetic acids (HAA5)†,13.4 ppb,0.1 ppb,60 ppb
+272,Coos Bay North Bend Water Board,Haloacetic acids (HAA9)†,20.3 ppb,0.06 ppb,
+273,Coos Bay North Bend Water Board,Nitrate,0.436 ppm,0.14 ppm,10 ppm
+274,Coos Bay North Bend Water Board,"Radium, combined (-226 &amp; -228)",2.50 pCi/L,0.05 pCi/L,5 pCi/L
+275,Coos Bay North Bend Water Board,Total trihalomethanes (TTHMs)†,31.1 ppb,0.15 ppb,80 ppb
+276,Coos Bay North Bend Water Board,Barium,10.7 ppb,700 ppb,"2,000 ppb"
+277,Coos Bay North Bend Water Board,Chlorate,9.38 ppb,210 ppb,
+278,Coos Bay North Bend Water Board,Fluoride,0.713 ppm,,4 ppm
+279,Coos Bay North Bend Water Board,Manganese,13.1 ppb,100 ppb,
+280,Coos Bay North Bend Water Board,Nitrate and nitrite,0.211 ppm,0.14 ppm,10 ppm
+281,Coos Bay North Bend Water Board,Strontium,0.0344 ppb,"1,500 ppb",
+282,Coos Bay North Bend Water Board,None,,,
+283,"Coquille, City of",Haloacetic acids (HAA5)†,21.2 ppb,0.1 ppb,60 ppb
+284,"Coquille, City of",Haloacetic acids (HAA9)†,27.6 ppb,0.06 ppb,
+285,"Coquille, City of",Nitrate,1.51 ppm,0.14 ppm,10 ppm
+286,"Coquille, City of",Total trihalomethanes (TTHMs)†,37.9 ppb,0.15 ppb,80 ppb
+287,"Coquille, City of",Manganese,13.6 ppb,100 ppb,
+288,"Coquille, City of",None,,,
+289,Asheboro Country Club Estates,Arsenic,5.00 ppb,0.004 ppb,10 ppb
+290,Asheboro Country Club Estates,Bromodichloromethane,3.10 ppb,0.06 ppb,
+291,Asheboro Country Club Estates,Chloroform,3.90 ppb,0.4 ppb,
+292,Asheboro Country Club Estates,Dibromochloromethane,2.20 ppb,0.1 ppb,
+293,Asheboro Country Club Estates,Dichloroacetic acid,1.40 ppb,0.2 ppb,
+294,Asheboro Country Club Estates,Haloacetic acids (HAA5)†,1.40 ppb,0.1 ppb,60 ppb
+295,Asheboro Country Club Estates,Total trihalomethanes (TTHMs)†,9.20 ppb,0.15 ppb,80 ppb
+296,Asheboro Country Club Estates,Di(2-ethylhexyl) adipate,0.704 ppb,200 ppb,400 ppb
+297,Asheboro Country Club Estates,Di(2-ethylhexyl) phthalate,1.70 ppb,3 ppb,6 ppb
+298,Asheboro Country Club Estates,Fluoride,0.120 ppm,,4 ppm
+299,Asheboro Country Club Estates,None,,,
+300,Dean Minard Water District,Haloacetic acids (HAA5)†,17.9 ppb,0.1 ppb,60 ppb
+301,Dean Minard Water District,Haloacetic acids (HAA9)*†,27.6 ppb,0.06 ppb,
+302,Dean Minard Water District,Nitrate*,1.51 ppm,0.14 ppm,10 ppm
+303,Dean Minard Water District,Total trihalomethanes (TTHMs)†,59.7 ppb,0.15 ppb,80 ppb
+304,Dean Minard Water District,Manganese*,13.6 ppb,100 ppb,
+305,Garden Valley Water Association,Haloacetic acids (HAA5)†,39.0 ppb,0.1 ppb,60 ppb
+306,Garden Valley Water Association,Nitrate,0.540 ppm,0.14 ppm,10 ppm
+307,Garden Valley Water Association,Nitrate and nitrite,0.571 ppm,0.14 ppm,10 ppm
+308,Garden Valley Water Association,Total trihalomethanes (TTHMs)†,41.5 ppb,0.15 ppb,80 ppb
+309,Garden Valley Water Association,Barium,28.2 ppb,700 ppb,"2,000 ppb"
+310,Garden Valley Water Association,Xylenes (total),0.502 ppb,"1,800 ppb","10,000 ppb"
+311,Garden Valley Water Association,None,,,
+312,Howell's Lakeside Water Company,Arsenic,1.50 ppb,0.004 ppb,10 ppb
+313,Howell's Lakeside Water Company,Chromium (hexavalent),4.10 ppb,0.02 ppb,
+314,Howell's Lakeside Water Company,Nitrate,1.01 ppm,0.14 ppm,10 ppm
+315,Howell's Lakeside Water Company,Fluoride,0.140 ppm,,4 ppm
+316,Howell's Lakeside Water Company,"Radium, combined (-226 &amp; -228)",0.07 pCi/L,0.05 pCi/L,5 pCi/L
+317,Howell's Lakeside Water Company,None,,,
+318,"Myrtle Point, City of",Haloacetic acids (HAA5)†,22.4 ppb,0.1 ppb,60 ppb
+319,"Myrtle Point, City of",Nitrate,0.615 ppm,0.14 ppm,10 ppm
+320,"Myrtle Point, City of",Total trihalomethanes (TTHMs)†,41.2 ppb,0.15 ppb,80 ppb
+321,"Myrtle Point, City of",None,,,
+322,North Bayside Estates-north,Arsenic,8.70 ppb,0.004 ppb,10 ppb
+323,North Bayside Estates-north,Nitrate,0.373 ppm,0.14 ppm,10 ppm
+324,North Bayside Estates-north,Nitrate and nitrite,0.352 ppm,0.14 ppm,10 ppm
+325,North Bayside Estates-north,Barium,2.82 ppb,700 ppb,"2,000 ppb"
+326,North Bayside Estates-north,Selenium,2.64 ppb,30 ppb,50 ppb
+327,North Bayside Estates-north,None,,,
+328,North Bayside Estates-north,Arsenic,8.70 ppb,0.004 ppb,10 ppb
+329,North Bayside Estates-north,Nitrate,0.373 ppm,0.14 ppm,10 ppm
+330,North Bayside Estates-north,Nitrate and nitrite,0.352 ppm,0.14 ppm,10 ppm
+331,North Bayside Estates-north,Barium,2.82 ppb,700 ppb,"2,000 ppb"
+332,North Bayside Estates-north,Selenium,2.64 ppb,30 ppb,50 ppb
+333,North Bayside Estates-north,None,,,
+334,"Powers, City of",Haloacetic acids (HAA5)†,14.4 ppb,0.1 ppb,60 ppb
+335,"Powers, City of",Total trihalomethanes (TTHMs)†,20.8 ppb,0.15 ppb,80 ppb
+336,"Powers, City of",Barium,8.85 ppb,700 ppb,"2,000 ppb"
+337,"Powers, City of",Chromium (total),1.43 ppb,,100 ppb
+338,"Powers, City of",Nitrate,0.0671 ppm,0.14 ppm,10 ppm
+339,"Powers, City of",None,,,
+340,Rink Creek Water District,Haloacetic acids (HAA5)†,32.4 ppb,0.1 ppb,60 ppb
+341,Rink Creek Water District,Haloacetic acids (HAA9)*†,27.6 ppb,0.06 ppb,
+342,Rink Creek Water District,Nitrate*,1.51 ppm,0.14 ppm,10 ppm
+343,Rink Creek Water District,Total trihalomethanes (TTHMs)†,59.1 ppb,0.15 ppb,80 ppb
+344,Rink Creek Water District,Manganese*,13.6 ppb,100 ppb,
+345,Sand-n-wood Mobile Villa,Nitrate,2.42 ppm,0.14 ppm,10 ppm
+346,Sand-n-wood Mobile Villa,Nitrate and nitrite,2.01 ppm,0.14 ppm,10 ppm
+347,Sand-n-wood Mobile Villa,"Radium, combined (-226 &amp; -228)",2.07 pCi/L,0.05 pCi/L,5 pCi/L
+348,Sand-n-wood Mobile Villa,Barium,25.7 ppb,700 ppb,"2,000 ppb"
+349,Sand-n-wood Mobile Villa,None,,,
+350,Shelley Road-crest Acres Water District,Haloacetic acids (HAA5)†,14.2 ppb,0.1 ppb,60 ppb
+351,Shelley Road-crest Acres Water District,Haloacetic acids (HAA9)*†,27.6 ppb,0.06 ppb,
+352,Shelley Road-crest Acres Water District,Nitrate*,1.51 ppm,0.14 ppm,10 ppm
+353,Shelley Road-crest Acres Water District,Total trihalomethanes (TTHMs)†,51.5 ppb,0.15 ppb,80 ppb
+354,Shelley Road-crest Acres Water District,Manganese*,13.6 ppb,100 ppb,
+355,Weiss Estates Water System,Haloacetic acids (HAA5)†,61.9 ppb,0.1 ppb,60 ppb
+356,Weiss Estates Water System,Total trihalomethanes (TTHMs)†,84.8 ppb,0.15 ppb,80 ppb
+357,Weiss Estates Water System,None,,,
+358,Eugene Water & Electric Board,Arsenic,0.0779 ppb,0.004 ppb,10 ppb
+359,Eugene Water & Electric Board,Chromium (hexavalent),0.104 ppb,0.02 ppb,
+360,Eugene Water & Electric Board,Haloacetic acids (HAA5)†,19.4 ppb,0.1 ppb,60 ppb
+361,Eugene Water & Electric Board,Haloacetic acids (HAA9)†,15.5 ppb,0.06 ppb,
+362,Eugene Water & Electric Board,Total trihalomethanes (TTHMs)†,23.3 ppb,0.15 ppb,80 ppb
+363,Eugene Water & Electric Board,Barium,1.34 ppb,700 ppb,"2,000 ppb"
+364,Eugene Water & Electric Board,Chromium (total),0.0122 ppb,,100 ppb
+365,Eugene Water & Electric Board,Fluoride,0.00662 ppm,,4 ppm
+366,Eugene Water & Electric Board,Manganese,0.483 ppb,100 ppb,
+367,Eugene Water & Electric Board,"Radium, combined (-226 &amp; -228)",0.06 pCi/L,0.05 pCi/L,5 pCi/L
+368,Eugene Water & Electric Board,Strontium,0.0264 ppb,"1,500 ppb",
+369,Eugene Water & Electric Board,Vanadium,4.64 ppb,21 ppb,
+370,Eugene Water & Electric Board,None,,,
+371,Springfield Utility Board,Arsenic,0.751 ppb,0.004 ppb,10 ppb
+372,Springfield Utility Board,Chromium (hexavalent),0.141 ppb,0.02 ppb,
+373,Springfield Utility Board,Haloacetic acids (HAA5)†,6.15 ppb,0.1 ppb,60 ppb
+374,Springfield Utility Board,Haloacetic acids (HAA9)†,9.18 ppb,0.06 ppb,
+375,Springfield Utility Board,Nitrate,0.504 ppm,0.14 ppm,10 ppm
+376,Springfield Utility Board,"Radium, combined (-226 &amp; -228)",0.48 pCi/L,0.05 pCi/L,5 pCi/L
+377,Springfield Utility Board,Total trihalomethanes (TTHMs)†,13.3 ppb,0.15 ppb,80 ppb
+378,Springfield Utility Board,Barium,0.284 ppb,700 ppb,"2,000 ppb"
+379,Springfield Utility Board,Chromium (total),0.00778 ppb,,100 ppb
+380,Springfield Utility Board,Manganese,1.14 ppb,100 ppb,
+381,Springfield Utility Board,Nitrate and nitrite,0.0488 ppm,0.14 ppm,10 ppm
+382,Springfield Utility Board,Strontium,0.0603 ppb,"1,500 ppb",
+383,Springfield Utility Board,Vanadium,2.89 ppb,21 ppb,
+384,Springfield Utility Board,None,,,
+385,Lincoln City Water District,Chromium (hexavalent),0.714 ppb,0.02 ppb,
+386,Lincoln City Water District,Haloacetic acids (HAA5)†,26.4 ppb,0.1 ppb,60 ppb
+387,Lincoln City Water District,Haloacetic acids (HAA9)†,33.7 ppb,0.06 ppb,
+388,Lincoln City Water District,Nitrate,0.377 ppm,0.14 ppm,10 ppm
+389,Lincoln City Water District,Nitrate and nitrite,0.370 ppm,0.14 ppm,10 ppm
+390,Lincoln City Water District,Total trihalomethanes (TTHMs)†,20.7 ppb,0.15 ppb,80 ppb
+391,Lincoln City Water District,Chlorate,3.00 ppb,210 ppb,
+392,Lincoln City Water District,Chromium (total),0.716 ppb,,100 ppb
+393,Lincoln City Water District,Fluoride,0.0775 ppm,,4 ppm
+394,Lincoln City Water District,Manganese,0.243 ppb,100 ppb,
+395,Lincoln City Water District,Strontium,0.0315 ppb,"1,500 ppb",
+396,Lincoln City Water District,Vanadium,2.01 ppb,21 ppb,
+397,Lincoln City Water District,None,,,
+398,City of Newport,Haloacetic acids (HAA5)†,12.6 ppb,0.1 ppb,60 ppb
+399,City of Newport,Haloacetic acids (HAA9)†,23.3 ppb,0.06 ppb,
+400,City of Newport,Total trihalomethanes (TTHMs)†,45.9 ppb,0.15 ppb,80 ppb
+401,City of Newport,Manganese,0.495 ppb,100 ppb,
+402,City of Newport,None,,,
+403,"Cottage Grove, City of",Haloacetic acids (HAA5)†,16.7 ppb,0.1 ppb,60 ppb
+404,"Cottage Grove, City of",Total trihalomethanes (TTHMs)†,25.9 ppb,0.15 ppb,80 ppb
+405,"Cottage Grove, City of",None,,,
+406,"Florence, City of",Bromodichloromethane,9.05 ppb,0.06 ppb,
+407,"Florence, City of",Chloroform,42.5 ppb,0.4 ppb,
+408,"Florence, City of",Dibromochloromethane,1.85 ppb,0.1 ppb,
+409,"Florence, City of",Dichloroacetic acid,9.50 ppb,0.2 ppb,
+410,"Florence, City of",Haloacetic acids (HAA5)†,20.3 ppb,0.1 ppb,60 ppb
+411,"Florence, City of",Total trihalomethanes (TTHMs)†,49.7 ppb,0.15 ppb,80 ppb
+412,"Florence, City of",Trichloroacetic acid,11.6 ppb,0.1 ppb,
+413,"Florence, City of",Barium,51.0 ppb,700 ppb,"2,000 ppb"
+414,"Florence, City of",Chlorate,164.8 ppb,210 ppb,
+415,"Florence, City of",Chromium (hexavalent),0.0170 ppb,0.02 ppb,
+416,"Florence, City of",Dalapon,0.213 ppb,,200 ppb
+417,"Florence, City of",Fluoride,0.377 ppm,,4 ppm
+418,"Florence, City of",Molybdenum,2.97 ppb,40 ppb,
+419,"Florence, City of",Nitrate,0.00750 ppm,0.14 ppm,10 ppm
+420,"Florence, City of",Selenium,0.412 ppb,30 ppb,50 ppb
+421,"Florence, City of",Strontium,0.254 ppb,"1,500 ppb",
+422,"Florence, City of",Vanadium,0.470 ppb,21 ppb,
+423,"Florence, City of",None,,,
+424,Rainbow Water District,Arsenic,3.75 ppb,0.004 ppb,10 ppb
+425,Rainbow Water District,Haloacetic acids (HAA9)†,0.375 ppb,0.06 ppb,
+426,Rainbow Water District,Nitrate,1.38 ppm,0.14 ppm,10 ppm
+427,Rainbow Water District,Nitrate and nitrite,0.650 ppm,0.14 ppm,10 ppm
+428,Rainbow Water District,Total trihalomethanes (TTHMs)†,1.21 ppb,0.15 ppb,80 ppb
+429,Rainbow Water District,Barium,2.00 ppb,700 ppb,"2,000 ppb"
+430,Rainbow Water District,Manganese,0.288 ppb,100 ppb,
+431,Rainbow Water District,Quinoline,0.00388 ppb,,
+432,Rainbow Water District,None,,,
+433,Junction City Water System,Bromodichloromethane,4.14 ppb,0.06 ppb,
+434,Junction City Water System,Bromoform,21.3 ppb,0.5 ppb,
+435,Junction City Water System,Chloroform,1.90 ppb,0.4 ppb,
+436,Junction City Water System,Dibromoacetic acid,5.53 ppb,0.04 ppb,
+437,Junction City Water System,Dibromochloromethane,13.4 ppb,0.1 ppb,
+438,Junction City Water System,Dichloroacetic acid,0.734 ppb,0.2 ppb,
+439,Junction City Water System,Haloacetic acids (HAA5)†,9.63 ppb,0.1 ppb,60 ppb
+440,Junction City Water System,Haloacetic acids (HAA9)†,17.4 ppb,0.06 ppb,
+441,Junction City Water System,"Radium, combined (-226 &amp; -228)",0.63 pCi/L,0.05 pCi/L,5 pCi/L
+442,Junction City Water System,Total trihalomethanes (TTHMs)†,40.8 ppb,0.15 ppb,80 ppb
+443,Junction City Water System,Trichloroacetic acid,0.816 ppb,0.1 ppb,
+444,Junction City Water System,Aluminum,3.85 ppb,600 ppb,
+445,Junction City Water System,Barium,7.10 ppb,700 ppb,"2,000 ppb"
+446,Junction City Water System,Chromium (total),0.825 ppb,,100 ppb
+447,Junction City Water System,Dichloromethane (methylene chloride),0.300 ppb,4 ppb,5 ppb
+448,Junction City Water System,Fluoride,0.160 ppm,,4 ppm
+449,Junction City Water System,Manganese,1.58 ppb,100 ppb,
+450,Junction City Water System,Monobromoacetic acid,0.234 ppb,25 ppb,
+451,Junction City Water System,Monochloroacetic acid,2.33 ppb,53 ppb,
+452,Junction City Water System,Nitrate and nitrite,0.00217 ppm,0.14 ppm,10 ppm
+453,Junction City Water System,Selenium,0.810 ppb,30 ppb,50 ppb
+454,Junction City Water System,None,,,
+455,Seal Rock Water District,Haloacetic acids (HAA5)†,7.71 ppb,0.1 ppb,60 ppb
+456,Seal Rock Water District,Nitrate*,0.706 ppm,0.14 ppm,10 ppm
+457,Seal Rock Water District,Total trihalomethanes (TTHMs)†,24.0 ppb,0.15 ppb,80 ppb
+458,"Creswell, City of",Haloacetic acids (HAA5)†,14.8 ppb,0.1 ppb,60 ppb
+459,"Creswell, City of",Total trihalomethanes (TTHMs)†,34.4 ppb,0.15 ppb,80 ppb
+460,"Creswell, City of",Barium,7.29 ppb,700 ppb,"2,000 ppb"
+461,"Creswell, City of",Nitrate,0.102 ppm,0.14 ppm,10 ppm
+462,"Creswell, City of",Xylenes (total),0.742 ppb,"1,800 ppb","10,000 ppb"
+463,"Creswell, City of",None,,,
+464,"Veneta, City of",Haloacetic acids (HAA5)†,5.83 ppb,0.1 ppb,60 ppb
+465,"Veneta, City of",Total trihalomethanes (TTHMs)†,21.3 ppb,0.15 ppb,80 ppb
+466,"Veneta, City of",Barium,8.26 ppb,700 ppb,"2,000 ppb"
+467,"Veneta, City of",Ethylbenzene,0.415 ppb,300 ppb,700 ppb
+468,"Veneta, City of",Tetrachloroethylene (perchloroethylene),0.0900 ppb,0.06 ppb,5 ppb
+469,"Veneta, City of",Xylenes (total),2.49 ppb,"1,800 ppb","10,000 ppb"
+470,"Veneta, City of",None,,,
+471,Heceta Water Peoples Utility District,Haloacetic acids (HAA5)†,4.71 ppb,0.1 ppb,60 ppb
+472,Heceta Water Peoples Utility District,Total trihalomethanes (TTHMs)†,25.9 ppb,0.15 ppb,80 ppb
+473,Heceta Water Peoples Utility District,None,,,
+474,"Oakridge, City of",Nitrate,0.770 ppm,0.14 ppm,10 ppm
+475,"Oakridge, City of",Nitrate and nitrite,0.554 ppm,0.14 ppm,10 ppm
+476,"Oakridge, City of",Tetrachloroethylene (perchloroethylene),0.295 ppb,0.06 ppb,5 ppb
+477,"Oakridge, City of",Total trihalomethanes (TTHMs)†,4.55 ppb,0.15 ppb,80 ppb
+478,"Oakridge, City of",Antimony,0.554 ppb,1 ppb,6 ppb
+479,"Oakridge, City of",Barium,3.50 ppb,700 ppb,"2,000 ppb"
+480,"Oakridge, City of",Beryllium,0.242 ppb,1 ppb,4 ppb
+481,"Oakridge, City of",None,,,
+482,McMinnville Water & Light,Chromium (hexavalent),0.269 ppb,0.02 ppb,
+483,McMinnville Water & Light,Haloacetic acids (HAA5)†,24.3 ppb,0.1 ppb,60 ppb
+484,McMinnville Water & Light,Haloacetic acids (HAA9)†,22.4 ppb,0.06 ppb,
+485,McMinnville Water & Light,Total trihalomethanes (TTHMs)†,30.6 ppb,0.15 ppb,80 ppb
+486,McMinnville Water & Light,Barium,2.00 ppb,700 ppb,"2,000 ppb"
+487,McMinnville Water & Light,Chlorate,146.1 ppb,210 ppb,
+488,McMinnville Water & Light,Chromium (total),0.130 ppb,,100 ppb
+489,McMinnville Water & Light,Fluoride,0.600 ppm,,4 ppm
+490,McMinnville Water & Light,Manganese,0.125 ppb,100 ppb,
+491,McMinnville Water & Light,Nitrate,0.0319 ppm,0.14 ppm,10 ppm
+492,McMinnville Water & Light,Nitrate and nitrite,0.0300 ppm,0.14 ppm,10 ppm
+493,McMinnville Water & Light,Nitrite,0.00175 ppm,,1 ppm
+494,McMinnville Water & Light,Strontium,0.0314 ppb,"1,500 ppb",
+495,McMinnville Water & Light,Vanadium,0.590 ppb,21 ppb,
+496,McMinnville Water & Light,None,,,
+497,City of Newberg,Chlorate,486.0 ppb,210 ppb,
+498,City of Newberg,Haloacetic acids (HAA5)†,9.16 ppb,0.1 ppb,60 ppb
+499,City of Newberg,Haloacetic acids (HAA9)†,19.3 ppb,0.06 ppb,
+500,City of Newberg,Total trihalomethanes (TTHMs)†,25.6 ppb,0.15 ppb,80 ppb
+501,City of Newberg,Chloromethane,1.10 ppb,2.69 ppb,
+502,City of Newberg,Chromium (total),0.0500 ppb,,100 ppb
+503,City of Newberg,Manganese,0.540 ppb,100 ppb,
+504,City of Newberg,Nitrate,0.0790 ppm,0.14 ppm,10 ppm
+505,City of Newberg,Strontium,0.0596 ppb,"1,500 ppb",
+506,City of Newberg,None,,,
+507,"Antelope, City of",Arsenic,4.78 ppb,0.004 ppb,10 ppb
+508,"Antelope, City of",Nitrate,0.682 ppm,0.14 ppm,10 ppm
+509,"Antelope, City of",Total trihalomethanes (TTHMs)†,6.92 ppb,0.15 ppb,80 ppb
+510,"Antelope, City of",None,,,
+511,Alder Creek Barlow Water District,Haloacetic acids (HAA5)†,30.8 ppb,0.1 ppb,60 ppb
+512,Alder Creek Barlow Water District,Total trihalomethanes (TTHMs)†,38.3 ppb,0.15 ppb,80 ppb
+513,Alder Creek Barlow Water District,Barium*,1.47 ppb,700 ppb,"2,000 ppb"
+514,Alder Creek Barlow Water District,Fluoride*,0.0375 ppm,,4 ppm
+515,Alder Creek Barlow Water District,Nitrate*,0.0566 ppm,0.14 ppm,10 ppm
+516,Alder Creek Barlow Water District,Nitrate and nitrite*,0.0665 ppm,0.14 ppm,10 ppm
+517,Alder Creek Barlow Water District,None,,,
+518,Chenowith People's Utility District,Haloacetic acids (HAA5)†,2.46 ppb,0.1 ppb,60 ppb
+519,Chenowith People's Utility District,Nitrate,0.895 ppm,0.14 ppm,10 ppm
+520,Chenowith People's Utility District,Total trihalomethanes (TTHMs)†,12.0 ppb,0.15 ppb,80 ppb
+521,Chenowith People's Utility District,None,,,
+522,City of The Dalles,Chromium (hexavalent),0.101 ppb,0.02 ppb,
+523,City of The Dalles,Haloacetic acids (HAA5)†,16.1 ppb,0.1 ppb,60 ppb
+524,City of The Dalles,Haloacetic acids (HAA9)†,18.6 ppb,0.06 ppb,
+525,City of The Dalles,Total trihalomethanes (TTHMs)†,18.5 ppb,0.15 ppb,80 ppb
+526,City of The Dalles,Barium,16.4 ppb,700 ppb,"2,000 ppb"
+527,City of The Dalles,Chlorate,134.6 ppb,210 ppb,
+528,City of The Dalles,Chromium (total),0.0273 ppb,,100 ppb
+529,City of The Dalles,Fluoride,0.612 ppm,,4 ppm
+530,City of The Dalles,Germanium,0.170 ppb,,
+531,City of The Dalles,Manganese,32.8 ppb,100 ppb,
+532,City of The Dalles,Molybdenum,0.845 ppb,40 ppb,
+533,City of The Dalles,Nitrate,0.00727 ppm,0.14 ppm,10 ppm
+534,City of The Dalles,Nitrate and nitrite,0.00762 ppm,0.14 ppm,10 ppm
+535,City of The Dalles,Picloram,0.00526 ppb,166 ppb,500 ppb
+536,City of The Dalles,Strontium,0.0892 ppb,"1,500 ppb",
+537,City of The Dalles,Vanadium,0.558 ppb,21 ppb,
+538,City of The Dalles,None,,,
+539,"Dufur, City of",Haloacetic acids (HAA5)†,0.910 ppb,0.1 ppb,60 ppb
+540,"Dufur, City of",Total trihalomethanes (TTHMs)†,1.10 ppb,0.15 ppb,80 ppb
+541,"Dufur, City of",None,,,
+542,"Dufur, South Basin",Haloacetic acids (HAA5)†,3.90 ppb,0.1 ppb,60 ppb
+543,"Dufur, South Basin",Total trihalomethanes (TTHMs)†,7.45 ppb,0.15 ppb,80 ppb
+544,"Dufur, South Basin",None,,,
+545,Foley Lakes Mobile Home Park,Barium,19.0 ppb,700 ppb,"2,000 ppb"
+546,Foley Lakes Mobile Home Park,Fluoride,1.01 ppm,,4 ppm
+547,Foley Lakes Mobile Home Park,None,,,
+548,Hazel Dell Orchard,Nitrate,2.28 ppm,0.14 ppm,10 ppm
+549,Hazel Dell Orchard,Nitrate and nitrite,2.40 ppm,0.14 ppm,10 ppm
+550,Hazel Dell Orchard,Uranium,1.21 pCi/L,0.43 pCi/L,20 pCi/L
+551,Hazel Dell Orchard,Barium,19.6 ppb,700 ppb,"2,000 ppb"
+552,Hazel Dell Orchard,Chromium (total),1.85 ppb,,100 ppb
+553,Hazel Dell Orchard,Fluoride,0.347 ppm,,4 ppm
+554,Hazel Dell Orchard,None,,,
+555,"Maupin, City Of",Haloacetic acids (HAA5)†,2.00 ppb,0.1 ppb,60 ppb
+556,"Maupin, City Of",Nitrate,0.700 ppm,0.14 ppm,10 ppm
+557,"Maupin, City Of",Nitrate and nitrite,0.758 ppm,0.14 ppm,10 ppm
+558,"Maupin, City Of",Total trihalomethanes (TTHMs)†,1.40 ppb,0.15 ppb,80 ppb
+559,"Maupin, City Of",Fluoride,0.110 ppm,,4 ppm
+560,"Maupin, City Of",None,,,
+561,"Mosier, City of",Total trihalomethanes (TTHMs)†,2.27 ppb,0.15 ppb,80 ppb
+562,"Mosier, City of",Barium,37.0 ppb,700 ppb,"2,000 ppb"
+563,"Mosier, City of",Fluoride,0.410 ppm,,4 ppm
+564,"Mosier, City of",None,,,
+565,Dumas-pine Grove Water Association,Chloroform,2.12 ppb,0.4 ppb,
+566,Dumas-pine Grove Water Association,Dichloroacetic acid,1.000 ppb,0.2 ppb,
+567,Dumas-pine Grove Water Association,Haloacetic acids (HAA5)†,1.000 ppb,0.1 ppb,60 ppb
+568,Dumas-pine Grove Water Association,Total trihalomethanes (TTHMs)†,2.12 ppb,0.15 ppb,80 ppb
+569,Dumas-pine Grove Water Association,Barium,103.2 ppb,700 ppb,"2,000 ppb"
+570,Dumas-pine Grove Water Association,Chromium (total),0.433 ppb,,100 ppb
+571,Dumas-pine Grove Water Association,Fluoride,0.149 ppm,,4 ppm
+572,Dumas-pine Grove Water Association,None,,,
+573,Pinewood Mobile Home Park,Nitrate,1.000 ppm,0.14 ppm,10 ppm
+574,Pinewood Mobile Home Park,Fluoride,0.0735 ppm,,4 ppm
+575,Pinewood Mobile Home Park,None,,,
+576,Rowena Crest Manor,Nitrate and nitrite,0.734 ppm,0.14 ppm,10 ppm
+577,Rowena Crest Manor,Barium,1.67 ppb,700 ppb,"2,000 ppb"
+578,Rowena Crest Manor,Cyanide,11.0 ppb,,200 ppb
+579,Rowena Crest Manor,Fluoride,0.217 ppm,,4 ppm
+580,Rowena Crest Manor,Nitrate,0.213 ppm,0.14 ppm,10 ppm
+581,Rowena Crest Manor,Uranium,0.08 pCi/L,0.43 pCi/L,20 pCi/L
+582,Rowena Crest Manor,None,,,
+583,Rowena Dell Water System,Total trihalomethanes (TTHMs)†,1.17 ppb,0.15 ppb,80 ppb
+584,Rowena Dell Water System,Barium,19.6 ppb,700 ppb,"2,000 ppb"
+585,Rowena Dell Water System,Fluoride,0.411 ppm,,4 ppm
+586,Rowena Dell Water System,None,,,
+587,Sportsmans Park Water Association,Arsenic,9.59 ppb,0.004 ppb,10 ppb
+588,Sportsmans Park Water Association,Fluoride,0.792 ppm,,4 ppm
+589,Sportsmans Park Water Association,None,,,
+590,Tooley Water District,Haloacetic acids (HAA5)†,1.80 ppb,0.1 ppb,60 ppb
+591,Tooley Water District,Nitrate,2.87 ppm,0.14 ppm,10 ppm
+592,Tooley Water District,Total trihalomethanes (TTHMs)†,7.70 ppb,0.15 ppb,80 ppb
+593,Tooley Water District,Uranium,0.42 pCi/L,0.43 pCi/L,20 pCi/L
+594,Tooley Water District,None,,,
+595,Tygh Valley Water District,Arsenic,1.91 ppb,0.004 ppb,10 ppb
+596,Tygh Valley Water District,Nitrate,0.287 ppm,0.14 ppm,10 ppm
+597,Tygh Valley Water District,Nitrate and nitrite,0.773 ppm,0.14 ppm,10 ppm
+598,Tygh Valley Water District,Barium,6.60 ppb,700 ppb,"2,000 ppb"
+599,Tygh Valley Water District,Fluoride,0.254 ppm,,4 ppm
+600,Tygh Valley Water District,None,,,
+601,View Point Trailer Court,Barium,25.8 ppb,700 ppb,"2,000 ppb"
+602,View Point Trailer Court,Fluoride,0.413 ppm,,4 ppm
+603,View Point Trailer Court,Nitrate,0.101 ppm,0.14 ppm,10 ppm
+604,View Point Trailer Court,Nitrate and nitrite,0.245 ppm,0.14 ppm,10 ppm
+605,View Point Trailer Court,None,,,
+606,Wamic Water Association,Nitrate,1.03 ppm,0.14 ppm,10 ppm
+607,Wamic Water Association,Nitrate and nitrite,0.897 ppm,0.14 ppm,10 ppm
+608,Wamic Water Association,Barium,8.26 ppb,700 ppb,"2,000 ppb"
+609,Wamic Water Association,Chromium (total),1.23 ppb,,100 ppb
+610,Wamic Water Association,None,,,
+611,Young Life,Arsenic,3.17 ppb,0.004 ppb,10 ppb
+612,Young Life,Haloacetic acids (HAA5)†,28.7 ppb,0.1 ppb,60 ppb
+613,Young Life,Total trihalomethanes (TTHMs)†,67.2 ppb,0.15 ppb,80 ppb
+614,Young Life,Uranium,1.01 pCi/L,0.43 pCi/L,20 pCi/L
+615,Young Life,Nitrate,0.173 ppm,0.14 ppm,10 ppm
+616,Young Life,None,,,
+617,Arch Cape Water District,Haloacetic acids (HAA5)†,25.1 ppb,0.1 ppb,60 ppb
+618,Arch Cape Water District,Nitrate,0.364 ppm,0.14 ppm,10 ppm
+619,Arch Cape Water District,Nitrate and nitrite,0.328 ppm,0.14 ppm,10 ppm
+620,Arch Cape Water District,Total trihalomethanes (TTHMs)†,48.6 ppb,0.15 ppb,80 ppb
+621,Arch Cape Water District,Barium,5.13 ppb,700 ppb,"2,000 ppb"
+622,Arch Cape Water District,None,,,
+623,"Astoria, City of",Haloacetic acids (HAA5)†,46.6 ppb,0.1 ppb,60 ppb
+624,"Astoria, City of","Radium, combined (-226 &amp; -228)",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+625,"Astoria, City of",Total trihalomethanes (TTHMs)†,48.0 ppb,0.15 ppb,80 ppb
+626,"Astoria, City of",Nitrate,0.231 ppm,0.14 ppm,10 ppm
+627,"Astoria, City of",None,,,
+628,Burnside Water Association,Haloacetic acids (HAA5)†,36.8 ppb,0.1 ppb,60 ppb
+629,Burnside Water Association,"Radium, combined (-226 &amp; -228)*",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+630,Burnside Water Association,Total trihalomethanes (TTHMs)†,37.9 ppb,0.15 ppb,80 ppb
+631,Burnside Water Association,Nitrate*,0.231 ppm,0.14 ppm,10 ppm
+632,"Cannon Beach, City of",Haloacetic acids (HAA5)†,1.73 ppb,0.1 ppb,60 ppb
+633,"Cannon Beach, City of",Nitrate,0.568 ppm,0.14 ppm,10 ppm
+634,"Cannon Beach, City of",Total trihalomethanes (TTHMs)†,6.03 ppb,0.15 ppb,80 ppb
+635,"Cannon Beach, City of",None,,,
+636,Elderberry Nehalem Ws,Nitrate,1.21 ppm,0.14 ppm,10 ppm
+637,Elderberry Nehalem Ws,None,,,
+638,Evergreen Acres,Haloacetic acids (HAA5)†,20.7 ppb,0.1 ppb,60 ppb
+639,Evergreen Acres,Nitrate,0.504 ppm,0.14 ppm,10 ppm
+640,Evergreen Acres,Total trihalomethanes (TTHMs)†,20.2 ppb,0.15 ppb,80 ppb
+641,Evergreen Acres,None,,,
+642,Fernhill Community Water System,Haloacetic acids (HAA5)†,28.6 ppb,0.1 ppb,60 ppb
+643,Fernhill Community Water System,"Radium, combined (-226 &amp; -228)*",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+644,Fernhill Community Water System,Total trihalomethanes (TTHMs)†,45.4 ppb,0.15 ppb,80 ppb
+645,Fernhill Community Water System,Nitrate*,0.231 ppm,0.14 ppm,10 ppm
+646,Gearhart Water Department,Arsenic,1.67 ppb,0.004 ppb,10 ppb
+647,Gearhart Water Department,Haloacetic acids (HAA5)†,12.3 ppb,0.1 ppb,60 ppb
+648,Gearhart Water Department,Total trihalomethanes (TTHMs)†,36.6 ppb,0.15 ppb,80 ppb
+649,Gearhart Water Department,Barium,0.535 ppb,700 ppb,"2,000 ppb"
+650,Gearhart Water Department,Fluoride,0.250 ppm,,4 ppm
+651,Gearhart Water Department,Nitrate,0.1000 ppm,0.14 ppm,10 ppm
+652,Gearhart Water Department,None,,,
+653,John Day Water District,Haloacetic acids (HAA5)†,28.7 ppb,0.1 ppb,60 ppb
+654,John Day Water District,"Radium, combined (-226 &amp; -228)*",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+655,John Day Water District,Total trihalomethanes (TTHMs)†,29.2 ppb,0.15 ppb,80 ppb
+656,John Day Water District,Nitrate*,0.231 ppm,0.14 ppm,10 ppm
+657,Knappa Water Association,Haloacetic acids (HAA5)†,0.167 ppb,0.1 ppb,60 ppb
+658,Knappa Water Association,Nitrate,0.109 ppm,0.14 ppm,10 ppm
+659,Knappa Water Association,None,,,
+660,Olney-walluski Water Association,Haloacetic acids (HAA5)†,27.2 ppb,0.1 ppb,60 ppb
+661,Olney-walluski Water Association,"Radium, combined (-226 &amp; -228)*",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+662,Olney-walluski Water Association,Total trihalomethanes (TTHMs)†,28.2 ppb,0.15 ppb,80 ppb
+663,Olney-walluski Water Association,Nitrate*,0.231 ppm,0.14 ppm,10 ppm
+664,Seaside Water Department,Haloacetic acids (HAA5)†,15.2 ppb,0.1 ppb,60 ppb
+665,Seaside Water Department,Total trihalomethanes (TTHMs)†,33.8 ppb,0.15 ppb,80 ppb
+666,Seaside Water Department,Nitrate,0.252 ppm,0.14 ppm,10 ppm
+667,Seaside Water Department,p-Dichlorobenzene,0.0833 ppb,6 ppb,75 ppb
+668,Seaside Water Department,None,,,
+669,Stanley Acres Water Association,Haloacetic acids (HAA5)†,11.5 ppb,0.1 ppb,60 ppb
+670,Stanley Acres Water Association,Total trihalomethanes (TTHMs)†,54.3 ppb,0.15 ppb,80 ppb
+671,Stanley Acres Water Association,Nitrate*,0.252 ppm,0.14 ppm,10 ppm
+672,Stanley Acres Water Association,p-Dichlorobenzene*,0.0833 ppb,6 ppb,75 ppb
+673,Sunset Lake Rv Park,Arsenic,9.00 ppb,0.004 ppb,10 ppb
+674,Sunset Lake Rv Park,Haloacetic acids (HAA5)†,19.2 ppb,0.1 ppb,60 ppb
+675,Sunset Lake Rv Park,Total trihalomethanes (TTHMs)†,51.9 ppb,0.15 ppb,80 ppb
+676,Sunset Lake Rv Park,Nitrate,0.0201 ppm,0.14 ppm,10 ppm
+677,Sunset Lake Rv Park,None,,,
+678,"Warrenton, City of",Haloacetic acids (HAA5)†,24.2 ppb,0.1 ppb,60 ppb
+679,"Warrenton, City of",Nitrate,0.316 ppm,0.14 ppm,10 ppm
+680,"Warrenton, City of",Total trihalomethanes (TTHMs)†,39.5 ppb,0.15 ppb,80 ppb
+681,"Warrenton, City of",None,,,
+682,Wauna Water District,Nitrate,0.514 ppm,0.14 ppm,10 ppm
+683,Wauna Water District,Total trihalomethanes (TTHMs)†,0.400 ppb,0.15 ppb,80 ppb
+684,Wauna Water District,Haloacetic acids (HAA5)†,0.143 ppb,0.1 ppb,60 ppb
+685,Wauna Water District,None,,,
+686,Westport Heights,Nitrate,0.336 ppm,0.14 ppm,10 ppm
+687,Westport Heights,Nitrate and nitrite,0.321 ppm,0.14 ppm,10 ppm
+688,Westport Heights,Barium,8.26 ppb,700 ppb,"2,000 ppb"
+689,Westport Heights,Fluoride,0.160 ppm,,4 ppm
+690,Westport Heights,None,,,
+691,Westport Water Association,Haloacetic acids (HAA5)†,0.389 ppb,0.1 ppb,60 ppb
+692,Westport Water Association,Nitrate*,0.514 ppm,0.14 ppm,10 ppm
+693,Westport Water Association,Total trihalomethanes (TTHMs)†,2.08 ppb,0.15 ppb,80 ppb
+694,Westport Water Association,None,,,
+695,Wickiup Water District,Haloacetic acids (HAA5)†,17.3 ppb,0.1 ppb,60 ppb
+696,Wickiup Water District,Nitrate,0.847 ppm,0.14 ppm,10 ppm
+697,Wickiup Water District,Total trihalomethanes (TTHMs)†,29.5 ppb,0.15 ppb,80 ppb
+698,Wickiup Water District,None,,,
+699,Willow Dale Water District,Haloacetic acids (HAA5)†,29.3 ppb,0.1 ppb,60 ppb
+700,Willow Dale Water District,"Radium, combined (-226 &amp; -228)*",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+701,Willow Dale Water District,Total trihalomethanes (TTHMs)†,36.7 ppb,0.15 ppb,80 ppb
+702,Willow Dale Water District,Nitrate*,0.231 ppm,0.14 ppm,10 ppm
+703,Youngs River Lewis & Clark Water District,Haloacetic acids (HAA5)†,37.7 ppb,0.1 ppb,60 ppb
+704,Youngs River Lewis & Clark Water District,Nitrate,0.620 ppm,0.14 ppm,10 ppm
+705,Youngs River Lewis & Clark Water District,Nitrate and nitrite,0.480 ppm,0.14 ppm,10 ppm
+706,Youngs River Lewis & Clark Water District,Total trihalomethanes (TTHMs)†,54.9 ppb,0.15 ppb,80 ppb
+707,Youngs River Lewis & Clark Water District,Barium,6.66 ppb,700 ppb,"2,000 ppb"
+708,Youngs River Lewis & Clark Water District,Fluoride,0.536 ppm,,4 ppm
+709,Youngs River Lewis & Clark Water District,Nitrite,0.0160 ppm,,1 ppm
+710,Youngs River Lewis & Clark Water District,None,,,
+711,Arlington City Water Supply,Arsenic,2.68 ppb,0.004 ppb,10 ppb
+712,Arlington City Water Supply,Haloacetic acids (HAA5)†,2.13 ppb,0.1 ppb,60 ppb
+713,Arlington City Water Supply,Total trihalomethanes (TTHMs)†,16.2 ppb,0.15 ppb,80 ppb
+714,Arlington City Water Supply,Barium,33.8 ppb,700 ppb,"2,000 ppb"
+715,Arlington City Water Supply,Chromium (total),1.92 ppb,,100 ppb
+716,Arlington City Water Supply,Fluoride,1.42 ppm,,4 ppm
+717,Arlington City Water Supply,Uranium,0.79 pCi/L,0.43 pCi/L,20 pCi/L
+718,Arlington City Water Supply,None,,,
+719,Condon Heights Ws,Nitrate,2.03 ppm,0.14 ppm,10 ppm
+720,Condon Heights Ws,None,,,
+721,"Condon, City of",Arsenic,1.43 ppb,0.004 ppb,10 ppb
+722,"Condon, City of",Cadmium,0.600 ppb,0.04 ppb,5 ppb
+723,"Condon, City of",Haloacetic acids (HAA5)†,3.69 ppb,0.1 ppb,60 ppb
+724,"Condon, City of",Nitrate,2.28 ppm,0.14 ppm,10 ppm
+725,"Condon, City of",Nitrate and nitrite,2.22 ppm,0.14 ppm,10 ppm
+726,"Condon, City of",Total trihalomethanes (TTHMs)†,14.4 ppb,0.15 ppb,80 ppb
+727,"Condon, City of",Uranium,1.34 pCi/L,0.43 pCi/L,20 pCi/L
+728,"Condon, City of",Barium,10.1 ppb,700 ppb,"2,000 ppb"
+729,"Condon, City of",Fluoride,0.383 ppm,,4 ppm
+730,"Condon, City of",Selenium,0.450 ppb,30 ppb,50 ppb
+731,"Condon, City of",None,,,
+732,Medford Water Commission,Chromium (hexavalent),0.159 ppb,0.02 ppb,
+733,Medford Water Commission,Haloacetic acids (HAA5)†,6.11 ppb,0.1 ppb,60 ppb
+734,Medford Water Commission,Haloacetic acids (HAA9)†,6.03 ppb,0.06 ppb,
+735,Medford Water Commission,Total trihalomethanes (TTHMs)†,7.97 ppb,0.15 ppb,80 ppb
+736,Medford Water Commission,Barium,3.57 ppb,700 ppb,"2,000 ppb"
+737,Medford Water Commission,Chlorate,202.3 ppb,210 ppb,
+738,Medford Water Commission,Chromium (total),0.180 ppb,,100 ppb
+739,Medford Water Commission,Manganese,1.31 ppb,100 ppb,
+740,Medford Water Commission,Strontium,0.0624 ppb,"1,500 ppb",
+741,Medford Water Commission,Vanadium,7.50 ppb,21 ppb,
+742,Medford Water Commission,None,,,
+743,Ashland Water Department,Bromodichloromethane,0.533 ppb,0.06 ppb,
+744,Ashland Water Department,Dibromochloromethane,0.658 ppb,0.1 ppb,
+745,Ashland Water Department,Haloacetic acids (HAA9)†,0.235 ppb,0.06 ppb,
+746,Ashland Water Department,Nitrate,0.613 ppm,0.14 ppm,10 ppm
+747,Ashland Water Department,"Radium, combined (-226 &amp; -228)",1.00 pCi/L,0.05 pCi/L,5 pCi/L
+748,Ashland Water Department,Total trihalomethanes (TTHMs)†,2.07 ppb,0.15 ppb,80 ppb
+749,Ashland Water Department,Barium,25.0 ppb,700 ppb,"2,000 ppb"
+750,Ashland Water Department,Bromoform,0.388 ppb,0.5 ppb,
+751,Ashland Water Department,Chloroform,0.148 ppb,0.4 ppb,
+752,Ashland Water Department,Manganese,5.32 ppb,100 ppb,
+753,Ashland Water Department,Uranium,0.13 pCi/L,0.43 pCi/L,20 pCi/L
+754,Ashland Water Department,None,,,
+755,City of Central Point,Chromium (hexavalent),0.193 ppb,0.02 ppb,
+756,City of Central Point,Haloacetic acids (HAA5)†,3.68 ppb,0.1 ppb,60 ppb
+757,City of Central Point,Haloacetic acids (HAA9)†,11.7 ppb,0.06 ppb,
+758,City of Central Point,Total trihalomethanes (TTHMs)†,8.55 ppb,0.15 ppb,80 ppb
+759,City of Central Point,Barium*,3.57 ppb,700 ppb,"2,000 ppb"
+760,City of Central Point,Chlorate,68.5 ppb,210 ppb,
+761,City of Central Point,Chromium (total),0.0800 ppb,,100 ppb
+762,City of Central Point,Manganese,62.6 ppb,100 ppb,
+763,City of Central Point,Strontium,0.0589 ppb,"1,500 ppb",
+764,City of Central Point,Vanadium,7.83 ppb,21 ppb,
+765,City of Central Point,None,,,
+766,"Eagle Point, City of",Chromium (hexavalent)*,0.159 ppb,0.02 ppb,
+767,"Eagle Point, City of",Haloacetic acids (HAA5)†,20.0 ppb,0.1 ppb,60 ppb
+768,"Eagle Point, City of",Haloacetic acids (HAA9)*†,6.03 ppb,0.06 ppb,
+769,"Eagle Point, City of",Total trihalomethanes (TTHMs)†,24.0 ppb,0.15 ppb,80 ppb
+770,"Eagle Point, City of",Barium*,3.57 ppb,700 ppb,"2,000 ppb"
+771,"Eagle Point, City of",Chlorate*,202.3 ppb,210 ppb,
+772,"Eagle Point, City of",Chromium (total)*,0.180 ppb,,100 ppb
+773,"Eagle Point, City of",Manganese*,1.31 ppb,100 ppb,
+774,"Eagle Point, City of",Strontium*,0.0624 ppb,"1,500 ppb",
+775,"Eagle Point, City of",Vanadium*,7.50 ppb,21 ppb,
+776,"Talent, City of",Chromium (hexavalent)*,0.159 ppb,0.02 ppb,
+777,"Talent, City of",Haloacetic acids (HAA5)†,0.435 ppb,0.1 ppb,60 ppb
+778,"Talent, City of",Haloacetic acids (HAA9)*†,6.03 ppb,0.06 ppb,
+779,"Talent, City of",Total trihalomethanes (TTHMs)†,4.80 ppb,0.15 ppb,80 ppb
+780,"Talent, City of",Barium*,3.57 ppb,700 ppb,"2,000 ppb"
+781,"Talent, City of",Chlorate*,202.3 ppb,210 ppb,
+782,"Talent, City of",Chromium (total)*,0.180 ppb,,100 ppb
+783,"Talent, City of",Manganese*,1.31 ppb,100 ppb,
+784,"Talent, City of",Strontium*,0.0624 ppb,"1,500 ppb",
+785,"Talent, City of",Vanadium*,7.50 ppb,21 ppb,
+786,"Talent, City of",None,,,
+787,"Phoenix, City of",Chromium (hexavalent)*,0.159 ppb,0.02 ppb,
+788,"Phoenix, City of",Haloacetic acids (HAA5)†,0.932 ppb,0.1 ppb,60 ppb
+789,"Phoenix, City of",Total trihalomethanes (TTHMs)†,2.05 ppb,0.15 ppb,80 ppb
+790,"Phoenix, City of",Barium*,3.57 ppb,700 ppb,"2,000 ppb"
+791,"Phoenix, City of",Chlorate*,202.3 ppb,210 ppb,
+792,"Phoenix, City of",Chromium (total)*,0.180 ppb,,100 ppb
+793,"Phoenix, City of",Haloacetic acids (HAA9)†,0.0975 ppb,0.06 ppb,
+794,"Phoenix, City of",Manganese*,1.31 ppb,100 ppb,
+795,"Phoenix, City of",Strontium*,0.0624 ppb,"1,500 ppb",
+796,"Phoenix, City of",Vanadium*,7.50 ppb,21 ppb,
+797,"Phoenix, City of",None,,,
+798,"Jacksonville, City of",Chromium (hexavalent)*,0.159 ppb,0.02 ppb,
+799,"Jacksonville, City of",Haloacetic acids (HAA5)†,3.25 ppb,0.1 ppb,60 ppb
+800,"Jacksonville, City of",Haloacetic acids (HAA9)*†,6.03 ppb,0.06 ppb,
+801,"Jacksonville, City of",Total trihalomethanes (TTHMs)†,5.79 ppb,0.15 ppb,80 ppb
+802,"Jacksonville, City of",Barium*,3.57 ppb,700 ppb,"2,000 ppb"
+803,"Jacksonville, City of",Chlorate*,202.3 ppb,210 ppb,
+804,"Jacksonville, City of",Chromium (total)*,0.180 ppb,,100 ppb
+805,"Jacksonville, City of",Manganese*,1.31 ppb,100 ppb,
+806,"Jacksonville, City of",Strontium*,0.0624 ppb,"1,500 ppb",
+807,"Jacksonville, City of",Vanadium*,7.50 ppb,21 ppb,
+808,"Rogue River, City of",Arsenic,2.12 ppb,0.004 ppb,10 ppb
+809,"Rogue River, City of",Haloacetic acids (HAA5)†,19.1 ppb,0.1 ppb,60 ppb
+810,"Rogue River, City of",Nitrate,0.572 ppm,0.14 ppm,10 ppm
+811,"Rogue River, City of",Nitrate and nitrite,1.03 ppm,0.14 ppm,10 ppm
+812,"Rogue River, City of",Total trihalomethanes (TTHMs)†,30.7 ppb,0.15 ppb,80 ppb
+813,"Rogue River, City of",Barium,3.87 ppb,700 ppb,"2,000 ppb"
+814,"Rogue River, City of",Uranium,0.11 pCi/L,0.43 pCi/L,20 pCi/L
+815,"Rogue River, City of",None,,,
+816,"Gold Hill, City of",Haloacetic acids (HAA5)†,25.1 ppb,0.1 ppb,60 ppb
+817,"Gold Hill, City of","Radium, combined (-226 &amp; -228)",0.21 pCi/L,0.05 pCi/L,5 pCi/L
+818,"Gold Hill, City of",Total trihalomethanes (TTHMs)†,29.1 ppb,0.15 ppb,80 ppb
+819,"Gold Hill, City of",Barium,5.41 ppb,700 ppb,"2,000 ppb"
+820,"Gold Hill, City of",Nitrate,0.134 ppm,0.14 ppm,10 ppm
+821,"Gold Hill, City of",None,,,
+822,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+823,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+824,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+825,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+826,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+827,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+828,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+829,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+830,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+831,Hiland Water Company - Bear Creek,None,,,
+832,Salem Public Works,Chromium (hexavalent),0.0653 ppb,0.02 ppb,
+833,Salem Public Works,Haloacetic acids (HAA5)†,34.0 ppb,0.1 ppb,60 ppb
+834,Salem Public Works,Haloacetic acids (HAA9)†,32.7 ppb,0.06 ppb,
+835,Salem Public Works,Total trihalomethanes (TTHMs)†,35.9 ppb,0.15 ppb,80 ppb
+836,Salem Public Works,"2,4-D",0.0105 ppb,20 ppb,70 ppb
+837,Salem Public Works,Barium,1.19 ppb,700 ppb,"2,000 ppb"
+838,Salem Public Works,Chlorate,95.0 ppb,210 ppb,
+839,Salem Public Works,Chromium (total),0.0300 ppb,,100 ppb
+840,Salem Public Works,Fluoride,0.462 ppm,,4 ppm
+841,Salem Public Works,Hexachlorocyclopentadiene,0.00407 ppb,2 ppb,50 ppb
+842,Salem Public Works,Nitrate,0.0215 ppm,0.14 ppm,10 ppm
+843,Salem Public Works,Nitrate and nitrite,0.0215 ppm,0.14 ppm,10 ppm
+844,Salem Public Works,"Radium, combined (-226 &amp; -228)",0.09 pCi/L,0.05 pCi/L,5 pCi/L
+845,Salem Public Works,Strontium,0.0228 ppb,"1,500 ppb",
+846,Salem Public Works,Vanadium,1.32 ppb,21 ppb,
+847,Salem Public Works,None,,,
+848,City of Keizer,Arsenic,1.30 ppb,0.004 ppb,10 ppb
+849,City of Keizer,Manganese,206.5 ppb,100 ppb,
+850,City of Keizer,"Radium, combined (-226 &amp; -228)",0.20 pCi/L,0.05 pCi/L,5 pCi/L
+851,City of Keizer,Tetrachloroethylene (perchloroethylene),0.346 ppb,0.06 ppb,5 ppb
+852,City of Keizer,Chlorodifluoromethane,0.0693 ppb,,
+853,City of Keizer,Chromium (hexavalent),0.0106 ppb,0.02 ppb,
+854,City of Keizer,Chromium (total),0.0109 ppb,,100 ppb
+855,City of Keizer,Fluoride,0.180 ppm,,4 ppm
+856,City of Keizer,Germanium,0.01000 ppb,,
+857,City of Keizer,Molybdenum,0.845 ppb,40 ppb,
+858,City of Keizer,Nitrate,0.264 ppm,0.14 ppm,10 ppm
+859,City of Keizer,Nitrate and nitrite,0.158 ppm,0.14 ppm,10 ppm
+860,City of Keizer,Strontium,0.114 ppb,"1,500 ppb",
+861,City of Keizer,Toluene,0.00948 ppb,150 ppb,"1,000 ppb"
+862,City of Keizer,Trichloroethylene,0.706 ppb,0.4 ppb,5 ppb
+863,City of Keizer,Vanadium,0.543 ppb,21 ppb,
+864,City of Keizer,None,,,
+865,City of Woodburn,Arsenic,5.00 ppb,0.004 ppb,10 ppb
+866,City of Woodburn,Haloacetic acids (HAA5)†,3.17 ppb,0.1 ppb,60 ppb
+867,City of Woodburn,Haloacetic acids (HAA9)†,1.60 ppb,0.06 ppb,
+868,City of Woodburn,Total trihalomethanes (TTHMs)†,1.73 ppb,0.15 ppb,80 ppb
+869,City of Woodburn,Barium,2.22 ppb,700 ppb,"2,000 ppb"
+870,City of Woodburn,Chlorate,274.0 ppb,210 ppb,
+871,City of Woodburn,Chromium (hexavalent),0.00367 ppb,0.02 ppb,
+872,City of Woodburn,Fluoride,0.343 ppm,,4 ppm
+873,City of Woodburn,Manganese,15.5 ppb,100 ppb,
+874,City of Woodburn,Molybdenum,1.74 ppb,40 ppb,
+875,City of Woodburn,Nitrate,0.00538 ppm,0.14 ppm,10 ppm
+876,City of Woodburn,Nitrate and nitrite,0.00847 ppm,0.14 ppm,10 ppm
+877,City of Woodburn,Nitrite,0.00847 ppm,,1 ppm
+878,City of Woodburn,Strontium,0.114 ppb,"1,500 ppb",
+879,City of Woodburn,None,,,
+880,Suburban East Salem WD,Chromium (hexavalent),0.0551 ppb,0.02 ppb,
+881,Suburban East Salem WD,Haloacetic acids (HAA5)†,31.4 ppb,0.1 ppb,60 ppb
+882,Suburban East Salem WD,Haloacetic acids (HAA9)†,34.4 ppb,0.06 ppb,
+883,Suburban East Salem WD,Total trihalomethanes (TTHMs)†,29.5 ppb,0.15 ppb,80 ppb
+884,Suburban East Salem WD,"2,4-D*",0.0105 ppb,20 ppb,70 ppb
+885,Suburban East Salem WD,Barium*,1.19 ppb,700 ppb,"2,000 ppb"
+886,Suburban East Salem WD,Chlorate,107.3 ppb,210 ppb,
+887,Suburban East Salem WD,Chromium (total),0.0657 ppb,,100 ppb
+888,Suburban East Salem WD,Fluoride,0.328 ppm,,4 ppm
+889,Suburban East Salem WD,Hexachlorocyclopentadiene*,0.00407 ppb,2 ppb,50 ppb
+890,Suburban East Salem WD,Nitrate*,0.0215 ppm,0.14 ppm,10 ppm
+891,Suburban East Salem WD,Nitrate and nitrite*,0.0215 ppm,0.14 ppm,10 ppm
+892,Suburban East Salem WD,"Radium, combined (-226 &amp; -228)*",0.09 pCi/L,0.05 pCi/L,5 pCi/L
+893,Suburban East Salem WD,Strontium,0.0257 ppb,"1,500 ppb",
+894,Suburban East Salem WD,Vanadium,1.38 ppb,21 ppb,
+895,Suburban East Salem WD,None,,,
+896,"Silverton, City of",Haloacetic acids (HAA5)†,4.88 ppb,0.1 ppb,60 ppb
+897,"Silverton, City of","Radium, combined (-226 &amp; -228)",0.70 pCi/L,0.05 pCi/L,5 pCi/L
+898,"Silverton, City of",Total trihalomethanes (TTHMs)†,7.92 ppb,0.15 ppb,80 ppb
+899,"Silverton, City of",Nitrate,0.271 ppm,0.14 ppm,10 ppm
+900,"Silverton, City of",None,,,
+901,Stayton Water Supply,Haloacetic acids (HAA5)†,20.6 ppb,0.1 ppb,60 ppb
+902,Stayton Water Supply,Total trihalomethanes (TTHMs)†,22.5 ppb,0.15 ppb,80 ppb
+903,Stayton Water Supply,None,,,
+904,"Mount Angel, City of","Radium, combined (-226 &amp; -228)",1.00 pCi/L,0.05 pCi/L,5 pCi/L
+905,"Mount Angel, City of",Uranium,1.34 pCi/L,0.43 pCi/L,20 pCi/L
+906,"Mount Angel, City of",Fluoride,0.134 ppm,,4 ppm
+907,"Mount Angel, City of",Nitrate,0.0384 ppm,0.14 ppm,10 ppm
+908,"Mount Angel, City of",None,,,
+909,"Aumsville, City of",Arsenic,3.60 ppb,0.004 ppb,10 ppb
+910,"Aumsville, City of",Haloacetic acids (HAA5)†,1.37 ppb,0.1 ppb,60 ppb
+911,"Aumsville, City of",Nitrate,0.659 ppm,0.14 ppm,10 ppm
+912,"Aumsville, City of","Radium, combined (-226 &amp; -228)",0.80 pCi/L,0.05 pCi/L,5 pCi/L
+913,"Aumsville, City of",Total trihalomethanes (TTHMs)†,7.99 ppb,0.15 ppb,80 ppb
+914,"Aumsville, City of",None,,,
+915,"Hubbard, City of",Arsenic,9.20 ppb,0.004 ppb,10 ppb
+916,"Hubbard, City of",Nitrate and nitrite,0.328 ppm,0.14 ppm,10 ppm
+917,"Hubbard, City of",Nitrate,0.155 ppm,0.14 ppm,10 ppm
+918,"Hubbard, City of",Total trihalomethanes (TTHMs)†,0.0333 ppb,0.15 ppb,80 ppb
+919,"Hubbard, City of",None,,,
+920,"Sublimity, City of",Total trihalomethanes (TTHMs)†,0.320 ppb,0.15 ppb,80 ppb
+921,"Sublimity, City of",Asbestos,0.12 MFL,,7 MFL
+922,"Sublimity, City of",Fluoride,0.229 ppm,,4 ppm
+923,"Sublimity, City of",None,,,
+924,North Clackamas County Water Commission,Haloacetic acids (HAA5)†,14.0 ppb,0.1 ppb,60 ppb
+925,North Clackamas County Water Commission,Total trihalomethanes (TTHMs)†,16.0 ppb,0.15 ppb,80 ppb
+926,North Clackamas County Water Commission,Barium,1.77 ppb,700 ppb,"2,000 ppb"
+927,North Clackamas County Water Commission,Nitrate,0.190 ppm,0.14 ppm,10 ppm
+928,North Clackamas County Water Commission,Nitrate and nitrite,0.0720 ppm,0.14 ppm,10 ppm
+929,North Clackamas County Water Commission,Nitrite,0.00778 ppm,,1 ppm
+930,North Clackamas County Water Commission,None,,,
+931,South Fork Water Board,Haloacetic acids (HAA5)†,21.6 ppb,0.1 ppb,60 ppb
+932,South Fork Water Board,Nitrate,0.286 ppm,0.14 ppm,10 ppm
+933,South Fork Water Board,Total trihalomethanes (TTHMs)†,29.8 ppb,0.15 ppb,80 ppb
+934,South Fork Water Board,Barium,2.89 ppb,700 ppb,"2,000 ppb"
+935,South Fork Water Board,Fluoride,0.0286 ppm,,4 ppm
+936,South Fork Water Board,Nitrate and nitrite,0.250 ppm,0.14 ppm,10 ppm
+937,South Fork Water Board,None,,,
+938,Camano Sunrise Water Association #1,Arsenic,7.40 ppb,0.004 ppb,10 ppb
+939,Camano Sunrise Water Association #1,Nitrate,0.762 ppm,0.14 ppm,10 ppm
+940,Camano Sunrise Water Association #1,Nitrate and nitrite,0.790 ppm,0.14 ppm,10 ppm
+941,Camano Sunrise Water Association #1,Fluoride,0.400 ppm,,4 ppm
+942,Camano Sunrise Water Association #1,Manganese,24.0 ppb,100 ppb,
+943,Camano Sunrise Water Association #1,None,,,
+944,Clackamas River Water - Clackamas,Chromium (hexavalent),0.0843 ppb,0.02 ppb,
+945,Clackamas River Water - Clackamas,Haloacetic acids (HAA5)†,26.0 ppb,0.1 ppb,60 ppb
+946,Clackamas River Water - Clackamas,Haloacetic acids (HAA9)†,28.5 ppb,0.06 ppb,
+947,Clackamas River Water - Clackamas,Total trihalomethanes (TTHMs)†,33.8 ppb,0.15 ppb,80 ppb
+948,Clackamas River Water - Clackamas,Barium,2.47 ppb,700 ppb,"2,000 ppb"
+949,Clackamas River Water - Clackamas,Chlorate,101.4 ppb,210 ppb,
+950,Clackamas River Water - Clackamas,Fluoride,0.0267 ppm,,4 ppm
+951,Clackamas River Water - Clackamas,Manganese,0.313 ppb,100 ppb,
+952,Clackamas River Water - Clackamas,Nitrate,0.249 ppm,0.14 ppm,10 ppm
+953,Clackamas River Water - Clackamas,Nitrate and nitrite,0.181 ppm,0.14 ppm,10 ppm
+954,Clackamas River Water - Clackamas,Nitrite,0.0134 ppm,,1 ppm
+955,Clackamas River Water - Clackamas,Strontium,0.0381 ppb,"1,500 ppb",
+956,Clackamas River Water - Clackamas,Vanadium,0.910 ppb,21 ppb,
+957,Clackamas River Water - Clackamas,None,,,
+958,Lake Oswego Municipal Water,Chromium (hexavalent),0.0925 ppb,0.02 ppb,
+959,Lake Oswego Municipal Water,Haloacetic acids (HAA5)†,12.7 ppb,0.1 ppb,60 ppb
+960,Lake Oswego Municipal Water,Haloacetic acids (HAA9)†,6.79 ppb,0.06 ppb,
+961,Lake Oswego Municipal Water,Total trihalomethanes (TTHMs)†,18.2 ppb,0.15 ppb,80 ppb
+962,Lake Oswego Municipal Water,Barium,4.00 ppb,700 ppb,"2,000 ppb"
+963,Lake Oswego Municipal Water,Bromate,0.135 ppb,0.1 ppb,10 ppb
+964,Lake Oswego Municipal Water,Chlorate,123.3 ppb,210 ppb,
+965,Lake Oswego Municipal Water,Chromium (total),0.0326 ppb,,100 ppb
+966,Lake Oswego Municipal Water,Manganese,0.990 ppb,100 ppb,
+967,Lake Oswego Municipal Water,Nitrate,0.0733 ppm,0.14 ppm,10 ppm
+968,Lake Oswego Municipal Water,Strontium,0.0333 ppb,"1,500 ppb",
+969,Lake Oswego Municipal Water,Vanadium,0.560 ppb,21 ppb,
+970,Lake Oswego Municipal Water,None,,,
+971,Oregon City,Bromodichloromethane,10.8 ppb,0.06 ppb,
+972,Oregon City,Chlorite,123.7 ppb,50 ppb,"1,000 ppb"
+973,Oregon City,Chloroform,32.3 ppb,0.4 ppb,
+974,Oregon City,Chromium (hexavalent),0.169 ppb,0.02 ppb,
+975,Oregon City,Dibromoacetic acid,1.38 ppb,0.04 ppb,
+976,Oregon City,Dibromochloromethane,4.87 ppb,0.1 ppb,
+977,Oregon City,Dichloroacetic acid,9.70 ppb,0.2 ppb,
+978,Oregon City,Haloacetic acids (HAA5)†,13.5 ppb,0.1 ppb,60 ppb
+979,Oregon City,Haloacetic acids (HAA9)†,19.8 ppb,0.06 ppb,
+980,Oregon City,Nitrate,1.57 ppm,0.14 ppm,10 ppm
+981,Oregon City,Nitrate and nitrite,1.58 ppm,0.14 ppm,10 ppm
+982,Oregon City,Total trihalomethanes (TTHMs)†,48.3 ppb,0.15 ppb,80 ppb
+983,Oregon City,Trichloroacetic acid,2.06 ppb,0.1 ppb,
+984,Oregon City,2-Methoxyethanol,0.898 ppb,,
+985,Oregon City,Atrazine,0.121 ppb,0.1 ppb,3 ppb
+986,Oregon City,Barium,10.8 ppb,700 ppb,"2,000 ppb"
+987,Oregon City,Bromoform,0.554 ppb,0.5 ppb,
+988,Oregon City,Chlorate,22.8 ppb,210 ppb,
+989,Oregon City,Chromium (total),0.114 ppb,,100 ppb
+990,Oregon City,Fluoride,0.865 ppm,,4 ppm
+991,Oregon City,Molybdenum,2.06 ppb,40 ppb,
+992,Oregon City,Monochloroacetic acid,0.368 ppb,53 ppb,
+993,Oregon City,Nitrite,0.00243 ppm,,1 ppm
+994,Oregon City,Simazine,0.01000 ppb,0.1 ppb,4 ppb
+995,Oregon City,Strontium,0.145 ppb,"1,500 ppb",
+996,Oregon City,Vanadium,0.625 ppb,21 ppb,
+997,Oregon City,None,,,
+998,Oak Lodge Water District,Chromium (hexavalent),0.0833 ppb,0.02 ppb,
+999,Oak Lodge Water District,Haloacetic acids (HAA5)†,27.6 ppb,0.1 ppb,60 ppb
+1000,Oak Lodge Water District,Haloacetic acids (HAA9)†,38.2 ppb,0.06 ppb,
+1001,Oak Lodge Water District,Total trihalomethanes (TTHMs)†,35.3 ppb,0.15 ppb,80 ppb
+1002,Oak Lodge Water District,Barium*,1.77 ppb,700 ppb,"2,000 ppb"
+1003,Oak Lodge Water District,Chlorate,44.0 ppb,210 ppb,
+1004,Oak Lodge Water District,Chromium (total),0.165 ppb,,100 ppb
+1005,Oak Lodge Water District,Manganese,0.368 ppb,100 ppb,
+1006,Oak Lodge Water District,Nitrate*,0.190 ppm,0.14 ppm,10 ppm
+1007,Oak Lodge Water District,Nitrate and nitrite*,0.0720 ppm,0.14 ppm,10 ppm
+1008,Oak Lodge Water District,Nitrite*,0.00778 ppm,,1 ppm
+1009,Oak Lodge Water District,Strontium,0.0385 ppb,"1,500 ppb",
+1010,Oak Lodge Water District,Vanadium,1.24 ppb,21 ppb,
+1011,Oak Lodge Water District,None,,,
+1012,City of West Linn,Chromium (hexavalent),0.142 ppb,0.02 ppb,
+1013,City of West Linn,Haloacetic acids (HAA5)†,33.4 ppb,0.1 ppb,60 ppb
+1014,City of West Linn,Haloacetic acids (HAA9)†,39.9 ppb,0.06 ppb,
+1015,City of West Linn,Nitrate*,0.286 ppm,0.14 ppm,10 ppm
+1016,City of West Linn,Total trihalomethanes (TTHMs)†,35.3 ppb,0.15 ppb,80 ppb
+1017,City of West Linn,Barium*,2.89 ppb,700 ppb,"2,000 ppb"
+1018,City of West Linn,Chlorate,53.5 ppb,210 ppb,
+1019,City of West Linn,Chromium (total),0.165 ppb,,100 ppb
+1020,City of West Linn,Fluoride*,0.0286 ppm,,4 ppm
+1021,City of West Linn,Manganese,0.472 ppb,100 ppb,
+1022,City of West Linn,Nitrate and nitrite*,0.250 ppm,0.14 ppm,10 ppm
+1023,City of West Linn,Strontium,0.0379 ppb,"1,500 ppb",
+1024,City of West Linn,Vanadium,1.23 ppb,21 ppb,
+1025,City of West Linn,None,,,
+1026,"Canyonville, City of",Haloacetic acids (HAA5)†,51.0 ppb,0.1 ppb,60 ppb
+1027,"Canyonville, City of",Total trihalomethanes (TTHMs)†,27.5 ppb,0.15 ppb,80 ppb
+1028,"Canyonville, City of",Fluoride,0.138 ppm,,4 ppm
+1029,"Canyonville, City of",None,,,
+1030,City of Roseburg,Chromium (hexavalent),0.102 ppb,0.02 ppb,
+1031,City of Roseburg,Haloacetic acids (HAA5)†,19.9 ppb,0.1 ppb,60 ppb
+1032,City of Roseburg,Haloacetic acids (HAA9)†,14.1 ppb,0.06 ppb,
+1033,City of Roseburg,Total trihalomethanes (TTHMs)†,24.9 ppb,0.15 ppb,80 ppb
+1034,City of Roseburg,Chlorate,11.4 ppb,210 ppb,
+1035,City of Roseburg,Fluoride,0.161 ppm,,4 ppm
+1036,City of Roseburg,Manganese,0.900 ppb,100 ppb,
+1037,City of Roseburg,Strontium,0.0411 ppb,"1,500 ppb",
+1038,City of Roseburg,Vanadium,1.82 ppb,21 ppb,
+1039,City of Roseburg,None,,,
+1040,Clarks Branch Water Association,Haloacetic acids (HAA5)†,36.0 ppb,0.1 ppb,60 ppb
+1041,Clarks Branch Water Association,Total trihalomethanes (TTHMs)†,46.6 ppb,0.15 ppb,80 ppb
+1042,Clarks Branch Water Association,Nitrate,0.102 ppm,0.14 ppm,10 ppm
+1043,Clarks Branch Water Association,Xylenes (total),0.533 ppb,"1,800 ppb","10,000 ppb"
+1044,Clarks Branch Water Association,None,,,
+1045,Diamond Lake Lodge/resort,None,,,
+1046,"Drain, City of",Haloacetic acids (HAA5)†,19.4 ppb,0.1 ppb,60 ppb
+1047,"Drain, City of",Total trihalomethanes (TTHMs)†,45.9 ppb,0.15 ppb,80 ppb
+1048,"Drain, City of",Xylenes (total),0.318 ppb,"1,800 ppb","10,000 ppb"
+1049,"Drain, City of",None,,,
+1050,"Elkton, City of",Haloacetic acids (HAA5)†,27.2 ppb,0.1 ppb,60 ppb
+1051,"Elkton, City of",Total trihalomethanes (TTHMs)†,32.9 ppb,0.15 ppb,80 ppb
+1052,"Elkton, City of",Barium,4.03 ppb,700 ppb,"2,000 ppb"
+1053,"Elkton, City of",None,,,
+1054,Fortune Branch Mobile Village,"Radium, combined (-226 &amp; -228)",0.43 pCi/L,0.05 pCi/L,5 pCi/L
+1055,Fortune Branch Mobile Village,Barium,19.6 ppb,700 ppb,"2,000 ppb"
+1056,Fortune Branch Mobile Village,Fluoride,0.204 ppm,,4 ppm
+1057,Fortune Branch Mobile Village,Nitrate,0.0829 ppm,0.14 ppm,10 ppm
+1058,Fortune Branch Mobile Village,None,,,
+1059,"Glendale, City of",Arsenic*,0.0273 ppb,0.004 ppb,10 ppb
+1060,"Glendale, City of",Bromodichloromethane*,6.41 ppb,0.06 ppb,
+1061,"Glendale, City of",Chloroform*,11.8 ppb,0.4 ppb,
+1062,"Glendale, City of",Dibromoacetic acid*,0.260 ppb,0.04 ppb,
+1063,"Glendale, City of",Dibromochloromethane*,2.03 ppb,0.1 ppb,
+1064,"Glendale, City of",Dichloroacetic acid*,7.76 ppb,0.2 ppb,
+1065,"Glendale, City of",Haloacetic acids (HAA5)*†,14.2 ppb,0.1 ppb,60 ppb
+1066,"Glendale, City of",Haloacetic acids (HAA9)*†,14.7 ppb,0.06 ppb,
+1067,"Glendale, City of","Radium, combined (-226 &amp; -228)*",0.33 pCi/L,0.05 pCi/L,5 pCi/L
+1068,"Glendale, City of",Total trihalomethanes (TTHMs)*†,23.0 ppb,0.15 ppb,80 ppb
+1069,"Glendale, City of",Trichloroacetic acid*,4.03 ppb,0.1 ppb,
+1070,"Glendale, City of","2,4-D*",0.00417 ppb,20 ppb,70 ppb
+1071,"Glendale, City of","4-Androstene-3,17-dione*",0.0270 ppt,,
+1072,"Glendale, City of",Antimony*,0.0181 ppb,1 ppb,6 ppb
+1073,"Glendale, City of",Barium*,30.9 ppb,700 ppb,"2,000 ppb"
+1074,"Glendale, City of",Beryllium*,0.000504 ppb,1 ppb,4 ppb
+1075,"Glendale, City of",Bromoform*,0.0303 ppb,0.5 ppb,
+1076,"Glendale, City of",Cadmium*,0.00306 ppb,0.04 ppb,5 ppb
+1077,"Glendale, City of",Chlorodifluoromethane*,0.00808 ppb,,
+1078,"Glendale, City of",Chromium (hexavalent)*,0.0378 ppb,0.02 ppb,
+1079,"Glendale, City of",Chromium (total)*,0.185 ppb,,100 ppb
+1080,"Glendale, City of",Fluoride*,0.616 ppm,,4 ppm
+1081,"Glendale, City of",Manganese*,8.41 ppb,100 ppb,
+1082,"Glendale, City of",Mercury (inorganic)*,0.000778 ppb,1.2 ppb,2 ppb
+1083,"Glendale, City of",Molybdenum*,6.86 ppb,40 ppb,
+1084,"Glendale, City of",Monobromoacetic acid*,0.248 ppb,25 ppb,
+1085,"Glendale, City of",Monochloroacetic acid*,0.140 ppb,53 ppb,
+1086,"Glendale, City of",Nitrate*,0.0473 ppm,0.14 ppm,10 ppm
+1087,"Glendale, City of",Nitrate and nitrite*,0.0504 ppm,0.14 ppm,10 ppm
+1088,"Glendale, City of",Selenium*,0.155 ppb,30 ppb,50 ppb
+1089,"Glendale, City of",Strontium*,0.171 ppb,"1,500 ppb",
+1090,"Glendale, City of",Thallium*,0.000496 ppb,0.1 ppb,2 ppb
+1091,"Glendale, City of",Uranium*,0.12 pCi/L,0.43 pCi/L,20 pCi/L
+1092,"Glendale, City of",Vanadium*,0.264 ppb,21 ppb,
+1093,Glide Water Association,Haloacetic acids (HAA5)†,9.98 ppb,0.1 ppb,60 ppb
+1094,Glide Water Association,Total trihalomethanes (TTHMs)†,11.6 ppb,0.15 ppb,80 ppb
+1095,Glide Water Association,Nitrate,0.0200 ppm,0.14 ppm,10 ppm
+1096,Glide Water Association,None,,,
+1097,Lawson Acres Water Association,Haloacetic acids (HAA5)†,70.4 ppb,0.1 ppb,60 ppb
+1098,Lawson Acres Water Association,Total trihalomethanes (TTHMs)†,76.0 ppb,0.15 ppb,80 ppb
+1099,Lawson Acres Water Association,Nitrate,0.233 ppm,0.14 ppm,10 ppm
+1100,Lawson Acres Water Association,None,,,
+1101,Milo Academy,Haloacetic acids (HAA5)†,39.4 ppb,0.1 ppb,60 ppb
+1102,Milo Academy,Total trihalomethanes (TTHMs)†,22.5 ppb,0.15 ppb,80 ppb
+1103,Milo Academy,Fluoride,0.0500 ppm,,4 ppm
+1104,Milo Academy,Nitrate,0.0778 ppm,0.14 ppm,10 ppm
+1105,Milo Academy,None,,,
+1106,"Myrtle Creek, City of",Haloacetic acids (HAA5)†,27.5 ppb,0.1 ppb,60 ppb
+1107,"Myrtle Creek, City of",Total trihalomethanes (TTHMs)†,28.3 ppb,0.15 ppb,80 ppb
+1108,"Myrtle Creek, City of",Chromium (total),18.5 ppb,,100 ppb
+1109,"Myrtle Creek, City of",Nitrate,0.200 ppm,0.14 ppm,10 ppm
+1110,"Myrtle Creek, City of",Nitrate and nitrite,0.215 ppm,0.14 ppm,10 ppm
+1111,"Myrtle Creek, City of",None,,,
+1112,"Oakland, City of",Bromodichloromethane,0.234 ppb,0.06 ppb,
+1113,"Oakland, City of",Bromoform,2.68 ppb,0.5 ppb,
+1114,"Oakland, City of",Dibromoacetic acid,0.979 ppb,0.04 ppb,
+1115,"Oakland, City of",Dibromochloromethane,1.14 ppb,0.1 ppb,
+1116,"Oakland, City of",Haloacetic acids (HAA5)†,0.979 ppb,0.1 ppb,60 ppb
+1117,"Oakland, City of",Heptachlor epoxide,0.0125 ppb,0.006 ppb,0.2 ppb
+1118,"Oakland, City of",Nitrate and nitrite,0.506 ppm,0.14 ppm,10 ppm
+1119,"Oakland, City of","Radium, combined (-226 &amp; -228)",2.83 pCi/L,0.05 pCi/L,5 pCi/L
+1120,"Oakland, City of",Total trihalomethanes (TTHMs)†,4.06 ppb,0.15 ppb,80 ppb
+1121,"Oakland, City of",Fluoride,1.10 ppm,,4 ppm
+1122,"Oakland, City of",None,,,
+1123,Porter Creek Mobile Home Park,Fluoride,0.130 ppm,,4 ppm
+1124,Porter Creek Mobile Home Park,Nitrate,0.0757 ppm,0.14 ppm,10 ppm
+1125,Porter Creek Mobile Home Park,None,,,
+1126,Pp&l-toketee Village,Haloacetic acids (HAA5)†,4.95 ppb,0.1 ppb,60 ppb
+1127,Pp&l-toketee Village,Total trihalomethanes (TTHMs)†,5.00 ppb,0.15 ppb,80 ppb
+1128,Pp&l-toketee Village,None,,,
+1129,"Reedsport, City of",Bromate,1.69 ppb,0.1 ppb,10 ppb
+1130,"Reedsport, City of",Haloacetic acids (HAA5)†,9.79 ppb,0.1 ppb,60 ppb
+1131,"Reedsport, City of",Total trihalomethanes (TTHMs)†,36.7 ppb,0.15 ppb,80 ppb
+1132,"Reedsport, City of",Nitrate and nitrite,0.0200 ppm,0.14 ppm,10 ppm
+1133,"Reedsport, City of",Nitrite,0.0200 ppm,,1 ppm
+1134,"Reedsport, City of",None,,,
+1135,Rice Hill West Subdivision,None,,,
+1136,"Riddle, City of",Haloacetic acids (HAA5)†,24.1 ppb,0.1 ppb,60 ppb
+1137,"Riddle, City of",Total trihalomethanes (TTHMs)†,44.1 ppb,0.15 ppb,80 ppb
+1138,"Riddle, City of",Nitrate,0.0717 ppm,0.14 ppm,10 ppm
+1139,"Riddle, City of",None,,,
+1140,Roberts Creek Water District,Haloacetic acids (HAA5)†,38.8 ppb,0.1 ppb,60 ppb
+1141,Roberts Creek Water District,Total trihalomethanes (TTHMs)†,50.4 ppb,0.15 ppb,80 ppb
+1142,Roberts Creek Water District,Asbestos,0.20 MFL,,7 MFL
+1143,Roberts Creek Water District,Nitrate,0.0200 ppm,0.14 ppm,10 ppm
+1144,Roberts Creek Water District,p-Dichlorobenzene,0.407 ppb,6 ppb,75 ppb
+1145,Roberts Creek Water District,None,,,
+1146,South Umpqua Water Association,Haloacetic acids (HAA5)†,27.6 ppb,0.1 ppb,60 ppb
+1147,South Umpqua Water Association,Total trihalomethanes (TTHMs)†,43.2 ppb,0.15 ppb,80 ppb
+1148,South Umpqua Water Association,Nitrate*,0.0717 ppm,0.14 ppm,10 ppm
+1149,South Umpqua Water Association,None,,,
+1150,"Sutherlin, City of",Haloacetic acids (HAA5)†,22.8 ppb,0.1 ppb,60 ppb
+1151,"Sutherlin, City of",Total trihalomethanes (TTHMs)†,18.0 ppb,0.15 ppb,80 ppb
+1152,"Sutherlin, City of",Fluoride,0.135 ppm,,4 ppm
+1153,"Sutherlin, City of",Nitrate,0.0725 ppm,0.14 ppm,10 ppm
+1154,"Sutherlin, City of",Nitrate and nitrite,0.160 ppm,0.14 ppm,10 ppm
+1155,"Sutherlin, City of",Nitrite,0.0500 ppm,,1 ppm
+1156,"Sutherlin, City of",None,,,
+1157,Tri-city Jw&sa,Haloacetic acids (HAA5)†,20.2 ppb,0.1 ppb,60 ppb
+1158,Tri-city Jw&sa,Total trihalomethanes (TTHMs)†,34.7 ppb,0.15 ppb,80 ppb
+1159,Tri-city Jw&sa,Nitrate,0.127 ppm,0.14 ppm,10 ppm
+1160,Tri-city Jw&sa,None,,,
+1161,Umpqua Basin Water Association,Arsenic,1.10 ppb,0.004 ppb,10 ppb
+1162,Umpqua Basin Water Association,Haloacetic acids (HAA5)†,33.3 ppb,0.1 ppb,60 ppb
+1163,Umpqua Basin Water Association,Total trihalomethanes (TTHMs)†,33.9 ppb,0.15 ppb,80 ppb
+1164,Umpqua Basin Water Association,Fluoride,0.0595 ppm,,4 ppm
+1165,Umpqua Basin Water Association,Nitrate,0.0171 ppm,0.14 ppm,10 ppm
+1166,Umpqua Basin Water Association,Nitrate and nitrite,0.0200 ppm,0.14 ppm,10 ppm
+1167,Umpqua Basin Water Association,Nitrite,0.0200 ppm,,1 ppm
+1168,Umpqua Basin Water Association,None,,,
+1169,Umpqua Ranch Co-op,Haloacetic acids (HAA5)†,15.3 ppb,0.1 ppb,60 ppb
+1170,Umpqua Ranch Co-op,Total trihalomethanes (TTHMs)†,16.9 ppb,0.15 ppb,80 ppb
+1171,Umpqua Ranch Co-op,Fluoride,0.166 ppm,,4 ppm
+1172,Umpqua Ranch Co-op,Nitrate,0.0240 ppm,0.14 ppm,10 ppm
+1173,Umpqua Ranch Co-op,None,,,
+1174,Union Gap Water,Arsenic,3.94 ppb,0.004 ppb,10 ppb
+1175,Union Gap Water,Nitrate,0.403 ppm,0.14 ppm,10 ppm
+1176,Union Gap Water,Nitrate and nitrite,0.403 ppm,0.14 ppm,10 ppm
+1177,Union Gap Water,Barium,14.5 ppb,700 ppb,"2,000 ppb"
+1178,Union Gap Water,Chromium (total),0.700 ppb,,100 ppb
+1179,Union Gap Water,Fluoride,0.162 ppm,,4 ppm
+1180,Union Gap Water,Manganese,75.4 ppb,100 ppb,
+1181,Union Gap Water,"Radium, combined (-226 &amp; -228)",0.09 pCi/L,0.05 pCi/L,5 pCi/L
+1182,Union Gap Water,Selenium,0.180 ppb,30 ppb,50 ppb
+1183,Union Gap Water,Thallium,0.1000 ppb,0.1 ppb,2 ppb
+1184,Union Gap Water,None,,,
+1185,Winston-dillard Water District,Haloacetic acids (HAA5)†,38.2 ppb,0.1 ppb,60 ppb
+1186,Winston-dillard Water District,Total trihalomethanes (TTHMs)†,44.6 ppb,0.15 ppb,80 ppb
+1187,Winston-dillard Water District,Nitrate,0.0250 ppm,0.14 ppm,10 ppm
+1188,Winston-dillard Water District,Nitrate and nitrite,0.0433 ppm,0.14 ppm,10 ppm
+1189,Winston-dillard Water District,Nitrite,0.0433 ppm,,1 ppm
+1190,Winston-dillard Water District,None,,,
+1191,"Yoncalla, City of",Haloacetic acids (HAA5)†,14.6 ppb,0.1 ppb,60 ppb
+1192,"Yoncalla, City of",Total trihalomethanes (TTHMs)†,30.9 ppb,0.15 ppb,80 ppb
+1193,"Yoncalla, City of",Fluoride,0.1000 ppm,,4 ppm
+1194,"Yoncalla, City of",Nitrate and nitrite,0.0200 ppm,0.14 ppm,10 ppm
+1195,"Yoncalla, City of",Nitrite,0.0200 ppm,,1 ppm
+1196,"Yoncalla, City of",None,,,
+1197,Baker City,Chromium (hexavalent),0.610 ppb,0.02 ppb,
+1198,Baker City,Haloacetic acids (HAA5)†,32.0 ppb,0.1 ppb,60 ppb
+1199,Baker City,Total trihalomethanes (TTHMs)†,24.8 ppb,0.15 ppb,80 ppb
+1200,Baker City,Barium,117.0 ppb,700 ppb,"2,000 ppb"
+1201,Baker City,Chromium (total),0.622 ppb,,100 ppb
+1202,Baker City,Molybdenum,0.440 ppb,40 ppb,
+1203,Baker City,Nitrate,0.1000 ppm,0.14 ppm,10 ppm
+1204,Baker City,Nitrate and nitrite,0.200 ppm,0.14 ppm,10 ppm
+1205,Baker City,Nitrite,0.200 ppm,,1 ppm
+1206,Baker City,Strontium,0.0536 ppb,"1,500 ppb",
+1207,Baker City,Vanadium,1.19 ppb,21 ppb,
+1208,Baker City,None,,,
+1209,City of La Grande,Arsenic,1.60 ppb,0.004 ppb,10 ppb
+1210,City of La Grande,Chromium (hexavalent),0.0524 ppb,0.02 ppb,
+1211,City of La Grande,Haloacetic acids (HAA5)†,1.13 ppb,0.1 ppb,60 ppb
+1212,City of La Grande,Haloacetic acids (HAA9)†,0.283 ppb,0.06 ppb,
+1213,City of La Grande,Total trihalomethanes (TTHMs)†,1.44 ppb,0.15 ppb,80 ppb
+1214,City of La Grande,Chlorate,21.2 ppb,210 ppb,
+1215,City of La Grande,Chromium (total),0.0399 ppb,,100 ppb
+1216,City of La Grande,Germanium,0.371 ppb,,
+1217,City of La Grande,Manganese,46.1 ppb,100 ppb,
+1218,City of La Grande,Molybdenum,1.14 ppb,40 ppb,
+1219,City of La Grande,Nitrate,0.253 ppm,0.14 ppm,10 ppm
+1220,City of La Grande,Quinoline,0.00655 ppb,,
+1221,City of La Grande,Strontium,0.0486 ppb,"1,500 ppb",
+1222,City of La Grande,Tetrachloroethylene (perchloroethylene),0.0857 ppb,0.06 ppb,5 ppb
+1223,City of La Grande,Vanadium,2.10 ppb,21 ppb,
+1224,City of La Grande,None,,,
+1225,"Cove, City of",Arsenic,1.17 ppb,0.004 ppb,10 ppb
+1226,"Cove, City of",None,,,
+1227,Elgin Water Department,Arsenic,0.767 ppb,0.004 ppb,10 ppb
+1228,Elgin Water Department,Barium,27.9 ppb,700 ppb,"2,000 ppb"
+1229,Elgin Water Department,Fluoride,0.0950 ppm,,4 ppm
+1230,Elgin Water Department,Nitrate,0.00880 ppm,0.14 ppm,10 ppm
+1231,Elgin Water Department,None,,,
+1232,Flying K Trailer Ranch,Arsenic,1.48 ppb,0.004 ppb,10 ppb
+1233,Flying K Trailer Ranch,Haloacetic acids (HAA5)†,5.70 ppb,0.1 ppb,60 ppb
+1234,Flying K Trailer Ranch,Nitrate,2.78 ppm,0.14 ppm,10 ppm
+1235,Flying K Trailer Ranch,Nitrate and nitrite,1.20 ppm,0.14 ppm,10 ppm
+1236,Flying K Trailer Ranch,Total trihalomethanes (TTHMs)†,3.79 ppb,0.15 ppb,80 ppb
+1237,Flying K Trailer Ranch,Barium,39.1 ppb,700 ppb,"2,000 ppb"
+1238,Flying K Trailer Ranch,Cadmium,0.0625 ppb,0.04 ppb,5 ppb
+1239,Flying K Trailer Ranch,Selenium,0.357 ppb,30 ppb,50 ppb
+1240,Flying K Trailer Ranch,None,,,
+1241,"Haines, City of",Nitrate,0.551 ppm,0.14 ppm,10 ppm
+1242,"Haines, City of",Nitrate and nitrite,0.490 ppm,0.14 ppm,10 ppm
+1243,"Haines, City of",Barium,306.0 ppb,700 ppb,"2,000 ppb"
+1244,"Haines, City of",Chromium (total),1.40 ppb,,100 ppb
+1245,"Haines, City of",Ethylbenzene,1.30 ppb,300 ppb,700 ppb
+1246,"Haines, City of",Xylenes (total),11.2 ppb,"1,800 ppb","10,000 ppb"
+1247,"Haines, City of",None,,,
+1248,"Halfway, City of",Nitrate,0.138 ppm,0.14 ppm,10 ppm
+1249,"Halfway, City of",None,,,
+1250,"Huntington, City of",Haloacetic acids (HAA5)†,5.55 ppb,0.1 ppb,60 ppb
+1251,"Huntington, City of",Nitrate,0.258 ppm,0.14 ppm,10 ppm
+1252,"Huntington, City of",None,,,
+1253,Idaho Power-oxbow Village,Arsenic,1.12 ppb,0.004 ppb,10 ppb
+1254,Idaho Power-oxbow Village,Haloacetic acids (HAA5)†,3.95 ppb,0.1 ppb,60 ppb
+1255,Idaho Power-oxbow Village,Total trihalomethanes (TTHMs)†,5.01 ppb,0.15 ppb,80 ppb
+1256,Idaho Power-oxbow Village,Barium,135.0 ppb,700 ppb,"2,000 ppb"
+1257,Idaho Power-oxbow Village,Chromium (total),1.43 ppb,,100 ppb
+1258,Idaho Power-oxbow Village,Nitrate,0.181 ppm,0.14 ppm,10 ppm
+1259,Idaho Power-oxbow Village,Xylenes (total),1.38 ppb,"1,800 ppb","10,000 ppb"
+1260,Idaho Power-oxbow Village,None,,,
+1261,"Imbler, City of",Barium,2.95 ppb,700 ppb,"2,000 ppb"
+1262,"Imbler, City of",Fluoride,1.49 ppm,,4 ppm
+1263,"Imbler, City of",None,,,
+1264,Bainbridge Island City Of,Arsenic,3.95 ppb,0.004 ppb,10 ppb
+1265,Bainbridge Island City Of,Bromochloroacetic acid,0.490 ppb,0.02 ppb,
+1266,Bainbridge Island City Of,Bromodichloromethane,4.27 ppb,0.06 ppb,
+1267,Bainbridge Island City Of,Chloroform,15.9 ppb,0.4 ppb,
+1268,Bainbridge Island City Of,Dibromochloromethane,1.13 ppb,0.1 ppb,
+1269,Bainbridge Island City Of,Dichloroacetic acid,2.51 ppb,0.2 ppb,
+1270,Bainbridge Island City Of,Haloacetic acids (HAA5)†,7.10 ppb,0.1 ppb,60 ppb
+1271,Bainbridge Island City Of,Haloacetic acids (HAA9)†,9.58 ppb,0.06 ppb,
+1272,Bainbridge Island City Of,"Radium, combined (-226 &amp; -228)",0.52 pCi/L,0.05 pCi/L,5 pCi/L
+1273,Bainbridge Island City Of,Total trihalomethanes (TTHMs)†,21.8 ppb,0.15 ppb,80 ppb
+1274,Bainbridge Island City Of,Trichloroacetic acid,4.58 ppb,0.1 ppb,
+1275,Bainbridge Island City Of,Chlorate,140.0 ppb,210 ppb,
+1276,Bainbridge Island City Of,Chromium (hexavalent),0.0144 ppb,0.02 ppb,
+1277,Bainbridge Island City Of,Fluoride,0.0500 ppm,,4 ppm
+1278,Bainbridge Island City Of,Manganese,74.1 ppb,100 ppb,
+1279,Bainbridge Island City Of,Molybdenum,1.12 ppb,40 ppb,
+1280,Bainbridge Island City Of,Nitrate,0.00343 ppm,0.14 ppm,10 ppm
+1281,Bainbridge Island City Of,Nitrate and nitrite,0.0209 ppm,0.14 ppm,10 ppm
+1282,Bainbridge Island City Of,Strontium,0.0753 ppb,"1,500 ppb",
+1283,Bainbridge Island City Of,Vanadium,0.169 ppb,21 ppb,
+1284,Bainbridge Island City Of,None,,,
+1285,"North Powder, City Of",Arsenic,2.95 ppb,0.004 ppb,10 ppb
+1286,"North Powder, City Of",Total trihalomethanes (TTHMs)†,6.23 ppb,0.15 ppb,80 ppb
+1287,"North Powder, City Of",Barium,116.6 ppb,700 ppb,"2,000 ppb"
+1288,"North Powder, City Of",Fluoride,0.0750 ppm,,4 ppm
+1289,"North Powder, City Of",Nitrate and nitrite,0.00755 ppm,0.14 ppm,10 ppm
+1290,"North Powder, City Of",Nitrite,0.00755 ppm,,1 ppm
+1291,"North Powder, City Of",None,,,
+1292,"Richland, City of",Haloacetic acids (HAA5)†,20.2 ppb,0.1 ppb,60 ppb
+1293,"Richland, City of","Radium, combined (-226 &amp; -228)",1.42 pCi/L,0.05 pCi/L,5 pCi/L
+1294,"Richland, City of",Total trihalomethanes (TTHMs)†,23.0 ppb,0.15 ppb,80 ppb
+1295,"Richland, City of",None,,,
+1296,"Sumpter, City of",Haloacetic acids (HAA5)†,32.0 ppb,0.1 ppb,60 ppb
+1297,"Sumpter, City of",Total trihalomethanes (TTHMs)†,47.9 ppb,0.15 ppb,80 ppb
+1298,"Sumpter, City of",Barium,16.0 ppb,700 ppb,"2,000 ppb"
+1299,"Sumpter, City of",Nitrate,0.120 ppm,0.14 ppm,10 ppm
+1300,"Sumpter, City of",None,,,
+1301,Sundowner Mobile Home Park,Arsenic,1.02 ppb,0.004 ppb,10 ppb
+1302,Sundowner Mobile Home Park,Nitrate,1.42 ppm,0.14 ppm,10 ppm
+1303,Sundowner Mobile Home Park,Nitrate and nitrite,1.27 ppm,0.14 ppm,10 ppm
+1304,Sundowner Mobile Home Park,"Radium, combined (-226 &amp; -228)",2.30 pCi/L,0.05 pCi/L,5 pCi/L
+1305,Sundowner Mobile Home Park,Barium,22.9 ppb,700 ppb,"2,000 ppb"
+1306,Sundowner Mobile Home Park,None,,,
+1307,"Union, City of",Arsenic,3.54 ppb,0.004 ppb,10 ppb
+1308,"Union, City of",Haloacetic acids (HAA5)†,1.49 ppb,0.1 ppb,60 ppb
+1309,"Union, City of",Total trihalomethanes (TTHMs)†,0.306 ppb,0.15 ppb,80 ppb
+1310,"Union, City of",Barium,20.7 ppb,700 ppb,"2,000 ppb"
+1311,"Union, City of",Fluoride,0.612 ppm,,4 ppm
+1312,"Union, City of",None,,,
+1313,"Unity, City of",Arsenic,2.40 ppb,0.004 ppb,10 ppb
+1314,"Unity, City of",Nitrate,0.926 ppm,0.14 ppm,10 ppm
+1315,"Unity, City of",Nitrate and nitrite,1.12 ppm,0.14 ppm,10 ppm
+1316,"Unity, City of",Total trihalomethanes (TTHMs)†,1.25 ppb,0.15 ppb,80 ppb
+1317,"Unity, City of",Barium,171.0 ppb,700 ppb,"2,000 ppb"
+1318,"Unity, City of",Chromium (total),1.87 ppb,,100 ppb
+1319,"Unity, City of",None,,,
+1320,Western Heights,Bromodichloromethane,3.53 ppb,0.06 ppb,
+1321,Western Heights,Chloroform,6.50 ppb,0.4 ppb,
+1322,Western Heights,Dibromochloromethane,2.00 ppb,0.1 ppb,
+1323,Western Heights,Dichloroacetic acid,4.00 ppb,0.2 ppb,
+1324,Western Heights,Haloacetic acids (HAA5)†,4.50 ppb,0.1 ppb,60 ppb
+1325,Western Heights,Nitrate,0.768 ppm,0.14 ppm,10 ppm
+1326,Western Heights,"Radium, combined (-226 &amp; -228)",3.20 pCi/L,0.05 pCi/L,5 pCi/L
+1327,Western Heights,Total trihalomethanes (TTHMs)†,17.0 ppb,0.15 ppb,80 ppb
+1328,Western Heights,Trichloroacetic acid,1.000 ppb,0.1 ppb,
+1329,Western Heights,Fluoride,0.705 ppm,,4 ppm
+1330,Western Heights,None,,,
+1331,Banks Water Department,Haloacetic acids (HAA5)†,6.12 ppb,0.1 ppb,60 ppb
+1332,Banks Water Department,Total trihalomethanes (TTHMs)†,8.86 ppb,0.15 ppb,80 ppb
+1333,Banks Water Department,Barium,3.50 ppb,700 ppb,"2,000 ppb"
+1334,Banks Water Department,Fluoride,0.0390 ppm,,4 ppm
+1335,Banks Water Department,Nitrate,0.0855 ppm,0.14 ppm,10 ppm
+1336,Banks Water Department,Nitrate and nitrite,0.104 ppm,0.14 ppm,10 ppm
+1337,Banks Water Department,None,,,
+1338,City of Beaverton,Chromium (hexavalent),0.237 ppb,0.02 ppb,
+1339,City of Beaverton,Haloacetic acids (HAA5)†,24.7 ppb,0.1 ppb,60 ppb
+1340,City of Beaverton,Haloacetic acids (HAA9)†,30.8 ppb,0.06 ppb,
+1341,City of Beaverton,Nitrate,0.515 ppm,0.14 ppm,10 ppm
+1342,City of Beaverton,Nitrate and nitrite,0.800 ppm,0.14 ppm,10 ppm
+1343,City of Beaverton,Total trihalomethanes (TTHMs)†,33.0 ppb,0.15 ppb,80 ppb
+1344,City of Beaverton,Barium,3.65 ppb,700 ppb,"2,000 ppb"
+1345,City of Beaverton,Chromium (total),0.310 ppb,,100 ppb
+1346,City of Beaverton,Fluoride,0.540 ppm,,4 ppm
+1347,City of Beaverton,Manganese,0.968 ppb,100 ppb,
+1348,City of Beaverton,Strontium,0.0374 ppb,"1,500 ppb",
+1349,City of Beaverton,Vanadium,2.60 ppb,21 ppb,
+1350,City of Beaverton,None,,,
+1351,City of Cornelius,Chromium (hexavalent),0.154 ppb,0.02 ppb,
+1352,City of Cornelius,Haloacetic acids (HAA5)†,24.8 ppb,0.1 ppb,60 ppb
+1353,City of Cornelius,Haloacetic acids (HAA9)†,29.5 ppb,0.06 ppb,
+1354,City of Cornelius,Total trihalomethanes (TTHMs)†,36.2 ppb,0.15 ppb,80 ppb
+1355,City of Cornelius,Chromium (total),0.0644 ppb,,100 ppb
+1356,City of Cornelius,Manganese,0.173 ppb,100 ppb,
+1357,City of Cornelius,Strontium,0.0350 ppb,"1,500 ppb",
+1358,City of Cornelius,Vanadium,0.582 ppb,21 ppb,
+1359,City of Cornelius,None,,,
+1360,City of Forest Grove,Chromium (hexavalent),0.486 ppb,0.02 ppb,
+1361,City of Forest Grove,Haloacetic acids (HAA5)†,22.6 ppb,0.1 ppb,60 ppb
+1362,City of Forest Grove,Haloacetic acids (HAA9)†,27.3 ppb,0.06 ppb,
+1363,City of Forest Grove,Total trihalomethanes (TTHMs)†,21.5 ppb,0.15 ppb,80 ppb
+1364,City of Forest Grove,Chlorate,24.0 ppb,210 ppb,
+1365,City of Forest Grove,Chromium (total),0.335 ppb,,100 ppb
+1366,City of Forest Grove,Manganese,0.463 ppb,100 ppb,
+1367,City of Forest Grove,Nitrate,0.140 ppm,0.14 ppm,10 ppm
+1368,City of Forest Grove,Strontium,0.0293 ppb,"1,500 ppb",
+1369,City of Forest Grove,Vanadium,0.805 ppb,21 ppb,
+1370,City of Forest Grove,None,,,
+1371,City of Hillsboro,Chromium (hexavalent),0.145 ppb,0.02 ppb,
+1372,City of Hillsboro,Haloacetic acids (HAA5)†,24.0 ppb,0.1 ppb,60 ppb
+1373,City of Hillsboro,Haloacetic acids (HAA9)†,26.0 ppb,0.06 ppb,
+1374,City of Hillsboro,Nitrate*,0.308 ppm,0.14 ppm,10 ppm
+1375,City of Hillsboro,Nitrate and nitrite*,0.323 ppm,0.14 ppm,10 ppm
+1376,City of Hillsboro,Total trihalomethanes (TTHMs)†,29.8 ppb,0.15 ppb,80 ppb
+1377,City of Hillsboro,Barium*,3.66 ppb,700 ppb,"2,000 ppb"
+1378,City of Hillsboro,Chromium (total),0.153 ppb,,100 ppb
+1379,City of Hillsboro,Hexachlorocyclopentadiene*,0.00944 ppb,2 ppb,50 ppb
+1380,City of Hillsboro,Manganese,0.343 ppb,100 ppb,
+1381,City of Hillsboro,Nitrite*,0.000877 ppm,,1 ppm
+1382,City of Hillsboro,Strontium,0.0400 ppb,"1,500 ppb",
+1383,City of Hillsboro,Vanadium,0.516 ppb,21 ppb,
+1384,City of Hillsboro,None,,,
+1385,City of Sherwood,Bromate*,1.29 ppb,0.1 ppb,10 ppb
+1386,City of Sherwood,Chromium (hexavalent),0.0749 ppb,0.02 ppb,
+1387,City of Sherwood,Haloacetic acids (HAA5)†,10.4 ppb,0.1 ppb,60 ppb
+1388,City of Sherwood,Haloacetic acids (HAA9)†,7.40 ppb,0.06 ppb,
+1389,City of Sherwood,Nitrate and nitrite*,0.499 ppm,0.14 ppm,10 ppm
+1390,City of Sherwood,Total trihalomethanes (TTHMs)†,22.4 ppb,0.15 ppb,80 ppb
+1391,City of Sherwood,Barium*,5.50 ppb,700 ppb,"2,000 ppb"
+1392,City of Sherwood,Chlorate,64.7 ppb,210 ppb,
+1393,City of Sherwood,Chromium (total),0.123 ppb,,100 ppb
+1394,City of Sherwood,Manganese,6.72 ppb,100 ppb,
+1395,City of Sherwood,Nitrate,0.246 ppm,0.14 ppm,10 ppm
+1396,City of Sherwood,Strontium,0.0335 ppb,"1,500 ppb",
+1397,City of Sherwood,Vanadium,1.30 ppb,21 ppb,
+1398,City of Sherwood,None,,,
+1399,City of Tigard,Chromium (hexavalent),0.0450 ppb,0.02 ppb,
+1400,City of Tigard,Haloacetic acids (HAA5)†,13.8 ppb,0.1 ppb,60 ppb
+1401,City of Tigard,Haloacetic acids (HAA9)†,8.92 ppb,0.06 ppb,
+1402,City of Tigard,Nitrate,0.812 ppm,0.14 ppm,10 ppm
+1403,City of Tigard,Nitrate and nitrite,0.821 ppm,0.14 ppm,10 ppm
+1404,City of Tigard,Total trihalomethanes (TTHMs)†,18.6 ppb,0.15 ppb,80 ppb
+1405,City of Tigard,Barium,3.23 ppb,700 ppb,"2,000 ppb"
+1406,City of Tigard,Chlorate,4.00 ppb,210 ppb,
+1407,City of Tigard,Chromium (total),0.116 ppb,,100 ppb
+1408,City of Tigard,Manganese,19.8 ppb,100 ppb,
+1409,City of Tigard,Nitrite,0.0339 ppm,,1 ppm
+1410,City of Tigard,Strontium,0.0314 ppb,"1,500 ppb",
+1411,City of Tigard,Vanadium,5.13 ppb,21 ppb,
+1412,City of Tigard,None,,,
+1413,City of Tualatin,Chromium (hexavalent),0.0540 ppb,0.02 ppb,
+1414,City of Tualatin,Haloacetic acids (HAA5)†,23.2 ppb,0.1 ppb,60 ppb
+1415,City of Tualatin,Haloacetic acids (HAA9)†,27.0 ppb,0.06 ppb,
+1416,City of Tualatin,Radon,601.00 pCi/L,1.5 pCi/L,
+1417,City of Tualatin,Total trihalomethanes (TTHMs)†,24.9 ppb,0.15 ppb,80 ppb
+1418,City of Tualatin,Barium,4.35 ppb,700 ppb,"2,000 ppb"
+1419,City of Tualatin,Bromate,0.0700 ppb,0.1 ppb,10 ppb
+1420,City of Tualatin,Chlorate,35.0 ppb,210 ppb,
+1421,City of Tualatin,Chromium (total),0.0192 ppb,,100 ppb
+1422,City of Tualatin,Fluoride,0.0880 ppm,,4 ppm
+1423,City of Tualatin,Manganese,3.18 ppb,100 ppb,
+1424,City of Tualatin,Nitrate,0.00779 ppm,0.14 ppm,10 ppm
+1425,City of Tualatin,Strontium,0.0166 ppb,"1,500 ppb",
+1426,City of Tualatin,Uranium,0.06 pCi/L,0.43 pCi/L,20 pCi/L
+1427,City of Tualatin,Vanadium,0.391 ppb,21 ppb,
+1428,City of Tualatin,None,,,
+1429,Crown Mobile Home Park,Bromochloroacetic acid,1.03 ppb,0.02 ppb,
+1430,Crown Mobile Home Park,Bromodichloromethane,1.26 ppb,0.06 ppb,
+1431,Crown Mobile Home Park,Chlorodibromoacetic acid*,0.564 ppb,0.02 ppb,
+1432,Crown Mobile Home Park,Chloroform,11.1 ppb,0.4 ppb,
+1433,Crown Mobile Home Park,Chromium (hexavalent)*,3.16 ppb,0.02 ppb,
+1434,Crown Mobile Home Park,Dichloroacetic acid,15.4 ppb,0.2 ppb,
+1435,Crown Mobile Home Park,Haloacetic acids (HAA5)†,14.9 ppb,0.1 ppb,60 ppb
+1436,Crown Mobile Home Park,Haloacetic acids (HAA9)*†,24.3 ppb,0.06 ppb,
+1437,Crown Mobile Home Park,Total trihalomethanes (TTHMs)†,12.3 ppb,0.15 ppb,80 ppb
+1438,Crown Mobile Home Park,Trichloroacetic acid,1.27 ppb,0.1 ppb,
+1439,Crown Mobile Home Park,Bromodichloroacetic acid*,0.0226 ppb,0.04 ppb,
+1440,Crown Mobile Home Park,Chromium (total)*,2.74 ppb,,100 ppb
+1441,Crown Mobile Home Park,Manganese*,0.125 ppb,100 ppb,
+1442,Crown Mobile Home Park,Molybdenum*,2.96 ppb,40 ppb,
+1443,Crown Mobile Home Park,Strontium*,93.0 ppb,"1,500 ppb",
+1444,Crown Mobile Home Park,Vanadium*,1.92 ppb,21 ppb,
+1445,Crown Mobile Home Park,None,,,
+1446,Fir Grove Homeowners Association,Haloacetic acids (HAA5)†,25.8 ppb,0.1 ppb,60 ppb
+1447,Fir Grove Homeowners Association,Nitrate*,0.308 ppm,0.14 ppm,10 ppm
+1448,Fir Grove Homeowners Association,Nitrate and nitrite*,0.323 ppm,0.14 ppm,10 ppm
+1449,Fir Grove Homeowners Association,Total trihalomethanes (TTHMs)†,33.7 ppb,0.15 ppb,80 ppb
+1450,Fir Grove Homeowners Association,Barium*,3.66 ppb,700 ppb,"2,000 ppb"
+1451,Fir Grove Homeowners Association,Chromium (total)*,0.0769 ppb,,100 ppb
+1452,Fir Grove Homeowners Association,Hexachlorocyclopentadiene*,0.00944 ppb,2 ppb,50 ppb
+1453,Fir Grove Homeowners Association,Nitrite*,0.000877 ppm,,1 ppm
+1454,"Gaston, City of",Haloacetic acids (HAA5)†,28.3 ppb,0.1 ppb,60 ppb
+1455,"Gaston, City of",Total trihalomethanes (TTHMs)†,27.0 ppb,0.15 ppb,80 ppb
+1456,"Gaston, City of",None,,,
+1457,Hillsboro-cherry Grove,Haloacetic acids (HAA5)†,18.2 ppb,0.1 ppb,60 ppb
+1458,Hillsboro-cherry Grove,Total trihalomethanes (TTHMs)†,16.1 ppb,0.15 ppb,80 ppb
+1459,Hillsboro-cherry Grove,Barium,0.385 ppb,700 ppb,"2,000 ppb"
+1460,Hillsboro-cherry Grove,Chromium (total),0.0769 ppb,,100 ppb
+1461,Hillsboro-cherry Grove,Nitrate,0.0754 ppm,0.14 ppm,10 ppm
+1462,Hillsboro-cherry Grove,Nitrate and nitrite,0.0762 ppm,0.14 ppm,10 ppm
+1463,Hillsboro-cherry Grove,Nitrite,0.000769 ppm,,1 ppm
+1464,Hillsboro-cherry Grove,None,,,
+1465,Joint Water Commission,Haloacetic acids (HAA5)†,15.4 ppb,0.1 ppb,60 ppb
+1466,Joint Water Commission,Nitrate,0.308 ppm,0.14 ppm,10 ppm
+1467,Joint Water Commission,Nitrate and nitrite,0.323 ppm,0.14 ppm,10 ppm
+1468,Joint Water Commission,Total trihalomethanes (TTHMs)†,14.6 ppb,0.15 ppb,80 ppb
+1469,Joint Water Commission,Barium,3.66 ppb,700 ppb,"2,000 ppb"
+1470,Joint Water Commission,Chromium (total),0.0769 ppb,,100 ppb
+1471,Joint Water Commission,Hexachlorocyclopentadiene,0.00944 ppb,2 ppb,50 ppb
+1472,Joint Water Commission,Nitrite,0.000877 ppm,,1 ppm
+1473,Joint Water Commission,None,,,
+1474,La Water Co-op,Haloacetic acids (HAA5)†,20.9 ppb,0.1 ppb,60 ppb
+1475,La Water Co-op,Nitrate*,0.308 ppm,0.14 ppm,10 ppm
+1476,La Water Co-op,Nitrate and nitrite*,0.323 ppm,0.14 ppm,10 ppm
+1477,La Water Co-op,Total trihalomethanes (TTHMs)†,39.9 ppb,0.15 ppb,80 ppb
+1478,La Water Co-op,Barium*,3.66 ppb,700 ppb,"2,000 ppb"
+1479,La Water Co-op,Chromium (total)*,0.0769 ppb,,100 ppb
+1480,La Water Co-op,Hexachlorocyclopentadiene*,0.00944 ppb,2 ppb,50 ppb
+1481,La Water Co-op,Nitrite*,0.000877 ppm,,1 ppm
+1482,La Water Co-op,None,,,
+1483,Laurel Acres Water Company Inc.,Haloacetic acids (HAA5)†,2.05 ppb,0.1 ppb,60 ppb
+1484,Laurel Acres Water Company Inc.,Nitrate,1.01 ppm,0.14 ppm,10 ppm
+1485,Laurel Acres Water Company Inc.,Thallium,0.500 ppb,0.1 ppb,2 ppb
+1486,Laurel Acres Water Company Inc.,Total trihalomethanes (TTHMs)†,0.750 ppb,0.15 ppb,80 ppb
+1487,Laurel Acres Water Company Inc.,Barium,18.5 ppb,700 ppb,"2,000 ppb"
+1488,Laurel Acres Water Company Inc.,Beryllium,0.900 ppb,1 ppb,4 ppb
+1489,Laurel Acres Water Company Inc.,Fluoride,0.120 ppm,,4 ppm
+1490,Laurel Acres Water Company Inc.,Toluene,0.867 ppb,150 ppb,"1,000 ppb"
+1491,Laurel Acres Water Company Inc.,None,,,
+1492,Laurelwood Water Users,Nitrate,1.00 ppm,0.14 ppm,10 ppm
+1493,Laurelwood Water Users,Nitrate and nitrite,1.08 ppm,0.14 ppm,10 ppm
+1494,Laurelwood Water Users,"Radium, combined (-226 &amp; -228)",1.27 pCi/L,0.05 pCi/L,5 pCi/L
+1495,Laurelwood Water Users,None,,,
+1496,North Plains Water Department,Arsenic,17.0 ppb,0.004 ppb,10 ppb
+1497,North Plains Water Department,Haloacetic acids (HAA5)†,29.9 ppb,0.1 ppb,60 ppb
+1498,North Plains Water Department,Nitrate*,0.308 ppm,0.14 ppm,10 ppm
+1499,North Plains Water Department,Nitrate and nitrite*,0.323 ppm,0.14 ppm,10 ppm
+1500,North Plains Water Department,Total trihalomethanes (TTHMs)†,29.8 ppb,0.15 ppb,80 ppb
+1501,North Plains Water Department,Barium*,3.66 ppb,700 ppb,"2,000 ppb"
+1502,North Plains Water Department,Chromium (total)*,0.0769 ppb,,100 ppb
+1503,North Plains Water Department,Hexachlorocyclopentadiene*,0.00944 ppb,2 ppb,50 ppb
+1504,North Plains Water Department,Nitrite*,0.000877 ppm,,1 ppm
+1505,Parrett Mountain View Estates,Fluoride,0.440 ppm,,4 ppm
+1506,Parrett Mountain View Estates,Nitrate,0.0163 ppm,0.14 ppm,10 ppm
+1507,Parrett Mountain View Estates,None,,,
+1508,Rainbow Ends Water System,Barium,34.2 ppb,700 ppb,"2,000 ppb"
+1509,Rainbow Ends Water System,Fluoride,0.290 ppm,,4 ppm
+1510,Rainbow Ends Water System,None,,,
+1511,Raleigh Water District,Bromodichloromethane,6.69 ppb,0.06 ppb,
+1512,Raleigh Water District,Chloroform,9.27 ppb,0.4 ppb,
+1513,Raleigh Water District,Dibromoacetic acid,0.875 ppb,0.04 ppb,
+1514,Raleigh Water District,Dibromochloromethane,4.27 ppb,0.1 ppb,
+1515,Raleigh Water District,Dichloroacetic acid,3.24 ppb,0.2 ppb,
+1516,Raleigh Water District,Haloacetic acids (HAA5)†,6.50 ppb,0.1 ppb,60 ppb
+1517,Raleigh Water District,Total trihalomethanes (TTHMs)†,20.5 ppb,0.15 ppb,80 ppb
+1518,Raleigh Water District,Trichloroacetic acid,1.80 ppb,0.1 ppb,
+1519,Raleigh Water District,Bromoform,0.211 ppb,0.5 ppb,
+1520,Raleigh Water District,Monobromoacetic acid,0.590 ppb,25 ppb,
+1521,Raleigh Water District,None,,,
+1522,South Hills Water Company,Arsenic,8.50 ppb,0.004 ppb,10 ppb
+1523,South Hills Water Company,Dibromoacetic acid,0.188 ppb,0.04 ppb,
+1524,South Hills Water Company,Haloacetic acids (HAA5)†,0.304 ppb,0.1 ppb,60 ppb
+1525,South Hills Water Company,Nitrate and nitrite,0.538 ppm,0.14 ppm,10 ppm
+1526,South Hills Water Company,"Radium, combined (-226 &amp; -228)",0.13 pCi/L,0.05 pCi/L,5 pCi/L
+1527,South Hills Water Company,Total trihalomethanes (TTHMs)†,0.956 ppb,0.15 ppb,80 ppb
+1528,South Hills Water Company,Uranium,2.68 pCi/L,0.43 pCi/L,20 pCi/L
+1529,South Hills Water Company,Barium,20.0 ppb,700 ppb,"2,000 ppb"
+1530,South Hills Water Company,Bromoform,0.775 ppb,0.5 ppb,
+1531,South Hills Water Company,Chromium (total),1.50 ppb,,100 ppb
+1532,South Hills Water Company,Dibromochloromethane,0.179 ppb,0.1 ppb,
+1533,South Hills Water Company,Fluoride,0.720 ppm,,4 ppm
+1534,South Hills Water Company,Monobromoacetic acid,0.0250 ppb,25 ppb,
+1535,South Hills Water Company,Monochloroacetic acid,0.175 ppb,53 ppb,
+1536,South Hills Water Company,None,,,
+1537,Star Satellite Improvement District,Barium,55.5 ppb,700 ppb,"2,000 ppb"
+1538,Star Satellite Improvement District,Fluoride,0.0940 ppm,,4 ppm
+1539,Star Satellite Improvement District,None,,,
+1540,Timber Water Association,Haloacetic acids (HAA5)†,23.1 ppb,0.1 ppb,60 ppb
+1541,Timber Water Association,Total trihalomethanes (TTHMs)†,25.4 ppb,0.15 ppb,80 ppb
+1542,Timber Water Association,Barium,0.600 ppb,700 ppb,"2,000 ppb"
+1543,Timber Water Association,Nitrate,0.148 ppm,0.14 ppm,10 ppm
+1544,Timber Water Association,None,,,
+1545,Tualatin Valley Water District,Chromium (hexavalent),0.153 ppb,0.02 ppb,
+1546,Tualatin Valley Water District,Haloacetic acids (HAA5)†,25.6 ppb,0.1 ppb,60 ppb
+1547,Tualatin Valley Water District,Haloacetic acids (HAA9)†,24.4 ppb,0.06 ppb,
+1548,Tualatin Valley Water District,Nitrate,0.522 ppm,0.14 ppm,10 ppm
+1549,Tualatin Valley Water District,Nitrate and nitrite,0.467 ppm,0.14 ppm,10 ppm
+1550,Tualatin Valley Water District,Radon,440.00 pCi/L,1.5 pCi/L,
+1551,Tualatin Valley Water District,Total trihalomethanes (TTHMs)†,31.9 ppb,0.15 ppb,80 ppb
+1552,Tualatin Valley Water District,Barium,3.05 ppb,700 ppb,"2,000 ppb"
+1553,Tualatin Valley Water District,Chlorate,18.8 ppb,210 ppb,
+1554,Tualatin Valley Water District,Chromium (total),0.260 ppb,,100 ppb
+1555,Tualatin Valley Water District,Fluoride,0.508 ppm,,4 ppm
+1556,Tualatin Valley Water District,Manganese,4.65 ppb,100 ppb,
+1557,Tualatin Valley Water District,Strontium,0.0362 ppb,"1,500 ppb",
+1558,Tualatin Valley Water District,Uranium,0.01 pCi/L,0.43 pCi/L,20 pCi/L
+1559,Tualatin Valley Water District,Vanadium,3.17 ppb,21 ppb,
+1560,Tualatin Valley Water District,None,,,
+1561,West Laurel Acres Water Company,Haloacetic acids (HAA5)†,0.600 ppb,0.1 ppb,60 ppb
+1562,West Laurel Acres Water Company,Nitrate,0.460 ppm,0.14 ppm,10 ppm
+1563,West Laurel Acres Water Company,Nitrate and nitrite,0.613 ppm,0.14 ppm,10 ppm
+1564,West Laurel Acres Water Company,Barium,7.17 ppb,700 ppb,"2,000 ppb"
+1565,West Laurel Acres Water Company,None,,,
+1566,West Slope Water District,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+1567,West Slope Water District,Chromium (hexavalent),0.0521 ppb,0.02 ppb,
+1568,West Slope Water District,Haloacetic acids (HAA5)†,28.3 ppb,0.1 ppb,60 ppb
+1569,West Slope Water District,Haloacetic acids (HAA9)†,30.9 ppb,0.06 ppb,
+1570,West Slope Water District,Total trihalomethanes (TTHMs)†,31.4 ppb,0.15 ppb,80 ppb
+1571,West Slope Water District,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+1572,West Slope Water District,Chlorate,26.9 ppb,210 ppb,
+1573,West Slope Water District,Chromium (total),0.140 ppb,,100 ppb
+1574,West Slope Water District,Fluoride*,0.0767 ppm,,4 ppm
+1575,West Slope Water District,Manganese,4.43 ppb,100 ppb,
+1576,West Slope Water District,Nitrate*,0.111 ppm,0.14 ppm,10 ppm
+1577,West Slope Water District,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+1578,West Slope Water District,Quinoline,0.00750 ppb,,
+1579,West Slope Water District,Strontium,0.0199 ppb,"1,500 ppb",
+1580,West Slope Water District,Vanadium,2.32 ppb,21 ppb,
+1581,West Slope Water District,None,,,
+1582,Westview Mobile Estates,Barium,1.89 ppb,700 ppb,"2,000 ppb"
+1583,Westview Mobile Estates,Fluoride,0.254 ppm,,4 ppm
+1584,Westview Mobile Estates,Nitrate,0.223 ppm,0.14 ppm,10 ppm
+1585,Westview Mobile Estates,None,,,
+1586,Wolsborn Farms Water District,Nitrate,2.48 ppm,0.14 ppm,10 ppm
+1587,Wolsborn Farms Water District,Nitrate and nitrite,2.32 ppm,0.14 ppm,10 ppm
+1588,Wolsborn Farms Water District,Barium,19.5 ppb,700 ppb,"2,000 ppb"
+1589,Wolsborn Farms Water District,Ethylbenzene,1.23 ppb,300 ppb,700 ppb
+1590,Wolsborn Farms Water District,Xylenes (total),5.41 ppb,"1,800 ppb","10,000 ppb"
+1591,Wolsborn Farms Water District,None,,,
+1592,Black Canyon City Water Improvement District,Arsenic,3.65 ppb,0.004 ppb,10 ppb
+1593,Black Canyon City Water Improvement District,Cadmium,0.467 ppb,0.04 ppb,5 ppb
+1594,Black Canyon City Water Improvement District,Haloacetic acids (HAA5)†,4.16 ppb,0.1 ppb,60 ppb
+1595,Black Canyon City Water Improvement District,Nitrate,1.61 ppm,0.14 ppm,10 ppm
+1596,Black Canyon City Water Improvement District,Total trihalomethanes (TTHMs)†,18.8 ppb,0.15 ppb,80 ppb
+1597,Black Canyon City Water Improvement District,Barium,26.0 ppb,700 ppb,"2,000 ppb"
+1598,Black Canyon City Water Improvement District,Fluoride,0.547 ppm,,4 ppm
+1599,Black Canyon City Water Improvement District,None,,,
+1600,"Dayville, City of",Arsenic,1.17 ppb,0.004 ppb,10 ppb
+1601,"Dayville, City of",Haloacetic acids (HAA5)†,1.85 ppb,0.1 ppb,60 ppb
+1602,"Dayville, City of",Nitrate,0.825 ppm,0.14 ppm,10 ppm
+1603,"Dayville, City of",Nitrate and nitrite,0.898 ppm,0.14 ppm,10 ppm
+1604,"Dayville, City of","Radium, combined (-226 &amp; -228)",2.90 pCi/L,0.05 pCi/L,5 pCi/L
+1605,"Dayville, City of",Total trihalomethanes (TTHMs)†,5.96 ppb,0.15 ppb,80 ppb
+1606,"Dayville, City of",Barium,2.62 ppb,700 ppb,"2,000 ppb"
+1607,"Dayville, City of",Selenium,0.539 ppb,30 ppb,50 ppb
+1608,"Dayville, City of",None,,,
+1609,"John Day, City of",Arsenic,0.890 ppb,0.004 ppb,10 ppb
+1610,"John Day, City of",Nitrate,0.481 ppm,0.14 ppm,10 ppm
+1611,"John Day, City of",Nitrate and nitrite,0.392 ppm,0.14 ppm,10 ppm
+1612,"John Day, City of",Total trihalomethanes (TTHMs)†,6.44 ppb,0.15 ppb,80 ppb
+1613,"John Day, City of",Barium,39.9 ppb,700 ppb,"2,000 ppb"
+1614,"John Day, City of",Chromium (total),4.80 ppb,,100 ppb
+1615,"John Day, City of",None,,,
+1616,"Long Creek, City Of",Arsenic,1.15 ppb,0.004 ppb,10 ppb
+1617,"Long Creek, City Of",Nitrate,0.962 ppm,0.14 ppm,10 ppm
+1618,"Long Creek, City Of",Nitrate and nitrite,0.434 ppm,0.14 ppm,10 ppm
+1619,"Long Creek, City Of",Barium,1.12 ppb,700 ppb,"2,000 ppb"
+1620,"Long Creek, City Of",Chromium (total),1.64 ppb,,100 ppb
+1621,"Long Creek, City Of",None,,,
+1622,"Monument, City of",Arsenic,1.09 ppb,0.004 ppb,10 ppb
+1623,"Monument, City of",Haloacetic acids (HAA5)†,17.9 ppb,0.1 ppb,60 ppb
+1624,"Monument, City of",Nitrate,0.402 ppm,0.14 ppm,10 ppm
+1625,"Monument, City of",Nitrate and nitrite,0.373 ppm,0.14 ppm,10 ppm
+1626,"Monument, City of",Total trihalomethanes (TTHMs)†,26.8 ppb,0.15 ppb,80 ppb
+1627,"Monument, City of",Barium,1.91 ppb,700 ppb,"2,000 ppb"
+1628,"Monument, City of",None,,,
+1629,"Mount Vernon, City of",Total trihalomethanes (TTHMs)†,1.17 ppb,0.15 ppb,80 ppb
+1630,"Mount Vernon, City of",Nitrate,0.236 ppm,0.14 ppm,10 ppm
+1631,"Mount Vernon, City of",None,,,
+1632,Prairie City,Arsenic,0.259 ppb,0.004 ppb,10 ppb
+1633,Prairie City,Bromodichloromethane,5.40 ppb,0.06 ppb,
+1634,Prairie City,Bromoform,3.52 ppb,0.5 ppb,
+1635,Prairie City,Chloroform,3.01 ppb,0.4 ppb,
+1636,Prairie City,Dibromoacetic acid,1.25 ppb,0.04 ppb,
+1637,Prairie City,Dibromochloromethane,7.98 ppb,0.1 ppb,
+1638,Prairie City,Dichloroacetic acid,0.800 ppb,0.2 ppb,
+1639,Prairie City,Haloacetic acids (HAA5)†,2.05 ppb,0.1 ppb,60 ppb
+1640,Prairie City,"Radium, combined (-226 &amp; -228)",1.90 pCi/L,0.05 pCi/L,5 pCi/L
+1641,Prairie City,Total trihalomethanes (TTHMs)†,19.9 ppb,0.15 ppb,80 ppb
+1642,Prairie City,Barium,121.0 ppb,700 ppb,"2,000 ppb"
+1643,Prairie City,Fluoride,0.807 ppm,,4 ppm
+1644,Prairie City,Manganese,14.2 ppb,100 ppb,
+1645,Prairie City,Nitrate,0.145 ppm,0.14 ppm,10 ppm
+1646,Prairie City,Nitrate and nitrite,0.147 ppm,0.14 ppm,10 ppm
+1647,Prairie City,Nitrite,0.00200 ppm,,1 ppm
+1648,Prairie City,None,,,
+1649,Sagedale Apartments,Arsenic,5.00 ppb,0.004 ppb,10 ppb
+1650,Sagedale Apartments,Bromochloroacetic acid,0.750 ppb,0.02 ppb,
+1651,Sagedale Apartments,Bromodichloromethane,0.460 ppb,0.06 ppb,
+1652,Sagedale Apartments,Dibromochloromethane,0.260 ppb,0.1 ppb,
+1653,Sagedale Apartments,Dichloroacetic acid,0.700 ppb,0.2 ppb,
+1654,Sagedale Apartments,Haloacetic acids (HAA5)†,0.700 ppb,0.1 ppb,60 ppb
+1655,Sagedale Apartments,Nitrate,7.70 ppm,0.14 ppm,10 ppm
+1656,Sagedale Apartments,Nitrate and nitrite,6.50 ppm,0.14 ppm,10 ppm
+1657,Sagedale Apartments,Total trihalomethanes (TTHMs)†,1.20 ppb,0.15 ppb,80 ppb
+1658,Sagedale Apartments,Atrazine,0.0233 ppb,0.1 ppb,3 ppb
+1659,Sagedale Apartments,Bromacil,0.233 ppb,,
+1660,Sagedale Apartments,Chloroform,0.480 ppb,0.4 ppb,
+1661,Sagedale Apartments,Chromium (total),1.000 ppb,,100 ppb
+1662,Sagedale Apartments,Fluoride,0.210 ppm,,4 ppm
+1663,Sagedale Apartments,Uranium,0.00 pCi/L,0.43 pCi/L,20 pCi/L
+1664,Sagedale Apartments,None,,,
+1665,"Seneca, City of",Arsenic,1.55 ppb,0.004 ppb,10 ppb
+1666,"Seneca, City of",Bromodichloromethane,1.19 ppb,0.06 ppb,
+1667,"Seneca, City of",Chloroform,1.36 ppb,0.4 ppb,
+1668,"Seneca, City of",Dibromoacetic acid,0.902 ppb,0.04 ppb,
+1669,"Seneca, City of",Dibromochloromethane,1.81 ppb,0.1 ppb,
+1670,"Seneca, City of",Dichloroacetic acid,0.455 ppb,0.2 ppb,
+1671,"Seneca, City of",Haloacetic acids (HAA5)†,1.000 ppb,0.1 ppb,60 ppb
+1672,"Seneca, City of",Nitrate,3.29 ppm,0.14 ppm,10 ppm
+1673,"Seneca, City of","Radium, combined (-226 &amp; -228)",0.90 pCi/L,0.05 pCi/L,5 pCi/L
+1674,"Seneca, City of",Total trihalomethanes (TTHMs)†,5.18 ppb,0.15 ppb,80 ppb
+1675,"Seneca, City of",Barium,170.0 ppb,700 ppb,"2,000 ppb"
+1676,"Seneca, City of",Bromoform,0.810 ppb,0.5 ppb,
+1677,"Seneca, City of",Chromium (total),1.40 ppb,,100 ppb
+1678,"Seneca, City of",Fluoride,0.472 ppm,,4 ppm
+1679,"Seneca, City of",Manganese,90.0 ppb,100 ppb,
+1680,"Seneca, City of",Monobromoacetic acid,0.148 ppb,25 ppb,
+1681,"Seneca, City of",Selenium,9.30 ppb,30 ppb,50 ppb
+1682,"Seneca, City of",Trichloroacetic acid,0.183 ppb,0.1 ppb,
+1683,"Seneca, City of",None,,,
+1684,"Tillamook Water Department, City of",Haloacetic acids (HAA5)†,1.04 ppb,0.1 ppb,60 ppb
+1685,"Tillamook Water Department, City of",Nitrate,1.40 ppm,0.14 ppm,10 ppm
+1686,"Tillamook Water Department, City of",Nitrate and nitrite,1.65 ppm,0.14 ppm,10 ppm
+1687,"Tillamook Water Department, City of",Total trihalomethanes (TTHMs)†,4.91 ppb,0.15 ppb,80 ppb
+1688,"Tillamook Water Department, City of",None,,,
+1689,Manzanita Water Department,Nitrate*,0.749 ppm,0.14 ppm,10 ppm
+1690,Manzanita Water Department,Total trihalomethanes (TTHMs)†,1.22 ppb,0.15 ppb,80 ppb
+1691,Manzanita Water Department,Barium*,2.18 ppb,700 ppb,"2,000 ppb"
+1692,Manzanita Water Department,Haloacetic acids (HAA5)†,0.200 ppb,0.1 ppb,60 ppb
+1693,Manzanita Water Department,None,,,
+1694,Rockaway Beach PWS,Barium,14.4 ppb,700 ppb,"2,000 ppb"
+1695,Rockaway Beach PWS,Chloroform,0.0688 ppb,0.4 ppb,
+1696,Rockaway Beach PWS,Chromium (total),1.74 ppb,,100 ppb
+1697,Rockaway Beach PWS,Nitrate and nitrite,0.163 ppm,0.14 ppm,10 ppm
+1698,Rockaway Beach PWS,Xylenes (total),0.260 ppb,"1,800 ppb","10,000 ppb"
+1699,Rockaway Beach PWS,None,,,
+1700,Netarts Water District,Haloacetic acids (HAA5)†,9.61 ppb,0.1 ppb,60 ppb
+1701,Netarts Water District,Nitrate,0.470 ppm,0.14 ppm,10 ppm
+1702,Netarts Water District,Nitrate and nitrite,0.656 ppm,0.14 ppm,10 ppm
+1703,Netarts Water District,Total trihalomethanes (TTHMs)†,27.3 ppb,0.15 ppb,80 ppb
+1704,Netarts Water District,Barium,9.30 ppb,700 ppb,"2,000 ppb"
+1705,Netarts Water District,Fluoride,0.110 ppm,,4 ppm
+1706,Netarts Water District,None,,,
+1707,"Nehalem, City of",Haloacetic acids (HAA5)†,41.0 ppb,0.1 ppb,60 ppb
+1708,"Nehalem, City of",Nitrate,0.816 ppm,0.14 ppm,10 ppm
+1709,"Nehalem, City of",Nitrate and nitrite,1.30 ppm,0.14 ppm,10 ppm
+1710,"Nehalem, City of",Total trihalomethanes (TTHMs)†,55.8 ppb,0.15 ppb,80 ppb
+1711,"Nehalem, City of",Barium,4.55 ppb,700 ppb,"2,000 ppb"
+1712,"Nehalem, City of",None,,,
+1713,Bley-was Heights Water System,Nitrate,0.212 ppm,0.14 ppm,10 ppm
+1714,Bley-was Heights Water System,None,,,
+1715,Bly Water District,Nitrate,0.314 ppm,0.14 ppm,10 ppm
+1716,Bly Water District,Nitrate and nitrite,0.481 ppm,0.14 ppm,10 ppm
+1717,Bly Water District,Barium,3.53 ppb,700 ppb,"2,000 ppb"
+1718,Bly Water District,Chromium (total),1.28 ppb,,100 ppb
+1719,Bly Water District,Total trihalomethanes (TTHMs)†,0.279 ppb,0.15 ppb,80 ppb
+1720,Bly Water District,None,,,
+1721,Chiloquin Municipal Water Department,Arsenic,2.16 ppb,0.004 ppb,10 ppb
+1722,Chiloquin Municipal Water Department,Nitrate,0.0492 ppm,0.14 ppm,10 ppm
+1723,Chiloquin Municipal Water Department,None,,,
+1724,Collier Lane Homeowners Association,Arsenic,4.56 ppb,0.004 ppb,10 ppb
+1725,Collier Lane Homeowners Association,"Radium, combined (-226 &amp; -228)",2.30 pCi/L,0.05 pCi/L,5 pCi/L
+1726,Collier Lane Homeowners Association,Nitrate,0.129 ppm,0.14 ppm,10 ppm
+1727,Collier Lane Homeowners Association,Nitrate and nitrite,0.236 ppm,0.14 ppm,10 ppm
+1728,Collier Lane Homeowners Association,Selenium,0.276 ppb,30 ppb,50 ppb
+1729,Collier Lane Homeowners Association,None,,,
+1730,Crescent Water Association,Bromochloroacetic acid,1.21 ppb,0.02 ppb,
+1731,Crescent Water Association,Bromodichloromethane,3.14 ppb,0.06 ppb,
+1732,Crescent Water Association,Chloroform,17.6 ppb,0.4 ppb,
+1733,Crescent Water Association,Dibromochloromethane,0.427 ppb,0.1 ppb,
+1734,Crescent Water Association,Dichloroacetic acid,8.06 ppb,0.2 ppb,
+1735,Crescent Water Association,Haloacetic acids (HAA5)†,15.6 ppb,0.1 ppb,60 ppb
+1736,Crescent Water Association,Total trihalomethanes (TTHMs)†,21.1 ppb,0.15 ppb,80 ppb
+1737,Crescent Water Association,Trichloroacetic acid,7.53 ppb,0.1 ppb,
+1738,Crescent Water Association,None,,,
+1739,Country Crossroads Mobile Home Park,Bromoform,2.19 ppb,0.5 ppb,
+1740,Country Crossroads Mobile Home Park,Dibromoacetic acid,2.37 ppb,0.04 ppb,
+1741,Country Crossroads Mobile Home Park,Haloacetic acids (HAA5)†,2.37 ppb,0.1 ppb,60 ppb
+1742,Country Crossroads Mobile Home Park,Total trihalomethanes (TTHMs)†,1.37 ppb,0.15 ppb,80 ppb
+1743,Country Crossroads Mobile Home Park,Barium,467.0 ppb,700 ppb,"2,000 ppb"
+1744,Country Crossroads Mobile Home Park,Cyanide,60.0 ppb,,200 ppb
+1745,Country Crossroads Mobile Home Park,Dibromochloromethane,0.144 ppb,0.1 ppb,
+1746,Country Crossroads Mobile Home Park,Fluoride,0.590 ppm,,4 ppm
+1747,Country Crossroads Mobile Home Park,Manganese,105.4 ppb,100 ppb,
+1748,Country Crossroads Mobile Home Park,Nitrate,0.0220 ppm,0.14 ppm,10 ppm
+1749,Country Crossroads Mobile Home Park,None,,,
+1750,Falcon Heights,Nitrate,0.312 ppm,0.14 ppm,10 ppm
+1751,Falcon Heights,Nitrate and nitrite,0.563 ppm,0.14 ppm,10 ppm
+1752,Falcon Heights,Barium,0.682 ppb,700 ppb,"2,000 ppb"
+1753,Falcon Heights,Nitrite,0.157 ppm,,1 ppm
+1754,Falcon Heights,Total trihalomethanes (TTHMs)†,0.156 ppb,0.15 ppb,80 ppb
+1755,Falcon Heights,None,,,
+1756,Gilchrist Water System LLC,Barium,1.000 ppb,700 ppb,"2,000 ppb"
+1757,Gilchrist Water System LLC,Di(2-ethylhexyl) phthalate,0.375 ppb,3 ppb,6 ppb
+1758,Gilchrist Water System LLC,Nitrate,0.0442 ppm,0.14 ppm,10 ppm
+1759,Gilchrist Water System LLC,None,,,
+1760,Keno Water Co. Inc.,Arsenic,0.585 ppb,0.004 ppb,10 ppb
+1761,Keno Water Co. Inc.,"Radium, combined (-226 &amp; -228)",0.23 pCi/L,0.05 pCi/L,5 pCi/L
+1762,Keno Water Co. Inc.,Total trihalomethanes (TTHMs)†,2.89 ppb,0.15 ppb,80 ppb
+1763,Keno Water Co. Inc.,Barium,5.26 ppb,700 ppb,"2,000 ppb"
+1764,Keno Water Co. Inc.,Nitrate,0.184 ppm,0.14 ppm,10 ppm
+1765,Keno Water Co. Inc.,None,,,
+1766,Klamath Falls Water Department,Arsenic,6.23 ppb,0.004 ppb,10 ppb
+1767,Klamath Falls Water Department,Chromium (hexavalent),0.170 ppb,0.02 ppb,
+1768,Klamath Falls Water Department,Haloacetic acids (HAA5)†,0.450 ppb,0.1 ppb,60 ppb
+1769,Klamath Falls Water Department,Nitrate and nitrite,0.378 ppm,0.14 ppm,10 ppm
+1770,Klamath Falls Water Department,Total trihalomethanes (TTHMs)†,0.483 ppb,0.15 ppb,80 ppb
+1771,Klamath Falls Water Department,"1,4-Dioxane",0.00614 ppb,0.35 ppb,
+1772,Klamath Falls Water Department,Barium,1.52 ppb,700 ppb,"2,000 ppb"
+1773,Klamath Falls Water Department,Chromium (total),0.120 ppb,,100 ppb
+1774,Klamath Falls Water Department,Germanium,0.0679 ppb,,
+1775,Klamath Falls Water Department,Haloacetic acids (HAA9)†,0.0875 ppb,0.06 ppb,
+1776,Klamath Falls Water Department,Manganese,37.4 ppb,100 ppb,
+1777,Klamath Falls Water Department,Molybdenum,1.51 ppb,40 ppb,
+1778,Klamath Falls Water Department,Nitrate,0.250 ppm,0.14 ppm,10 ppm
+1779,Klamath Falls Water Department,Strontium,0.0778 ppb,"1,500 ppb",
+1780,Klamath Falls Water Department,Vanadium,9.36 ppb,21 ppb,
+1781,Klamath Falls Water Department,None,,,
+1782,Iacl Lakeside Mobile Home Park Llc,Bromodichloromethane*,11.6 ppb,0.06 ppb,
+1783,Iacl Lakeside Mobile Home Park Llc,Chloroform*,34.7 ppb,0.4 ppb,
+1784,Iacl Lakeside Mobile Home Park Llc,Dibromoacetic acid*,1.17 ppb,0.04 ppb,
+1785,Iacl Lakeside Mobile Home Park Llc,Dibromochloromethane*,4.15 ppb,0.1 ppb,
+1786,Iacl Lakeside Mobile Home Park Llc,Dichloroacetic acid*,20.9 ppb,0.2 ppb,
+1787,Iacl Lakeside Mobile Home Park Llc,Haloacetic acids (HAA5)*†,27.5 ppb,0.1 ppb,60 ppb
+1788,Iacl Lakeside Mobile Home Park Llc,Total trihalomethanes (TTHMs)*†,50.7 ppb,0.15 ppb,80 ppb
+1789,Iacl Lakeside Mobile Home Park Llc,Trichloroacetic acid*,4.43 ppb,0.1 ppb,
+1790,Iacl Lakeside Mobile Home Park Llc,Bromoform*,0.0978 ppb,0.5 ppb,
+1791,Iacl Lakeside Mobile Home Park Llc,Monochloroacetic acid*,0.913 ppb,53 ppb,
+1792,Iacl Lakeside Mobile Home Park Llc,p-Dichlorobenzene*,0.800 ppb,6 ppb,75 ppb
+1793,Malin Municipal Water,Arsenic,9.26 ppb,0.004 ppb,10 ppb
+1794,Malin Municipal Water,Nitrate and nitrite,0.438 ppm,0.14 ppm,10 ppm
+1795,Malin Municipal Water,Barium,2.58 ppb,700 ppb,"2,000 ppb"
+1796,Malin Municipal Water,Nitrate,0.270 ppm,0.14 ppm,10 ppm
+1797,Malin Municipal Water,Uranium,0.47 pCi/L,0.43 pCi/L,20 pCi/L
+1798,Malin Municipal Water,None,,,
+1799,Merrill Water Department,"Radium, combined (-226 &amp; -228)",0.14 pCi/L,0.05 pCi/L,5 pCi/L
+1800,Merrill Water Department,Nitrate,0.265 ppm,0.14 ppm,10 ppm
+1801,Merrill Water Department,None,,,
+1802,Nps Annie Springs,Total trihalomethanes (TTHMs)†,5.64 ppb,0.15 ppb,80 ppb
+1803,Nps Annie Springs,Barium,6.40 ppb,700 ppb,"2,000 ppb"
+1804,Nps Annie Springs,Xylenes (total),0.528 ppb,"1,800 ppb","10,000 ppb"
+1805,Nps Annie Springs,None,,,
+1806,Oregon Shores Beach Club Inc.,Fluoride,0.0640 ppm,,4 ppm
+1807,Oregon Shores Beach Club Inc.,Nitrate,0.0442 ppm,0.14 ppm,10 ppm
+1808,Oregon Shores Beach Club Inc.,None,,,
+1809,Oregon Shores Recreation Club,Barium,5.84 ppb,700 ppb,"2,000 ppb"
+1810,Oregon Shores Recreation Club,Cyanide,15.2 ppb,,200 ppb
+1811,Oregon Shores Recreation Club,Nitrate,0.214 ppm,0.14 ppm,10 ppm
+1812,Oregon Shores Recreation Club,None,,,
+1813,Dumas-pine Grove Water Association,Chloroform,2.12 ppb,0.4 ppb,
+1814,Dumas-pine Grove Water Association,Dichloroacetic acid,1.000 ppb,0.2 ppb,
+1815,Dumas-pine Grove Water Association,Haloacetic acids (HAA5)†,1.000 ppb,0.1 ppb,60 ppb
+1816,Dumas-pine Grove Water Association,Total trihalomethanes (TTHMs)†,2.12 ppb,0.15 ppb,80 ppb
+1817,Dumas-pine Grove Water Association,Barium,103.2 ppb,700 ppb,"2,000 ppb"
+1818,Dumas-pine Grove Water Association,Chromium (total),0.433 ppb,,100 ppb
+1819,Dumas-pine Grove Water Association,Fluoride,0.149 ppm,,4 ppm
+1820,Dumas-pine Grove Water Association,None,,,
+1821,Pinecrest Water Company,Nitrate,0.420 ppm,0.14 ppm,10 ppm
+1822,Pinecrest Water Company,None,,,
+1823,Pristine Water Source LLC,Arsenic,1.06 ppb,0.004 ppb,10 ppb
+1824,Pristine Water Source LLC,None,,,
+1825,Round Lake Water Utilities,Arsenic,1.72 ppb,0.004 ppb,10 ppb
+1826,Round Lake Water Utilities,Total trihalomethanes (TTHMs)†,0.724 ppb,0.15 ppb,80 ppb
+1827,Round Lake Water Utilities,Barium,3.87 ppb,700 ppb,"2,000 ppb"
+1828,Round Lake Water Utilities,Chromium (total),1.58 ppb,,100 ppb
+1829,Round Lake Water Utilities,Fluoride,1.32 ppm,,4 ppm
+1830,Round Lake Water Utilities,Nitrate,0.0733 ppm,0.14 ppm,10 ppm
+1831,Round Lake Water Utilities,Uranium,0.13 pCi/L,0.43 pCi/L,20 pCi/L
+1832,Round Lake Water Utilities,None,,,
+1833,Oregon Water Utilities - Mountain Lakes,Arsenic,1.40 ppb,0.004 ppb,10 ppb
+1834,Oregon Water Utilities - Mountain Lakes,Nitrate,0.602 ppm,0.14 ppm,10 ppm
+1835,Oregon Water Utilities - Mountain Lakes,Nitrate and nitrite,2.05 ppm,0.14 ppm,10 ppm
+1836,Oregon Water Utilities - Mountain Lakes,Barium,7.30 ppb,700 ppb,"2,000 ppb"
+1837,Oregon Water Utilities - Mountain Lakes,None,,,
+1838,Shield Crest Condos,Nitrate,0.0835 ppm,0.14 ppm,10 ppm
+1839,Shield Crest Condos,None,,,
+1840,Shield Crest Water Association,Arsenic,1.68 ppb,0.004 ppb,10 ppb
+1841,Shield Crest Water Association,Nitrate and nitrite,0.552 ppm,0.14 ppm,10 ppm
+1842,Shield Crest Water Association,"Radium, combined (-226 &amp; -228)",0.15 pCi/L,0.05 pCi/L,5 pCi/L
+1843,Shield Crest Water Association,Barium,0.708 ppb,700 ppb,"2,000 ppb"
+1844,Shield Crest Water Association,Chromium (total),1.48 ppb,,100 ppb
+1845,Shield Crest Water Association,Nitrate,0.270 ppm,0.14 ppm,10 ppm
+1846,Shield Crest Water Association,Selenium,0.660 ppb,30 ppb,50 ppb
+1847,Shield Crest Water Association,None,,,
+1848,Skyline View District Improvement,Total trihalomethanes (TTHMs)†,0.735 ppb,0.15 ppb,80 ppb
+1849,Skyline View District Improvement,Nitrate,0.250 ppm,0.14 ppm,10 ppm
+1850,Skyline View District Improvement,None,,,
+1851,Sportsmans Paradise,"1,2,3-Trichloropropane",0.00460 ppb,0.0007 ppb,
+1852,Sportsmans Paradise,Arsenic,4.70 ppb,0.004 ppb,10 ppb
+1853,Sportsmans Paradise,Bromodichloromethane,0.192 ppb,0.06 ppb,
+1854,Sportsmans Paradise,Chloroform,5.00 ppb,0.4 ppb,
+1855,Sportsmans Paradise,Manganese,736.7 ppb,100 ppb,
+1856,Sportsmans Paradise,"Radium, combined (-226 &amp; -228)",2.96 pCi/L,0.05 pCi/L,5 pCi/L
+1857,Sportsmans Paradise,Barium,52.0 ppb,700 ppb,"2,000 ppb"
+1858,Sportsmans Paradise,Fluoride,0.260 ppm,,4 ppm
+1859,Sportsmans Paradise,None,,,
+1860,Sprague River Water Association,Nitrate,0.176 ppm,0.14 ppm,10 ppm
+1861,Sprague River Water Association,None,,,
+1862,City of Milwaukie,Chromium (hexavalent),1.09 ppb,0.02 ppb,
+1863,City of Milwaukie,Haloacetic acids (HAA5)†,0.233 ppb,0.1 ppb,60 ppb
+1864,City of Milwaukie,Haloacetic acids (HAA9)†,2.73 ppb,0.06 ppb,
+1865,City of Milwaukie,Nitrate,2.20 ppm,0.14 ppm,10 ppm
+1866,City of Milwaukie,Nitrate and nitrite,2.00 ppm,0.14 ppm,10 ppm
+1867,City of Milwaukie,Total trihalomethanes (TTHMs)†,5.03 ppb,0.15 ppb,80 ppb
+1868,City of Milwaukie,"1,4-Dioxane",0.0351 ppb,0.35 ppb,
+1869,City of Milwaukie,Barium,3.94 ppb,700 ppb,"2,000 ppb"
+1870,City of Milwaukie,Chromium (total),0.827 ppb,,100 ppb
+1871,City of Milwaukie,Fluoride,0.0438 ppm,,4 ppm
+1872,City of Milwaukie,Manganese,0.867 ppb,100 ppb,
+1873,City of Milwaukie,Strontium,0.0931 ppb,"1,500 ppb",
+1874,City of Milwaukie,Vanadium,9.38 ppb,21 ppb,
+1875,City of Milwaukie,None,,,
+1876,City of Wilsonville,Bromate,1.29 ppb,0.1 ppb,10 ppb
+1877,City of Wilsonville,Chromium (hexavalent),0.0580 ppb,0.02 ppb,
+1878,City of Wilsonville,Haloacetic acids (HAA5)†,5.02 ppb,0.1 ppb,60 ppb
+1879,City of Wilsonville,Haloacetic acids (HAA9)†,8.21 ppb,0.06 ppb,
+1880,City of Wilsonville,Nitrate,0.499 ppm,0.14 ppm,10 ppm
+1881,City of Wilsonville,Nitrate and nitrite,0.499 ppm,0.14 ppm,10 ppm
+1882,City of Wilsonville,Total trihalomethanes (TTHMs)†,13.0 ppb,0.15 ppb,80 ppb
+1883,City of Wilsonville,Barium,5.50 ppb,700 ppb,"2,000 ppb"
+1884,City of Wilsonville,Chlorate,92.3 ppb,210 ppb,
+1885,City of Wilsonville,Chromium (total),0.00588 ppb,,100 ppb
+1886,City of Wilsonville,Manganese,3.12 ppb,100 ppb,
+1887,City of Wilsonville,Strontium,0.0380 ppb,"1,500 ppb",
+1888,City of Wilsonville,Vanadium,1.59 ppb,21 ppb,
+1889,City of Wilsonville,None,,,
+1890,Bend Water Department,Arsenic,0.664 ppb,0.004 ppb,10 ppb
+1891,Bend Water Department,Chromium (hexavalent),0.477 ppb,0.02 ppb,
+1892,Bend Water Department,Haloacetic acids (HAA5)†,9.81 ppb,0.1 ppb,60 ppb
+1893,Bend Water Department,Haloacetic acids (HAA9)†,6.49 ppb,0.06 ppb,
+1894,Bend Water Department,Total trihalomethanes (TTHMs)†,8.50 ppb,0.15 ppb,80 ppb
+1895,Bend Water Department,"1,4-Dioxane",0.00773 ppb,0.35 ppb,
+1896,Bend Water Department,Barium,1.33 ppb,700 ppb,"2,000 ppb"
+1897,Bend Water Department,Chlorate,11.0 ppb,210 ppb,
+1898,Bend Water Department,Chromium (total),0.429 ppb,,100 ppb
+1899,Bend Water Department,Fluoride,0.0400 ppm,,4 ppm
+1900,Bend Water Department,Manganese,0.205 ppb,100 ppb,
+1901,Bend Water Department,Nitrate,0.0747 ppm,0.14 ppm,10 ppm
+1902,Bend Water Department,Nitrate and nitrite,0.1000 ppm,0.14 ppm,10 ppm
+1903,Bend Water Department,Strontium,0.0297 ppb,"1,500 ppb",
+1904,Bend Water Department,Vanadium,10.3 ppb,21 ppb,
+1905,Bend Water Department,None,,,
+1906,Redmond Water Department,Chromium (hexavalent),1.23 ppb,0.02 ppb,
+1907,Redmond Water Department,Haloacetic acids (HAA9)†,0.325 ppb,0.06 ppb,
+1908,Redmond Water Department,Nitrate,0.677 ppm,0.14 ppm,10 ppm
+1909,Redmond Water Department,Total trihalomethanes (TTHMs)†,0.870 ppb,0.15 ppb,80 ppb
+1910,Redmond Water Department,Chromium (total),1.20 ppb,,100 ppb
+1911,Redmond Water Department,Di(2-ethylhexyl) phthalate,0.0276 ppb,3 ppb,6 ppb
+1912,Redmond Water Department,Manganese,0.0429 ppb,100 ppb,
+1913,Redmond Water Department,Molybdenum,0.311 ppb,40 ppb,
+1914,Redmond Water Department,Strontium,0.0553 ppb,"1,500 ppb",
+1915,Redmond Water Department,Uranium,0.38 pCi/L,0.43 pCi/L,20 pCi/L
+1916,Redmond Water Department,Vanadium,18.5 ppb,21 ppb,
+1917,Redmond Water Department,None,,,
+1918,Avion Water Company - Avion,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+1919,Avion Water Company - Avion,Chromium (hexavalent),0.856 ppb,0.02 ppb,
+1920,Avion Water Company - Avion,Barium,1.17 ppb,700 ppb,"2,000 ppb"
+1921,Avion Water Company - Avion,Chromium (total),0.729 ppb,,100 ppb
+1922,Avion Water Company - Avion,Fluoride,0.103 ppm,,4 ppm
+1923,Avion Water Company - Avion,Molybdenum,0.143 ppb,40 ppb,
+1924,Avion Water Company - Avion,Nitrate,0.0825 ppm,0.14 ppm,10 ppm
+1925,Avion Water Company - Avion,Nitrate and nitrite,0.122 ppm,0.14 ppm,10 ppm
+1926,Avion Water Company - Avion,Strontium,0.0256 ppb,"1,500 ppb",
+1927,Avion Water Company - Avion,Vanadium,16.0 ppb,21 ppb,
+1928,Avion Water Company - Avion,None,,,
+1929,"Prineville, City of",Arsenic,0.333 ppb,0.004 ppb,10 ppb
+1930,"Prineville, City of",Haloacetic acids (HAA5)†,0.650 ppb,0.1 ppb,60 ppb
+1931,"Prineville, City of",Nitrate,1.17 ppm,0.14 ppm,10 ppm
+1932,"Prineville, City of",Nitrate and nitrite,0.807 ppm,0.14 ppm,10 ppm
+1933,"Prineville, City of","Radium, combined (-226 &amp; -228)",0.23 pCi/L,0.05 pCi/L,5 pCi/L
+1934,"Prineville, City of",Total trihalomethanes (TTHMs)†,5.10 ppb,0.15 ppb,80 ppb
+1935,"Prineville, City of",Uranium,0.89 pCi/L,0.43 pCi/L,20 pCi/L
+1936,"Prineville, City of",Barium,2.00 ppb,700 ppb,"2,000 ppb"
+1937,"Prineville, City of",Chromium (total),0.667 ppb,,100 ppb
+1938,"Prineville, City of",Fluoride,0.814 ppm,,4 ppm
+1939,"Prineville, City of",None,,,
+1940,Roats Water System,Arsenic,2.87 ppb,0.004 ppb,10 ppb
+1941,Roats Water System,Barium,1.000 ppb,700 ppb,"2,000 ppb"
+1942,Roats Water System,Fluoride,0.149 ppm,,4 ppm
+1943,Roats Water System,Nitrate,0.0279 ppm,0.14 ppm,10 ppm
+1944,Roats Water System,Nitrate and nitrite,0.0800 ppm,0.14 ppm,10 ppm
+1945,Roats Water System,None,,,
+1946,Agate Water System,Arsenic,4.03 ppb,0.004 ppb,10 ppb
+1947,Agate Water System,Barium,1.33 ppb,700 ppb,"2,000 ppb"
+1948,Agate Water System,Chromium (total),0.800 ppb,,100 ppb
+1949,Agate Water System,Fluoride,0.110 ppm,,4 ppm
+1950,Agate Water System,Nitrate,0.0663 ppm,0.14 ppm,10 ppm
+1951,Agate Water System,Nitrate and nitrite,0.0333 ppm,0.14 ppm,10 ppm
+1952,Agate Water System,Selenium,1.20 ppb,30 ppb,50 ppb
+1953,Agate Water System,None,,,
+1954,Sunriver Water LLC/sunriver Utilities,Arsenic,3.33 ppb,0.004 ppb,10 ppb
+1955,Sunriver Water LLC/sunriver Utilities,Asbestos,2.71 MFL,,7 MFL
+1956,Sunriver Water LLC/sunriver Utilities,Barium,8.00 ppb,700 ppb,"2,000 ppb"
+1957,Sunriver Water LLC/sunriver Utilities,Chromium (total),0.500 ppb,,100 ppb
+1958,Sunriver Water LLC/sunriver Utilities,Nitrate,0.0440 ppm,0.14 ppm,10 ppm
+1959,Sunriver Water LLC/sunriver Utilities,Nitrate and nitrite,0.0550 ppm,0.14 ppm,10 ppm
+1960,Sunriver Water LLC/sunriver Utilities,Nitrite,0.0550 ppm,,1 ppm
+1961,Sunriver Water LLC/sunriver Utilities,None,,,
+1962,"Sisters, City of",Arsenic,1.50 ppb,0.004 ppb,10 ppb
+1963,"Sisters, City of",Nitrate,0.503 ppm,0.14 ppm,10 ppm
+1964,"Sisters, City of",Nitrate and nitrite,0.375 ppm,0.14 ppm,10 ppm
+1965,"Sisters, City of",Total trihalomethanes (TTHMs)†,2.62 ppb,0.15 ppb,80 ppb
+1966,"Sisters, City of",Barium,2.00 ppb,700 ppb,"2,000 ppb"
+1967,"Sisters, City of",Fluoride,0.145 ppm,,4 ppm
+1968,"Sisters, City of",None,,,
+1969,Water Wonderland Improvement District 1,Arsenic,3.00 ppb,0.004 ppb,10 ppb
+1970,Water Wonderland Improvement District 1,Chromium (total),1.000 ppb,,100 ppb
+1971,Water Wonderland Improvement District 1,Nitrate,0.0500 ppm,0.14 ppm,10 ppm
+1972,Water Wonderland Improvement District 1,Nitrate and nitrite,0.140 ppm,0.14 ppm,10 ppm
+1973,Water Wonderland Improvement District 1,None,,,
+1974,"La Pine, City of",Arsenic,1.000 ppb,0.004 ppb,10 ppb
+1975,"La Pine, City of",Nitrate,0.0467 ppm,0.14 ppm,10 ppm
+1976,"La Pine, City of",None,,,
+1977,Terrebonne Domestic Water District,Arsenic,1.000 ppb,0.004 ppb,10 ppb
+1978,Terrebonne Domestic Water District,Nitrate,1.13 ppm,0.14 ppm,10 ppm
+1979,Terrebonne Domestic Water District,Uranium,0.67 pCi/L,0.43 pCi/L,20 pCi/L
+1980,Terrebonne Domestic Water District,None,,,
+1981,Black Mountain Meadow Condos,Arsenic,4.60 ppb,0.004 ppb,10 ppb
+1982,Black Mountain Meadow Condos,Chromium (total),0.639 ppb,,100 ppb
+1983,Black Mountain Meadow Condos,Fluoride,1.74 ppm,,4 ppm
+1984,Black Mountain Meadow Condos,Mercury (inorganic),0.0805 ppb,1.2 ppb,2 ppb
+1985,Black Mountain Meadow Condos,None,,,
+1986,"Boardman, City of",Arsenic,1.16 ppb,0.004 ppb,10 ppb
+1987,"Boardman, City of",Chromium (hexavalent),0.126 ppb,0.02 ppb,
+1988,"Boardman, City of",Haloacetic acids (HAA5)†,7.21 ppb,0.1 ppb,60 ppb
+1989,"Boardman, City of",Nitrate,1.86 ppm,0.14 ppm,10 ppm
+1990,"Boardman, City of",Nitrate and nitrite,1.86 ppm,0.14 ppm,10 ppm
+1991,"Boardman, City of",Total trihalomethanes (TTHMs)†,22.5 ppb,0.15 ppb,80 ppb
+1992,"Boardman, City of",Uranium,1.51 pCi/L,0.43 pCi/L,20 pCi/L
+1993,"Boardman, City of",Barium,18.2 ppb,700 ppb,"2,000 ppb"
+1994,"Boardman, City of",Chlorate,128.8 ppb,210 ppb,
+1995,"Boardman, City of",Chromium (total),0.426 ppb,,100 ppb
+1996,"Boardman, City of",Fluoride,0.189 ppm,,4 ppm
+1997,"Boardman, City of",Molybdenum,0.575 ppb,40 ppb,
+1998,"Boardman, City of",Strontium,0.123 ppb,"1,500 ppb",
+1999,"Boardman, City of",Vanadium,3.79 ppb,21 ppb,
+2000,"Boardman, City of",None,,,
+2001,Country Garden Estates Mobile Home Park,Arsenic,7.10 ppb,0.004 ppb,10 ppb
+2002,Country Garden Estates Mobile Home Park,Nitrate,6.52 ppm,0.14 ppm,10 ppm
+2003,Country Garden Estates Mobile Home Park,Nitrate and nitrite,5.92 ppm,0.14 ppm,10 ppm
+2004,Country Garden Estates Mobile Home Park,"Radium, combined (-226 &amp; -228)",0.94 pCi/L,0.05 pCi/L,5 pCi/L
+2005,Country Garden Estates Mobile Home Park,Total trihalomethanes (TTHMs)†,4.34 ppb,0.15 ppb,80 ppb
+2006,Country Garden Estates Mobile Home Park,Uranium,6.03 pCi/L,0.43 pCi/L,20 pCi/L
+2007,Country Garden Estates Mobile Home Park,Barium,78.0 ppb,700 ppb,"2,000 ppb"
+2008,Country Garden Estates Mobile Home Park,Chromium (total),1.50 ppb,,100 ppb
+2009,Country Garden Estates Mobile Home Park,Fluoride,0.245 ppm,,4 ppm
+2010,Country Garden Estates Mobile Home Park,Selenium,1.30 ppb,30 ppb,50 ppb
+2011,Country Garden Estates Mobile Home Park,None,,,
+2012,"Heppner, City of",Total trihalomethanes (TTHMs)†,3.28 ppb,0.15 ppb,80 ppb
+2013,"Heppner, City of",Uranium,0.27 pCi/L,0.43 pCi/L,20 pCi/L
+2014,"Heppner, City of",None,,,
+2015,"Ione, City of",Arsenic,1.14 ppb,0.004 ppb,10 ppb
+2016,"Ione, City of","Radium, combined (-226 &amp; -228)",1.60 pCi/L,0.05 pCi/L,5 pCi/L
+2017,"Ione, City of",Nitrate,0.253 ppm,0.14 ppm,10 ppm
+2018,"Ione, City of",None,,,
+2019,"Irrigon, City of",Arsenic,2.47 ppb,0.004 ppb,10 ppb
+2020,"Irrigon, City of",Haloacetic acids (HAA5)†,3.34 ppb,0.1 ppb,60 ppb
+2021,"Irrigon, City of",Nitrate,0.411 ppm,0.14 ppm,10 ppm
+2022,"Irrigon, City of",Nitrate and nitrite,0.943 ppm,0.14 ppm,10 ppm
+2023,"Irrigon, City of",Total trihalomethanes (TTHMs)†,12.3 ppb,0.15 ppb,80 ppb
+2024,"Irrigon, City of",Barium,19.6 ppb,700 ppb,"2,000 ppb"
+2025,"Irrigon, City of",Chromium (total),1.08 ppb,,100 ppb
+2026,"Irrigon, City of",Fluoride,0.158 ppm,,4 ppm
+2027,"Irrigon, City of",None,,,
+2028,"Lexington, City Of",Nitrate,0.150 ppm,0.14 ppm,10 ppm
+2029,"Lexington, City Of",None,,,
+2030,Lorna Portland Water LLC,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+2031,Lorna Portland Water LLC,Haloacetic acids (HAA5)†,21.8 ppb,0.1 ppb,60 ppb
+2032,Lorna Portland Water LLC,Haloacetic acids (HAA9)*†,30.6 ppb,0.06 ppb,
+2033,Lorna Portland Water LLC,Total trihalomethanes (TTHMs)†,23.4 ppb,0.15 ppb,80 ppb
+2034,Lorna Portland Water LLC,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+2035,Lorna Portland Water LLC,Chlorate*,317.5 ppb,210 ppb,
+2036,Lorna Portland Water LLC,Chromium (hexavalent)*,0.0362 ppb,0.02 ppb,
+2037,Lorna Portland Water LLC,Chromium (total)*,0.0430 ppb,,100 ppb
+2038,Lorna Portland Water LLC,Fluoride*,0.0767 ppm,,4 ppm
+2039,Lorna Portland Water LLC,Manganese*,17.3 ppb,100 ppb,
+2040,Lorna Portland Water LLC,Nitrate,0.0398 ppm,0.14 ppm,10 ppm
+2041,Lorna Portland Water LLC,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+2042,Lorna Portland Water LLC,Strontium*,0.0260 ppb,"1,500 ppb",
+2043,Lorna Portland Water LLC,Vanadium*,0.764 ppb,21 ppb,
+2044,Cty of Gresham,Haloacetic acids (HAA5)†,28.1 ppb,0.1 ppb,60 ppb
+2045,Cty of Gresham,Haloacetic acids (HAA9)†,30.1 ppb,0.06 ppb,
+2046,Cty of Gresham,Total trihalomethanes (TTHMs)†,30.5 ppb,0.15 ppb,80 ppb
+2047,Cty of Gresham,Chlorate,9.13 ppb,210 ppb,
+2048,Cty of Gresham,Chromium (hexavalent),0.0279 ppb,0.02 ppb,
+2049,Cty of Gresham,Chromium (total),0.0350 ppb,,100 ppb
+2050,Cty of Gresham,Manganese,8.53 ppb,100 ppb,
+2051,Cty of Gresham,Strontium,0.0175 ppb,"1,500 ppb",
+2052,Cty of Gresham,Vanadium,0.291 ppb,21 ppb,
+2053,Cty of Gresham,None,,,
+2054,Rockwood People's Utilities Department,Haloacetic acids (HAA5)†,30.5 ppb,0.1 ppb,60 ppb
+2055,Rockwood People's Utilities Department,Haloacetic acids (HAA9)†,24.8 ppb,0.06 ppb,
+2056,Rockwood People's Utilities Department,Total trihalomethanes (TTHMs)†,30.5 ppb,0.15 ppb,80 ppb
+2057,Rockwood People's Utilities Department,Barium,15.5 ppb,700 ppb,"2,000 ppb"
+2058,Rockwood People's Utilities Department,Chlorate,8.75 ppb,210 ppb,
+2059,Rockwood People's Utilities Department,Chromium (hexavalent),0.0310 ppb,0.02 ppb,
+2060,Rockwood People's Utilities Department,Fluoride,0.125 ppm,,4 ppm
+2061,Rockwood People's Utilities Department,Manganese,7.48 ppb,100 ppb,
+2062,Rockwood People's Utilities Department,Nitrate,0.0129 ppm,0.14 ppm,10 ppm
+2063,Rockwood People's Utilities Department,Nitrate and nitrite,0.0200 ppm,0.14 ppm,10 ppm
+2064,Rockwood People's Utilities Department,Strontium,0.0151 ppb,"1,500 ppb",
+2065,Rockwood People's Utilities Department,Vanadium,0.166 ppb,21 ppb,
+2066,Rockwood People's Utilities Department,None,,,
+2067,Burlington Water Department,Arsenic,0.429 ppb,0.004 ppb,10 ppb
+2068,Burlington Water Department,Bromodichloromethane,7.86 ppb,0.06 ppb,
+2069,Burlington Water Department,Chloroform,11.3 ppb,0.4 ppb,
+2070,Burlington Water Department,Dibromoacetic acid,2.69 ppb,0.04 ppb,
+2071,Burlington Water Department,Dibromochloromethane,4.07 ppb,0.1 ppb,
+2072,Burlington Water Department,Dichloroacetic acid,9.97 ppb,0.2 ppb,
+2073,Burlington Water Department,Haloacetic acids (HAA5)†,21.6 ppb,0.1 ppb,60 ppb
+2074,Burlington Water Department,Haloacetic acids (HAA9)†,27.6 ppb,0.06 ppb,
+2075,Burlington Water Department,Nitrate,0.367 ppm,0.14 ppm,10 ppm
+2076,Burlington Water Department,Total trihalomethanes (TTHMs)†,29.2 ppb,0.15 ppb,80 ppb
+2077,Burlington Water Department,Trichloroacetic acid,7.89 ppb,0.1 ppb,
+2078,Burlington Water Department,Trichloroethylene,1.88 ppb,0.4 ppb,5 ppb
+2079,Burlington Water Department,"1,1-Dichloroethane",0.309 ppb,3 ppb,
+2080,Burlington Water Department,"1,1-Dichloroethylene",0.237 ppb,,7 ppb
+2081,Burlington Water Department,"1,4-Dioxane",0.178 ppb,0.35 ppb,
+2082,Burlington Water Department,Aluminum,24.2 ppb,600 ppb,
+2083,Burlington Water Department,Barium,32.1 ppb,700 ppb,"2,000 ppb"
+2084,Burlington Water Department,Bromoform,0.488 ppb,0.5 ppb,
+2085,Burlington Water Department,Chlorate,218.3 ppb,210 ppb,
+2086,Burlington Water Department,Chloromethane,0.00445 ppb,2.69 ppb,
+2087,Burlington Water Department,Chromium (hexavalent),0.0396 ppb,0.02 ppb,
+2088,Burlington Water Department,Chromium (total),0.198 ppb,,100 ppb
+2089,Burlington Water Department,"cis-1,2-Dichloroethylene",1.39 ppb,,70 ppb
+2090,Burlington Water Department,Cyanide,8.57 ppb,,200 ppb
+2091,Burlington Water Department,Fluoride,0.793 ppm,,4 ppm
+2092,Burlington Water Department,Manganese,15.2 ppb,100 ppb,
+2093,Burlington Water Department,Monobromoacetic acid,0.230 ppb,25 ppb,
+2094,Burlington Water Department,Monochloroacetic acid,0.479 ppb,53 ppb,
+2095,Burlington Water Department,Nitrite,0.0363 ppm,,1 ppm
+2096,Burlington Water Department,Perchlorate,0.259 ppb,1 ppb,
+2097,Burlington Water Department,Selenium,1.000 ppb,30 ppb,50 ppb
+2098,Burlington Water Department,Strontium,0.168 ppb,"1,500 ppb",
+2099,Burlington Water Department,None,,,
+2100,Wapato Moorage Association,Nitrate,0.354 ppm,0.14 ppm,10 ppm
+2101,Wapato Moorage Association,Nitrate and nitrite,0.292 ppm,0.14 ppm,10 ppm
+2102,Wapato Moorage Association,Barium,1.37 ppb,700 ppb,"2,000 ppb"
+2103,Wapato Moorage Association,Fluoride,0.185 ppm,,4 ppm
+2104,Wapato Moorage Association,Nitrite,0.0104 ppm,,1 ppm
+2105,Wapato Moorage Association,None,,,
+2106,Manna House Church,Arsenic,0.850 ppb,0.004 ppb,10 ppb
+2107,Manna House Church,Nitrate,4.65 ppm,0.14 ppm,10 ppm
+2108,Manna House Church,Nitrate and nitrite,4.54 ppm,0.14 ppm,10 ppm
+2109,Manna House Church,Tetrachloroethylene (perchloroethylene),0.518 ppb,0.06 ppb,5 ppb
+2110,Manna House Church,Total trihalomethanes (TTHMs)†,2.68 ppb,0.15 ppb,80 ppb
+2111,Manna House Church,Barium,6.80 ppb,700 ppb,"2,000 ppb"
+2112,Manna House Church,Fluoride,0.0700 ppm,,4 ppm
+2113,Manna House Church,Haloacetic acids (HAA5)†,0.175 ppb,0.1 ppb,60 ppb
+2114,Manna House Church,None,,,
+2115,City of Troutdale,Arsenic,0.411 ppb,0.004 ppb,10 ppb
+2116,City of Troutdale,Haloacetic acids (HAA9)†,0.395 ppb,0.06 ppb,
+2117,City of Troutdale,Nitrate,0.425 ppm,0.14 ppm,10 ppm
+2118,City of Troutdale,Nitrate and nitrite,0.362 ppm,0.14 ppm,10 ppm
+2119,City of Troutdale,Total trihalomethanes (TTHMs)†,0.388 ppb,0.15 ppb,80 ppb
+2120,City of Troutdale,Barium,21.1 ppb,700 ppb,"2,000 ppb"
+2121,City of Troutdale,Chlorate,60.6 ppb,210 ppb,
+2122,City of Troutdale,Chromium (hexavalent),0.00225 ppb,0.02 ppb,
+2123,City of Troutdale,Fluoride,0.0644 ppm,,4 ppm
+2124,City of Troutdale,Germanium,0.521 ppb,,
+2125,City of Troutdale,Haloacetic acids (HAA5)†,0.0227 ppb,0.1 ppb,60 ppb
+2126,City of Troutdale,Manganese,44.5 ppb,100 ppb,
+2127,City of Troutdale,Molybdenum,1.46 ppb,40 ppb,
+2128,City of Troutdale,Strontium,0.0729 ppb,"1,500 ppb",
+2129,City of Troutdale,Vanadium,0.319 ppb,21 ppb,
+2130,City of Troutdale,None,,,
+2131,Corbett Water District,Haloacetic acids (HAA5)†,30.1 ppb,0.1 ppb,60 ppb
+2132,Corbett Water District,Total trihalomethanes (TTHMs)†,22.5 ppb,0.15 ppb,80 ppb
+2133,Corbett Water District,Nitrate,0.00400 ppm,0.14 ppm,10 ppm
+2134,Corbett Water District,None,,,
+2135,"Fairview, City of",Haloacetic acids (HAA5)†,0.757 ppb,0.1 ppb,60 ppb
+2136,"Fairview, City of",Nitrate,0.613 ppm,0.14 ppm,10 ppm
+2137,"Fairview, City of",Tetrachloroethylene (perchloroethylene),1.55 ppb,0.06 ppb,5 ppb
+2138,"Fairview, City of",Total trihalomethanes (TTHMs)†,10.00 ppb,0.15 ppb,80 ppb
+2139,"Fairview, City of",Xylenes (total),0.375 ppb,"1,800 ppb","10,000 ppb"
+2140,"Fairview, City of",None,,,
+2141,Interlachen Water People's Utility District,Nitrate,0.514 ppm,0.14 ppm,10 ppm
+2142,Interlachen Water People's Utility District,None,,,
+2143,Lorna Portland Water LLC,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+2144,Lorna Portland Water LLC,Haloacetic acids (HAA5)†,21.8 ppb,0.1 ppb,60 ppb
+2145,Lorna Portland Water LLC,Haloacetic acids (HAA9)*†,30.6 ppb,0.06 ppb,
+2146,Lorna Portland Water LLC,Total trihalomethanes (TTHMs)†,23.4 ppb,0.15 ppb,80 ppb
+2147,Lorna Portland Water LLC,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+2148,Lorna Portland Water LLC,Chlorate*,317.5 ppb,210 ppb,
+2149,Lorna Portland Water LLC,Chromium (hexavalent)*,0.0362 ppb,0.02 ppb,
+2150,Lorna Portland Water LLC,Chromium (total)*,0.0430 ppb,,100 ppb
+2151,Lorna Portland Water LLC,Fluoride*,0.0767 ppm,,4 ppm
+2152,Lorna Portland Water LLC,Manganese*,17.3 ppb,100 ppb,
+2153,Lorna Portland Water LLC,Nitrate,0.0398 ppm,0.14 ppm,10 ppm
+2154,Lorna Portland Water LLC,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+2155,Lorna Portland Water LLC,Strontium*,0.0260 ppb,"1,500 ppb",
+2156,Lorna Portland Water LLC,Vanadium*,0.764 ppb,21 ppb,
+2157,Lusted Water District,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+2158,Lusted Water District,Haloacetic acids (HAA5)†,27.7 ppb,0.1 ppb,60 ppb
+2159,Lusted Water District,Haloacetic acids (HAA9)*†,30.6 ppb,0.06 ppb,
+2160,Lusted Water District,Total trihalomethanes (TTHMs)†,30.6 ppb,0.15 ppb,80 ppb
+2161,Lusted Water District,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+2162,Lusted Water District,Chlorate*,317.5 ppb,210 ppb,
+2163,Lusted Water District,Chromium (hexavalent)*,0.0362 ppb,0.02 ppb,
+2164,Lusted Water District,Chromium (total)*,0.0430 ppb,,100 ppb
+2165,Lusted Water District,Fluoride*,0.0767 ppm,,4 ppm
+2166,Lusted Water District,Manganese*,17.3 ppb,100 ppb,
+2167,Lusted Water District,Nitrate,0.0510 ppm,0.14 ppm,10 ppm
+2168,Lusted Water District,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+2169,Lusted Water District,Strontium*,0.0260 ppb,"1,500 ppb",
+2170,Lusted Water District,Vanadium*,0.764 ppb,21 ppb,
+2171,Mayfair Moorage Inc.,Arsenic,5.59 ppb,0.004 ppb,10 ppb
+2172,Mayfair Moorage Inc.,Total trihalomethanes (TTHMs)†,6.90 ppb,0.15 ppb,80 ppb
+2173,Mayfair Moorage Inc.,Barium,13.0 ppb,700 ppb,"2,000 ppb"
+2174,Mayfair Moorage Inc.,Fluoride,0.164 ppm,,4 ppm
+2175,Mayfair Moorage Inc.,None,,,
+2176,Palatine Hill Water District,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+2177,Palatine Hill Water District,Haloacetic acids (HAA5)†,32.8 ppb,0.1 ppb,60 ppb
+2178,Palatine Hill Water District,Haloacetic acids (HAA9)*†,30.6 ppb,0.06 ppb,
+2179,Palatine Hill Water District,Total trihalomethanes (TTHMs)†,50.3 ppb,0.15 ppb,80 ppb
+2180,Palatine Hill Water District,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+2181,Palatine Hill Water District,Chlorate*,317.5 ppb,210 ppb,
+2182,Palatine Hill Water District,Chromium (hexavalent)*,0.0362 ppb,0.02 ppb,
+2183,Palatine Hill Water District,Chromium (total)*,0.0430 ppb,,100 ppb
+2184,Palatine Hill Water District,Fluoride*,0.0767 ppm,,4 ppm
+2185,Palatine Hill Water District,Manganese*,17.3 ppb,100 ppb,
+2186,Palatine Hill Water District,Nitrate*,0.111 ppm,0.14 ppm,10 ppm
+2187,Palatine Hill Water District,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+2188,Palatine Hill Water District,Strontium*,0.0260 ppb,"1,500 ppb",
+2189,Palatine Hill Water District,Vanadium*,0.764 ppb,21 ppb,
+2190,Sigler Cove Marina,Barium,6.90 ppb,700 ppb,"2,000 ppb"
+2191,Sigler Cove Marina,Fluoride,0.320 ppm,,4 ppm
+2192,Sigler Cove Marina,Nitrate,0.129 ppm,0.14 ppm,10 ppm
+2193,Sigler Cove Marina,Nitrate and nitrite,0.0101 ppm,0.14 ppm,10 ppm
+2194,Sigler Cove Marina,Nitrite,0.0101 ppm,,1 ppm
+2195,Sigler Cove Marina,None,,,
+2196,Pleasant Home Water District,Arsenic*,0.420 ppb,0.004 ppb,10 ppb
+2197,Pleasant Home Water District,Haloacetic acids (HAA5)†,27.6 ppb,0.1 ppb,60 ppb
+2198,Pleasant Home Water District,Haloacetic acids (HAA9)*†,30.6 ppb,0.06 ppb,
+2199,Pleasant Home Water District,Total trihalomethanes (TTHMs)†,31.9 ppb,0.15 ppb,80 ppb
+2200,Pleasant Home Water District,Barium*,5.23 ppb,700 ppb,"2,000 ppb"
+2201,Pleasant Home Water District,Chlorate*,317.5 ppb,210 ppb,
+2202,Pleasant Home Water District,Chromium (hexavalent)*,0.0362 ppb,0.02 ppb,
+2203,Pleasant Home Water District,Chromium (total)*,0.0430 ppb,,100 ppb
+2204,Pleasant Home Water District,Fluoride*,0.0767 ppm,,4 ppm
+2205,Pleasant Home Water District,Manganese*,17.3 ppb,100 ppb,
+2206,Pleasant Home Water District,Nitrate*,0.111 ppm,0.14 ppm,10 ppm
+2207,Pleasant Home Water District,Nitrate and nitrite*,0.111 ppm,0.14 ppm,10 ppm
+2208,Pleasant Home Water District,Strontium*,0.0260 ppb,"1,500 ppb",
+2209,Pleasant Home Water District,Vanadium*,0.764 ppb,21 ppb,
+2210,Rocky Pointe Marina,Arsenic,3.00 ppb,0.004 ppb,10 ppb
+2211,Rocky Pointe Marina,Haloacetic acids (HAA5)†,1.25 ppb,0.1 ppb,60 ppb
+2212,Rocky Pointe Marina,Total trihalomethanes (TTHMs)†,5.05 ppb,0.15 ppb,80 ppb
+2213,Rocky Pointe Marina,Barium,0.550 ppb,700 ppb,"2,000 ppb"
+2214,Rocky Pointe Marina,Fluoride,0.120 ppm,,4 ppm
+2215,Rocky Pointe Marina,None,,,
+2216,Sandy Boulevard Mobile Villa,None,,,
+2217,Sauvie Island Moorage,Arsenic,5.00 ppb,0.004 ppb,10 ppb
+2218,Sauvie Island Moorage,Nitrate,0.0798 ppm,0.14 ppm,10 ppm
+2219,Sauvie Island Moorage,None,,,
+2220,Terrand Mobile Terrace,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+2221,Terrand Mobile Terrace,Barium,6.20 ppb,700 ppb,"2,000 ppb"
+2222,Terrand Mobile Terrace,None,,,
+2223,Dodds Valley View Water Association,"Radium, combined (-226 &amp; -228)",1.80 pCi/L,0.05 pCi/L,5 pCi/L
+2224,Dodds Valley View Water Association,None,,,
+2225,"Wood Village, City of",Arsenic,0.800 ppb,0.004 ppb,10 ppb
+2226,"Wood Village, City of",Nitrate,1.47 ppm,0.14 ppm,10 ppm
+2227,"Wood Village, City of",Total trihalomethanes (TTHMs)†,3.42 ppb,0.15 ppb,80 ppb
+2228,"Wood Village, City of",Haloacetic acids (HAA5)†,0.0625 ppb,0.1 ppb,60 ppb
+2229,"Wood Village, City of",None,,,
+2230,Burns Water Department,Arsenic,3.42 ppb,0.004 ppb,10 ppb
+2231,Burns Water Department,Nitrate,1.77 ppm,0.14 ppm,10 ppm
+2232,Burns Water Department,Nitrate and nitrite,1.40 ppm,0.14 ppm,10 ppm
+2233,Burns Water Department,Tetrachloroethylene (perchloroethylene),0.504 ppb,0.06 ppb,5 ppb
+2234,Burns Water Department,Uranium,1.64 pCi/L,0.43 pCi/L,20 pCi/L
+2235,Burns Water Department,Barium,13.4 ppb,700 ppb,"2,000 ppb"
+2236,Burns Water Department,Selenium,0.154 ppb,30 ppb,50 ppb
+2237,Burns Water Department,None,,,
+2238,G H2o Inc.,Nitrate,1.74 ppm,0.14 ppm,10 ppm
+2239,G H2o Inc.,Nitrate and nitrite,1.49 ppm,0.14 ppm,10 ppm
+2240,G H2o Inc.,Fluoride,0.154 ppm,,4 ppm
+2241,G H2o Inc.,None,,,
+2242,Hines Water Department,Arsenic,4.68 ppb,0.004 ppb,10 ppb
+2243,Hines Water Department,Nitrate,2.40 ppm,0.14 ppm,10 ppm
+2244,Hines Water Department,Nitrate and nitrite,2.00 ppm,0.14 ppm,10 ppm
+2245,Hines Water Department,Uranium,1.64 pCi/L,0.43 pCi/L,20 pCi/L
+2246,Hines Water Department,Barium,20.8 ppb,700 ppb,"2,000 ppb"
+2247,Hines Water Department,Chromium (total),1.44 ppb,,100 ppb
+2248,Hines Water Department,Fluoride,0.164 ppm,,4 ppm
+2249,Hines Water Department,None,,,
+2250,Crooked River Ranch Water Company,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+2251,Crooked River Ranch Water Company,Nitrate and nitrite,0.423 ppm,0.14 ppm,10 ppm
+2252,Crooked River Ranch Water Company,Barium,2.67 ppb,700 ppb,"2,000 ppb"
+2253,Crooked River Ranch Water Company,Chromium (total),1.33 ppb,,100 ppb
+2254,Crooked River Ranch Water Company,Fluoride,0.127 ppm,,4 ppm
+2255,Crooked River Ranch Water Company,Nitrate,0.250 ppm,0.14 ppm,10 ppm
+2256,Crooked River Ranch Water Company,None,,,
+2257,Deschutes Valley Water District,Arsenic,2.60 ppb,0.004 ppb,10 ppb
+2258,Deschutes Valley Water District,Chromium (hexavalent),1.10 ppb,0.02 ppb,
+2259,Deschutes Valley Water District,Barium,1.50 ppb,700 ppb,"2,000 ppb"
+2260,Deschutes Valley Water District,Chromium (total),1.06 ppb,,100 ppb
+2261,Deschutes Valley Water District,Nitrate,0.0967 ppm,0.14 ppm,10 ppm
+2262,Deschutes Valley Water District,Nitrate and nitrite,0.220 ppm,0.14 ppm,10 ppm
+2263,Deschutes Valley Water District,Strontium,0.0273 ppb,"1,500 ppb",
+2264,Deschutes Valley Water District,Vanadium,17.3 ppb,21 ppb,
+2265,Deschutes Valley Water District,None,,,
+2266,"Madras, City Of",Arsenic,7.00 ppb,0.004 ppb,10 ppb
+2267,"Madras, City Of",Chromium (hexavalent),1.11 ppb,0.02 ppb,
+2268,"Madras, City Of",Nitrate,0.470 ppm,0.14 ppm,10 ppm
+2269,"Madras, City Of",Nitrate and nitrite,0.690 ppm,0.14 ppm,10 ppm
+2270,"Madras, City Of",Barium,10.00 ppb,700 ppb,"2,000 ppb"
+2271,"Madras, City Of",Chromium (total),1.24 ppb,,100 ppb
+2272,"Madras, City Of",Fluoride,0.280 ppm,,4 ppm
+2273,"Madras, City Of",Strontium,0.0234 ppb,"1,500 ppb",
+2274,"Madras, City Of",Vanadium,17.4 ppb,21 ppb,
+2275,"Madras, City Of",None,,,
+2276,Metolius Meadows Prop Owners,None,,,
+2277,"Sheridan, City of",Haloacetic acids (HAA5)†,11.0 ppb,0.1 ppb,60 ppb
+2278,"Sheridan, City of","Radium, combined (-226 &amp; -228)",1.40 pCi/L,0.05 pCi/L,5 pCi/L
+2279,"Sheridan, City of",Total trihalomethanes (TTHMs)†,18.7 ppb,0.15 ppb,80 ppb
+2280,"Sheridan, City of",Nitrate,0.0303 ppm,0.14 ppm,10 ppm
+2281,"Sheridan, City of",Pentachlorophenol,0.0122 ppb,0.3 ppb,1 ppb
+2282,"Sheridan, City of",None,,,
+2283,"Lafayette, City of",Haloacetic acids (HAA5)†,24.6 ppb,0.1 ppb,60 ppb
+2284,"Lafayette, City of",Nitrate,0.903 ppm,0.14 ppm,10 ppm
+2285,"Lafayette, City of",Nitrate and nitrite,0.788 ppm,0.14 ppm,10 ppm
+2286,"Lafayette, City of",Total trihalomethanes (TTHMs)†,65.0 ppb,0.15 ppb,80 ppb
+2287,"Lafayette, City of",Barium,6.65 ppb,700 ppb,"2,000 ppb"
+2288,"Lafayette, City of",Dichloromethane (methylene chloride),0.167 ppb,4 ppb,5 ppb
+2289,"Lafayette, City of",Ethylbenzene,1.16 ppb,300 ppb,700 ppb
+2290,"Lafayette, City of",Nitrite,0.00158 ppm,,1 ppm
+2291,"Lafayette, City of",Toluene,1.02 ppb,150 ppb,"1,000 ppb"
+2292,"Lafayette, City of",Xylenes (total),7.56 ppb,"1,800 ppb","10,000 ppb"
+2293,"Lafayette, City of",None,,,
+2294,"Dundee, City of",Nitrate,0.547 ppm,0.14 ppm,10 ppm
+2295,"Dundee, City of",Nitrate and nitrite,0.556 ppm,0.14 ppm,10 ppm
+2296,"Dundee, City of","Radium, combined (-226 &amp; -228)",0.16 pCi/L,0.05 pCi/L,5 pCi/L
+2297,"Dundee, City of",Total trihalomethanes (TTHMs)†,2.73 ppb,0.15 ppb,80 ppb
+2298,"Dundee, City of",Barium,2.44 ppb,700 ppb,"2,000 ppb"
+2299,"Dundee, City of",Fluoride,0.0500 ppm,,4 ppm
+2300,"Dundee, City of",Haloacetic acids (HAA5)†,0.120 ppb,0.1 ppb,60 ppb
+2301,"Dundee, City of",Nitrite,0.00200 ppm,,1 ppm
+2302,"Dundee, City of",None,,,
+2303,Aldridge Ditch Company Ws,Total trihalomethanes (TTHMs)*†,1.30 ppb,0.15 ppb,80 ppb
+2304,Aldridge Ditch Company Ws,Barium*,0.700 ppb,700 ppb,"2,000 ppb"
+2305,Aldridge Ditch Company Ws,Xylenes (total)*,0.250 ppb,"1,800 ppb","10,000 ppb"
+2306,Aldridge Ditch Company Ws,None,,,
+2307,"Cascade Locks, City of",Total trihalomethanes (TTHMs)†,1.89 ppb,0.15 ppb,80 ppb
+2308,"Cascade Locks, City of",None,,,
+2309,1485 Limited Crystal Springs Water Company,Barium,119.5 ppb,700 ppb,"2,000 ppb"
+2310,1485 Limited Crystal Springs Water Company,Nitrate,0.0333 ppm,0.14 ppm,10 ppm
+2311,1485 Limited Crystal Springs Water Company,Nitrate and nitrite,0.0500 ppm,0.14 ppm,10 ppm
+2312,1485 Limited Crystal Springs Water Company,None,,,
+2313,"Hood River, City of",Total trihalomethanes (TTHMs)†,1.30 ppb,0.15 ppb,80 ppb
+2314,"Hood River, City of",Barium,0.700 ppb,700 ppb,"2,000 ppb"
+2315,"Hood River, City of",Xylenes (total),0.250 ppb,"1,800 ppb","10,000 ppb"
+2316,"Hood River, City of",None,,,
+2317,Ice Fountain Water District,Barium,0.500 ppb,700 ppb,"2,000 ppb"
+2318,Ice Fountain Water District,None,,,
+2319,Odell Water Company,Nitrate,4.98 ppm,0.14 ppm,10 ppm
+2320,Odell Water Company,Nitrate and nitrite,5.55 ppm,0.14 ppm,10 ppm
+2321,Odell Water Company,Total trihalomethanes (TTHMs)†,1.72 ppb,0.15 ppb,80 ppb
+2322,Odell Water Company,Barium,5.30 ppb,700 ppb,"2,000 ppb"
+2323,Odell Water Company,Chromium (total),1.60 ppb,,100 ppb
+2324,Odell Water Company,Styrene,0.170 ppb,0.5 ppb,100 ppb
+2325,Odell Water Company,None,,,
+2326,Parkdale Water Company Inc.,Nitrate,1.43 ppm,0.14 ppm,10 ppm
+2327,Parkdale Water Company Inc.,None,,,
+2328,City of Grants Pass,Chromium (hexavalent),0.182 ppb,0.02 ppb,
+2329,City of Grants Pass,Haloacetic acids (HAA5)†,38.3 ppb,0.1 ppb,60 ppb
+2330,City of Grants Pass,Haloacetic acids (HAA9)†,42.6 ppb,0.06 ppb,
+2331,City of Grants Pass,Total trihalomethanes (TTHMs)†,42.8 ppb,0.15 ppb,80 ppb
+2332,City of Grants Pass,Barium,5.20 ppb,700 ppb,"2,000 ppb"
+2333,City of Grants Pass,Beryllium,0.150 ppb,1 ppb,4 ppb
+2334,City of Grants Pass,Chlorate,298.8 ppb,210 ppb,
+2335,City of Grants Pass,Chromium (total),0.125 ppb,,100 ppb
+2336,City of Grants Pass,Manganese,1.23 ppb,100 ppb,
+2337,City of Grants Pass,Nitrate,0.208 ppm,0.14 ppm,10 ppm
+2338,City of Grants Pass,Nitrate and nitrite,0.163 ppm,0.14 ppm,10 ppm
+2339,City of Grants Pass,Strontium,0.0774 ppb,"1,500 ppb",
+2340,City of Grants Pass,Vanadium,2.11 ppb,21 ppb,
+2341,City of Grants Pass,None,,,
+2342,"Cave Junction, City of",Haloacetic acids (HAA5)†,19.0 ppb,0.1 ppb,60 ppb
+2343,"Cave Junction, City of",Nitrate,0.396 ppm,0.14 ppm,10 ppm
+2344,"Cave Junction, City of",Total trihalomethanes (TTHMs)†,17.8 ppb,0.15 ppb,80 ppb
+2345,"Cave Junction, City of",None,,,
+2346,Rogue Lea Estates-north/south,Barium,3.88 ppb,700 ppb,"2,000 ppb"
+2347,Rogue Lea Estates-north/south,Nitrate,0.238 ppm,0.14 ppm,10 ppm
+2348,Rogue Lea Estates-north/south,None,,,
+2349,Willow Estates Mobile Home Park,Nitrate,1.05 ppm,0.14 ppm,10 ppm
+2350,Willow Estates Mobile Home Park,Uranium,0.74 pCi/L,0.43 pCi/L,20 pCi/L
+2351,Willow Estates Mobile Home Park,None,,,
+2352,Ilpo Redwood Mobile Home Park Llc,Arsenic*,0.167 ppb,0.004 ppb,10 ppb
+2353,Ilpo Redwood Mobile Home Park Llc,Bromodichloromethane,4.51 ppb,0.06 ppb,
+2354,Ilpo Redwood Mobile Home Park Llc,Chlorate*,627.5 ppb,210 ppb,
+2355,Ilpo Redwood Mobile Home Park Llc,Chloroform,23.9 ppb,0.4 ppb,
+2356,Ilpo Redwood Mobile Home Park Llc,Dibromochloromethane,0.577 ppb,0.1 ppb,
+2357,Ilpo Redwood Mobile Home Park Llc,Dichloroacetic acid,20.6 ppb,0.2 ppb,
+2358,Ilpo Redwood Mobile Home Park Llc,Haloacetic acids (HAA5)†,29.7 ppb,0.1 ppb,60 ppb
+2359,Ilpo Redwood Mobile Home Park Llc,Haloacetic acids (HAA9)*†,14.2 ppb,0.06 ppb,
+2360,Ilpo Redwood Mobile Home Park Llc,Nitrate*,4.49 ppm,0.14 ppm,10 ppm
+2361,Ilpo Redwood Mobile Home Park Llc,Total trihalomethanes (TTHMs)†,29.0 ppb,0.15 ppb,80 ppb
+2362,Ilpo Redwood Mobile Home Park Llc,Trichloroacetic acid,3.83 ppb,0.1 ppb,
+2363,Ilpo Redwood Mobile Home Park Llc,"1,4-Dioxane*",0.0250 ppb,0.35 ppb,
+2364,Ilpo Redwood Mobile Home Park Llc,Aluminum*,90.0 ppb,600 ppb,
+2365,Ilpo Redwood Mobile Home Park Llc,Atrazine*,0.0273 ppb,0.1 ppb,3 ppb
+2366,Ilpo Redwood Mobile Home Park Llc,Chromium (hexavalent)*,0.00375 ppb,0.02 ppb,
+2367,Ilpo Redwood Mobile Home Park Llc,Chromium (total)*,0.0857 ppb,,100 ppb
+2368,Ilpo Redwood Mobile Home Park Llc,Dibromoacetic acid*,0.0571 ppb,0.04 ppb,
+2369,Ilpo Redwood Mobile Home Park Llc,Fluoride*,0.822 ppm,,4 ppm
+2370,Ilpo Redwood Mobile Home Park Llc,Manganese*,2.79 ppb,100 ppb,
+2371,Ilpo Redwood Mobile Home Park Llc,Molybdenum*,6.93 ppb,40 ppb,
+2372,Ilpo Redwood Mobile Home Park Llc,Monobromoacetic acid,5.30 ppb,25 ppb,
+2373,Ilpo Redwood Mobile Home Park Llc,Monochloroacetic acid*,0.329 ppb,53 ppb,
+2374,Ilpo Redwood Mobile Home Park Llc,Selenium*,0.333 ppb,30 ppb,50 ppb
+2375,Ilpo Redwood Mobile Home Park Llc,Strontium*,0.176 ppb,"1,500 ppb",
+2376,Ilpo Redwood Mobile Home Park Llc,Vanadium*,0.438 ppb,21 ppb,
+2377,Ilpo Redwood Mobile Home Park Llc,None,,,
+2378,Christmas Valley Domestic Ws,Arsenic,3.40 ppb,0.004 ppb,10 ppb
+2379,Christmas Valley Domestic Ws,Barium,4.40 ppb,700 ppb,"2,000 ppb"
+2380,Christmas Valley Domestic Ws,Fluoride,0.190 ppm,,4 ppm
+2381,Christmas Valley Domestic Ws,Nitrate,0.00750 ppm,0.14 ppm,10 ppm
+2382,Christmas Valley Domestic Ws,None,,,
+2383,"Lakeview, City of",Arsenic,3.83 ppb,0.004 ppb,10 ppb
+2384,"Lakeview, City of",Haloacetic acids (HAA5)†,3.58 ppb,0.1 ppb,60 ppb
+2385,"Lakeview, City of","Radium, combined (-226 &amp; -228)",0.25 pCi/L,0.05 pCi/L,5 pCi/L
+2386,"Lakeview, City of",Total trihalomethanes (TTHMs)†,31.3 ppb,0.15 ppb,80 ppb
+2387,"Lakeview, City of",Nitrate,0.114 ppm,0.14 ppm,10 ppm
+2388,"Lakeview, City of",None,,,
+2389,"Paisley, City of",Arsenic,10.1 ppb,0.004 ppb,10 ppb
+2390,"Paisley, City of",Haloacetic acids (HAA5)†,0.783 ppb,0.1 ppb,60 ppb
+2391,"Paisley, City of",Nitrate,0.981 ppm,0.14 ppm,10 ppm
+2392,"Paisley, City of",Nitrate and nitrite,1.18 ppm,0.14 ppm,10 ppm
+2393,"Paisley, City of",Total trihalomethanes (TTHMs)†,5.20 ppb,0.15 ppb,80 ppb
+2394,"Paisley, City of",Barium,20.2 ppb,700 ppb,"2,000 ppb"
+2395,"Paisley, City of",Chromium (total),1.20 ppb,,100 ppb
+2396,"Paisley, City of",Uranium,0.67 pCi/L,0.43 pCi/L,20 pCi/L
+2397,"Paisley, City of",None,,,
+2398,Westwind Mobile Home,Arsenic,3.00 ppb,0.004 ppb,10 ppb
+2399,Westwind Mobile Home,Nitrate,1.58 ppm,0.14 ppm,10 ppm
+2400,Westwind Mobile Home,Nitrate and nitrite,1.02 ppm,0.14 ppm,10 ppm
+2401,Westwind Mobile Home,"Radium, combined (-226 &amp; -228)",1.48 pCi/L,0.05 pCi/L,5 pCi/L
+2402,Westwind Mobile Home,Barium,22.0 ppb,700 ppb,"2,000 ppb"
+2403,Westwind Mobile Home,Fluoride,0.0400 ppm,,4 ppm
+2404,Westwind Mobile Home,Manganese,146.0 ppb,100 ppb,
+2405,Westwind Mobile Home,Mercury (inorganic),0.200 ppb,1.2 ppb,2 ppb
+2406,Westwind Mobile Home,Selenium,0.700 ppb,30 ppb,50 ppb
+2407,Westwind Mobile Home,None,,,
+2408,City of St. Helens,Chromium (hexavalent),0.169 ppb,0.02 ppb,
+2409,City of St. Helens,Haloacetic acids (HAA5)†,1.97 ppb,0.1 ppb,60 ppb
+2410,City of St. Helens,Haloacetic acids (HAA9)†,5.26 ppb,0.06 ppb,
+2411,City of St. Helens,Nitrate,1.63 ppm,0.14 ppm,10 ppm
+2412,City of St. Helens,Total trihalomethanes (TTHMs)†,11.9 ppb,0.15 ppb,80 ppb
+2413,City of St. Helens,Chlorate,17.6 ppb,210 ppb,
+2414,City of St. Helens,Chromium (total),0.178 ppb,,100 ppb
+2415,City of St. Helens,Manganese,14.6 ppb,100 ppb,
+2416,City of St. Helens,Strontium,0.0608 ppb,"1,500 ppb",
+2417,City of St. Helens,Vanadium,9.49 ppb,21 ppb,
+2418,City of St. Helens,None,,,
+2419,"Scappoose, City of",Haloacetic acids (HAA5)†,3.88 ppb,0.1 ppb,60 ppb
+2420,"Scappoose, City of",Nitrate,0.294 ppm,0.14 ppm,10 ppm
+2421,"Scappoose, City of",Nitrate and nitrite,0.380 ppm,0.14 ppm,10 ppm
+2422,"Scappoose, City of",Total trihalomethanes (TTHMs)†,18.8 ppb,0.15 ppb,80 ppb
+2423,"Scappoose, City of",Barium,19.5 ppb,700 ppb,"2,000 ppb"
+2424,"Scappoose, City of",Chlorate,78.7 ppb,210 ppb,
+2425,"Scappoose, City of",Chromium (hexavalent),0.0189 ppb,0.02 ppb,
+2426,"Scappoose, City of",Fluoride,0.790 ppm,,4 ppm
+2427,"Scappoose, City of",Manganese,0.925 ppb,100 ppb,
+2428,"Scappoose, City of",Strontium,0.0555 ppb,"1,500 ppb",
+2429,"Scappoose, City of",Vanadium,1.49 ppb,21 ppb,
+2430,"Scappoose, City of",None,,,
+2431,"Vernonia, City of",Haloacetic acids (HAA5)†,24.3 ppb,0.1 ppb,60 ppb
+2432,"Vernonia, City of",Total trihalomethanes (TTHMs)†,57.2 ppb,0.15 ppb,80 ppb
+2433,"Vernonia, City of",Barium,3.05 ppb,700 ppb,"2,000 ppb"
+2434,"Vernonia, City of",Nitrate,0.263 ppm,0.14 ppm,10 ppm
+2435,"Vernonia, City of",None,,,
+2436,"Clatskanie, City of",Haloacetic acids (HAA5)†,32.8 ppb,0.1 ppb,60 ppb
+2437,"Clatskanie, City of",Nitrate,0.377 ppm,0.14 ppm,10 ppm
+2438,"Clatskanie, City of",Total trihalomethanes (TTHMs)†,24.0 ppb,0.15 ppb,80 ppb
+2439,"Clatskanie, City of",None,,,
+2440,Mcnulty Water People's Utility District,Arsenic,6.17 ppb,0.004 ppb,10 ppb
+2441,Mcnulty Water People's Utility District,Barium,4.59 ppb,700 ppb,"2,000 ppb"
+2442,Mcnulty Water People's Utility District,Fluoride,0.240 ppm,,4 ppm
+2443,Mcnulty Water People's Utility District,Nitrate,0.0137 ppm,0.14 ppm,10 ppm
+2444,Mcnulty Water People's Utility District,None,,,
+2445,Warren Water Association,Barium,4.05 ppb,700 ppb,"2,000 ppb"
+2446,Warren Water Association,Fluoride,0.160 ppm,,4 ppm
+2447,Warren Water Association,Nitrate,0.00438 ppm,0.14 ppm,10 ppm
+2448,Warren Water Association,Nitrate and nitrite,0.0254 ppm,0.14 ppm,10 ppm
+2449,Warren Water Association,Nitrite,0.0254 ppm,,1 ppm
+2450,Warren Water Association,None,,,
+2451,Adair Village Water System,Haloacetic acids (HAA5)†,13.2 ppb,0.1 ppb,60 ppb
+2452,Adair Village Water System,Total trihalomethanes (TTHMs)†,23.4 ppb,0.15 ppb,80 ppb
+2453,Adair Village Water System,Barium,4.00 ppb,700 ppb,"2,000 ppb"
+2454,Adair Village Water System,Nitrate,0.0233 ppm,0.14 ppm,10 ppm
+2455,Adair Village Water System,Nitrate and nitrite,0.140 ppm,0.14 ppm,10 ppm
+2456,Adair Village Water System,None,,,
+2457,Alsea County Service District,None,,,
+2458,Cascade View Estates,Nitrate,1.12 ppm,0.14 ppm,10 ppm
+2459,Cascade View Estates,Di(2-ethylhexyl) phthalate,0.275 ppb,3 ppb,6 ppb
+2460,Cascade View Estates,None,,,
+2461,Dumbeck Lane Domestic Water Supply District,Haloacetic acids (HAA5)†,25.0 ppb,0.1 ppb,60 ppb
+2462,Dumbeck Lane Domestic Water Supply District,Haloacetic acids (HAA9)*†,23.0 ppb,0.06 ppb,
+2463,Dumbeck Lane Domestic Water Supply District,"Radium, combined (-226 &amp; -228)*",0.83 pCi/L,0.05 pCi/L,5 pCi/L
+2464,Dumbeck Lane Domestic Water Supply District,Total trihalomethanes (TTHMs)†,49.1 ppb,0.15 ppb,80 ppb
+2465,Dumbeck Lane Domestic Water Supply District,Chlorate*,93.1 ppb,210 ppb,
+2466,Dumbeck Lane Domestic Water Supply District,Chromium (hexavalent)*,0.0384 ppb,0.02 ppb,
+2467,Dumbeck Lane Domestic Water Supply District,Chromium (total)*,0.0294 ppb,,100 ppb
+2468,Dumbeck Lane Domestic Water Supply District,Manganese*,4.35 ppb,100 ppb,
+2469,Dumbeck Lane Domestic Water Supply District,Nitrate*,0.127 ppm,0.14 ppm,10 ppm
+2470,Dumbeck Lane Domestic Water Supply District,Strontium*,0.0263 ppb,"1,500 ppb",
+2471,Dumbeck Lane Domestic Water Supply District,Vanadium*,0.453 ppb,21 ppb,
+2472,Fir View Water Company,Total trihalomethanes (TTHMs)†,3.46 ppb,0.15 ppb,80 ppb
+2473,Fir View Water Company,Nitrate,0.0129 ppm,0.14 ppm,10 ppm
+2474,Fir View Water Company,Nitrate and nitrite,0.1000 ppm,0.14 ppm,10 ppm
+2475,Fir View Water Company,Nitrite,0.01000 ppm,,1 ppm
+2476,Fir View Water Company,None,,,
+2477,Jackson Creek Water Association,Haloacetic acids (HAA5)†,8.53 ppb,0.1 ppb,60 ppb
+2478,Jackson Creek Water Association,Tetrachloroethylene (perchloroethylene),0.323 ppb,0.06 ppb,5 ppb
+2479,Jackson Creek Water Association,Total trihalomethanes (TTHMs)†,53.2 ppb,0.15 ppb,80 ppb
+2480,Jackson Creek Water Association,Fluoride,0.236 ppm,,4 ppm
+2481,Jackson Creek Water Association,None,,,
+2482,Knoll Terrace Park,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+2483,Knoll Terrace Park,Haloacetic acids (HAA5)†,0.900 ppb,0.1 ppb,60 ppb
+2484,Knoll Terrace Park,Total trihalomethanes (TTHMs)†,12.8 ppb,0.15 ppb,80 ppb
+2485,Knoll Terrace Park,Barium,4.00 ppb,700 ppb,"2,000 ppb"
+2486,Knoll Terrace Park,Chromium (total),1.000 ppb,,100 ppb
+2487,Knoll Terrace Park,Fluoride,0.150 ppm,,4 ppm
+2488,Knoll Terrace Park,Nitrate,0.01000 ppm,0.14 ppm,10 ppm
+2489,Knoll Terrace Park,None,,,
+2490,"Monroe, City of",Haloacetic acids (HAA5)†,39.5 ppb,0.1 ppb,60 ppb
+2491,"Monroe, City of",Total trihalomethanes (TTHMs)†,54.3 ppb,0.15 ppb,80 ppb
+2492,"Monroe, City of",None,,,
+2493,North Corvallis Mobile Home Park-well #1,Haloacetic acids (HAA5)†,5.80 ppb,0.1 ppb,60 ppb
+2494,North Corvallis Mobile Home Park-well #1,Total trihalomethanes (TTHMs)†,17.5 ppb,0.15 ppb,80 ppb
+2495,North Corvallis Mobile Home Park-well #1,Uranium,11.39 pCi/L,0.43 pCi/L,20 pCi/L
+2496,North Corvallis Mobile Home Park-well #1,Fluoride,0.150 ppm,,4 ppm
+2497,North Corvallis Mobile Home Park-well #1,None,,,
+2498,Pioneer Village,Arsenic,4.30 ppb,0.004 ppb,10 ppb
+2499,Pioneer Village,Bromodichloromethane,3.04 ppb,0.06 ppb,
+2500,Pioneer Village,Bromoform,1.70 ppb,0.5 ppb,
+2501,Pioneer Village,Chloroform,3.22 ppb,0.4 ppb,
+2502,Pioneer Village,Dibromoacetic acid,0.883 ppb,0.04 ppb,
+2503,Pioneer Village,Dibromochloromethane,3.39 ppb,0.1 ppb,
+2504,Pioneer Village,Dichloroacetic acid,0.825 ppb,0.2 ppb,
+2505,Pioneer Village,Haloacetic acids (HAA5)†,1.03 ppb,0.1 ppb,60 ppb
+2506,Pioneer Village,"Radium, combined (-226 &amp; -228)",1.09 pCi/L,0.05 pCi/L,5 pCi/L
+2507,Pioneer Village,Total trihalomethanes (TTHMs)†,11.1 ppb,0.15 ppb,80 ppb
+2508,Pioneer Village,Trichloroacetic acid,0.317 ppb,0.1 ppb,
+2509,Pioneer Village,Barium,199.8 ppb,700 ppb,"2,000 ppb"
+2510,Pioneer Village,Fluoride,1.01 ppm,,4 ppm
+2511,Pioneer Village,None,,,
+2512,Raintree Estates,Chromium (total),2.28 ppb,,100 ppb
+2513,Raintree Estates,Nitrate,0.143 ppm,0.14 ppm,10 ppm
+2514,Raintree Estates,Nitrate and nitrite,0.175 ppm,0.14 ppm,10 ppm
+2515,Raintree Estates,None,,,
+2516,Ridgewood District Improvement Company,Chromium (total),1.50 ppb,,100 ppb
+2517,Ridgewood District Improvement Company,Fluoride,0.195 ppm,,4 ppm
+2518,Ridgewood District Improvement Company,Nitrate,0.0217 ppm,0.14 ppm,10 ppm
+2519,Ridgewood District Improvement Company,Nitrate and nitrite,0.0650 ppm,0.14 ppm,10 ppm
+2520,Ridgewood District Improvement Company,None,,,
+2521,Vineyard Mountain Water,Nitrate,1.26 ppm,0.14 ppm,10 ppm
+2522,Vineyard Mountain Water,Nitrate and nitrite,1.13 ppm,0.14 ppm,10 ppm
+2523,Vineyard Mountain Water,Total trihalomethanes (TTHMs)†,5.70 ppb,0.15 ppb,80 ppb
+2524,Vineyard Mountain Water,Chromium (total),1.000 ppb,,100 ppb
+2525,Vineyard Mountain Water,None,,,
+2526,"Brownsville, City of",Haloacetic acids (HAA5)†,7.58 ppb,0.1 ppb,60 ppb
+2527,"Brownsville, City of",Total trihalomethanes (TTHMs)†,17.0 ppb,0.15 ppb,80 ppb
+2528,"Brownsville, City of",Nitrate,0.216 ppm,0.14 ppm,10 ppm
+2529,"Brownsville, City of",None,,,
+2530,Mill City Water Department,Nitrate,1.08 ppm,0.14 ppm,10 ppm
+2531,Mill City Water Department,Nitrate and nitrite,1.07 ppm,0.14 ppm,10 ppm
+2532,Mill City Water Department,Total trihalomethanes (TTHMs)†,0.183 ppb,0.15 ppb,80 ppb
+2533,Mill City Water Department,None,,,
+2534,City Of Millersburg,Haloacetic acids (HAA5)†,20.3 ppb,0.1 ppb,60 ppb
+2535,City Of Millersburg,Haloacetic acids (HAA9)*†,23.0 ppb,0.06 ppb,
+2536,City Of Millersburg,"Radium, combined (-226 &amp; -228)*",0.83 pCi/L,0.05 pCi/L,5 pCi/L
+2537,City Of Millersburg,Total trihalomethanes (TTHMs)†,37.1 ppb,0.15 ppb,80 ppb
+2538,City Of Millersburg,Chlorate*,93.1 ppb,210 ppb,
+2539,City Of Millersburg,Chromium (hexavalent)*,0.0384 ppb,0.02 ppb,
+2540,City Of Millersburg,Chromium (total)*,0.0294 ppb,,100 ppb
+2541,City Of Millersburg,Manganese*,4.35 ppb,100 ppb,
+2542,City Of Millersburg,Nitrate*,0.127 ppm,0.14 ppm,10 ppm
+2543,City Of Millersburg,Strontium*,0.0263 ppb,"1,500 ppb",
+2544,City Of Millersburg,Vanadium*,0.453 ppb,21 ppb,
+2545,Buell-red Prairie Water District,Arsenic,4.80 ppb,0.004 ppb,10 ppb
+2546,Buell-red Prairie Water District,Haloacetic acids (HAA5)†,18.3 ppb,0.1 ppb,60 ppb
+2547,Buell-red Prairie Water District,Total trihalomethanes (TTHMs)†,30.3 ppb,0.15 ppb,80 ppb
+2548,Buell-red Prairie Water District,Nitrate,0.0582 ppm,0.14 ppm,10 ppm
+2549,Buell-red Prairie Water District,None,,,
+2550,"Falls City, City of",Arsenic,7.02 ppb,0.004 ppb,10 ppb
+2551,"Falls City, City of",Bromochloroacetic acid,1.14 ppb,0.02 ppb,
+2552,"Falls City, City of",Bromodichloromethane,12.4 ppb,0.06 ppb,
+2553,"Falls City, City of",Bromoform,1.19 ppb,0.5 ppb,
+2554,"Falls City, City of",Chloroform,15.7 ppb,0.4 ppb,
+2555,"Falls City, City of",Dibromoacetic acid,0.139 ppb,0.04 ppb,
+2556,"Falls City, City of",Dibromochloromethane,8.44 ppb,0.1 ppb,
+2557,"Falls City, City of",Dichloroacetic acid,2.09 ppb,0.2 ppb,
+2558,"Falls City, City of",Haloacetic acids (HAA5)†,5.95 ppb,0.1 ppb,60 ppb
+2559,"Falls City, City of",Nitrate and nitrite,0.502 ppm,0.14 ppm,10 ppm
+2560,"Falls City, City of",Total trihalomethanes (TTHMs)†,37.8 ppb,0.15 ppb,80 ppb
+2561,"Falls City, City of",Trichloroacetic acid,3.72 ppb,0.1 ppb,
+2562,"Falls City, City of",Fluoride,0.846 ppm,,4 ppm
+2563,"Falls City, City of",None,,,
+2564,Grand Ronde Community Water Association,None,,,
+2565,Orchard Heights Subdivision,"Radium, combined (-226 &amp; -228)",1.70 pCi/L,0.05 pCi/L,5 pCi/L
+2566,Orchard Heights Subdivision,None,,,
+2567,Perrydale Domestic Water Association,Arsenic,5.86 ppb,0.004 ppb,10 ppb
+2568,Perrydale Domestic Water Association,"Radium, combined (-226 &amp; -228)",2.37 pCi/L,0.05 pCi/L,5 pCi/L
+2569,Perrydale Domestic Water Association,Fluoride,0.165 ppm,,4 ppm
+2570,Perrydale Domestic Water Association,Nitrate,0.163 ppm,0.14 ppm,10 ppm
+2571,Perrydale Domestic Water Association,Nitrate and nitrite,0.250 ppm,0.14 ppm,10 ppm
+2572,Perrydale Domestic Water Association,None,,,
+2573,Pioneer Park Co-op Inc.,Nitrate,0.881 ppm,0.14 ppm,10 ppm
+2574,Pioneer Park Co-op Inc.,Nitrate and nitrite,1.07 ppm,0.14 ppm,10 ppm
+2575,Pioneer Park Co-op Inc.,None,,,
+2576,Rickreall Water Association,Arsenic,1.50 ppb,0.004 ppb,10 ppb
+2577,Rickreall Water Association,Nitrate,5.78 ppm,0.14 ppm,10 ppm
+2578,Rickreall Water Association,Nitrate and nitrite,6.09 ppm,0.14 ppm,10 ppm
+2579,Rickreall Water Association,"Radium, combined (-226 &amp; -228)",0.14 pCi/L,0.05 pCi/L,5 pCi/L
+2580,Rickreall Water Association,Uranium,0.34 pCi/L,0.43 pCi/L,20 pCi/L
+2581,Rickreall Water Association,None,,,
+2582,Rock Creek Water District,Haloacetic acids (HAA5)†,21.5 ppb,0.1 ppb,60 ppb
+2583,Rock Creek Water District,Nitrate,0.463 ppm,0.14 ppm,10 ppm
+2584,Rock Creek Water District,Total trihalomethanes (TTHMs)†,48.9 ppb,0.15 ppb,80 ppb
+2585,Rock Creek Water District,None,,,
+2586,Bay Hills Water Association,Haloacetic acids (HAA5)†,31.7 ppb,0.1 ppb,60 ppb
+2587,Bay Hills Water Association,Nitrate,1.14 ppm,0.14 ppm,10 ppm
+2588,Bay Hills Water Association,Nitrate and nitrite,2.74 ppm,0.14 ppm,10 ppm
+2589,Bay Hills Water Association,Total trihalomethanes (TTHMs)†,61.1 ppb,0.15 ppb,80 ppb
+2590,Bay Hills Water Association,Barium,10.4 ppb,700 ppb,"2,000 ppb"
+2591,Bay Hills Water Association,None,,,
+2592,Beverly Beach Water District,Haloacetic acids (HAA5)†,8.68 ppb,0.1 ppb,60 ppb
+2593,Beverly Beach Water District,Nitrate,0.374 ppm,0.14 ppm,10 ppm
+2594,Beverly Beach Water District,Total trihalomethanes (TTHMs)†,43.7 ppb,0.15 ppb,80 ppb
+2595,Beverly Beach Water District,None,,,
+2596,Carmel Beach Water District,Haloacetic acids (HAA5)†,4.54 ppb,0.1 ppb,60 ppb
+2597,Carmel Beach Water District,Total trihalomethanes (TTHMs)†,14.8 ppb,0.15 ppb,80 ppb
+2598,Carmel Beach Water District,Barium,16.8 ppb,700 ppb,"2,000 ppb"
+2599,Carmel Beach Water District,None,,,
+2600,"Depoe Bay, City of",Haloacetic acids (HAA5)†,11.2 ppb,0.1 ppb,60 ppb
+2601,"Depoe Bay, City of",Nitrate,0.390 ppm,0.14 ppm,10 ppm
+2602,"Depoe Bay, City of",Total trihalomethanes (TTHMs)†,37.7 ppb,0.15 ppb,80 ppb
+2603,"Depoe Bay, City of",Barium,11.8 ppb,700 ppb,"2,000 ppb"
+2604,"Depoe Bay, City of",None,,,
+2605,Fall Creek Water District,Arsenic,1.000 ppb,0.004 ppb,10 ppb
+2606,Fall Creek Water District,Haloacetic acids (HAA5)†,2.80 ppb,0.1 ppb,60 ppb
+2607,Fall Creek Water District,Total trihalomethanes (TTHMs)†,9.05 ppb,0.15 ppb,80 ppb
+2608,Fall Creek Water District,Barium,55.0 ppb,700 ppb,"2,000 ppb"
+2609,Fall Creek Water District,None,,,
+2610,Guptil Subdivision,Nitrate,0.462 ppm,0.14 ppm,10 ppm
+2611,Guptil Subdivision,Nitrate and nitrite,0.682 ppm,0.14 ppm,10 ppm
+2612,Guptil Subdivision,"Radium, combined (-226 &amp; -228)",1.50 pCi/L,0.05 pCi/L,5 pCi/L
+2613,Guptil Subdivision,None,,,
+2614,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+2615,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+2616,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+2617,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+2618,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+2619,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+2620,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+2621,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+2622,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+2623,Hiland Water Company - Bear Creek,None,,,
+2624,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+2625,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+2626,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+2627,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+2628,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+2629,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+2630,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+2631,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+2632,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+2633,Hiland Water Company - Bear Creek,None,,,
+2634,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+2635,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+2636,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+2637,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+2638,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+2639,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+2640,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+2641,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+2642,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+2643,Hiland Water Company - Bear Creek,None,,,
+2644,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+2645,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+2646,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+2647,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+2648,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+2649,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+2650,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+2651,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+2652,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+2653,Hiland Water Company - Bear Creek,None,,,
+2654,Hiland Water Company - Bear Creek,Haloacetic acids (HAA5)†,0.780 ppb,0.1 ppb,60 ppb
+2655,Hiland Water Company - Bear Creek,Nitrate,0.309 ppm,0.14 ppm,10 ppm
+2656,Hiland Water Company - Bear Creek,Total trihalomethanes (TTHMs)†,3.72 ppb,0.15 ppb,80 ppb
+2657,Hiland Water Company - Bear Creek,Barium,8.27 ppb,700 ppb,"2,000 ppb"
+2658,Hiland Water Company - Bear Creek,Chromium (total),0.423 ppb,,100 ppb
+2659,Hiland Water Company - Bear Creek,Fluoride,0.187 ppm,,4 ppm
+2660,Hiland Water Company - Bear Creek,Nitrate and nitrite,0.176 ppm,0.14 ppm,10 ppm
+2661,Hiland Water Company - Bear Creek,Nitrite,0.00648 ppm,,1 ppm
+2662,Hiland Water Company - Bear Creek,Toluene,0.492 ppb,150 ppb,"1,000 ppb"
+2663,Hiland Water Company - Bear Creek,None,,,
+2664,Inn At Otter Crest,Haloacetic acids (HAA5)†,15.4 ppb,0.1 ppb,60 ppb
+2665,Inn At Otter Crest,Nitrate*,0.315 ppm,0.14 ppm,10 ppm
+2666,Inn At Otter Crest,Total trihalomethanes (TTHMs)†,75.7 ppb,0.15 ppb,80 ppb
+2667,Johnson Creek Water Service,Haloacetic acids (HAA5)†,17.9 ppb,0.1 ppb,60 ppb
+2668,Johnson Creek Water Service,Nitrate,0.315 ppm,0.14 ppm,10 ppm
+2669,Johnson Creek Water Service,Total trihalomethanes (TTHMs)†,55.8 ppb,0.15 ppb,80 ppb
+2670,Johnson Creek Water Service,None,,,
+2671,Kernville-gleneden-linc Bch Water District,Haloacetic acids (HAA5)†,22.3 ppb,0.1 ppb,60 ppb
+2672,Kernville-gleneden-linc Bch Water District,Nitrate,0.487 ppm,0.14 ppm,10 ppm
+2673,Kernville-gleneden-linc Bch Water District,"Radium, combined (-226 &amp; -228)",0.34 pCi/L,0.05 pCi/L,5 pCi/L
+2674,Kernville-gleneden-linc Bch Water District,Total trihalomethanes (TTHMs)†,25.3 ppb,0.15 ppb,80 ppb
+2675,Kernville-gleneden-linc Bch Water District,Barium,5.80 ppb,700 ppb,"2,000 ppb"
+2676,Kernville-gleneden-linc Bch Water District,None,,,
+2677,Kozy Acres Water System,Total trihalomethanes (TTHMs)†,0.845 ppb,0.15 ppb,80 ppb
+2678,Kozy Acres Water System,Barium,33.2 ppb,700 ppb,"2,000 ppb"
+2679,Kozy Acres Water System,Fluoride,0.112 ppm,,4 ppm
+2680,Kozy Acres Water System,None,,,
+2681,Lower Siletz Water System,Haloacetic acids (HAA5)†,15.7 ppb,0.1 ppb,60 ppb
+2682,Lower Siletz Water System,Nitrate*,0.487 ppm,0.14 ppm,10 ppm
+2683,Lower Siletz Water System,"Radium, combined (-226 &amp; -228)*",0.34 pCi/L,0.05 pCi/L,5 pCi/L
+2684,Lower Siletz Water System,Total trihalomethanes (TTHMs)†,17.6 ppb,0.15 ppb,80 ppb
+2685,Lower Siletz Water System,Barium*,5.80 ppb,700 ppb,"2,000 ppb"
+2686,Otter Rock Water District,Nitrate,1.64 ppm,0.14 ppm,10 ppm
+2687,Otter Rock Water District,None,,,
+2688,Panther Creek Water District,Haloacetic acids (HAA5)†,21.5 ppb,0.1 ppb,60 ppb
+2689,Panther Creek Water District,Nitrate,0.708 ppm,0.14 ppm,10 ppm
+2690,Panther Creek Water District,Nitrate and nitrite,0.337 ppm,0.14 ppm,10 ppm
+2691,Panther Creek Water District,Total trihalomethanes (TTHMs)†,22.4 ppb,0.15 ppb,80 ppb
+2692,Panther Creek Water District,None,,,
+2693,Riverside Mobile Home Court,Arsenic,1.05 ppb,0.004 ppb,10 ppb
+2694,Riverside Mobile Home Court,Bromodichloromethane,0.700 ppb,0.06 ppb,
+2695,Riverside Mobile Home Court,Bromoform,1.16 ppb,0.5 ppb,
+2696,Riverside Mobile Home Court,Dibromoacetic acid,0.850 ppb,0.04 ppb,
+2697,Riverside Mobile Home Court,Dibromochloromethane,1.64 ppb,0.1 ppb,
+2698,Riverside Mobile Home Court,Haloacetic acids (HAA5)†,0.850 ppb,0.1 ppb,60 ppb
+2699,Riverside Mobile Home Court,"Radium, combined (-226 &amp; -228)",1.04 pCi/L,0.05 pCi/L,5 pCi/L
+2700,Riverside Mobile Home Court,Total trihalomethanes (TTHMs)†,4.00 ppb,0.15 ppb,80 ppb
+2701,Riverside Mobile Home Court,Barium,341.0 ppb,700 ppb,"2,000 ppb"
+2702,Riverside Mobile Home Court,Chloroform,0.500 ppb,0.4 ppb,
+2703,Riverside Mobile Home Court,Fluoride,0.231 ppm,,4 ppm
+2704,Riverside Mobile Home Court,Nitrate,0.01000 ppm,0.14 ppm,10 ppm
+2705,Riverside Mobile Home Court,Selenium,2.51 ppb,30 ppb,50 ppb
+2706,Riverside Mobile Home Court,None,,,
+2707,Salmon River Mobile Village,Nitrate,0.890 ppm,0.14 ppm,10 ppm
+2708,Salmon River Mobile Village,Nitrate and nitrite,0.742 ppm,0.14 ppm,10 ppm
+2709,Salmon River Mobile Village,None,,,
+2710,Salmon River Rv Park,Fluoride,1.41 ppm,,4 ppm
+2711,Salmon River Rv Park,None,,,
+2712,Sea Crest,Haloacetic acids (HAA5)†,11.2 ppb,0.1 ppb,60 ppb
+2713,Sea Crest,Nitrate*,0.315 ppm,0.14 ppm,10 ppm
+2714,Sea Crest,Total trihalomethanes (TTHMs)†,65.1 ppb,0.15 ppb,80 ppb
+2715,"Siletz, City of",Haloacetic acids (HAA5)†,29.2 ppb,0.1 ppb,60 ppb
+2716,"Siletz, City of",Nitrate,0.294 ppm,0.14 ppm,10 ppm
+2717,"Siletz, City of",Total trihalomethanes (TTHMs)†,34.4 ppb,0.15 ppb,80 ppb
+2718,"Siletz, City of",Barium,6.06 ppb,700 ppb,"2,000 ppb"
+2719,"Siletz, City of",Nitrate and nitrite,0.178 ppm,0.14 ppm,10 ppm
+2720,"Siletz, City of",None,,,
+2721,Sw Lincoln County Water District,Haloacetic acids (HAA5)†,6.40 ppb,0.1 ppb,60 ppb
+2722,Sw Lincoln County Water District,Nitrate and nitrite,0.525 ppm,0.14 ppm,10 ppm
+2723,Sw Lincoln County Water District,Total trihalomethanes (TTHMs)†,15.4 ppb,0.15 ppb,80 ppb
+2724,Sw Lincoln County Water District,Nitrate,0.261 ppm,0.14 ppm,10 ppm
+2725,Sw Lincoln County Water District,Selenium,4.00 ppb,30 ppb,50 ppb
+2726,Sw Lincoln County Water District,None,,,
+2727,Toledo Water Utilities,Haloacetic acids (HAA5)†,4.63 ppb,0.1 ppb,60 ppb
+2728,Toledo Water Utilities,Nitrate,0.706 ppm,0.14 ppm,10 ppm
+2729,Toledo Water Utilities,Total trihalomethanes (TTHMs)†,13.6 ppb,0.15 ppb,80 ppb
+2730,Toledo Water Utilities,None,,,
+2731,"Waldport, City of",Haloacetic acids (HAA5)†,7.54 ppb,0.1 ppb,60 ppb
+2732,"Waldport, City of",Nitrate,0.347 ppm,0.14 ppm,10 ppm
+2733,"Waldport, City of",Nitrate and nitrite,0.340 ppm,0.14 ppm,10 ppm
+2734,"Waldport, City of",Total trihalomethanes (TTHMs)†,15.5 ppb,0.15 ppb,80 ppb
+2735,"Waldport, City of",Barium,5.46 ppb,700 ppb,"2,000 ppb"
+2736,"Waldport, City of",Ethylbenzene,0.0530 ppb,300 ppb,700 ppb
+2737,"Waldport, City of",Xylenes (total),1.32 ppb,"1,800 ppb","10,000 ppb"
+2738,"Waldport, City of",None,,,
+2739,"Yachats, City of",Haloacetic acids (HAA5)†,4.45 ppb,0.1 ppb,60 ppb
+2740,"Yachats, City of",Nitrate,0.421 ppm,0.14 ppm,10 ppm
+2741,"Yachats, City of",Total trihalomethanes (TTHMs)†,10.5 ppb,0.15 ppb,80 ppb
+2742,"Yachats, City of",None,,,
+2743,"Enterprise, City of",Arsenic,1.90 ppb,0.004 ppb,10 ppb
+2744,"Enterprise, City of",Bromodichloromethane,2.08 ppb,0.06 ppb,
+2745,"Enterprise, City of",Bromoform,3.05 ppb,0.5 ppb,
+2746,"Enterprise, City of",Dibromoacetic acid,1.60 ppb,0.04 ppb,
+2747,"Enterprise, City of",Dibromochloromethane,3.60 ppb,0.1 ppb,
+2748,"Enterprise, City of",Dichloroacetic acid,0.473 ppb,0.2 ppb,
+2749,"Enterprise, City of",Haloacetic acids (HAA5)†,5.40 ppb,0.1 ppb,60 ppb
+2750,"Enterprise, City of",Nitrate,2.69 ppm,0.14 ppm,10 ppm
+2751,"Enterprise, City of","Radium, combined (-226 &amp; -228)",1.70 pCi/L,0.05 pCi/L,5 pCi/L
+2752,"Enterprise, City of",Total trihalomethanes (TTHMs)†,9.48 ppb,0.15 ppb,80 ppb
+2753,"Enterprise, City of",Trichloroacetic acid,0.700 ppb,0.1 ppb,
+2754,"Enterprise, City of",Barium,34.5 ppb,700 ppb,"2,000 ppb"
+2755,"Enterprise, City of",Chloroform,0.632 ppb,0.4 ppb,
+2756,"Enterprise, City of",Chromium (total),1.000 ppb,,100 ppb
+2757,"Enterprise, City of",Fluoride,0.265 ppm,,4 ppm
+2758,"Enterprise, City of",Monochloroacetic acid,3.48 ppb,53 ppb,
+2759,"Enterprise, City of",Selenium,6.15 ppb,30 ppb,50 ppb
+2760,"Enterprise, City of",None,,,
+2761,"Joseph, City of",Arsenic,1.26 ppb,0.004 ppb,10 ppb
+2762,"Joseph, City of",Haloacetic acids (HAA5)†,5.62 ppb,0.1 ppb,60 ppb
+2763,"Joseph, City of",Nitrate,0.487 ppm,0.14 ppm,10 ppm
+2764,"Joseph, City of",Nitrate and nitrite,0.710 ppm,0.14 ppm,10 ppm
+2765,"Joseph, City of",Total trihalomethanes (TTHMs)†,9.52 ppb,0.15 ppb,80 ppb
+2766,"Joseph, City of",Barium,7.34 ppb,700 ppb,"2,000 ppb"
+2767,"Joseph, City of",Tetrachloroethylene (perchloroethylene),0.0925 ppb,0.06 ppb,5 ppb
+2768,"Joseph, City of",None,,,
+2769,"Lostine, City Of",Haloacetic acids (HAA5)†,1.21 ppb,0.1 ppb,60 ppb
+2770,"Lostine, City Of",Total trihalomethanes (TTHMs)†,3.62 ppb,0.15 ppb,80 ppb
+2771,"Lostine, City Of",Barium,4.19 ppb,700 ppb,"2,000 ppb"
+2772,"Lostine, City Of",Chromium (total),1.05 ppb,,100 ppb
+2773,"Lostine, City Of",Fluoride,0.101 ppm,,4 ppm
+2774,"Lostine, City Of",Nitrate,0.0505 ppm,0.14 ppm,10 ppm
+2775,"Lostine, City Of",None,,,
+2776,Wallowa Lake County Service District,Arsenic,0.700 ppb,0.004 ppb,10 ppb
+2777,Wallowa Lake County Service District,"Radium, combined (-226 &amp; -228)",0.33 pCi/L,0.05 pCi/L,5 pCi/L
+2778,Wallowa Lake County Service District,Barium,2.87 ppb,700 ppb,"2,000 ppb"
+2779,Wallowa Lake County Service District,Beryllium,0.0500 ppb,1 ppb,4 ppb
+2780,Wallowa Lake County Service District,Nitrate,0.0694 ppm,0.14 ppm,10 ppm
+2781,Wallowa Lake County Service District,Selenium,0.143 ppb,30 ppb,50 ppb
+2782,Wallowa Lake County Service District,None,,,
+2783,"Wallowa, City of",Arsenic,0.905 ppb,0.004 ppb,10 ppb
+2784,"Wallowa, City of",Nitrate,0.888 ppm,0.14 ppm,10 ppm
+2785,"Wallowa, City of",Nitrate and nitrite,1.11 ppm,0.14 ppm,10 ppm
+2786,"Wallowa, City of",Antimony,0.288 ppb,1 ppb,6 ppb
+2787,"Wallowa, City of",Barium,3.42 ppb,700 ppb,"2,000 ppb"
+2788,"Wallowa, City of",Cadmium,0.0530 ppb,0.04 ppb,5 ppb
+2789,"Wallowa, City of",None,,,
+2790,"Fossil, City of",Nitrate,0.527 ppm,0.14 ppm,10 ppm
+2791,"Fossil, City of",Nitrate and nitrite,0.463 ppm,0.14 ppm,10 ppm
+2792,"Fossil, City of",Total trihalomethanes (TTHMs)†,3.75 ppb,0.15 ppb,80 ppb
+2793,"Fossil, City of",Barium,3.17 ppb,700 ppb,"2,000 ppb"
+2794,"Fossil, City of",Fluoride,2.07 ppm,,4 ppm
+2795,"Fossil, City of",None,,,
+2796,Mitchell City Water,Haloacetic acids (HAA5)†,1.03 ppb,0.1 ppb,60 ppb
+2797,Mitchell City Water,Total trihalomethanes (TTHMs)†,4.04 ppb,0.15 ppb,80 ppb
+2798,Mitchell City Water,Barium,2.05 ppb,700 ppb,"2,000 ppb"
+2799,Mitchell City Water,Chromium (total),1.05 ppb,,100 ppb
+2800,Mitchell City Water,None,,,
+2801,"Spray, City of",Arsenic,4.31 ppb,0.004 ppb,10 ppb
+2802,"Spray, City of",Nitrate,3.42 ppm,0.14 ppm,10 ppm
+2803,"Spray, City of",Nitrate and nitrite,3.83 ppm,0.14 ppm,10 ppm
+2804,"Spray, City of","Radium, combined (-226 &amp; -228)",1.70 pCi/L,0.05 pCi/L,5 pCi/L
+2805,"Spray, City of",Uranium,5.03 pCi/L,0.43 pCi/L,20 pCi/L
+2806,"Spray, City of",Barium,11.1 ppb,700 ppb,"2,000 ppb"
+2807,"Spray, City of",Chromium (total),1.48 ppb,,100 ppb
+2808,"Spray, City of",Selenium,1.95 ppb,30 ppb,50 ppb
+2809,"Spray, City of",None,,,
+2810,Grass Valley Water System,Arsenic,1.20 ppb,0.004 ppb,10 ppb
+2811,Grass Valley Water System,Nitrate,1.49 ppm,0.14 ppm,10 ppm
+2812,Grass Valley Water System,Uranium,0.20 pCi/L,0.43 pCi/L,20 pCi/L
+2813,Grass Valley Water System,None,,,
+2814,"Moro, City of",Arsenic,0.700 ppb,0.004 ppb,10 ppb
+2815,"Moro, City of",Nitrate,3.17 ppm,0.14 ppm,10 ppm
+2816,"Moro, City of",Nitrate and nitrite,4.27 ppm,0.14 ppm,10 ppm
+2817,"Moro, City of","Radium, combined (-226 &amp; -228)",0.37 pCi/L,0.05 pCi/L,5 pCi/L
+2818,"Moro, City of",Barium,5.40 ppb,700 ppb,"2,000 ppb"
+2819,"Moro, City of",Fluoride,0.249 ppm,,4 ppm
+2820,"Moro, City of",None,,,
+2821,Rufus Public Works,Arsenic,0.755 ppb,0.004 ppb,10 ppb
+2822,Rufus Public Works,Haloacetic acids (HAA5)†,1.66 ppb,0.1 ppb,60 ppb
+2823,Rufus Public Works,Nitrate,2.78 ppm,0.14 ppm,10 ppm
+2824,Rufus Public Works,Nitrate and nitrite,3.25 ppm,0.14 ppm,10 ppm
+2825,Rufus Public Works,"Radium, combined (-226 &amp; -228)",0.15 pCi/L,0.05 pCi/L,5 pCi/L
+2826,Rufus Public Works,Total trihalomethanes (TTHMs)†,23.8 ppb,0.15 ppb,80 ppb
+2827,Rufus Public Works,Uranium,1.14 pCi/L,0.43 pCi/L,20 pCi/L
+2828,Rufus Public Works,Barium,19.0 ppb,700 ppb,"2,000 ppb"
+2829,Rufus Public Works,Chromium (total),2.28 ppb,,100 ppb
+2830,Rufus Public Works,Fluoride,0.520 ppm,,4 ppm
+2831,Rufus Public Works,Nitrite,0.0835 ppm,,1 ppm
+2832,Rufus Public Works,None,,,
+2833,"Wasco, City of",Arsenic,0.830 ppb,0.004 ppb,10 ppb
+2834,"Wasco, City of",Nitrate,1.30 ppm,0.14 ppm,10 ppm
+2835,"Wasco, City of",Nitrate and nitrite,1.06 ppm,0.14 ppm,10 ppm
+2836,"Wasco, City of","Radium, combined (-226 &amp; -228)",2.30 pCi/L,0.05 pCi/L,5 pCi/L
+2837,"Wasco, City of",Barium,3.04 ppb,700 ppb,"2,000 ppb"
+2838,"Wasco, City of",Cyanide,0.450 ppb,,200 ppb
+2839,"Wasco, City of",Fluoride,0.650 ppm,,4 ppm
+2840,"Wasco, City of",None,,,
+2841,Bruneau Water and Sewer District,Arsenic,1.20 ppb,0.004 ppb,10 ppb
+2842,Bruneau Water and Sewer District,Fluoride,0.627 ppm,,4 ppm
+2843,Bruneau Water and Sewer District,Nitrate,0.0714 ppm,0.14 ppm,10 ppm
+2844,Bruneau Water and Sewer District,Nitrate and nitrite,0.0700 ppm,0.14 ppm,10 ppm
+2845,Bruneau Water and Sewer District,Nitrite,0.0233 ppm,,1 ppm
+2846,Bruneau Water and Sewer District,None,,,
+2847,Grand View City Of,Arsenic,11.2 ppb,0.004 ppb,10 ppb
+2848,Grand View City Of,Haloacetic acids (HAA5)†,6.11 ppb,0.1 ppb,60 ppb
+2849,Grand View City Of,Nitrate,7.41 ppm,0.14 ppm,10 ppm
+2850,Grand View City Of,Nitrate and nitrite,4.60 ppm,0.14 ppm,10 ppm
+2851,Grand View City Of,"Radium, combined (-226 &amp; -228)",0.57 pCi/L,0.05 pCi/L,5 pCi/L
+2852,Grand View City Of,Total trihalomethanes (TTHMs)†,23.5 ppb,0.15 ppb,80 ppb
+2853,Grand View City Of,Uranium,4.69 pCi/L,0.43 pCi/L,20 pCi/L
+2854,Grand View City Of,Fluoride,1.07 ppm,,4 ppm
+2855,Grand View City Of,None,,,
+2856,"Homedale, City of",Arsenic,3.27 ppb,0.004 ppb,10 ppb
+2857,"Homedale, City of",Haloacetic acids (HAA5)†,0.559 ppb,0.1 ppb,60 ppb
+2858,"Homedale, City of","Radium, combined (-226 &amp; -228)",0.31 pCi/L,0.05 pCi/L,5 pCi/L
+2859,"Homedale, City of",Barium,63.3 ppb,700 ppb,"2,000 ppb"
+2860,"Homedale, City of",Fluoride,0.557 ppm,,4 ppm
+2861,"Homedale, City of",None,,,
+2862,Hope House (owyhee),Haloacetic acids (HAA5)†,0.927 ppb,0.1 ppb,60 ppb
+2863,Hope House (owyhee),Fluoride,0.270 ppm,,4 ppm
+2864,Hope House (owyhee),Nitrite,0.01000 ppm,,1 ppm
+2865,Hope House (owyhee),None,,,
+2866,"Marsing, City of",Arsenic,1.35 ppb,0.004 ppb,10 ppb
+2867,"Marsing, City of",Haloacetic acids (HAA5)†,1.25 ppb,0.1 ppb,60 ppb
+2868,"Marsing, City of",Nitrate,1.67 ppm,0.14 ppm,10 ppm
+2869,"Marsing, City of",Nitrate and nitrite,3.10 ppm,0.14 ppm,10 ppm
+2870,"Marsing, City of",Total trihalomethanes (TTHMs)†,2.32 ppb,0.15 ppb,80 ppb
+2871,"Marsing, City of",Uranium,3.35 pCi/L,0.43 pCi/L,20 pCi/L
+2872,"Marsing, City of",Barium,80.0 ppb,700 ppb,"2,000 ppb"
+2873,"Marsing, City of",Chromium (total),1.25 ppb,,100 ppb
+2874,"Marsing, City of",Fluoride,1.86 ppm,,4 ppm
+2875,"Marsing, City of",Nitrite,0.0300 ppm,,1 ppm
+2876,"Marsing, City of",Selenium,6.00 ppb,30 ppb,50 ppb
+2877,"Marsing, City of",None,,,
+2878,Murphy Water System,Arsenic,5.35 ppb,0.004 ppb,10 ppb
+2879,Murphy Water System,"Radium, combined (-226 &amp; -228)",0.58 pCi/L,0.05 pCi/L,5 pCi/L
+2880,Murphy Water System,Fluoride,1.17 ppm,,4 ppm
+2881,Murphy Water System,Nitrate,0.200 ppm,0.14 ppm,10 ppm
+2882,Murphy Water System,None,,,
+2883,Pioneer Mobile Home Park,Barium,1.000 ppb,700 ppb,"2,000 ppb"
+2884,Pioneer Mobile Home Park,Chromium (total),1.000 ppb,,100 ppb
+2885,Pioneer Mobile Home Park,Nitrate,0.107 ppm,0.14 ppm,10 ppm
+2886,Pioneer Mobile Home Park,Nitrate and nitrite,0.130 ppm,0.14 ppm,10 ppm
+2887,Pioneer Mobile Home Park,None,,,
+2888,California Pines Community Services District,Arsenic,9.60 ppb,0.004 ppb,10 ppb
+2889,California Pines Community Services District,Fluoride,0.200 ppm,,4 ppm
+2890,California Pines Community Services District,None,,,
+2891,Cedarville County Water District,Arsenic,4.30 ppb,0.004 ppb,10 ppb
+2892,Cedarville County Water District,Chromium (hexavalent),1.20 ppb,0.02 ppb,
+2893,Cedarville County Water District,Nitrate,1.99 ppm,0.14 ppm,10 ppm
+2894,Cedarville County Water District,Nitrate and nitrite,2.50 ppm,0.14 ppm,10 ppm
+2895,Cedarville County Water District,Bromomethane,0.520 ppb,,
+2896,Cedarville County Water District,None,,,
+2897,City Of Alturas,Chromium (hexavalent),1.35 ppb,0.02 ppb,
+2898,City Of Alturas,Nitrate,1.29 ppm,0.14 ppm,10 ppm
+2899,City Of Alturas,"Radium, combined (-226 &amp; -228)",1.24 pCi/L,0.05 pCi/L,5 pCi/L
+2900,City Of Alturas,None,,,
+2901,Newell County Water District,Arsenic,8.70 ppb,0.004 ppb,10 ppb
+2902,Newell County Water District,Fluoride,0.240 ppm,,4 ppm
+2903,Newell County Water District,Manganese,108.0 ppb,100 ppb,
+2904,Newell County Water District,None,,,
+2905,Avion Water Company - Avion,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+2906,Avion Water Company - Avion,Chromium (hexavalent),0.856 ppb,0.02 ppb,
+2907,Avion Water Company - Avion,Barium,1.17 ppb,700 ppb,"2,000 ppb"
+2908,Avion Water Company - Avion,Chromium (total),0.729 ppb,,100 ppb
+2909,Avion Water Company - Avion,Fluoride,0.103 ppm,,4 ppm
+2910,Avion Water Company - Avion,Molybdenum,0.143 ppb,40 ppb,
+2911,Avion Water Company - Avion,Nitrate,0.0825 ppm,0.14 ppm,10 ppm
+2912,Avion Water Company - Avion,Nitrate and nitrite,0.122 ppm,0.14 ppm,10 ppm
+2913,Avion Water Company - Avion,Strontium,0.0256 ppb,"1,500 ppb",
+2914,Avion Water Company - Avion,Vanadium,16.0 ppb,21 ppb,
+2915,Avion Water Company - Avion,None,,,
+2916,Avion Water Company - Avion,Arsenic,2.00 ppb,0.004 ppb,10 ppb
+2917,Avion Water Company - Avion,Chromium (hexavalent),0.856 ppb,0.02 ppb,
+2918,Avion Water Company - Avion,Barium,1.17 ppb,700 ppb,"2,000 ppb"
+2919,Avion Water Company - Avion,Chromium (total),0.729 ppb,,100 ppb
+2920,Avion Water Company - Avion,Fluoride,0.103 ppm,,4 ppm
+2921,Avion Water Company - Avion,Molybdenum,0.143 ppb,40 ppb,
+2922,Avion Water Company - Avion,Nitrate,0.0825 ppm,0.14 ppm,10 ppm
+2923,Avion Water Company - Avion,Nitrate and nitrite,0.122 ppm,0.14 ppm,10 ppm
+2924,Avion Water Company - Avion,Strontium,0.0256 ppb,"1,500 ppb",
+2925,Avion Water Company - Avion,Vanadium,16.0 ppb,21 ppb,
+2926,Avion Water Company - Avion,None,,,
+2927,Barnes Butte Homeowners Association,Nitrate,2.43 ppm,0.14 ppm,10 ppm
+2928,Barnes Butte Homeowners Association,None,,,
+2929,Cascade Pines Mobile Home Park,Arsenic,1.72 ppb,0.004 ppb,10 ppb
+2930,Cascade Pines Mobile Home Park,Nitrate,1.47 ppm,0.14 ppm,10 ppm
+2931,Cascade Pines Mobile Home Park,Nitrate and nitrite,0.798 ppm,0.14 ppm,10 ppm
+2932,Cascade Pines Mobile Home Park,Barium,25.7 ppb,700 ppb,"2,000 ppb"
+2933,Cascade Pines Mobile Home Park,Selenium,0.552 ppb,30 ppb,50 ppb
+2934,Cascade Pines Mobile Home Park,None,,,
+2935,Dry Creek Airpark,Arsenic,2.71 ppb,0.004 ppb,10 ppb
+2936,Dry Creek Airpark,Nitrate,2.29 ppm,0.14 ppm,10 ppm
+2937,Dry Creek Airpark,Nitrate and nitrite,2.47 ppm,0.14 ppm,10 ppm
+2938,Dry Creek Airpark,Barium,15.3 ppb,700 ppb,"2,000 ppb"
+2939,Dry Creek Airpark,Fluoride,0.663 ppm,,4 ppm
+2940,Dry Creek Airpark,Selenium,1.10 ppb,30 ppb,50 ppb
+2941,Dry Creek Airpark,None,,,
+2942,Happy Hollow Water Company,Arsenic,4.54 ppb,0.004 ppb,10 ppb
+2943,Happy Hollow Water Company,Nitrate,3.09 ppm,0.14 ppm,10 ppm
+2944,Happy Hollow Water Company,None,,,
+2945,High Desert Estates,Arsenic,3.00 ppb,0.004 ppb,10 ppb
+2946,High Desert Estates,Nitrate,0.956 ppm,0.14 ppm,10 ppm
+2947,High Desert Estates,Nitrate and nitrite,1.34 ppm,0.14 ppm,10 ppm
+2948,High Desert Estates,Fluoride,0.485 ppm,,4 ppm
+2949,High Desert Estates,None,,,
+2950,Highland Subdivision,Bromoform,1.75 ppb,0.5 ppb,
+2951,Highland Subdivision,Dibromochloromethane,0.711 ppb,0.1 ppb,
+2952,Highland Subdivision,Total trihalomethanes (TTHMs)†,2.46 ppb,0.15 ppb,80 ppb
+2953,Highland Subdivision,Barium,67.0 ppb,700 ppb,"2,000 ppb"
+2954,Highland Subdivision,Manganese,51.0 ppb,100 ppb,
+2955,Highland Subdivision,Selenium,1.15 ppb,30 ppb,50 ppb
+2956,Highland Subdivision,None,,,
+2957,Idleway Improvement District,Arsenic,7.97 ppb,0.004 ppb,10 ppb
+2958,Idleway Improvement District,Haloacetic acids (HAA5)†,6.20 ppb,0.1 ppb,60 ppb
+2959,Idleway Improvement District,Nitrate,1.99 ppm,0.14 ppm,10 ppm
+2960,Idleway Improvement District,Nitrate and nitrite,2.01 ppm,0.14 ppm,10 ppm
+2961,Idleway Improvement District,Total trihalomethanes (TTHMs)†,13.7 ppb,0.15 ppb,80 ppb
+2962,Idleway Improvement District,Uranium,4.02 pCi/L,0.43 pCi/L,20 pCi/L
+2963,Idleway Improvement District,Barium,2.02 ppb,700 ppb,"2,000 ppb"
+2964,Idleway Improvement District,Fluoride,0.864 ppm,,4 ppm
+2965,Idleway Improvement District,Selenium,1.95 ppb,30 ppb,50 ppb
+2966,Idleway Improvement District,None,,,
+2967,Mcdougal Water System,Nitrate,1.90 ppm,0.14 ppm,10 ppm
+2968,Mcdougal Water System,None,,,
+2969,Ochoco Valley Home Improvement District,Nitrate,0.483 ppm,0.14 ppm,10 ppm
+2970,Ochoco Valley Home Improvement District,Uranium,0.94 pCi/L,0.43 pCi/L,20 pCi/L
+2971,Ochoco Valley Home Improvement District,None,,,
+2972,Ochoco West Water & San Authority,Arsenic,2.28 ppb,0.004 ppb,10 ppb
+2973,Ochoco West Water & San Authority,Nitrate,0.566 ppm,0.14 ppm,10 ppm
+2974,Ochoco West Water & San Authority,Total trihalomethanes (TTHMs)†,11.3 ppb,0.15 ppb,80 ppb
+2975,Ochoco West Water & San Authority,Barium,35.6 ppb,700 ppb,"2,000 ppb"
+2976,Ochoco West Water & San Authority,None,,,
+2977,Prineville Mobile Home Park,Arsenic,4.70 ppb,0.004 ppb,10 ppb
+2978,Prineville Mobile Home Park,Nitrate,5.97 ppm,0.14 ppm,10 ppm
+2979,Prineville Mobile Home Park,Nitrate and nitrite,5.81 ppm,0.14 ppm,10 ppm
+2980,Prineville Mobile Home Park,Barium,29.0 ppb,700 ppb,"2,000 ppb"
+2981,Prineville Mobile Home Park,Fluoride,0.280 ppm,,4 ppm
+2982,Prineville Mobile Home Park,None,,,
+2983,Quail Valley Park Improvement District,Arsenic,4.05 ppb,0.004 ppb,10 ppb
+2984,Quail Valley Park Improvement District,Nitrate,0.760 ppm,0.14 ppm,10 ppm
+2985,Quail Valley Park Improvement District,Total trihalomethanes (TTHMs)†,2.39 ppb,0.15 ppb,80 ppb
+2986,Quail Valley Park Improvement District,Di(2-ethylhexyl) phthalate,0.943 ppb,3 ppb,6 ppb
+2987,Quail Valley Park Improvement District,None,,,
+2988,Shoun Crossroads,Arsenic,5.38 ppb,0.004 ppb,10 ppb
+2989,Shoun Crossroads,Nitrate,0.289 ppm,0.14 ppm,10 ppm
+2990,Shoun Crossroads,Barium,0.766 ppb,700 ppb,"2,000 ppb"
+2991,Shoun Crossroads,Fluoride,3.42 ppm,,4 ppm
+2992,Shoun Crossroads,None,,,
+2993,Sunset Hills Domestic Water Association,Nitrate,1.06 ppm,0.14 ppm,10 ppm
+2994,Sunset Hills Domestic Water Association,Uranium,1.07 pCi/L,0.43 pCi/L,20 pCi/L
+2995,Sunset Hills Domestic Water Association,None,,,
+2996,Arlington Terrace Mobile Home Park,Nitrate and nitrite,1.47 ppm,0.14 ppm,10 ppm
+2997,Arlington Terrace Mobile Home Park,"Radium, combined (-226 &amp; -228)",0.25 pCi/L,0.05 pCi/L,5 pCi/L
+2998,Arlington Terrace Mobile Home Park,None,,,
+2999,Westridge Subdivision,"Radium, combined (-226 &amp; -228)",0.76 pCi/L,0.05 pCi/L,5 pCi/L
+3000,Westridge Subdivision,Dichloromethane (methylene chloride),0.220 ppb,4 ppb,5 ppb
+3001,Westridge Subdivision,Fluoride,0.235 ppm,,4 ppm
+3002,Westridge Subdivision,Manganese,13.5 ppb,100 ppb,
+3003,Westridge Subdivision,None,,,
