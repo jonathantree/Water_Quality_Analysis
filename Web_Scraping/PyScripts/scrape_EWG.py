@@ -1,3 +1,4 @@
+from functools import total_ordering
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -7,7 +8,7 @@ import requests
 import time
 import os
 
-
+start_time = time.time()
 #Read in the master data set of zip codes to filter for state on user prompr
 us_zip_df = pd.read_csv('../../Resources/Data/simplemaps_uszips_basicv1.80/uszips.csv')
 
@@ -65,6 +66,10 @@ for zipcode in zip_list:
         utilities_df = utilities_df.append(data)
     except ValueError:
         print(f'No systems found that match your search for: {zipcode}')
+
+#Output the resulting dataframe to a csv file
+state_path_utility_raw_output = os.path.join(path,'utilities_with_duplicates.csv')
+utilities_df.to_csv(state_path_utility_raw_output, index=False)
 
 #Get rid of duplicates to result in a unique list of utilities to scrape
 utilities_df.drop_duplicates(subset=['Utility name'],inplace=True)
@@ -171,3 +176,9 @@ scraped_df.Contaminant = scraped_df.Contaminant.apply(lambda x: cleanhtml(x))
 #Output the resulting dataframe to a csv file
 state_path_contaminant_output = os.path.join(path,'contaminants.csv')
 scraped_df.to_csv(state_path_contaminant_output, index=False)
+
+finish_time = time.time()
+
+total_time = (finish_time - start_time)/60/60
+
+print(f'The process finished in finished in {total_time} hours')

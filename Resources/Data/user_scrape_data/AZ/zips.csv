@@ -1,0 +1,418 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+85003,33.45059,-112.07833,Phoenix,AZ,Arizona,True,,8465.0,1757.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85004,33.45159,-112.06988,Phoenix,AZ,Arizona,True,,8223.0,1546.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85006,33.46511,-112.04778,Phoenix,AZ,Arizona,True,,26682.0,2597.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85007,33.44682,-112.09073,Phoenix,AZ,Arizona,True,,14820.0,1242.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85008,33.46355,-111.98746,Phoenix,AZ,Arizona,True,,62995.0,2377.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85009,33.44457,-112.12661,Phoenix,AZ,Arizona,True,,54000.0,1423.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85012,33.50719,-112.07024,Phoenix,AZ,Arizona,True,,7595.0,1300.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85013,33.51001,-112.08294,Phoenix,AZ,Arizona,True,,20912.0,2191.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85014,33.50903,-112.05665,Phoenix,AZ,Arizona,True,,27888.0,2665.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85015,33.50908,-112.10184,Phoenix,AZ,Arizona,True,,44010.0,3464.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85016,33.50953,-112.03041,Phoenix,AZ,Arizona,True,,35627.0,1678.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85017,33.50898,-112.12381,Phoenix,AZ,Arizona,True,,43396.0,3183.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85018,33.5194,-111.99309,Phoenix,AZ,Arizona,True,,38891.0,995.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85019,33.50952,-112.14307,Phoenix,AZ,Arizona,True,,30369.0,3142.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85020,33.56766,-112.05485,Phoenix,AZ,Arizona,True,,35742.0,1571.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85021,33.56046,-112.09442,Phoenix,AZ,Arizona,True,,42114.0,2342.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85022,33.62685,-112.05113,Phoenix,AZ,Arizona,True,,52146.0,2141.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85023,33.63156,-112.09452,Phoenix,AZ,Arizona,True,,35196.0,1833.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85024,33.69042,-112.04632,Phoenix,AZ,Arizona,True,,26724.0,880.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85026,33.44891,-111.97356,Phoenix,AZ,Arizona,True,,,,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85027,33.6771,-112.10206,Phoenix,AZ,Arizona,True,,39488.0,1301.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85028,33.5816,-112.00811,Phoenix,AZ,Arizona,True,,19120.0,1077.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85029,33.59546,-112.11002,Phoenix,AZ,Arizona,True,,47541.0,1961.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85031,33.49491,-112.16835,Phoenix,AZ,Arizona,True,,36409.0,3461.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85032,33.62624,-112.00368,Phoenix,AZ,Arizona,True,,73212.0,2286.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85033,33.49443,-112.21193,Phoenix,AZ,Arizona,True,,64388.0,4063.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85034,33.43465,-112.01989,Phoenix,AZ,Arizona,True,,5438.0,181.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85035,33.47167,-112.19538,Phoenix,AZ,Arizona,True,,57599.0,3973.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85037,33.49038,-112.26487,Phoenix,AZ,Arizona,True,,55083.0,2600.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85040,33.40585,-112.02658,Phoenix,AZ,Arizona,True,,35399.0,1352.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85041,33.38643,-112.10928,Phoenix,AZ,Arizona,True,,64657.0,1561.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85042,33.35911,-112.04949,Phoenix,AZ,Arizona,True,,49374.0,980.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85043,33.4323,-112.19744,Phoenix,AZ,Arizona,True,,37779.0,718.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85044,33.33997,-112.00617,Phoenix,AZ,Arizona,True,,43187.0,1010.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85045,33.29976,-112.1062,Phoenix,AZ,Arizona,True,,6737.0,654.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85048,33.30362,-112.03192,Phoenix,AZ,Arizona,True,,36867.0,1406.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85050,33.68739,-111.99854,Phoenix,AZ,Arizona,True,,31864.0,826.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85051,33.55914,-112.13324,Phoenix,AZ,Arizona,True,,46041.0,2796.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85053,33.6296,-112.13184,Phoenix,AZ,Arizona,True,,31381.0,2345.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85054,33.67515,-111.94763,Phoenix,AZ,Arizona,True,,8836.0,398.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85083,33.74032,-112.16308,Phoenix,AZ,Arizona,True,,20343.0,394.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85085,33.75637,-112.07426,Phoenix,AZ,Arizona,True,,24608.0,249.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85086,33.82639,-112.12876,Phoenix,AZ,Arizona,True,,43447.0,273.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85087,33.92635,-112.14908,New River,AZ,Arizona,True,,8124.0,36.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85118,33.3737,-111.36545,Gold Canyon,AZ,Arizona,True,,12888.0,33.5,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85119,33.38682,-111.50824,Apache Junction,AZ,Arizona,True,,26216.0,221.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85120,33.38706,-111.56311,Apache Junction,AZ,Arizona,True,,31042.0,519.1,4021,Pinal,"{""04021"": 93.9, ""04013"": 6.1}",Pinal|Maricopa,04021|04013,False,False,America/Phoenix
+85121,33.13751,-111.91316,Bapchule,AZ,Arizona,True,,1782.0,9.1,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85122,32.91672,-111.74798,Casa Grande,AZ,Arizona,True,,60061.0,411.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85123,32.70917,-111.6802,Arizona City,AZ,Arizona,True,,10484.0,120.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85128,32.96468,-111.51028,Coolidge,AZ,Arizona,True,,17427.0,40.4,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85131,32.65542,-111.57649,Eloy,AZ,Arizona,True,,20455.0,25.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85132,32.92358,-111.19119,Florence,AZ,Arizona,True,,40171.0,25.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85135,32.9987,-110.78242,Hayden,AZ,Arizona,True,,444.0,118.4,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85137,33.11275,-110.98353,Kearny,AZ,Arizona,True,,2772.0,4.6,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85138,33.0151,-111.98681,Maricopa,AZ,Arizona,True,,41266.0,188.0,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85139,32.92096,-112.21117,Maricopa,AZ,Arizona,True,,17708.0,13.6,4021,Pinal,"{""04021"": 52.77, ""04013"": 47.23}",Pinal|Maricopa,04021|04013,False,False,America/Phoenix
+85140,33.24805,-111.48921,San Tan Valley,AZ,Arizona,True,,51520.0,241.4,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85141,32.64707,-111.42792,Picacho,AZ,Arizona,True,,534.0,3.4,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85142,33.19302,-111.66645,Queen Creek,AZ,Arizona,True,,77101.0,293.8,4021,Pinal,"{""04021"": 67.52, ""04013"": 32.48}",Pinal|Maricopa,04021|04013,False,False,America/Phoenix
+85143,33.15602,-111.51974,San Tan Valley,AZ,Arizona,True,,41329.0,510.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85145,32.54322,-111.39415,Red Rock,AZ,Arizona,True,,3893.0,39.0,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85147,33.09454,-111.7209,Sacaton,AZ,Arizona,True,,4188.0,22.9,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85172,32.89974,-111.95205,Stanfield,AZ,Arizona,True,,1497.0,7.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85173,33.26827,-111.13651,Superior,AZ,Arizona,True,,3155.0,25.5,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85191,32.98498,-111.44686,Valley Farms,AZ,Arizona,True,,,,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85192,32.96134,-110.66501,Winkelman,AZ,Arizona,True,,2669.0,3.2,4021,Pinal,"{""04021"": 67.65, ""04007"": 32.35}",Pinal|Gila,04021|04007,False,False,America/Phoenix
+85193,32.79822,-111.82809,Casa Grande,AZ,Arizona,True,,5946.0,10.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85194,32.89675,-111.62439,Casa Grande,AZ,Arizona,True,,8283.0,39.6,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85201,33.4336,-111.84929,Mesa,AZ,Arizona,True,,55159.0,2271.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85202,33.38252,-111.87482,Mesa,AZ,Arizona,True,,40037.0,2478.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85203,33.44997,-111.80403,Mesa,AZ,Arizona,True,,40112.0,1672.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85204,33.39666,-111.78786,Mesa,AZ,Arizona,True,,69792.0,2719.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85205,33.43227,-111.71804,Mesa,AZ,Arizona,True,,44079.0,1680.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85206,33.39685,-111.71758,Mesa,AZ,Arizona,True,,36506.0,1501.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85207,33.45362,-111.63631,Mesa,AZ,Arizona,True,,51867.0,681.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85208,33.40301,-111.63194,Mesa,AZ,Arizona,True,,38474.0,1824.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85209,33.37877,-111.63476,Mesa,AZ,Arizona,True,,40294.0,1319.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85210,33.38955,-111.84337,Mesa,AZ,Arizona,True,,41359.0,2389.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85212,33.32064,-111.63088,Mesa,AZ,Arizona,True,,40326.0,403.6,4013,Maricopa,"{""04013"": 92.4, ""04021"": 7.6}",Maricopa|Pinal,04013|04021,False,False,America/Phoenix
+85213,33.44764,-111.76962,Mesa,AZ,Arizona,True,,38412.0,1608.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85215,33.51101,-111.58027,Mesa,AZ,Arizona,True,,16255.0,75.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85224,33.32351,-111.87616,Chandler,AZ,Arizona,True,,45154.0,1849.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85225,33.31748,-111.83167,Chandler,AZ,Arizona,True,,69790.0,2123.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85226,33.26519,-111.94641,Chandler,AZ,Arizona,True,,39614.0,397.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85233,33.35242,-111.8115,Gilbert,AZ,Arizona,True,,36229.0,1449.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85234,33.36479,-111.73924,Gilbert,AZ,Arizona,True,,49266.0,1592.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85236,33.32301,-111.71951,Higley,AZ,Arizona,True,,,,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85248,33.2145,-111.86667,Chandler,AZ,Arizona,True,,36396.0,460.0,4013,Maricopa,"{""04013"": 63.38, ""04021"": 36.62}",Maricopa|Pinal,04013|04021,False,False,America/Phoenix
+85249,33.22652,-111.79918,Chandler,AZ,Arizona,True,,40711.0,1095.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85250,33.52986,-111.88991,Scottsdale,AZ,Arizona,True,,17860.0,820.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85251,33.49406,-111.92025,Scottsdale,AZ,Arizona,True,,41592.0,2223.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85253,33.54479,-111.95873,Paradise Valley,AZ,Arizona,True,,18873.0,402.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85254,33.61474,-111.95176,Scottsdale,AZ,Arizona,True,,47518.0,1337.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85255,33.6824,-111.8177,Scottsdale,AZ,Arizona,True,,43246.0,189.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85256,33.50053,-111.83524,Scottsdale,AZ,Arizona,True,,6329.0,71.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85257,33.46354,-111.91486,Scottsdale,AZ,Arizona,True,,33594.0,1889.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85258,33.56337,-111.89268,Scottsdale,AZ,Arizona,True,,27133.0,1016.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85259,33.60105,-111.80952,Scottsdale,AZ,Arizona,True,,24119.0,449.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85260,33.60943,-111.89113,Scottsdale,AZ,Arizona,True,,41192.0,1116.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85262,33.85834,-111.80169,Scottsdale,AZ,Arizona,True,,12675.0,31.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85263,33.90026,-111.62412,Rio Verde,AZ,Arizona,True,,3040.0,6.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85264,33.69996,-111.50123,Fort Mcdowell,AZ,Arizona,True,,1511.0,1.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85266,33.76034,-111.92503,Scottsdale,AZ,Arizona,True,,13596.0,267.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85268,33.60717,-111.73999,Fountain Hills,AZ,Arizona,True,,25368.0,478.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85281,33.42805,-111.93157,Tempe,AZ,Arizona,True,,69197.0,2011.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85282,33.3943,-111.93242,Tempe,AZ,Arizona,True,,56435.0,1963.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85283,33.36461,-111.93196,Tempe,AZ,Arizona,True,,51800.0,2265.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85284,33.33719,-111.93443,Tempe,AZ,Arizona,True,,20782.0,1025.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85286,33.27146,-111.83156,Chandler,AZ,Arizona,True,,45444.0,1102.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85295,33.30639,-111.73804,Gilbert,AZ,Arizona,True,,48814.0,1562.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85296,33.33554,-111.74006,Gilbert,AZ,Arizona,True,,46934.0,1553.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85297,33.27843,-111.73638,Gilbert,AZ,Arizona,True,,32706.0,1177.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85298,33.23983,-111.72819,Gilbert,AZ,Arizona,True,,32742.0,806.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85301,33.53219,-112.17817,Glendale,AZ,Arizona,True,,69181.0,2868.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85302,33.56777,-112.17819,Glendale,AZ,Arizona,True,,41547.0,2668.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85303,33.53398,-112.22084,Glendale,AZ,Arizona,True,,35403.0,2023.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85304,33.59566,-112.17815,Glendale,AZ,Arizona,True,,29801.0,2105.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85305,33.52996,-112.25563,Glendale,AZ,Arizona,True,,14452.0,910.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85306,33.62333,-112.17569,Glendale,AZ,Arizona,True,,23923.0,1577.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85307,33.53396,-112.30867,Glendale,AZ,Arizona,True,,12118.0,449.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85308,33.66029,-112.18486,Glendale,AZ,Arizona,True,,65799.0,1503.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85309,33.53556,-112.37637,Luke Air Force Base,AZ,Arizona,True,,836.0,90.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85310,33.69532,-112.17162,Glendale,AZ,Arizona,True,,20492.0,862.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85320,33.83563,-113.23214,Aguila,AZ,Arizona,True,,956.0,1.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85321,32.30062,-112.63169,Ajo,AZ,Arizona,True,,3768.0,1.1,4019,Pima,"{""04019"": 88.95, ""04013"": 11.05}",Pima|Maricopa,04019|04013,False,False,America/Phoenix
+85322,33.1766,-112.85207,Arlington,AZ,Arizona,True,,579.0,0.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85323,33.41888,-112.32615,Avondale,AZ,Arizona,True,,45361.0,987.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85324,34.10456,-112.07094,Black Canyon City,AZ,Arizona,True,,2685.0,3.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+85325,33.98328,-113.84323,Bouse,AZ,Arizona,True,,1281.0,0.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85326,33.23735,-112.58538,Buckeye,AZ,Arizona,True,,63438.0,50.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85328,33.22795,-114.63413,Cibola,AZ,Arizona,True,,286.0,0.6,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85329,33.43171,-112.2965,Cashion,AZ,Arizona,True,,,,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85331,33.88685,-111.94276,Cave Creek,AZ,Arizona,True,,31947.0,94.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85332,34.19209,-112.89444,Congress,AZ,Arizona,True,,1960.0,1.8,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+85333,32.97896,-113.30714,Dateland,AZ,Arizona,True,,607.0,0.4,4013,Maricopa,"{""04013"": 55.51, ""04027"": 44.49}",Maricopa|Yuma,04013|04027,False,False,America/Phoenix
+85334,33.60535,-114.4075,Ehrenberg,AZ,Arizona,True,,1005.0,6.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85335,33.58721,-112.32836,El Mirage,AZ,Arizona,True,,35702.0,1151.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85336,32.51904,-114.77977,San Luis,AZ,Arizona,True,,873.0,34.5,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85337,32.97553,-112.866,Gila Bend,AZ,Arizona,True,,2676.0,2.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85338,33.37252,-112.40826,Goodyear,AZ,Arizona,True,,51691.0,262.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85339,33.23985,-112.14322,Laveen,AZ,Arizona,True,,49398.0,73.9,4013,Maricopa,"{""04013"": 56.1, ""04021"": 43.9}",Maricopa|Pinal,04013|04021,False,False,America/Phoenix
+85340,33.5179,-112.42361,Litchfield Park,AZ,Arizona,True,,39394.0,486.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85341,31.9726,-112.71943,Lukeville,AZ,Arizona,True,,,,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85342,33.95308,-112.48358,Morristown,AZ,Arizona,True,,1795.0,1.8,4025,Yavapai,"{""04025"": 56.2, ""04013"": 43.8}",Yavapai|Maricopa,04025|04013,False,False,America/Phoenix
+85343,33.33774,-112.69087,Palo Verde,AZ,Arizona,True,,87.0,5.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85344,33.98527,-114.23267,Parker,AZ,Arizona,True,,10608.0,4.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85345,33.57215,-112.24838,Peoria,AZ,Arizona,True,,57095.0,1737.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85346,33.60992,-114.15835,Quartzsite,AZ,Arizona,True,,4275.0,4.5,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85347,32.78612,-113.80633,Roll,AZ,Arizona,True,,498.0,0.9,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85348,33.69914,-113.66372,Salome,AZ,Arizona,True,,2836.0,1.6,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85349,32.47983,-114.69647,San Luis,AZ,Arizona,True,,31340.0,536.1,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85350,32.56651,-114.70896,Somerton,AZ,Arizona,True,,24044.0,114.1,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85351,33.60638,-112.28213,Sun City,AZ,Arizona,True,,28824.0,1022.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85352,32.69118,-113.8963,Tacna,AZ,Arizona,True,,495.0,4.5,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85353,33.41721,-112.27283,Tolleson,AZ,Arizona,True,,42230.0,760.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85354,33.40735,-113.06637,Tonopah,AZ,Arizona,True,,7673.0,4.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85355,33.57519,-112.45374,Waddell,AZ,Arizona,True,,12756.0,142.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85356,32.68933,-114.1852,Wellton,AZ,Arizona,True,,5009.0,10.7,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85357,34.02498,-113.49055,Wenden,AZ,Arizona,True,,434.0,0.4,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85360,34.54833,-113.57275,Wikieup,AZ,Arizona,True,,99.0,0.0,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+85361,33.76617,-112.63093,Wittmann,AZ,Arizona,True,,7082.0,23.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85362,34.28558,-112.84337,Yarnell,AZ,Arizona,True,,667.0,4.1,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+85363,33.58458,-112.30489,Youngtown,AZ,Arizona,True,,6837.0,1728.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85364,32.70469,-114.65664,Yuma,AZ,Arizona,True,,73674.0,741.1,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85365,33.07067,-114.13801,Yuma,AZ,Arizona,True,,53355.0,15.3,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85367,32.66082,-114.39361,Yuma,AZ,Arizona,True,,22067.0,226.7,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix
+85371,33.96732,-114.39005,Poston,AZ,Arizona,True,,310.0,12.9,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix
+85373,33.67257,-112.29983,Sun City,AZ,Arizona,True,,20738.0,711.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85374,33.64449,-112.395,Surprise,AZ,Arizona,True,,49284.0,1488.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85375,33.6716,-112.3565,Sun City West,AZ,Arizona,True,,30285.0,943.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85377,33.82376,-111.91515,Carefree,AZ,Arizona,True,,3589.0,161.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85378,33.64162,-112.32012,Surprise,AZ,Arizona,True,,,,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85379,33.60207,-112.3736,Surprise,AZ,Arizona,True,,47061.0,1691.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85381,33.60957,-112.23175,Peoria,AZ,Arizona,True,,25050.0,1449.8,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85382,33.65548,-112.24771,Peoria,AZ,Arizona,True,,38815.0,1511.0,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85383,33.80297,-112.31734,Peoria,AZ,Arizona,True,,58375.0,143.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85387,33.71025,-112.44869,Surprise,AZ,Arizona,True,,11141.0,71.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85388,33.60743,-112.43413,Surprise,AZ,Arizona,True,,33455.0,1005.6,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85390,33.92391,-112.86739,Wickenburg,AZ,Arizona,True,,9443.0,7.7,4013,Maricopa,"{""04013"": 76.23, ""04025"": 23.77}",Maricopa|Yavapai,04013|04025,False,False,America/Phoenix
+85392,33.47713,-112.30981,Avondale,AZ,Arizona,True,,38795.0,1542.1,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85395,33.48208,-112.40518,Goodyear,AZ,Arizona,True,,30013.0,623.4,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85396,33.5376,-112.64635,Buckeye,AZ,Arizona,True,,25272.0,97.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix
+85501,33.54569,-110.74788,Globe,AZ,Arizona,True,,13073.0,9.2,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85530,33.09361,-110.23109,Bylas,AZ,Arizona,True,,1508.0,1.5,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85531,32.87392,-109.7849,Central,AZ,Arizona,True,,366.0,31.6,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85532,33.40779,-110.8454,Claypool,AZ,Arizona,True,,,,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85533,33.29208,-109.40219,Clifton,AZ,Arizona,True,,3412.0,1.4,4011,Greenlee,"{""04011"": 69.87, ""04009"": 30.13}",Greenlee|Graham,04011|04009,False,False,America/Phoenix
+85534,32.72939,-109.14475,Duncan,AZ,Arizona,True,,2708.0,2.6,4011,Greenlee,"{""04011"": 100}",Greenlee,04011,False,False,America/Phoenix
+85535,32.98583,-109.91284,Eden,AZ,Arizona,True,,0.0,0.0,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85536,33.14063,-110.00331,Fort Thomas,AZ,Arizona,True,,445.0,1.2,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85539,33.33282,-110.92883,Miami,AZ,Arizona,True,,4146.0,20.7,4007,Gila,"{""04007"": 75.19, ""04021"": 24.81}",Gila|Pinal,04007|04021,False,False,America/Phoenix
+85540,32.9781,-109.35704,Morenci,AZ,Arizona,True,,3294.0,12.6,4011,Greenlee,"{""04011"": 100}",Greenlee,04011,False,False,America/Phoenix
+85541,34.21921,-111.34387,Payson,AZ,Arizona,True,,21809.0,10.4,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85542,33.28633,-110.30145,Peridot,AZ,Arizona,True,,3538.0,5.4,4009,Graham,"{""04009"": 83.74, ""04007"": 16.26}",Graham|Gila,04009|04007,False,False,America/Phoenix
+85543,32.9593,-109.90123,Pima,AZ,Arizona,True,,4058.0,4.1,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85544,34.38609,-111.4732,Pine,AZ,Arizona,True,,2800.0,14.7,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85545,33.53759,-111.11955,Roosevelt,AZ,Arizona,True,,607.0,0.6,4007,Gila,"{""04007"": 50.81, ""04013"": 49.19}",Gila|Maricopa,04007|04013,False,False,America/Phoenix
+85546,32.71743,-109.58175,Safford,AZ,Arizona,True,,20383.0,11.3,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85550,33.54833,-110.51244,San Carlos,AZ,Arizona,True,,5525.0,5.0,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85551,32.73048,-109.56252,Solomon,AZ,Arizona,True,,555.0,8.5,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85552,32.81399,-109.78953,Thatcher,AZ,Arizona,True,,6653.0,88.0,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix
+85553,33.79932,-111.22438,Tonto Basin,AZ,Arizona,True,,1850.0,2.4,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85554,33.99679,-110.97834,Young,AZ,Arizona,True,,456.0,0.2,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix
+85601,31.58453,-111.33359,Arivaca,AZ,Arizona,True,,692.0,1.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85602,32.17296,-110.3865,Benson,AZ,Arizona,True,,9007.0,4.1,4003,Cochise,"{""04003"": 69.45, ""04019"": 30.55}",Cochise|Pima,04003|04019,False,False,America/Phoenix
+85603,31.43525,-109.91127,Bisbee,AZ,Arizona,True,,7137.0,12.1,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85605,32.29784,-109.47644,Bowie,AZ,Arizona,True,,666.0,0.8,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85606,32.01521,-109.93326,Cochise,AZ,Arizona,True,,1002.0,2.2,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85607,31.49008,-109.34052,Douglas,AZ,Arizona,True,,17415.0,8.6,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85608,31.45624,-109.58635,Douglas,AZ,Arizona,True,,3421.0,690.2,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85609,32.06867,-110.09714,Dragoon,AZ,Arizona,True,,401.0,1.3,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85610,31.73144,-109.65957,Elfrida,AZ,Arizona,True,,854.0,0.7,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85611,31.64266,-110.51334,Elgin,AZ,Arizona,True,,1246.0,1.3,4023,Santa Cruz,"{""04023"": 49.65, ""04019"": 36.0, ""04003"": 14.34}",Santa Cruz|Pima|Cochise,04023|04019|04003,False,False,America/Phoenix
+85613,31.55393,-110.38305,Fort Huachuca,AZ,Arizona,True,,5563.0,37.7,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85614,31.81241,-110.92972,Green Valley,AZ,Arizona,True,,24890.0,72.9,4019,Pima,"{""04019"": 93.09, ""04023"": 6.91}",Pima|Santa Cruz,04019|04023,False,False,America/Phoenix
+85615,31.39678,-110.2108,Hereford,AZ,Arizona,True,,9133.0,19.0,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85616,31.70768,-110.32184,Huachuca City,AZ,Arizona,True,,5483.0,14.1,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85617,31.55767,-109.71548,McNeal,AZ,Arizona,True,,1254.0,2.2,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85618,32.77631,-110.69433,Mammoth,AZ,Arizona,True,,1796.0,2.7,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85619,32.39574,-110.73663,Mount Lemmon,AZ,Arizona,True,,35.0,0.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85620,31.33835,-109.9431,Naco,AZ,Arizona,True,,985.0,329.6,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85621,31.42345,-111.03764,Nogales,AZ,Arizona,True,,21988.0,29.8,4023,Santa Cruz,"{""04023"": 100}",Santa Cruz,04023,False,False,America/Phoenix
+85622,31.80301,-111.09104,Green Valley,AZ,Arizona,True,,5785.0,29.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85623,32.65407,-110.78447,Oracle,AZ,Arizona,True,,5526.0,11.3,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85624,31.51768,-110.71039,Patagonia,AZ,Arizona,True,,1334.0,1.5,4023,Santa Cruz,"{""04023"": 100}",Santa Cruz,04023,False,False,America/Phoenix
+85625,31.88021,-109.66692,Pearce,AZ,Arizona,True,,1975.0,2.3,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85626,31.35932,-109.56827,Pirtleville,AZ,Arizona,True,,817.0,323.5,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85627,32.00707,-110.24695,Pomerene,AZ,Arizona,True,,1183.0,41.2,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85629,31.91413,-111.01334,Sahuarita,AZ,Arizona,True,,25097.0,41.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85630,31.88335,-110.19447,Saint David,AZ,Arizona,True,,1889.0,4.7,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85631,32.58133,-110.5627,San Manuel,AZ,Arizona,True,,3750.0,12.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix
+85632,32.05855,-109.18305,San Simon,AZ,Arizona,True,,757.0,0.4,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85633,31.60632,-111.52827,Sasabe,AZ,Arizona,True,,34.0,0.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85634,32.02817,-112.03296,Sells,AZ,Arizona,True,,6578.0,0.9,4019,Pima,"{""04019"": 98.43, ""04021"": 1.57}",Pima|Pinal,04019|04021,False,False,America/Phoenix
+85635,31.55322,-110.17304,Sierra Vista,AZ,Arizona,True,,33427.0,189.6,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85637,31.72108,-110.69258,Sonoita,AZ,Arizona,True,,1129.0,3.5,4023,Santa Cruz,"{""04023"": 52.54, ""04019"": 47.46}",Santa Cruz|Pima,04023|04019,False,False,America/Phoenix
+85638,31.68588,-110.05887,Tombstone,AZ,Arizona,True,,1688.0,2.4,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85639,31.77175,-111.68228,Topawa,AZ,Arizona,True,,,,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85640,31.56755,-111.04473,Tumacacori,AZ,Arizona,True,,140.0,19.0,4023,Santa Cruz,"{""04023"": 100}",Santa Cruz,04023,False,False,America/Phoenix
+85641,32.02125,-110.64617,Vail,AZ,Arizona,True,,28966.0,32.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85643,32.43757,-109.98521,Willcox,AZ,Arizona,True,,8771.0,1.5,4009,Graham,"{""04009"": 51.49, ""04003"": 48.51}",Graham|Cochise,04009|04003,False,False,America/Phoenix
+85645,31.69497,-111.14655,Amado,AZ,Arizona,True,,2028.0,4.9,4019,Pima,"{""04019"": 62.02, ""04023"": 37.98}",Pima|Santa Cruz,04019|04023,False,False,America/Phoenix
+85646,31.62009,-111.05192,Tubac,AZ,Arizona,True,,1210.0,6.8,4023,Santa Cruz,"{""04023"": 100}",Santa Cruz,04023,False,False,America/Phoenix
+85648,31.51262,-111.00807,Rio Rico,AZ,Arizona,True,,20064.0,36.0,4023,Santa Cruz,"{""04023"": 100}",Santa Cruz,04023,False,False,America/Phoenix
+85650,31.49759,-110.19906,Sierra Vista,AZ,Arizona,True,,15799.0,147.7,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix
+85653,32.38979,-111.37908,Marana,AZ,Arizona,True,,21629.0,24.3,4019,Pima,"{""04019"": 94.9, ""04021"": 5.1}",Pima|Pinal,04019|04021,False,False,America/Phoenix
+85654,32.41529,-111.15467,Rillito,AZ,Arizona,True,,0.0,0.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85658,32.52455,-111.13603,Marana,AZ,Arizona,True,,10797.0,21.4,4021,Pinal,"{""04021"": 64.57, ""04019"": 35.43}",Pinal|Pima,04021|04019,False,False,America/Phoenix
+85701,32.21702,-110.97138,Tucson,AZ,Arizona,True,,5279.0,1380.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85704,32.33885,-110.98483,Tucson,AZ,Arizona,True,,34413.0,729.9,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85705,32.27119,-110.99172,Tucson,AZ,Arizona,True,,57449.0,1627.9,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85706,32.14783,-110.93541,Tucson,AZ,Arizona,True,,57712.0,1699.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85707,32.18022,-110.88966,Tucson,AZ,Arizona,True,,717.0,67.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85708,32.17575,-110.86019,Tucson,AZ,Arizona,True,,4009.0,535.9,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85709,32.14136,-110.99008,Tucson,AZ,Arizona,True,,,,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85710,32.21439,-110.82365,Tucson,AZ,Arizona,True,,53002.0,1711.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85711,32.21504,-110.88348,Tucson,AZ,Arizona,True,,41266.0,1849.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85712,32.25229,-110.88636,Tucson,AZ,Arizona,True,,32494.0,1832.4,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85713,32.19525,-111.0151,Tucson,AZ,Arizona,True,,47477.0,769.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85714,32.16997,-110.94653,Tucson,AZ,Arizona,True,,14449.0,989.9,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85715,32.24898,-110.83118,Tucson,AZ,Arizona,True,,19532.0,1151.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85716,32.24222,-110.92351,Tucson,AZ,Arizona,True,,30850.0,1654.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85718,32.31078,-110.91819,Tucson,AZ,Arizona,True,,26364.0,430.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85719,32.2462,-110.94876,Tucson,AZ,Arizona,True,,48196.0,2336.3,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85721,32.23107,-110.94957,Tucson,AZ,Arizona,True,,,,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85723,32.18189,-110.96496,Tucson,AZ,Arizona,True,,0.0,0.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85724,32.24072,-110.94555,Tucson,AZ,Arizona,True,,0.0,0.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85726,32.20437,-110.94529,Tucson,AZ,Arizona,True,,0.0,0.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85730,32.19064,-110.72976,Tucson,AZ,Arizona,True,,38755.0,398.8,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85734,32.06761,-110.86717,Tucson,AZ,Arizona,True,,,,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85735,32.10389,-111.33437,Tucson,AZ,Arizona,True,,10457.0,23.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85736,31.87623,-111.37472,Tucson,AZ,Arizona,True,,4404.0,4.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85737,32.41425,-110.94683,Tucson,AZ,Arizona,True,,22398.0,364.8,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85739,32.6137,-111.00758,Tucson,AZ,Arizona,True,,18952.0,28.6,4021,Pinal,"{""04021"": 86.99, ""04019"": 13.01}",Pinal|Pima,04021|04019,False,False,America/Phoenix
+85741,32.3364,-111.04077,Tucson,AZ,Arizona,True,,34079.0,1384.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85742,32.3898,-111.05113,Tucson,AZ,Arizona,True,,28812.0,498.9,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85743,32.30501,-111.18548,Tucson,AZ,Arizona,True,,30443.0,99.4,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85745,32.25014,-111.06253,Tucson,AZ,Arizona,True,,39211.0,322.3,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85746,32.06964,-111.09047,Tucson,AZ,Arizona,True,,48383.0,161.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85747,32.09318,-110.7723,Tucson,AZ,Arizona,True,,26113.0,150.5,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85748,32.21904,-110.75205,Tucson,AZ,Arizona,True,,19646.0,634.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85749,32.28129,-110.72604,Tucson,AZ,Arizona,True,,19055.0,152.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85750,32.29952,-110.84288,Tucson,AZ,Arizona,True,,24814.0,527.2,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85755,32.46836,-110.98152,Tucson,AZ,Arizona,True,,17100.0,195.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85756,32.07034,-110.90625,Tucson,AZ,Arizona,True,,43677.0,180.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85757,32.12835,-111.12228,Tucson,AZ,Arizona,True,,20100.0,303.3,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix
+85901,34.29348,-109.99878,Show Low,AZ,Arizona,True,,18416.0,27.0,4017,Navajo,"{""04017"": 89.55, ""04001"": 10.45}",Navajo|Apache,04017|04001,False,False,America/Phoenix
+85902,34.11509,-110.16233,Show Low,AZ,Arizona,True,,,,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85911,34.14844,-110.4588,Cibecue,AZ,Arizona,True,,1864.0,2.1,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85912,34.41962,-109.91624,White Mountain Lake,AZ,Arizona,True,,344.0,3.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85920,33.85995,-109.1753,Alpine,AZ,Arizona,True,,554.0,2.0,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85922,33.49535,-109.18864,Blue,AZ,Arizona,True,,51.0,0.0,4011,Greenlee,"{""04011"": 100}",Greenlee,04011,False,False,America/Phoenix
+85923,34.32313,-110.34036,Clay Springs,AZ,Arizona,True,,568.0,3.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85924,34.5635,-109.67553,Concho,AZ,Arizona,True,,2502.0,1.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85925,34.0162,-109.3557,Eagar,AZ,Arizona,True,,5049.0,23.6,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85926,33.77507,-109.9788,Fort Apache,AZ,Arizona,True,,684.0,36.8,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85927,33.99572,-109.48079,Greer,AZ,Arizona,True,,129.0,0.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85928,34.52276,-110.5506,Heber,AZ,Arizona,True,,1258.0,1.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85929,34.16512,-109.95948,Lakeside,AZ,Arizona,True,,7173.0,81.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85930,34.02744,-109.77141,Mcnary,AZ,Arizona,True,,1444.0,4.2,4001,Apache,"{""04001"": 88.57, ""04017"": 11.43}",Apache|Navajo,04001|04017,False,False,America/Phoenix
+85931,34.45238,-110.87003,Forest Lakes,AZ,Arizona,True,,197.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+85932,33.95958,-109.1943,Nutrioso,AZ,Arizona,True,,664.0,2.1,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85933,34.36089,-110.50955,Overgaard,AZ,Arizona,True,,2548.0,10.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85934,34.30251,-110.24432,Pinedale,AZ,Arizona,True,,405.0,2.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85935,34.14166,-109.90453,Pinetop,AZ,Arizona,True,,5021.0,42.9,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85936,34.60662,-109.29134,Saint Johns,AZ,Arizona,True,,4283.0,1.5,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85937,34.56927,-110.01285,Snowflake,AZ,Arizona,True,,8734.0,11.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85938,34.17814,-109.40089,Springerville,AZ,Arizona,True,,2391.0,3.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85939,34.43729,-110.08754,Taylor,AZ,Arizona,True,,4380.0,31.4,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+85940,34.25265,-109.69729,Vernon,AZ,Arizona,True,,1341.0,5.3,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+85941,33.88756,-110.0648,Whiteriver,AZ,Arizona,True,,11320.0,9.2,4007,Gila,"{""04007"": 60.24, ""04017"": 39.76}",Gila|Navajo,04007|04017,False,False,America/Phoenix
+85942,34.77442,-110.03549,Woodruff,AZ,Arizona,True,,21.0,1.4,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86001,35.35119,-111.75607,Flagstaff,AZ,Arizona,True,,45396.0,60.3,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86003,35.24259,-111.20202,Flagstaff,AZ,Arizona,True,,21.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86004,35.37546,-111.37515,Flagstaff,AZ,Arizona,True,,35703.0,15.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86005,35.08125,-111.62832,Flagstaff,AZ,Arizona,True,,,,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86011,35.18953,-111.65469,Flagstaff,AZ,Arizona,True,,10836.0,32998.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86015,35.22408,-111.80972,Bellemont,AZ,Arizona,True,,364.0,8.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86016,35.74486,-111.6373,Gray Mountain,AZ,Arizona,True,,33.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86017,34.91938,-111.66077,Munds Park,AZ,Arizona,True,,755.0,2.8,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86018,35.24716,-111.96204,Parks,AZ,Arizona,True,,619.0,1.3,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86020,36.00133,-111.51263,Cameron,AZ,Arizona,True,,1884.0,0.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86021,36.92707,-113.10205,Colorado City,AZ,Arizona,True,,5959.0,13.3,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86022,36.7702,-112.5449,Fredonia,AZ,Arizona,True,,1885.0,0.9,4005,Coconino,"{""04005"": 67.58, ""04015"": 32.42}",Coconino|Mohave,04005|04015,False,False,America/Phoenix
+86023,36.13498,-112.23438,Grand Canyon,AZ,Arizona,True,,2316.0,2.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86024,34.68509,-111.20244,Happy Jack,AZ,Arizona,True,,908.0,0.5,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86025,34.90484,-110.08557,Holbrook,AZ,Arizona,True,,5607.0,2.9,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86028,35.02873,-109.81056,Petrified Forest Natl Pk,AZ,Arizona,True,,67.0,1.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+86029,34.96834,-110.01175,Sun Valley,AZ,Arizona,True,,93.0,1.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86030,35.87005,-110.80709,Hotevilla,AZ,Arizona,True,,1734.0,3.2,4005,Coconino,"{""04005"": 73.23, ""04017"": 26.77}",Coconino|Navajo,04005|04017,False,False,America/Phoenix
+86031,35.3534,-110.0647,Indian Wells,AZ,Arizona,True,,1749.0,1.4,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Denver
+86032,35.04288,-110.32234,Joseph City,AZ,Arizona,True,,2034.0,3.8,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86033,36.67692,-110.25536,Kayenta,AZ,Arizona,True,,8080.0,2.6,4017,Navajo,"{""04017"": 95.09, ""04001"": 4.91}",Navajo|Apache,04017|04001,False,False,America/Denver
+86034,35.77145,-110.138,Keams Canyon,AZ,Arizona,True,,1842.0,1.5,4017,Navajo,"{""04017"": 92.61, ""04001"": 7.39}",Navajo|Apache,04017|04001,False,False,America/Denver
+86035,35.39631,-111.02806,Leupp,AZ,Arizona,True,,1980.0,1.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86036,36.72434,-111.82083,Marble Canyon,AZ,Arizona,True,,537.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86038,34.9018,-111.49161,Mormon Lake,AZ,Arizona,True,,55.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86039,35.98813,-110.56688,Kykotsmovi Village,AZ,Arizona,True,,1296.0,2.0,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86040,36.66294,-111.3852,Page,AZ,Arizona,True,,10599.0,4.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86042,35.86498,-110.38447,Polacca,AZ,Arizona,True,,2419.0,15.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86043,35.81049,-110.52904,Second Mesa,AZ,Arizona,True,,3036.0,10.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix
+86044,36.75137,-110.82626,Tonalea,AZ,Arizona,True,,3301.0,1.1,4005,Coconino,"{""04005"": 55.31, ""49037"": 31.59, ""04017"": 13.1}",Coconino|San Juan|Navajo,04005|49037|04017,False,False,America/Denver
+86045,36.14775,-111.13344,Tuba City,AZ,Arizona,True,,12149.0,6.5,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86046,35.43882,-112.17428,Williams,AZ,Arizona,True,,6053.0,2.5,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86047,35.18181,-110.63785,Winslow,AZ,Arizona,True,,15403.0,3.5,4017,Navajo,"{""04017"": 71.59, ""04005"": 28.41}",Navajo|Coconino,04017|04005,False,False,America/Denver
+86052,36.29112,-112.12543,North Rim,AZ,Arizona,True,,316.0,0.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86053,36.75699,-111.05597,Kaibeto,AZ,Arizona,True,,2865.0,1.8,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver
+86054,36.67546,-110.61259,Shonto,AZ,Arizona,True,,1422.0,1.3,4017,Navajo,"{""04017"": 94.09, ""04005"": 5.91}",Navajo|Coconino,04017|04005,False,False,America/Denver
+86301,34.59452,-112.42454,Prescott,AZ,Arizona,True,,23882.0,276.1,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86303,34.4894,-112.42897,Prescott,AZ,Arizona,True,,17955.0,64.7,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86305,34.7906,-112.75229,Prescott,AZ,Arizona,True,,19022.0,12.5,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86313,34.55416,-112.45288,Prescott,AZ,Arizona,True,,322.0,506.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86314,34.59823,-112.33079,Prescott Valley,AZ,Arizona,True,,39335.0,571.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86315,34.67403,-112.2891,Prescott Valley,AZ,Arizona,True,,8001.0,34.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86320,35.36745,-112.63995,Ash Fork,AZ,Arizona,True,,2437.0,1.2,4005,Coconino,"{""04005"": 70.43, ""04025"": 29.57}",Coconino|Yavapai,04005|04025,False,False,America/Phoenix
+86321,34.55367,-113.08895,Bagdad,AZ,Arizona,True,,2509.0,2.4,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86322,34.47486,-111.80587,Camp Verde,AZ,Arizona,True,,11868.0,14.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86323,34.76606,-112.40424,Chino Valley,AZ,Arizona,True,,17032.0,57.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86324,34.836,-112.1304,Clarkdale,AZ,Arizona,True,,4367.0,6.5,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86325,34.73347,-111.89884,Cornville,AZ,Arizona,True,,5608.0,35.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86326,34.69857,-112.01383,Cottonwood,AZ,Arizona,True,,25300.0,214.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86327,34.55682,-112.11089,Dewey,AZ,Arizona,True,,10593.0,15.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86329,34.48589,-112.27666,Humboldt,AZ,Arizona,True,,1416.0,32.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86331,34.76009,-112.11704,Jerome,AZ,Arizona,True,,416.0,24.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86332,34.30403,-112.61809,Kirkland,AZ,Arizona,True,,2191.0,1.6,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86333,34.32195,-112.08352,Mayer,AZ,Arizona,True,,7960.0,6.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86334,34.94847,-112.53946,Paulden,AZ,Arizona,True,,4778.0,7.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86335,34.65216,-111.68044,Rimrock,AZ,Arizona,True,,4868.0,6.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86336,34.8902,-111.85157,Sedona,AZ,Arizona,True,,11621.0,22.0,4025,Yavapai,"{""04025"": 72.91, ""04005"": 27.09}",Yavapai|Coconino,04025|04005,False,False,America/Phoenix
+86337,35.24422,-113.0505,Seligman,AZ,Arizona,True,,1523.0,0.3,4025,Yavapai,"{""04025"": 75.22, ""04005"": 24.78}",Yavapai|Coconino,04025|04005,False,False,America/Phoenix
+86338,34.57306,-112.75756,Skull Valley,AZ,Arizona,True,,408.0,0.5,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86343,34.17937,-112.31236,Crown King,AZ,Arizona,True,,83.0,0.4,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86351,34.77846,-111.78514,Sedona,AZ,Arizona,True,,6494.0,62.7,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix
+86401,35.11024,-113.70423,Kingman,AZ,Arizona,True,,27059.0,8.5,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86403,34.47703,-114.34423,Lake Havasu City,AZ,Arizona,True,,19123.0,669.9,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Los_Angeles
+86404,34.61156,-114.29452,Lake Havasu City,AZ,Arizona,True,,16451.0,39.3,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86406,34.42269,-114.12418,Lake Havasu City,AZ,Arizona,True,,23069.0,36.4,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86409,35.46429,-114.03245,Kingman,AZ,Arizona,True,,29045.0,30.7,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86411,35.44761,-113.74381,Hackberry,AZ,Arizona,True,,181.0,0.2,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86413,35.16995,-114.25695,Golden Valley,AZ,Arizona,True,,12033.0,10.9,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86426,35.0134,-114.54968,Fort Mohave,AZ,Arizona,True,,15326.0,169.6,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86429,35.28769,-114.51261,Bullhead City,AZ,Arizona,True,,8415.0,11.8,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86431,35.42521,-114.24738,Chloride,AZ,Arizona,True,,419.0,2.2,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86432,36.79085,-113.73783,Littlefield,AZ,Arizona,True,,3815.0,1.4,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86433,34.92862,-114.35853,Oatman,AZ,Arizona,True,,43.0,0.1,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86434,35.65959,-113.58538,Peach Springs,AZ,Arizona,True,,1764.0,0.8,4015,Mohave,"{""04015"": 95.15, ""04025"": 3.91, ""04005"": 0.94}",Mohave|Yavapai|Coconino,04015|04025|04005,False,False,America/Phoenix
+86435,36.00915,-112.94567,Supai,AZ,Arizona,True,,0.0,0.0,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix
+86436,34.73914,-114.42273,Topock,AZ,Arizona,True,,1282.0,5.7,4015,Mohave,"{""04015"": 99.89, ""06071"": 0.11}",Mohave|San Bernardino,04015|06071,False,False,America/Phoenix
+86437,35.39511,-113.59784,Valentine,AZ,Arizona,True,,129.0,0.5,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86438,34.68595,-113.98175,Yucca,AZ,Arizona,True,,794.0,0.3,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86440,34.88855,-114.54071,Mohave Valley,AZ,Arizona,True,,7773.0,24.3,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86441,35.56205,-114.30384,Dolan Springs,AZ,Arizona,True,,2066.0,2.1,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86442,35.09139,-114.57731,Bullhead City,AZ,Arizona,True,,33686.0,461.8,4015,Mohave,"{""04015"": 99.74, ""32003"": 0.26}",Mohave|Clark,04015|32003,False,False,America/Phoenix
+86443,35.97186,-114.46386,Temple Bar Marina,AZ,Arizona,True,,0.0,0.0,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86444,35.90199,-114.05969,Meadview,AZ,Arizona,True,,1520.0,1.1,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86445,35.70747,-114.53764,Willow Beach,AZ,Arizona,True,,210.0,0.2,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix
+86502,35.1212,-109.61705,Chambers,AZ,Arizona,True,,980.0,0.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+86503,36.20258,-109.68224,Chinle,AZ,Arizona,True,,10578.0,4.1,4001,Apache,"{""04001"": 95.28, ""04017"": 4.72}",Apache|Navajo,04001|04017,False,False,America/Denver
+86504,35.86087,-109.13995,Fort Defiance,AZ,Arizona,True,,7296.0,14.0,4001,Apache,"{""04001"": 98.82, ""35031"": 1.18}",Apache|McKinley,04001|35031,False,False,America/Denver
+86505,35.61872,-109.71274,Ganado,AZ,Arizona,True,,7920.0,2.8,4001,Apache,"{""04001"": 84.25, ""04017"": 15.75}",Apache|Navajo,04001|04017,False,False,America/Denver
+86506,35.35206,-109.25868,Houck,AZ,Arizona,True,,1273.0,1.7,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86507,36.41985,-109.28019,Lukachukai,AZ,Arizona,True,,2429.0,4.3,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86508,35.35086,-109.08737,Lupton,AZ,Arizona,True,,599.0,2.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86510,36.23061,-110.27182,Pinon,AZ,Arizona,True,,4126.0,2.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Denver
+86511,35.66536,-109.26397,Saint Michaels,AZ,Arizona,True,,3988.0,4.5,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86512,35.079,-109.24737,Sanders,AZ,Arizona,True,,2867.0,2.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix
+86514,36.90487,-109.32028,Teec Nos Pos,AZ,Arizona,True,,3384.0,1.9,4001,Apache,"{""04001"": 83.89, ""49037"": 15.12, ""35045"": 0.99}",Apache|San Juan|San Juan,04001|49037|35045,False,False,America/Denver
+86515,35.70301,-108.99057,Window Rock,AZ,Arizona,True,,3660.0,12.2,35031,McKinley,"{""35031"": 88.14, ""04001"": 11.86}",McKinley|Apache,35031|04001,False,False,America/Denver
+86520,36.05891,-109.95208,Blue Gap,AZ,Arizona,True,,1556.0,2.1,4001,Apache,"{""04001"": 78.06, ""04017"": 21.94}",Apache|Navajo,04001|04017,False,False,America/Denver
+86535,36.82372,-109.86199,Dennehotso,AZ,Arizona,True,,1459.0,2.6,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86538,36.43323,-109.63752,Many Farms,AZ,Arizona,True,,1649.0,4.5,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86540,35.93953,-109.44886,Nazlini,AZ,Arizona,True,,1084.0,1.7,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86544,36.58162,-109.13818,Red Valley,AZ,Arizona,True,,1452.0,2.1,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86545,36.71125,-109.58943,Rock Point,AZ,Arizona,True,,1264.0,1.2,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86547,36.52759,-109.46019,Round Rock,AZ,Arizona,True,,1242.0,2.6,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
+86556,36.24093,-109.21631,Tsaile,AZ,Arizona,True,,2358.0,4.2,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver
