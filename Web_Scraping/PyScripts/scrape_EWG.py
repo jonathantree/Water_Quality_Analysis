@@ -64,9 +64,10 @@ for zipcode in zip_list:
         data = table[0]
         data['Zip'] = zipcode
         utilities_df = utilities_df.append(data)
+        print(utilities_df.values)
     except ValueError:
         print(f'No systems found that match your search for: {zipcode}')
-
+print(utilities_df.shape)
 #Output the resulting dataframe to a csv file
 state_path_utility_raw_output = os.path.join(path,'utilities_with_duplicates.csv')
 utilities_df.to_csv(state_path_utility_raw_output, index=False)
@@ -77,6 +78,7 @@ utilities_df.drop_duplicates(subset=['Utility name'],inplace=True)
 #Output the resulting dataframe to a csv file
 state_path_utility_output = os.path.join(path,'utilities.csv')
 utilities_df.to_csv(state_path_utility_output, index=False)
+print(utilities_df.shape)
 
 # PRint Statement to check on progress
 print('Done Scraping the Utilities list')
