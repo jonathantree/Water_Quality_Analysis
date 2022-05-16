@@ -1,0 +1,1036 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+63005,38.64306,-90.64982,Chesterfield,MO,Missouri,True,,18854.0,199.4,29189,St. Louis,"{""29189"": 97.47, ""29071"": 2.53}",St. Louis|Franklin,29189|29071,False,False,America/Chicago
+63010,38.42964,-90.3932,Arnold,MO,Missouri,True,,35270.0,631.8,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63011,38.60337,-90.55847,Ballwin,MO,Missouri,True,,37298.0,1009.4,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63012,38.33532,-90.44832,Barnhart,MO,Missouri,True,,10909.0,167.6,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63013,38.41776,-91.15182,Beaufort,MO,Missouri,True,,1113.0,11.5,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63014,38.64892,-91.31566,Berger,MO,Missouri,True,,717.0,7.4,29071,Franklin,"{""29071"": 97.62, ""29073"": 2.38}",Franklin|Gasconade,29071|29073,False,False,America/Chicago
+63015,38.39633,-90.75274,Catawissa,MO,Missouri,True,,1617.0,38.7,29071,Franklin,"{""29071"": 65.04, ""29099"": 34.96}",Franklin|Jefferson,29071|29099,False,False,America/Chicago
+63016,38.35692,-90.65014,Cedar Hill,MO,Missouri,True,,6819.0,94.6,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63017,38.65143,-90.53722,Chesterfield,MO,Missouri,True,,41344.0,828.8,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63019,38.229,-90.37684,Crystal City,MO,Missouri,True,,4395.0,504.3,29099,Jefferson,"{""29099"": 99.49, ""17133"": 0.51}",Jefferson|Monroe,29099|17133,False,False,America/Chicago
+63020,38.10706,-90.5718,De Soto,MO,Missouri,True,,21160.0,54.6,29099,Jefferson,"{""29099"": 93.57, ""29221"": 6.43}",Jefferson|Washington,29099|29221,False,False,America/Chicago
+63021,38.5689,-90.54564,Ballwin,MO,Missouri,True,,56154.0,993.5,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63023,38.2659,-90.71292,Dittmer,MO,Missouri,True,,5355.0,32.1,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63025,38.4896,-90.61666,Eureka,MO,Missouri,True,,15450.0,143.1,29189,St. Louis,"{""29189"": 57.38, ""29099"": 42.62}",St. Louis|Jefferson,29189|29099,False,False,America/Chicago
+63026,38.50195,-90.45995,Fenton,MO,Missouri,True,,45451.0,693.4,29099,Jefferson,"{""29099"": 50.36, ""29189"": 49.64}",Jefferson|St. Louis,29099|29189,False,False,America/Chicago
+63028,38.14545,-90.39423,Festus,MO,Missouri,True,,26433.0,81.1,29099,Jefferson,"{""29099"": 83.4, ""29186"": 16.06, ""29187"": 0.54}",Jefferson|Ste. Genevieve|St. Francois,29099|29186|29187,False,False,America/Chicago
+63030,38.14321,-90.7522,Fletcher,MO,Missouri,True,,333.0,16.1,29221,Washington,"{""29221"": 93.78, ""29099"": 6.22}",Washington|Jefferson,29221|29099,False,False,America/Chicago
+63031,38.81392,-90.35224,Florissant,MO,Missouri,True,,49110.0,1259.1,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63033,38.7958,-90.27786,Florissant,MO,Missouri,True,,41377.0,1313.1,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63034,38.84795,-90.28692,Florissant,MO,Missouri,True,,18075.0,372.6,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63036,37.9817,-90.372,French Village,MO,Missouri,True,,1226.0,19.3,29187,St. Francois,"{""29187"": 75.19, ""29186"": 24.81}",St. Francois|Ste. Genevieve,29187|29186,False,False,America/Chicago
+63037,38.42497,-91.3165,Gerald,MO,Missouri,True,,2672.0,12.8,29071,Franklin,"{""29071"": 98.55, ""29073"": 1.45}",Franklin|Gasconade,29071|29073,False,False,America/Chicago
+63038,38.58071,-90.67037,Wildwood,MO,Missouri,True,,7418.0,137.4,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63039,38.49532,-90.83527,Gray Summit,MO,Missouri,True,,658.0,57.2,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63040,38.57298,-90.63512,Wildwood,MO,Missouri,True,,8338.0,729.0,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63041,38.2522,-90.79059,Grubville,MO,Missouri,True,,453.0,13.5,29071,Franklin,"{""29071"": 97.45, ""29099"": 2.55}",Franklin|Jefferson,29071|29099,False,False,America/Chicago
+63042,38.78133,-90.37909,Hazelwood,MO,Missouri,True,,18310.0,682.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63043,38.72962,-90.45659,Maryland Heights,MO,Missouri,True,,22133.0,681.1,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63044,38.77455,-90.42825,Bridgeton,MO,Missouri,True,,10482.0,242.3,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63045,38.76863,-90.46556,Earth City,MO,Missouri,True,,0.0,0.0,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63047,38.1954,-90.48763,Hematite,MO,Missouri,True,,54.0,95.1,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63048,38.25924,-90.39194,Herculaneum,MO,Missouri,True,,3904.0,416.3,29099,Jefferson,"{""29099"": 97.19, ""17133"": 2.81}",Jefferson|Monroe,29099|17133,False,False,America/Chicago
+63049,38.47795,-90.52867,High Ridge,MO,Missouri,True,,17163.0,265.9,29099,Jefferson,"{""29099"": 80.4, ""29189"": 19.6}",Jefferson|St. Louis,29099|29189,False,False,America/Chicago
+63050,38.25977,-90.57628,Hillsboro,MO,Missouri,True,,16794.0,70.5,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63051,38.39886,-90.57303,House Springs,MO,Missouri,True,,12721.0,114.2,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63052,38.38983,-90.4358,Imperial,MO,Missouri,True,,27943.0,326.0,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63053,38.36651,-90.36402,Kimmswick,MO,Missouri,True,,76.0,1027.2,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago
+63055,38.53254,-90.8382,Labadie,MO,Missouri,True,,1997.0,28.5,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63056,38.38964,-91.22072,Leslie,MO,Missouri,True,,2069.0,13.6,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63060,38.25656,-90.86815,Lonedell,MO,Missouri,True,,2117.0,18.4,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63061,38.2679,-90.81053,Luebbering,MO,Missouri,True,,179.0,16.5,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63068,38.55747,-91.24761,New Haven,MO,Missouri,True,,5685.0,23.9,29071,Franklin,"{""29071"": 96.24, ""29073"": 3.76}",Franklin|Gasconade,29071|29073,False,False,America/Chicago
+63069,38.48286,-90.7292,Pacific,MO,Missouri,True,,15352.0,86.5,29071,Franklin,"{""29071"": 42.97, ""29189"": 33.1, ""29099"": 23.93}",Franklin|St. Louis|Jefferson,29071|29189|29099,False,False,America/Chicago
+63070,38.28625,-90.41822,Pevely,MO,Missouri,True,,8030.0,206.1,29099,Jefferson,"{""29099"": 99.31, ""17133"": 0.69}",Jefferson|Monroe,29099|17133,False,False,America/Chicago
+63071,38.15635,-90.82558,Richwoods,MO,Missouri,True,,1110.0,11.1,29221,Washington,"{""29221"": 100}",Washington,29221,False,False,America/Chicago
+63072,38.36635,-90.81354,Robertsville,MO,Missouri,True,,4313.0,40.5,29071,Franklin,"{""29071"": 96.96, ""29099"": 3.04}",Franklin|Jefferson,29071|29099,False,False,America/Chicago
+63073,38.58367,-90.76933,Saint Albans,MO,Missouri,True,,356.0,13.2,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63074,38.72637,-90.38895,Saint Ann,MO,Missouri,True,,15279.0,1506.0,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63077,38.32648,-90.98537,Saint Clair,MO,Missouri,True,,10884.0,47.9,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63079,38.26632,-91.1001,Stanton,MO,Missouri,True,,22.0,3.4,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63080,38.20828,-91.08802,Sullivan,MO,Missouri,True,,13467.0,20.9,29071,Franklin,"{""29071"": 56.65, ""29221"": 39.32, ""29055"": 4.03}",Franklin|Washington|Crawford,29071|29221|29055,False,False,America/Chicago
+63084,38.41749,-91.01438,Union,MO,Missouri,True,,20017.0,101.4,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63087,38.00888,-90.45835,Valles Mines,MO,Missouri,True,,1005.0,23.8,29187,St. Francois,"{""29187"": 91.17, ""29099"": 8.83}",St. Francois|Jefferson,29187|29099,False,False,America/Chicago
+63088,38.54862,-90.50111,Valley Park,MO,Missouri,True,,8659.0,695.6,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63089,38.45846,-90.88286,Villa Ridge,MO,Missouri,True,,5846.0,61.0,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63090,38.53176,-91.05047,Washington,MO,Missouri,True,,21671.0,102.6,29071,Franklin,"{""29071"": 100}",Franklin,29071,False,False,America/Chicago
+63091,38.36581,-91.39013,Rosebud,MO,Missouri,True,,1457.0,11.0,29073,Gasconade,"{""29073"": 79.67, ""29071"": 20.33}",Gasconade|Franklin,29073|29071,False,False,America/Chicago
+63101,38.63127,-90.19275,Saint Louis,MO,Missouri,True,,3528.0,3762.9,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63102,38.63453,-90.18627,Saint Louis,MO,Missouri,True,,2381.0,649.2,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63103,38.62986,-90.217,Saint Louis,MO,Missouri,True,,9204.0,1617.5,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63104,38.61078,-90.21276,Saint Louis,MO,Missouri,True,,20150.0,2312.8,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63105,38.64427,-90.32812,Saint Louis,MO,Missouri,True,,18698.0,2871.2,29189,St. Louis,"{""29189"": 95.71, ""29510"": 4.29}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63106,38.64445,-90.20795,Saint Louis,MO,Missouri,True,,9967.0,1726.5,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63107,38.66373,-90.21201,Saint Louis,MO,Missouri,True,,9272.0,1527.2,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63108,38.64485,-90.25337,Saint Louis,MO,Missouri,True,,20442.0,3520.0,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63109,38.58483,-90.29563,Saint Louis,MO,Missouri,True,,26768.0,2922.6,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63110,38.62538,-90.26645,Saint Louis,MO,Missouri,True,,17239.0,1013.2,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63111,38.55845,-90.24993,Saint Louis,MO,Missouri,True,,20608.0,2477.9,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63112,38.66,-90.28331,Saint Louis,MO,Missouri,True,,17531.0,2131.5,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63113,38.65797,-90.2475,Saint Louis,MO,Missouri,True,,11502.0,1721.5,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63114,38.70218,-90.36224,Saint Louis,MO,Missouri,True,,34862.0,1523.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63115,38.68211,-90.23994,Saint Louis,MO,Missouri,True,,16504.0,1485.1,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63116,38.57999,-90.26501,Saint Louis,MO,Missouri,True,,43980.0,3143.9,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63117,38.63077,-90.33037,Saint Louis,MO,Missouri,True,,9290.0,1515.8,29189,St. Louis,"{""29189"": 94.4, ""29510"": 5.6}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63118,38.59237,-90.22534,Saint Louis,MO,Missouri,True,,27805.0,3157.2,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63119,38.58868,-90.35104,Saint Louis,MO,Missouri,True,,33752.0,1554.8,29189,St. Louis,"{""29189"": 99.01, ""29510"": 0.99}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63120,38.69061,-90.26211,Saint Louis,MO,Missouri,True,,7823.0,1266.5,29510,St. Louis,"{""29510"": 93.45, ""29189"": 6.55}",St. Louis|St. Louis,29510|29189,False,False,America/Chicago
+63121,38.70739,-90.30023,Saint Louis,MO,Missouri,True,,25374.0,1446.9,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63122,38.57853,-90.42133,Saint Louis,MO,Missouri,True,,39239.0,1046.2,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63123,38.54949,-90.32739,Saint Louis,MO,Missouri,True,,50463.0,1564.5,29189,St. Louis,"{""29189"": 94.39, ""29510"": 5.61}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63124,38.63832,-90.38023,Saint Louis,MO,Missouri,True,,11107.0,480.3,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63125,38.51867,-90.29269,Saint Louis,MO,Missouri,True,,33619.0,1305.4,29189,St. Louis,"{""29189"": 98.66, ""29510"": 1.34}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63126,38.5496,-90.37868,Saint Louis,MO,Missouri,True,,14949.0,1255.1,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63127,38.53544,-90.41297,Saint Louis,MO,Missouri,True,,5014.0,334.3,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63128,38.49369,-90.38306,Saint Louis,MO,Missouri,True,,30480.0,754.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63129,38.45654,-90.32202,Saint Louis,MO,Missouri,True,,52287.0,965.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63130,38.66491,-90.32495,Saint Louis,MO,Missouri,True,,29080.0,2228.4,29189,St. Louis,"{""29189"": 98.03, ""29510"": 1.97}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63131,38.6172,-90.44365,Saint Louis,MO,Missouri,True,,17707.0,501.6,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63132,38.67607,-90.37745,Saint Louis,MO,Missouri,True,,12551.0,931.8,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63133,38.68226,-90.30677,Saint Louis,MO,Missouri,True,,7275.0,863.0,29189,St. Louis,"{""29189"": 99.23, ""29510"": 0.77}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63134,38.74319,-90.34549,Saint Louis,MO,Missouri,True,,14120.0,657.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63135,38.75012,-90.29934,Saint Louis,MO,Missouri,True,,22143.0,1377.7,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63136,38.74418,-90.25979,Saint Louis,MO,Missouri,True,,45198.0,1599.1,29189,St. Louis,"{""29189"": 96.0, ""29510"": 4.0}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63137,38.74974,-90.21297,Saint Louis,MO,Missouri,True,,20250.0,1104.5,29189,St. Louis,"{""29189"": 73.09, ""29510"": 26.91}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63138,38.79904,-90.1822,Saint Louis,MO,Missouri,True,,18257.0,380.3,29189,St. Louis,"{""29189"": 97.9, ""29510"": 2.1}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63139,38.61041,-90.29191,Saint Louis,MO,Missouri,True,,21510.0,2175.4,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63140,38.73929,-90.32399,Saint Louis,MO,Missouri,True,,337.0,247.5,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63141,38.65751,-90.45904,Saint Louis,MO,Missouri,True,,19824.0,520.9,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63143,38.61169,-90.32017,Saint Louis,MO,Missouri,True,,9089.0,1712.3,29189,St. Louis,"{""29189"": 74.36, ""29510"": 25.64}",St. Louis|St. Louis,29189|29510,False,False,America/Chicago
+63144,38.61943,-90.3482,Saint Louis,MO,Missouri,True,,8759.0,1485.4,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63146,38.70135,-90.47634,Saint Louis,MO,Missouri,True,,31148.0,775.0,29189,St. Louis,"{""29189"": 100}",St. Louis,29189,False,False,America/Chicago
+63147,38.69567,-90.21589,Saint Louis,MO,Missouri,True,,8580.0,558.0,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63155,38.62788,-90.20545,Saint Louis,MO,Missouri,True,,0.0,0.0,29510,St. Louis,"{""29510"": 100}",St. Louis,29510,False,False,America/Chicago
+63301,38.86159,-90.47207,Saint Charles,MO,Missouri,True,,51923.0,237.7,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63303,38.74013,-90.54266,Saint Charles,MO,Missouri,True,,47897.0,936.2,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63304,38.70583,-90.68666,Saint Charles,MO,Missouri,True,,42586.0,298.4,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63330,39.26151,-90.79214,Annada,MO,Missouri,True,,128.0,2.2,29163,Pike,"{""29163"": 100}",Pike,29163,False,False,America/Chicago
+63332,38.60137,-90.89195,Augusta,MO,Missouri,True,,1656.0,11.3,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63333,39.0351,-91.32014,Bellflower,MO,Missouri,True,,806.0,6.5,29139,Montgomery,"{""29139"": 92.78, ""29113"": 7.22}",Montgomery|Lincoln,29139|29113,False,False,America/Chicago
+63334,39.30747,-91.18838,Bowling Green,MO,Missouri,True,,9099.0,21.1,29163,Pike,"{""29163"": 94.92, ""29113"": 5.08}",Pike|Lincoln,29163|29113,False,False,America/Chicago
+63336,39.33335,-90.9388,Clarksville,MO,Missouri,True,,1003.0,5.0,29163,Pike,"{""29163"": 100}",Pike,29163,False,False,America/Chicago
+63339,39.33673,-91.36384,Curryville,MO,Missouri,True,,906.0,5.0,29163,Pike,"{""29163"": 100}",Pike,29163,False,False,America/Chicago
+63341,38.66493,-90.81783,Defiance,MO,Missouri,True,,3038.0,30.2,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63343,39.15775,-90.82815,Elsberry,MO,Missouri,True,,4683.0,16.2,29113,Lincoln,"{""29113"": 92.87, ""29163"": 7.13}",Lincoln|Pike,29113|29163,False,False,America/Chicago
+63344,39.23078,-91.01115,Eolia,MO,Missouri,True,,1168.0,5.3,29163,Pike,"{""29163"": 53.11, ""29113"": 46.89}",Pike|Lincoln,29163|29113,False,False,America/Chicago
+63345,39.27599,-91.57311,Farber,MO,Missouri,True,,792.0,15.9,29007,Audrain,"{""29007"": 100}",Audrain,29007,False,False,America/Chicago
+63347,39.0708,-90.76352,Foley,MO,Missouri,True,,2910.0,30.7,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63348,38.78969,-90.94131,Foristell,MO,Missouri,True,,8060.0,55.7,29183,St. Charles,"{""29183"": 77.94, ""29219"": 19.94, ""29113"": 2.12}",St. Charles|Warren|Lincoln,29183|29219|29113,False,False,America/Chicago
+63349,38.97979,-91.15083,Hawk Point,MO,Missouri,True,,1916.0,22.2,29113,Lincoln,"{""29113"": 90.83, ""29219"": 9.17}",Lincoln|Warren,29113|29219,False,False,America/Chicago
+63350,38.90243,-91.35686,High Hill,MO,Missouri,True,,562.0,9.2,29139,Montgomery,"{""29139"": 100}",Montgomery,29139,False,False,America/Chicago
+63351,38.86041,-91.31186,Jonesburg,MO,Missouri,True,,1943.0,13.5,29219,Warren,"{""29219"": 54.9, ""29139"": 45.1}",Warren|Montgomery,29219|29139,False,False,America/Chicago
+63352,39.25097,-91.65526,Laddonia,MO,Missouri,True,,1204.0,4.4,29007,Audrain,"{""29007"": 89.61, ""29173"": 10.39}",Audrain|Ralls,29007|29173,False,False,America/Chicago
+63353,39.44375,-91.12,Louisiana,MO,Missouri,True,,4632.0,21.3,29163,Pike,"{""29163"": 100}",Pike,29163,False,False,America/Chicago
+63357,38.65518,-91.0947,Marthasville,MO,Missouri,True,,7160.0,22.5,29219,Warren,"{""29219"": 96.34, ""29183"": 3.66}",Warren|St. Charles,29219|29183,False,False,America/Chicago
+63359,39.1564,-91.34652,Middletown,MO,Missouri,True,,1391.0,3.6,29163,Pike,"{""29163"": 52.57, ""29139"": 36.32, ""29007"": 8.21, ""29113"": 2.9}",Pike|Montgomery|Audrain|Lincoln,29163|29139|29007|29113,False,False,America/Chicago
+63361,38.95802,-91.56056,Montgomery City,MO,Missouri,True,,4109.0,9.9,29139,Montgomery,"{""29139"": 76.0, ""29027"": 24.0}",Montgomery|Callaway,29139|29027,False,False,America/Chicago
+63362,38.93276,-90.88227,Moscow Mills,MO,Missouri,True,,7785.0,79.1,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63363,38.88187,-91.45755,New Florence,MO,Missouri,True,,1828.0,8.1,29139,Montgomery,"{""29139"": 96.15, ""29219"": 3.85}",Montgomery|Warren,29139|29219,False,False,America/Chicago
+63365,38.70961,-90.87334,New Melle,MO,Missouri,True,,,,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63366,38.85918,-90.71964,O'Fallon,MO,Missouri,True,,50541.0,281.7,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63367,38.77805,-90.79536,Lake Saint Louis,MO,Missouri,True,,25930.0,773.0,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63368,38.7516,-90.72895,O'Fallon,MO,Missouri,True,,46301.0,1102.5,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63369,38.93758,-90.77766,Old Monroe,MO,Missouri,True,,1870.0,25.2,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63373,38.92776,-90.39563,Portage Des Sioux,MO,Missouri,True,,565.0,11.7,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63376,38.80022,-90.61636,Saint Peters,MO,Missouri,True,,75031.0,721.7,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63377,39.11016,-91.10053,Silex,MO,Missouri,True,,2754.0,8.2,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63379,38.99817,-90.99037,Troy,MO,Missouri,True,,26594.0,75.6,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63380,38.81262,-91.12205,Truesdale,MO,Missouri,True,,,,29219,Warren,"{""29219"": 100}",Warren,29219,False,False,America/Chicago
+63381,38.98237,-91.25429,Truxton,MO,Missouri,True,,566.0,7.8,29219,Warren,"{""29219"": 34.36, ""29139"": 32.84, ""29113"": 32.8}",Warren|Montgomery|Lincoln,29219|29139|29113,False,False,America/Chicago
+63382,39.31104,-91.49042,Vandalia,MO,Missouri,True,,4445.0,13.7,29007,Audrain,"{""29007"": 47.55, ""29173"": 41.08, ""29163"": 11.37}",Audrain|Ralls|Pike,29007|29173|29163,False,False,America/Chicago
+63383,38.80726,-91.19319,Warrenton,MO,Missouri,True,,15631.0,37.7,29219,Warren,"{""29219"": 97.34, ""29113"": 2.66}",Warren|Lincoln,29219|29113,False,False,America/Chicago
+63384,39.08678,-91.56349,Wellsville,MO,Missouri,True,,1967.0,9.2,29139,Montgomery,"{""29139"": 82.27, ""29007"": 13.26, ""29027"": 4.47}",Montgomery|Audrain|Callaway,29139|29007|29027,False,False,America/Chicago
+63385,38.79732,-90.85649,Wentzville,MO,Missouri,True,,46166.0,266.8,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63386,38.87104,-90.22009,West Alton,MO,Missouri,True,,470.0,5.5,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago
+63387,39.18415,-91.01677,Whiteside,MO,Missouri,True,,85.0,350.8,29113,Lincoln,"{""29113"": 100}",Lincoln,29113,False,False,America/Chicago
+63388,38.88816,-91.74995,Williamsburg,MO,Missouri,True,,667.0,4.3,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+63389,38.99969,-90.76875,Winfield,MO,Missouri,True,,7010.0,61.2,29113,Lincoln,"{""29113"": 99.89, ""17013"": 0.11}",Lincoln|Calhoun,29113|17013,False,False,America/Chicago
+63390,38.80499,-91.0413,Wright City,MO,Missouri,True,,10310.0,50.9,29219,Warren,"{""29219"": 87.99, ""29113"": 12.01}",Warren|Lincoln,29219|29113,False,False,America/Chicago
+63401,39.69046,-91.45986,Hannibal,MO,Missouri,True,,21571.0,75.1,29127,Marion,"{""29127"": 50.13, ""29173"": 49.87}",Marion|Ralls,29127|29173,False,False,America/Chicago
+63430,40.38972,-91.53958,Alexandria,MO,Missouri,True,,724.0,5.7,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63431,39.74887,-92.32893,Anabel,MO,Missouri,True,,380.0,3.1,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63432,40.50058,-91.99551,Arbela,MO,Missouri,True,,616.0,2.8,29199,Scotland,"{""29199"": 87.63, ""29045"": 12.37}",Scotland|Clark,29199|29045,False,False,America/Chicago
+63433,39.51838,-91.11816,Ashburn,MO,Missouri,True,,0.0,0.0,29163,Pike,"{""29163"": 100}",Pike,29163,False,False,America/Chicago
+63434,39.90591,-91.9507,Bethel,MO,Missouri,True,,674.0,4.0,29205,Shelby,"{""29205"": 100}",Shelby,29205,False,False,America/Chicago
+63435,40.20299,-91.58267,Canton,MO,Missouri,True,,3940.0,10.5,29111,Lewis,"{""29111"": 68.22, ""29045"": 31.78}",Lewis|Clark,29111|29045,False,False,America/Chicago
+63436,39.50093,-91.54524,Center,MO,Missouri,True,,1401.0,6.8,29173,Ralls,"{""29173"": 100}",Ralls,29173,False,False,America/Chicago
+63437,39.72576,-92.23679,Clarence,MO,Missouri,True,,1630.0,5.0,29205,Shelby,"{""29205"": 86.85, ""29137"": 8.46, ""29121"": 4.69}",Shelby|Monroe|Macon,29205|29137|29121,False,False,America/Chicago
+63438,39.96084,-91.68828,Durham,MO,Missouri,True,,322.0,9.4,29111,Lewis,"{""29111"": 67.35, ""29127"": 32.65}",Lewis|Marion,29111|29127,False,False,America/Chicago
+63439,39.80382,-91.85963,Emden,MO,Missouri,True,,203.0,3.6,29205,Shelby,"{""29205"": 72.32, ""29127"": 27.68}",Shelby|Marion,29205|29127,False,False,America/Chicago
+63440,39.97551,-91.75376,Ewing,MO,Missouri,True,,1121.0,5.0,29111,Lewis,"{""29111"": 72.07, ""29127"": 25.61, ""29205"": 2.32}",Lewis|Marion|Shelby,29111|29127|29205,False,False,America/Chicago
+63441,39.4766,-91.31575,Frankford,MO,Missouri,True,,971.0,3.8,29163,Pike,"{""29163"": 90.04, ""29173"": 9.96}",Pike|Ralls,29163|29173,False,False,America/Chicago
+63443,39.66222,-91.86697,Hunnewell,MO,Missouri,True,,240.0,1.8,29137,Monroe,"{""29137"": 48.68, ""29205"": 33.6, ""29127"": 17.72}",Monroe|Shelby|Marion,29137|29205|29127,False,False,America/Chicago
+63445,40.39681,-91.72044,Kahoka,MO,Missouri,True,,3496.0,8.7,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63446,40.13972,-92.0055,Knox City,MO,Missouri,True,,592.0,2.2,29103,Knox,"{""29103"": 91.88, ""29111"": 8.12}",Knox|Lewis,29103|29111,False,False,America/Chicago
+63447,40.09251,-91.90494,La Belle,MO,Missouri,True,,1217.0,5.2,29111,Lewis,"{""29111"": 95.54, ""29103"": 4.46}",Lewis|Knox,29111|29103,False,False,America/Chicago
+63448,40.02168,-91.55416,La Grange,MO,Missouri,True,,1466.0,11.4,29111,Lewis,"{""29111"": 100}",Lewis,29111,False,False,America/Chicago
+63450,39.66808,-92.14857,Lentner,MO,Missouri,True,,160.0,2.4,29205,Shelby,"{""29205"": 56.4, ""29137"": 43.6}",Shelby|Monroe,29205|29137,False,False,America/Chicago
+63451,39.91135,-92.19728,Leonard,MO,Missouri,True,,167.0,1.0,29205,Shelby,"{""29205"": 90.33, ""29103"": 9.67}",Shelby|Knox,29205|29103,False,False,America/Chicago
+63452,40.09316,-91.78551,Lewistown,MO,Missouri,True,,1477.0,5.7,29111,Lewis,"{""29111"": 100}",Lewis,29111,False,False,America/Chicago
+63453,40.49511,-91.86495,Luray,MO,Missouri,True,,484.0,3.5,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63454,39.92389,-91.64897,Maywood,MO,Missouri,True,,1019.0,9.4,29127,Marion,"{""29127"": 71.65, ""29111"": 28.35}",Marion|Lewis,29127|29111,False,False,America/Chicago
+63456,39.65364,-91.72693,Monroe City,MO,Missouri,True,,4500.0,9.6,29127,Marion,"{""29127"": 38.24, ""29173"": 35.11, ""29137"": 26.64}",Marion|Ralls|Monroe,29127|29173|29137,False,False,America/Chicago
+63457,40.17272,-91.70115,Monticello,MO,Missouri,True,,240.0,2.6,29111,Lewis,"{""29111"": 100}",Lewis,29111,False,False,America/Chicago
+63458,39.98751,-92.01745,Newark,MO,Missouri,True,,88.0,1.2,29103,Knox,"{""29103"": 100}",Knox,29103,False,False,America/Chicago
+63459,39.58392,-91.3795,New London,MO,Missouri,True,,4055.0,11.3,29173,Ralls,"{""29173"": 91.45, ""29163"": 8.55}",Ralls|Pike,29173|29163,False,False,America/Chicago
+63460,40.00237,-92.21002,Novelty,MO,Missouri,True,,329.0,1.6,29103,Knox,"{""29103"": 100}",Knox,29103,False,False,America/Chicago
+63461,39.79757,-91.55577,Palmyra,MO,Missouri,True,,5395.0,13.4,29127,Marion,"{""29127"": 100}",Marion,29127,False,False,America/Chicago
+63462,39.42279,-91.69977,Perry,MO,Missouri,True,,1744.0,5.4,29173,Ralls,"{""29173"": 58.58, ""29137"": 41.42}",Ralls|Monroe,29173|29137,False,False,America/Chicago
+63463,39.84533,-91.75976,Philadelphia,MO,Missouri,True,,697.0,5.8,29127,Marion,"{""29127"": 100}",Marion,29127,False,False,America/Chicago
+63465,40.52307,-91.6898,Revere,MO,Missouri,True,,340.0,2.3,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63466,40.26627,-91.61751,Saint Patrick,MO,Missouri,True,,,,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63467,39.64849,-91.26655,Saverton,MO,Missouri,True,,37.0,46.7,29173,Ralls,"{""29173"": 100}",Ralls,29173,False,False,America/Chicago
+63468,39.67857,-92.01267,Shelbina,MO,Missouri,True,,2456.0,6.5,29205,Shelby,"{""29205"": 62.08, ""29137"": 37.92}",Shelby|Monroe,29205|29137,False,False,America/Chicago
+63469,39.8323,-92.04401,Shelbyville,MO,Missouri,True,,1000.0,3.0,29205,Shelby,"{""29205"": 97.04, ""29103"": 2.96}",Shelby|Knox,29205|29103,False,False,America/Chicago
+63471,39.92511,-91.50652,Taylor,MO,Missouri,True,,982.0,8.2,29127,Marion,"{""29127"": 77.73, ""29111"": 22.27}",Marion|Lewis,29127|29111,False,False,America/Chicago
+63472,40.4053,-91.57734,Wayland,MO,Missouri,True,,728.0,336.9,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago
+63473,40.25263,-91.77803,Williamstown,MO,Missouri,True,,251.0,1.6,29111,Lewis,"{""29111"": 52.04, ""29045"": 47.96}",Lewis|Clark,29111|29045,False,False,America/Chicago
+63474,40.3473,-91.89674,Wyaconda,MO,Missouri,True,,393.0,1.9,29045,Clark,"{""29045"": 93.81, ""29199"": 4.3, ""29111"": 1.89}",Clark|Scotland|Lewis,29045|29199|29111,False,False,America/Chicago
+63501,40.16745,-92.59078,Kirksville,MO,Missouri,True,,20947.0,39.2,29001,Adair,"{""29001"": 100}",Adair,29001,False,False,America/Chicago
+63530,39.90732,-92.45037,Atlanta,MO,Missouri,True,,1212.0,4.4,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63531,40.30002,-92.25248,Baring,MO,Missouri,True,,423.0,2.0,29103,Knox,"{""29103"": 53.66, ""29199"": 46.34}",Knox|Scotland,29103|29199,False,False,America/Chicago
+63532,39.7677,-92.57434,Bevier,MO,Missouri,True,,1158.0,9.0,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63533,40.20471,-92.39608,Brashear,MO,Missouri,True,,864.0,5.3,29001,Adair,"{""29001"": 91.18, ""29103"": 8.82}",Adair|Knox,29001|29103,False,False,America/Chicago
+63534,39.74061,-92.64838,Callao,MO,Missouri,True,,926.0,4.8,29121,Macon,"{""29121"": 98.1, ""29175"": 1.9}",Macon|Randolph,29121|29175,False,False,America/Chicago
+63535,40.57244,-92.67946,Coatsville,MO,Missouri,True,,24.0,0.6,29197,Schuyler,"{""29197"": 68.32, ""29171"": 31.68}",Schuyler|Putnam,29197|29171,False,False,America/Chicago
+63536,40.48423,-92.3574,Downing,MO,Missouri,True,,1017.0,4.7,29197,Schuyler,"{""29197"": 55.17, ""29199"": 44.83}",Schuyler|Scotland,29197|29199,False,False,America/Chicago
+63537,40.14776,-92.16172,Edina,MO,Missouri,True,,2295.0,6.7,29103,Knox,"{""29103"": 100}",Knox,29103,False,False,America/Chicago
+63538,39.9526,-92.67327,Elmer,MO,Missouri,True,,298.0,2.0,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63539,39.9279,-92.76781,Ethel,MO,Missouri,True,,233.0,1.5,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63540,40.09782,-92.40792,Gibbs,MO,Missouri,True,,115.0,3.2,29001,Adair,"{""29001"": 100}",Adair,29001,False,False,America/Chicago
+63541,40.50355,-92.63331,Glenwood,MO,Missouri,True,,594.0,5.3,29197,Schuyler,"{""29197"": 100}",Schuyler,29197,False,False,America/Chicago
+63543,40.35765,-92.00976,Gorin,MO,Missouri,True,,223.0,2.3,29199,Scotland,"{""29199"": 100}",Scotland,29199,False,False,America/Chicago
+63544,40.24603,-92.84943,Green Castle,MO,Missouri,True,,903.0,2.5,29001,Adair,"{""29001"": 45.0, ""29211"": 42.94, ""29171"": 12.06}",Adair|Sullivan|Putnam,29001|29211|29171,False,False,America/Chicago
+63545,40.26721,-92.9677,Green City,MO,Missouri,True,,907.0,3.4,29211,Sullivan,"{""29211"": 100}",Sullivan,29211,False,False,America/Chicago
+63546,40.33129,-92.50882,Greentop,MO,Missouri,True,,1885.0,6.4,29001,Adair,"{""29001"": 64.99, ""29197"": 32.95, ""29199"": 2.06}",Adair|Schuyler|Scotland,29001|29197|29199,False,False,America/Chicago
+63547,40.13492,-92.30651,Hurdland,MO,Missouri,True,,392.0,2.2,29103,Knox,"{""29103"": 89.0, ""29001"": 11.0}",Knox|Adair,29103|29001,False,False,America/Chicago
+63548,40.53405,-92.4953,Lancaster,MO,Missouri,True,,1086.0,5.0,29197,Schuyler,"{""29197"": 100}",Schuyler,29197,False,False,America/Chicago
+63549,40.0167,-92.49172,La Plata,MO,Missouri,True,,2562.0,7.3,29121,Macon,"{""29121"": 68.47, ""29001"": 29.21, ""29103"": 2.32}",Macon|Adair|Knox,29121|29001|29103,False,False,America/Chicago
+63551,40.49921,-92.74252,Livonia,MO,Missouri,True,,388.0,3.4,29171,Putnam,"{""29171"": 100}",Putnam,29171,False,False,America/Chicago
+63552,39.75349,-92.45075,Macon,MO,Missouri,True,,7378.0,21.4,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+63555,40.48458,-92.18698,Memphis,MO,Missouri,True,,3380.0,6.7,29199,Scotland,"{""29199"": 100}",Scotland,29199,False,False,America/Chicago
+63556,40.18251,-93.11723,Milan,MO,Missouri,True,,3608.0,5.8,29211,Sullivan,"{""29211"": 100}",Sullivan,29211,False,False,America/Chicago
+63557,39.98297,-92.88045,New Boston,MO,Missouri,True,,248.0,1.1,29115,Linn,"{""29115"": 66.35, ""29121"": 21.28, ""29001"": 9.19, ""29211"": 3.18}",Linn|Macon|Adair|Sullivan,29115|29121|29001|29211,False,False,America/Chicago
+63558,39.74168,-92.75244,New Cambria,MO,Missouri,True,,633.0,2.2,29121,Macon,"{""29121"": 68.71, ""29041"": 31.29}",Macon|Chariton,29121|29041,False,False,America/Chicago
+63559,40.22674,-92.74528,Novinger,MO,Missouri,True,,1837.0,6.4,29001,Adair,"{""29001"": 88.31, ""29171"": 11.69}",Adair|Putnam,29001|29171,False,False,America/Chicago
+63560,40.3574,-93.12291,Pollock,MO,Missouri,True,,128.0,1.3,29211,Sullivan,"{""29211"": 87.21, ""29171"": 12.79}",Sullivan|Putnam,29211|29171,False,False,America/Chicago
+63561,40.41408,-92.54317,Queen City,MO,Missouri,True,,1065.0,4.8,29197,Schuyler,"{""29197"": 100}",Schuyler,29197,False,False,America/Chicago
+63563,40.30387,-92.07439,Rutledge,MO,Missouri,True,,540.0,2.8,29103,Knox,"{""29103"": 51.96, ""29199"": 48.04}",Knox|Scotland,29103|29199,False,False,America/Chicago
+63565,40.48263,-92.95447,Unionville,MO,Missouri,True,,3640.0,5.2,29171,Putnam,"{""29171"": 98.28, ""29211"": 1.72}",Putnam|Sullivan,29171|29211,False,False,America/Chicago
+63566,40.03139,-92.94793,Winigan,MO,Missouri,True,,104.0,2.1,29115,Linn,"{""29115"": 60.79, ""29211"": 39.21}",Linn|Sullivan,29115|29211,False,False,America/Chicago
+63567,40.41332,-92.70461,Worthington,MO,Missouri,True,,163.0,8.9,29171,Putnam,"{""29171"": 99.84, ""29197"": 0.16}",Putnam|Schuyler,29171|29197,False,False,America/Chicago
+63601,37.8212,-90.5439,Park Hills,MO,Missouri,True,,16051.0,103.8,29187,St. Francois,"{""29187"": 100}",St. Francois,29187,False,False,America/Chicago
+63620,37.40101,-90.6521,Annapolis,MO,Missouri,True,,1319.0,2.7,29093,Iron,"{""29093"": 68.37, ""29123"": 20.91, ""29179"": 10.72}",Iron|Madison|Reynolds,29093|29123|29179,False,False,America/Chicago
+63621,37.48225,-90.57916,Arcadia,MO,Missouri,True,,1445.0,7.3,29093,Iron,"{""29093"": 68.87, ""29123"": 31.13}",Iron|Madison,29093|29123,False,False,America/Chicago
+63622,37.78901,-90.90584,Belgrade,MO,Missouri,True,,1167.0,9.9,29221,Washington,"{""29221"": 100}",Washington,29221,False,False,America/Chicago
+63623,37.67532,-90.8941,Belleview,MO,Missouri,True,,764.0,2.8,29093,Iron,"{""29093"": 100}",Iron,29093,False,False,America/Chicago
+63624,37.7531,-90.63923,Bismarck,MO,Missouri,True,,3801.0,24.1,29187,St. Francois,"{""29187"": 54.83, ""29221"": 28.95, ""29093"": 16.22}",St. Francois|Washington|Iron,29187|29221|29093,False,False,America/Chicago
+63625,37.56374,-90.98734,Black,MO,Missouri,True,,424.0,2.0,29179,Reynolds,"{""29179"": 81.95, ""29093"": 18.05}",Reynolds|Iron,29179|29093,False,False,America/Chicago
+63626,38.07721,-90.71471,Blackwell,MO,Missouri,True,,1057.0,19.2,29221,Washington,"{""29221"": 81.62, ""29187"": 18.38}",Washington|St. Francois,29221|29187,False,False,America/Chicago
+63627,38.03625,-90.25317,Bloomsdale,MO,Missouri,True,,3504.0,18.5,29186,Ste. Genevieve,"{""29186"": 94.4, ""29099"": 5.6}",Ste. Genevieve|Jefferson,29186|29099,False,False,America/Chicago
+63628,37.9392,-90.52466,Bonne Terre,MO,Missouri,True,,15011.0,48.2,29187,St. Francois,"{""29187"": 84.03, ""29186"": 7.71, ""29221"": 6.3, ""29099"": 1.96}",St. Francois|Ste. Genevieve|Washington|Jefferson,29187|29186|29221|29099,False,False,America/Chicago
+63629,37.39847,-91.23861,Bunker,MO,Missouri,True,,1109.0,1.5,29203,Shannon,"{""29203"": 47.81, ""29179"": 32.9, ""29065"": 19.3}",Shannon|Reynolds|Dent,29203|29179|29065,False,False,America/Chicago
+63630,38.01874,-90.72727,Cadet,MO,Missouri,True,,3956.0,22.6,29221,Washington,"{""29221"": 93.32, ""29187"": 6.68}",Washington|St. Francois,29221|29187,False,False,America/Chicago
+63631,37.74912,-90.78873,Caledonia,MO,Missouri,True,,932.0,8.7,29221,Washington,"{""29221"": 64.5, ""29093"": 35.5}",Washington|Iron,29221|29093,False,False,America/Chicago
+63633,37.41993,-91.01082,Centerville,MO,Missouri,True,,788.0,3.3,29179,Reynolds,"{""29179"": 100}",Reynolds,29179,False,False,America/Chicago
+63636,37.29542,-90.57549,Des Arc,MO,Missouri,True,,594.0,5.2,29093,Iron,"{""29093"": 45.93, ""29223"": 30.55, ""29123"": 23.52}",Iron|Wayne|Madison,29093|29223|29123,False,False,America/Chicago
+63637,37.70511,-90.51875,Doe Run,MO,Missouri,True,,1177.0,22.9,29187,St. Francois,"{""29187"": 100}",St. Francois,29187,False,False,America/Chicago
+63638,37.21727,-91.01135,Ellington,MO,Missouri,True,,2808.0,3.7,29179,Reynolds,"{""29179"": 82.04, ""29203"": 17.96}",Reynolds|Shannon,29179|29203,False,False,America/Chicago
+63640,37.75446,-90.36525,Farmington,MO,Missouri,True,,28762.0,53.1,29187,St. Francois,"{""29187"": 66.07, ""29186"": 33.93}",St. Francois|Ste. Genevieve,29187|29186,False,False,America/Chicago
+63645,37.54204,-90.32428,Fredericktown,MO,Missouri,True,,11424.0,12.3,29123,Madison,"{""29123"": 87.48, ""29187"": 8.26, ""29186"": 4.26}",Madison|St. Francois|Ste. Genevieve,29123|29187|29186,False,False,America/Chicago
+63648,37.8187,-90.69878,Irondale,MO,Missouri,True,,1411.0,17.4,29221,Washington,"{""29221"": 92.61, ""29187"": 7.39}",Washington|St. Francois,29221|29187,False,False,America/Chicago
+63650,37.6103,-90.62994,Ironton,MO,Missouri,True,,4065.0,14.0,29093,Iron,"{""29093"": 75.28, ""29187"": 21.62, ""29123"": 3.1}",Iron|St. Francois|Madison,29093|29187|29123,False,False,America/Chicago
+63653,37.86139,-90.58789,Leadwood,MO,Missouri,True,,1472.0,522.2,29187,St. Francois,"{""29187"": 100}",St. Francois,29187,False,False,America/Chicago
+63654,37.45941,-90.85156,Lesterville,MO,Missouri,True,,573.0,3.1,29179,Reynolds,"{""29179"": 98.79, ""29093"": 1.21}",Reynolds|Iron,29179|29093,False,False,America/Chicago
+63655,37.39312,-90.20552,Marquand,MO,Missouri,True,,1435.0,3.6,29123,Madison,"{""29123"": 65.74, ""29017"": 22.25, ""29223"": 12.01}",Madison|Bollinger|Wayne,29123|29017|29223,False,False,America/Chicago
+63656,37.59664,-90.79483,Middle Brook,MO,Missouri,True,,286.0,1.6,29093,Iron,"{""29093"": 50.73, ""29179"": 49.27}",Iron|Reynolds,29093|29179,False,False,America/Chicago
+63660,37.91241,-90.70241,Mineral Point,MO,Missouri,True,,3912.0,43.0,29221,Washington,"{""29221"": 100}",Washington,29221,False,False,America/Chicago
+63662,37.53782,-90.05321,Patton,MO,Missouri,True,,1751.0,11.3,29017,Bollinger,"{""29017"": 100}",Bollinger,29017,False,False,America/Chicago
+63663,37.62446,-90.64638,Pilot Knob,MO,Missouri,True,,789.0,388.2,29093,Iron,"{""29093"": 100}",Iron,29093,False,False,America/Chicago
+63664,37.92161,-90.91661,Potosi,MO,Missouri,True,,9153.0,12.3,29221,Washington,"{""29221"": 100}",Washington,29221,False,False,America/Chicago
+63665,37.29055,-90.84087,Redford,MO,Missouri,True,,185.0,0.8,29179,Reynolds,"{""29179"": 100}",Reynolds,29179,False,False,America/Chicago
+63670,37.89667,-90.16245,Sainte Genevieve,MO,Missouri,True,,11540.0,17.7,29186,Ste. Genevieve,"{""29186"": 100}",Ste. Genevieve,29186,False,False,America/Chicago
+63673,37.83641,-89.98861,Saint Mary,MO,Missouri,True,,1688.0,5.7,29186,Ste. Genevieve,"{""29186"": 48.82, ""29157"": 29.54, ""17157"": 21.64}",Ste. Genevieve|Perry|Randolph,29186|29157|17157,False,False,America/Chicago
+63674,38.03126,-90.65933,Tiff,MO,Missouri,True,,0.0,0.0,29221,Washington,"{""29221"": 99.89, ""29187"": 0.11}",Washington|St. Francois,29221|29187,False,False,America/Chicago
+63675,37.30112,-90.697,Vulcan,MO,Missouri,True,,87.0,2.2,29093,Iron,"{""29093"": 100}",Iron,29093,False,False,America/Chicago
+63701,37.33522,-89.58043,Cape Girardeau,MO,Missouri,True,,38310.0,111.5,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63703,37.27373,-89.53981,Cape Girardeau,MO,Missouri,True,,8476.0,253.3,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63730,37.09496,-89.91841,Advance,MO,Missouri,True,,3543.0,12.1,29207,Stoddard,"{""29207"": 54.56, ""29017"": 33.9, ""29031"": 11.54}",Stoddard|Bollinger|Cape Girardeau,29207|29017|29031,False,False,America/Chicago
+63732,37.59428,-89.59123,Altenburg,MO,Missouri,True,,1048.0,12.0,29157,Perry,"{""29157"": 62.29, ""29031"": 37.71}",Perry|Cape Girardeau,29157|29031,False,False,America/Chicago
+63735,36.98015,-89.78139,Bell City,MO,Missouri,True,,748.0,5.1,29207,Stoddard,"{""29207"": 89.44, ""29201"": 10.56}",Stoddard|Scott,29207|29201,False,False,America/Chicago
+63736,37.08033,-89.52072,Benton,MO,Missouri,True,,3793.0,24.1,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63738,37.08936,-89.95729,Brownwood,MO,Missouri,True,,0.0,0.0,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63739,37.35686,-89.80216,Burfordville,MO,Missouri,True,,555.0,14.7,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63740,37.17564,-89.68557,Chaffee,MO,Missouri,True,,5561.0,24.4,29201,Scott,"{""29201"": 50.36, ""29031"": 49.64}",Scott|Cape Girardeau,29201|29031,False,False,America/Chicago
+63742,37.1583,-89.44672,Commerce,MO,Missouri,True,,79.0,88.2,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63743,37.51886,-89.83261,Daisy,MO,Missouri,True,,59.0,5.7,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63744,37.19331,-89.71831,Delta,MO,Missouri,True,,,,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63745,37.25596,-89.65946,Dutchtown,MO,Missouri,True,,8.0,9.5,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63746,37.70783,-89.69484,Farrar,MO,Missouri,True,,38.0,11.6,29157,Perry,"{""29157"": 100}",Perry,29157,False,False,America/Chicago
+63747,37.55993,-89.81121,Friedheim,MO,Missouri,True,,537.0,10.6,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63748,37.66912,-89.61282,Frohna,MO,Missouri,True,,1180.0,6.1,29157,Perry,"{""29157"": 100}",Perry,29157,False,False,America/Chicago
+63750,37.1508,-90.16917,Gipsy,MO,Missouri,True,,20.0,0.9,29017,Bollinger,"{""29017"": 100}",Bollinger,29017,False,False,America/Chicago
+63751,37.2742,-90.12404,Glenallen,MO,Missouri,True,,1416.0,5.0,29017,Bollinger,"{""29017"": 100}",Bollinger,29017,False,False,America/Chicago
+63755,37.44351,-89.64193,Jackson,MO,Missouri,True,,25051.0,54.6,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63758,37.19212,-89.55064,Kelso,MO,Missouri,True,,268.0,562.1,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63760,37.25084,-89.90374,Leopold,MO,Missouri,True,,668.0,7.2,29017,Bollinger,"{""29017"": 100}",Bollinger,29017,False,False,America/Chicago
+63763,37.05885,-90.18058,McGee,MO,Missouri,True,,207.0,4.0,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63764,37.32944,-89.9837,Marble Hill,MO,Missouri,True,,5297.0,11.9,29017,Bollinger,"{""29017"": 97.66, ""29031"": 2.34}",Bollinger|Cape Girardeau,29017|29031,False,False,America/Chicago
+63766,37.43558,-89.84424,Millersville,MO,Missouri,True,,1388.0,11.1,29031,Cape Girardeau,"{""29031"": 67.41, ""29017"": 32.59}",Cape Girardeau|Bollinger,29031|29017,False,False,America/Chicago
+63767,37.04356,-89.61038,Morley,MO,Missouri,True,,689.0,295.4,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63769,37.52312,-89.74203,Oak Ridge,MO,Missouri,True,,1403.0,10.5,29031,Cape Girardeau,"{""29031"": 100}",Cape Girardeau,29031,False,False,America/Chicago
+63770,37.59456,-89.70049,Old Appleton,MO,Missouri,True,,152.0,21.7,29157,Perry,"{""29157"": 53.57, ""29031"": 46.43}",Perry|Cape Girardeau,29157|29031,False,False,America/Chicago
+63771,37.07431,-89.71299,Oran,MO,Missouri,True,,2655.0,9.7,29201,Scott,"{""29201"": 73.28, ""29207"": 24.99, ""29031"": 1.73}",Scott|Stoddard|Cape Girardeau,29201|29207|29031,False,False,America/Chicago
+63774,37.09424,-89.77469,Perkins,MO,Missouri,True,,181.0,423.4,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63775,37.71051,-89.87919,Perryville,MO,Missouri,True,,16806.0,18.9,29157,Perry,"{""29157"": 97.6, ""29017"": 1.25, ""29031"": 1.15}",Perry|Bollinger|Cape Girardeau,29157|29017|29031,False,False,America/Chicago
+63780,37.17797,-89.50138,Scott City,MO,Missouri,True,,6324.0,39.0,29201,Scott,"{""29201"": 96.94, ""29031"": 3.06}",Scott|Cape Girardeau,29201|29031,False,False,America/Chicago
+63781,37.5329,-89.93078,Sedgewickville,MO,Missouri,True,,1141.0,7.2,29017,Bollinger,"{""29017"": 99.01, ""29157"": 0.99}",Bollinger|Perry,29017|29157,False,False,America/Chicago
+63782,37.11369,-90.02788,Sturdivant,MO,Missouri,True,,241.0,6.0,29017,Bollinger,"{""29017"": 100}",Bollinger,29017,False,False,America/Chicago
+63783,37.60958,-89.6823,Uniontown,MO,Missouri,True,,70.0,4.7,29157,Perry,"{""29157"": 100}",Perry,29157,False,False,America/Chicago
+63784,36.99497,-89.69601,Vanduser,MO,Missouri,True,,229.0,53.7,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63785,37.26336,-89.81554,Whitewater,MO,Missouri,True,,1015.0,7.9,29031,Cape Girardeau,"{""29031"": 97.42, ""29017"": 2.58}",Cape Girardeau|Bollinger,29031|29017,False,False,America/Chicago
+63787,37.12284,-90.12263,Zalma,MO,Missouri,True,,614.0,3.9,29017,Bollinger,"{""29017"": 95.29, ""29223"": 4.71}",Bollinger|Wayne,29017|29223,False,False,America/Chicago
+63801,36.89698,-89.60672,Sikeston,MO,Missouri,True,,22423.0,40.7,29201,Scott,"{""29201"": 57.91, ""29143"": 29.75, ""29207"": 11.01, ""29133"": 1.33}",Scott|New Madrid|Stoddard|Mississippi,29201|29143|29207|29133,False,False,America/Chicago
+63820,36.82427,-89.32564,Anniston,MO,Missouri,True,,216.0,171.1,29133,Mississippi,"{""29133"": 100}",Mississippi,29133,False,False,America/Chicago
+63821,36.04878,-90.23963,Arbyrd,MO,Missouri,True,,698.0,6.8,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63822,36.65904,-90.00103,Bernie,MO,Missouri,True,,2365.0,11.8,29207,Stoddard,"{""29207"": 92.18, ""29069"": 7.82}",Stoddard|Dunklin,29207|29069,False,False,America/Chicago
+63823,36.89628,-89.45367,Bertrand,MO,Missouri,True,,1157.0,11.4,29133,Mississippi,"{""29133"": 82.16, ""29201"": 17.84}",Mississippi|Scott,29133|29201,False,False,America/Chicago
+63824,37.00513,-89.52638,Blodgett,MO,Missouri,True,,105.0,340.9,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago
+63825,36.93033,-89.94432,Bloomfield,MO,Missouri,True,,4495.0,16.6,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63826,36.18361,-89.84486,Braggadocio,MO,Missouri,True,,38.0,2.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63827,36.26133,-89.89226,Bragg City,MO,Missouri,True,,694.0,3.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63828,36.75038,-89.69182,Canalou,MO,Missouri,True,,186.0,73.3,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63829,36.03652,-90.31173,Cardwell,MO,Missouri,True,,1310.0,21.8,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63830,36.14065,-89.6871,Caruthersville,MO,Missouri,True,,6663.0,41.4,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63833,36.64779,-89.73023,Catron,MO,Missouri,True,,117.0,0.6,29143,New Madrid,"{""29143"": 53.08, ""29207"": 46.92}",New Madrid|Stoddard,29143|29207,False,False,America/Chicago
+63834,36.91989,-89.27885,Charleston,MO,Missouri,True,,6522.0,10.1,29133,Mississippi,"{""29133"": 85.25, ""29201"": 14.75}",Mississippi|Scott,29133|29201,False,False,America/Chicago
+63837,36.44907,-89.98023,Clarkton,MO,Missouri,True,,1511.0,18.6,29069,Dunklin,"{""29069"": 72.32, ""29143"": 27.68}",Dunklin|New Madrid,29069|29143,False,False,America/Chicago
+63839,36.04748,-89.8097,Cooter,MO,Missouri,True,,419.0,189.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63840,36.19113,-89.88426,Deering,MO,Missouri,True,,,,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63841,36.77198,-89.98169,Dexter,MO,Missouri,True,,13104.0,39.2,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63845,36.70944,-89.31505,East Prairie,MO,Missouri,True,,5628.0,11.5,29133,Mississippi,"{""29133"": 86.87, ""29143"": 13.13}",Mississippi|New Madrid,29133|29143,False,False,America/Chicago
+63846,36.82229,-89.80199,Essex,MO,Missouri,True,,1431.0,5.4,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63847,36.44271,-90.03474,Gibson,MO,Missouri,True,,18.0,3.2,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63848,36.44053,-89.88219,Gideon,MO,Missouri,True,,1068.0,5.1,29143,New Madrid,"{""29143"": 83.34, ""29155"": 16.66}",New Madrid|Pemiscot,29143|29155,False,False,America/Chicago
+63849,36.13287,-89.99109,Gobler,MO,Missouri,True,,205.0,3.6,29069,Dunklin,"{""29069"": 84.74, ""29155"": 15.26}",Dunklin|Pemiscot,29069|29155,False,False,America/Chicago
+63850,36.82227,-89.78214,Grayridge,MO,Missouri,True,,,,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63851,36.25762,-89.72352,Hayti,MO,Missouri,True,,3543.0,13.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63852,36.36748,-90.01435,Holcomb,MO,Missouri,True,,1376.0,10.9,29069,Dunklin,"{""29069"": 86.86, ""29155"": 13.14}",Dunklin|Pemiscot,29069|29155,False,False,America/Chicago
+63853,36.05834,-89.86738,Holland,MO,Missouri,True,,138.0,177.9,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63855,36.05332,-90.07123,Hornersville,MO,Missouri,True,,922.0,4.9,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63857,36.22402,-90.04612,Kennett,MO,Missouri,True,,12082.0,44.0,29069,Dunklin,"{""29069"": 97.13, ""29155"": 2.87}",Dunklin|Pemiscot,29069|29155,False,False,America/Chicago
+63860,36.67462,-89.59449,Kewanee,MO,Missouri,True,,164.0,15.1,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63862,36.58974,-89.67345,Lilbourn,MO,Missouri,True,,1636.0,9.5,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63863,36.56282,-89.97671,Malden,MO,Missouri,True,,5970.0,40.9,29069,Dunklin,"{""29069"": 72.04, ""29143"": 27.96}",Dunklin|New Madrid,29069|29143,False,False,America/Chicago
+63866,36.52606,-89.60654,Marston,MO,Missouri,True,,424.0,42.3,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63867,36.74475,-89.5465,Matthews,MO,Missouri,True,,1098.0,4.8,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63868,36.84579,-89.68971,Morehouse,MO,Missouri,True,,650.0,254.1,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63869,36.60768,-89.48111,New Madrid,MO,Missouri,True,,3381.0,12.5,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63870,36.61942,-89.84471,Parma,MO,Missouri,True,,1112.0,5.1,29143,New Madrid,"{""29143"": 64.18, ""29207"": 35.82}",New Madrid|Stoddard,29143|29207,False,False,America/Chicago
+63873,36.42791,-89.65965,Portageville,MO,Missouri,True,,4431.0,8.9,29143,New Madrid,"{""29143"": 68.98, ""29155"": 31.02}",New Madrid|Pemiscot,29143|29155,False,False,America/Chicago
+63874,36.55566,-89.81645,Risco,MO,Missouri,True,,257.0,102.5,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63876,36.13206,-90.16487,Senath,MO,Missouri,True,,2321.0,15.1,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63877,36.07377,-89.85118,Steele,MO,Missouri,True,,3537.0,9.2,29155,Pemiscot,"{""29155"": 94.16, ""29069"": 5.84}",Pemiscot|Dunklin,29155|29069,False,False,America/Chicago
+63878,36.50302,-89.82234,Tallapoosa,MO,Missouri,True,,112.0,80.7,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago
+63879,36.35752,-89.80945,Wardell,MO,Missouri,True,,728.0,12.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago
+63880,36.32986,-90.02585,Whiteoak,MO,Missouri,True,,150.0,817.6,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63882,36.91639,-89.21974,Wyatt,MO,Missouri,True,,304.0,172.5,29133,Mississippi,"{""29133"": 100}",Mississippi,29133,False,False,America/Chicago
+63901,36.77168,-90.45012,Poplar Bluff,MO,Missouri,True,,35218.0,47.7,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago
+63932,36.6879,-90.24533,Broseley,MO,Missouri,True,,1032.0,7.8,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago
+63933,36.52102,-90.10876,Campbell,MO,Missouri,True,,3337.0,12.6,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago
+63934,37.20014,-90.37254,Clubb,MO,Missouri,True,,128.0,10.6,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63935,36.67053,-90.92055,Doniphan,MO,Missouri,True,,10066.0,8.5,29181,Ripley,"{""29181"": 92.49, ""29149"": 6.73, ""29035"": 0.78}",Ripley|Oregon|Carter,29181|29149|29035,False,False,America/Chicago
+63936,36.80731,-90.12979,Dudley,MO,Missouri,True,,661.0,3.0,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago
+63937,36.94403,-90.74907,Ellsinore,MO,Missouri,True,,2866.0,6.5,29035,Carter,"{""29035"": 78.52, ""29023"": 14.12, ""29223"": 7.36}",Carter|Butler|Wayne,29035|29023|29223,False,False,America/Chicago
+63939,36.68456,-90.68253,Fairdealing,MO,Missouri,True,,1308.0,9.5,29181,Ripley,"{""29181"": 100}",Ripley,29181,False,False,America/Chicago
+63940,36.77218,-90.22892,Fisk,MO,Missouri,True,,1499.0,10.6,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago
+63941,36.8711,-91.16607,Fremont,MO,Missouri,True,,150.0,0.4,29035,Carter,"{""29035"": 66.37, ""29149"": 32.9, ""29181"": 0.73}",Carter|Oregon|Ripley,29035|29149|29181,False,False,America/Chicago
+63942,36.55434,-91.07821,Gatewood,MO,Missouri,True,,647.0,2.8,29181,Ripley,"{""29181"": 71.47, ""29149"": 28.53}",Ripley|Oregon,29181|29149,False,False,America/Chicago
+63943,36.84046,-90.79995,Grandin,MO,Missouri,True,,560.0,2.6,29035,Carter,"{""29035"": 71.82, ""29181"": 28.18}",Carter|Ripley,29035|29181,False,False,America/Chicago
+63944,37.10876,-90.36286,Greenville,MO,Missouri,True,,1679.0,3.9,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63945,36.6381,-90.5524,Harviell,MO,Missouri,True,,799.0,9.8,29023,Butler,"{""29023"": 89.65, ""29181"": 10.35}",Butler|Ripley,29023|29181,False,False,America/Chicago
+63950,37.26924,-90.43474,Lodi,MO,Missouri,True,,,,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63951,37.10875,-90.26055,Lowndes,MO,Missouri,True,,144.0,1.5,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63952,37.00828,-90.64916,Mill Spring,MO,Missouri,True,,404.0,3.0,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63953,36.59134,-90.62995,Naylor,MO,Missouri,True,,1310.0,8.7,29181,Ripley,"{""29181"": 82.18, ""29023"": 17.82}",Ripley|Butler,29181|29023,False,False,America/Chicago
+63954,36.56365,-90.47337,Neelyville,MO,Missouri,True,,833.0,3.0,29023,Butler,"{""29023"": 93.63, ""29181"": 6.37}",Butler|Ripley,29023|29181,False,False,America/Chicago
+63955,36.60211,-90.67864,Oxly,MO,Missouri,True,,106.0,5.4,29181,Ripley,"{""29181"": 100}",Ripley,29181,False,False,America/Chicago
+63956,37.21741,-90.51665,Patterson,MO,Missouri,True,,1102.0,6.1,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago
+63957,37.14218,-90.68903,Piedmont,MO,Missouri,True,,6222.0,11.8,29223,Wayne,"{""29223"": 75.72, ""29179"": 24.28}",Wayne|Reynolds,29223|29179,False,False,America/Chicago
+63960,36.96074,-90.12434,Puxico,MO,Missouri,True,,3495.0,11.6,29207,Stoddard,"{""29207"": 90.91, ""29017"": 9.09}",Stoddard|Bollinger,29207|29017,False,False,America/Chicago
+63961,36.56848,-90.2749,Qulin,MO,Missouri,True,,1862.0,8.0,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago
+63962,36.84406,-90.28149,Rombauer,MO,Missouri,True,,250.0,5352.2,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago
+63964,37.23954,-90.39662,Silva,MO,Missouri,True,,356.0,2.0,29223,Wayne,"{""29223"": 95.32, ""29123"": 4.68}",Wayne|Madison,29223|29123,False,False,America/Chicago
+63965,36.97391,-91.02294,Van Buren,MO,Missouri,True,,2877.0,4.9,29035,Carter,"{""29035"": 97.18, ""29179"": 2.82}",Carter|Reynolds,29035|29179,False,False,America/Chicago
+63966,36.96956,-90.26216,Wappapello,MO,Missouri,True,,2467.0,15.9,29223,Wayne,"{""29223"": 79.62, ""29023"": 20.38}",Wayne|Butler,29223|29023,False,False,America/Chicago
+63967,36.94867,-90.47721,Williamsville,MO,Missouri,True,,1699.0,5.4,29223,Wayne,"{""29223"": 70.24, ""29023"": 29.76}",Wayne|Butler,29223|29023,False,False,America/Chicago
+64001,39.10464,-93.53683,Alma,MO,Missouri,True,,877.0,9.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64011,38.95963,-94.06688,Bates City,MO,Missouri,True,,4060.0,43.9,29107,Lafayette,"{""29107"": 79.38, ""29101"": 20.62}",Lafayette|Johnson,29107|29101,False,False,America/Chicago
+64012,38.78906,-94.55204,Belton,MO,Missouri,True,,27298.0,223.3,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64014,39.00893,-94.25533,Blue Springs,MO,Missouri,True,,26468.0,913.0,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64015,39.02099,-94.3006,Blue Springs,MO,Missouri,True,,30128.0,594.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64016,39.11642,-94.21385,Buckner,MO,Missouri,True,,4582.0,54.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64017,39.199,-94.02951,Camden,MO,Missouri,True,,322.0,5.9,29177,Ray,"{""29177"": 58.16, ""29107"": 41.84}",Ray|Lafayette,29177|29107,False,False,America/Chicago
+64018,39.45052,-94.73329,Camden Point,MO,Missouri,True,,1003.0,19.0,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64019,38.77543,-93.86665,Centerview,MO,Missouri,True,,2052.0,9.3,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago
+64020,38.96795,-93.59098,Concordia,MO,Missouri,True,,3496.0,12.8,29107,Lafayette,"{""29107"": 73.51, ""29101"": 22.28, ""29195"": 4.21}",Lafayette|Johnson|Saline,29107|29101|29195,False,False,America/Chicago
+64021,39.11498,-93.624,Corder,MO,Missouri,True,,714.0,6.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64022,39.20191,-93.67836,Dover,MO,Missouri,True,,149.0,7.8,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64024,39.32523,-94.22707,Excelsior Springs,MO,Missouri,True,,15989.0,87.7,29047,Clay,"{""29047"": 62.82, ""29177"": 37.18}",Clay|Ray,29047|29177,False,False,America/Chicago
+64028,39.29658,-94.82153,Farley,MO,Missouri,True,,,,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64029,39.00634,-94.21473,Grain Valley,MO,Missouri,True,,19054.0,231.2,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64030,38.87996,-94.52312,Grandview,MO,Missouri,True,,24909.0,662.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64034,38.85052,-94.30203,Greenwood,MO,Missouri,True,,9114.0,154.4,29095,Jackson,"{""29095"": 79.12, ""29037"": 20.88}",Jackson|Cass,29095|29037,False,False,America/Chicago
+64035,39.28796,-93.81972,Hardin,MO,Missouri,True,,1095.0,6.6,29177,Ray,"{""29177"": 96.11, ""29033"": 3.89}",Ray|Carroll,29177|29033,False,False,America/Chicago
+64036,39.20047,-93.937,Henrietta,MO,Missouri,True,,382.0,6.9,29177,Ray,"{""29177"": 100}",Ray,29177,False,False,America/Chicago
+64037,39.05116,-93.73386,Higginsville,MO,Missouri,True,,5770.0,20.7,29107,Lafayette,"{""29107"": 97.21, ""29101"": 2.79}",Lafayette|Johnson,29107|29101,False,False,America/Chicago
+64040,38.71928,-93.98725,Holden,MO,Missouri,True,,6297.0,14.7,29101,Johnson,"{""29101"": 99.07, ""29037"": 0.93}",Johnson|Cass,29101|29037,False,False,America/Chicago
+64048,39.44439,-94.3634,Holt,MO,Missouri,True,,4566.0,38.5,29047,Clay,"{""29047"": 63.23, ""29049"": 36.77}",Clay|Clinton,29047|29049,False,False,America/Chicago
+64050,39.11424,-94.40641,Independence,MO,Missouri,True,,21580.0,647.9,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64052,39.07355,-94.45082,Independence,MO,Missouri,True,,21190.0,1296.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64053,39.10791,-94.46735,Independence,MO,Missouri,True,,5894.0,840.0,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64054,39.11627,-94.44003,Independence,MO,Missouri,True,,3022.0,379.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64055,39.05061,-94.39848,Independence,MO,Missouri,True,,34260.0,1058.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64056,39.11114,-94.32008,Independence,MO,Missouri,True,,17037.0,334.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64057,39.0692,-94.32203,Independence,MO,Missouri,True,,13710.0,360.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64058,39.17805,-94.31408,Independence,MO,Missouri,True,,6744.0,78.1,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64060,39.37134,-94.36821,Kearney,MO,Missouri,True,,16323.0,107.5,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64061,38.77981,-94.0885,Kingsville,MO,Missouri,True,,2904.0,18.1,29101,Johnson,"{""29101"": 84.04, ""29037"": 15.34, ""29095"": 0.62}",Johnson|Cass|Jackson,29101|29037|29095,False,False,America/Chicago
+64062,39.45533,-94.17244,Lawson,MO,Missouri,True,,6391.0,28.6,29177,Ray,"{""29177"": 73.06, ""29047"": 13.61, ""29049"": 11.0, ""29025"": 2.33}",Ray|Clay|Clinton|Caldwell,29177|29047|29049|29025,False,False,America/Chicago
+64063,38.91224,-94.35341,Lees Summit,MO,Missouri,True,,20455.0,1292.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64064,38.98222,-94.34284,Lees Summit,MO,Missouri,True,,18987.0,386.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64065,38.95146,-94.40467,Lees Summit,MO,Missouri,True,,38.0,30.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64066,39.13961,-94.13857,Levasy,MO,Missouri,True,,18.0,6.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64067,39.15594,-93.83747,Lexington,MO,Missouri,True,,6148.0,32.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64068,39.25924,-94.39042,Liberty,MO,Missouri,True,,38976.0,177.5,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64070,38.8897,-94.14863,Lone Jack,MO,Missouri,True,,3404.0,34.8,29095,Jackson,"{""29095"": 82.34, ""29101"": 17.66}",Jackson|Johnson,29095|29101,False,False,America/Chicago
+64071,39.02961,-93.83379,Mayview,MO,Missouri,True,,669.0,7.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64072,39.23286,-94.30021,Missouri City,MO,Missouri,True,,474.0,165.6,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64074,39.08106,-94.07658,Napoleon,MO,Missouri,True,,615.0,11.4,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64075,38.99751,-94.14544,Oak Grove,MO,Missouri,True,,12124.0,95.0,29095,Jackson,"{""29095"": 90.86, ""29107"": 9.14}",Jackson|Lafayette,29095|29107,False,False,America/Chicago
+64076,38.98145,-93.94536,Odessa,MO,Missouri,True,,8623.0,26.8,29107,Lafayette,"{""29107"": 89.8, ""29101"": 10.2}",Lafayette|Johnson,29107|29101,False,False,America/Chicago
+64077,39.2224,-94.13887,Orrick,MO,Missouri,True,,1836.0,10.3,29177,Ray,"{""29177"": 89.64, ""29047"": 10.36}",Ray|Clay,29177|29047,False,False,America/Chicago
+64078,38.70711,-94.46375,Peculiar,MO,Missouri,True,,9587.0,69.4,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64079,39.36267,-94.79351,Platte City,MO,Missouri,True,,14143.0,57.6,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64080,38.7691,-94.25639,Pleasant Hill,MO,Missouri,True,,13419.0,42.6,29037,Cass,"{""29037"": 97.06, ""29095"": 2.55, ""29101"": 0.39}",Cass|Jackson|Johnson,29037|29095|29101,False,False,America/Chicago
+64081,38.90971,-94.40953,Lees Summit,MO,Missouri,True,,24814.0,736.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64082,38.86601,-94.4039,Lees Summit,MO,Missouri,True,,18024.0,339.2,29095,Jackson,"{""29095"": 89.86, ""29037"": 10.14}",Jackson|Cass,29095|29037,False,False,America/Chicago
+64083,38.80082,-94.4483,Raymore,MO,Missouri,True,,23269.0,349.9,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64084,39.38697,-94.0653,Rayville,MO,Missouri,True,,1437.0,10.3,29177,Ray,"{""29177"": 100}",Ray,29177,False,False,America/Chicago
+64085,39.33838,-93.95158,Richmond,MO,Missouri,True,,8270.0,19.9,29177,Ray,"{""29177"": 100}",Ray,29177,False,False,America/Chicago
+64086,38.91181,-94.29293,Lees Summit,MO,Missouri,True,,23843.0,243.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64088,39.16173,-94.1848,Sibley,MO,Missouri,True,,1155.0,14.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64089,39.39007,-94.56483,Smithville,MO,Missouri,True,,13757.0,87.2,29047,Clay,"{""29047"": 75.46, ""29165"": 24.54}",Clay|Platte,29047|29165,False,False,America/Chicago
+64090,38.75991,-94.16387,Strasburg,MO,Missouri,True,,154.0,411.4,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64092,39.22248,-94.8088,Waldron,MO,Missouri,True,,93.0,7.5,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64093,38.79057,-93.73206,Warrensburg,MO,Missouri,True,,27853.0,56.5,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago
+64096,39.20176,-93.55611,Waverly,MO,Missouri,True,,1244.0,10.9,29107,Lafayette,"{""29107"": 93.95, ""29195"": 6.05}",Lafayette|Saline,29107|29195,False,False,America/Chicago
+64097,39.11237,-93.99146,Wellington,MO,Missouri,True,,1078.0,12.9,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago
+64098,39.45661,-94.89456,Weston,MO,Missouri,True,,3282.0,17.1,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64101,39.10355,-94.60051,Kansas City,MO,Missouri,True,,322.0,305.2,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64102,39.09433,-94.60329,Kansas City,MO,Missouri,True,,0.0,0.0,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64105,39.10599,-94.58985,Kansas City,MO,Missouri,True,,4881.0,2355.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64106,39.10526,-94.57013,Kansas City,MO,Missouri,True,,11292.0,2709.9,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64108,39.08413,-94.58449,Kansas City,MO,Missouri,True,,9074.0,959.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64109,39.06646,-94.56709,Kansas City,MO,Missouri,True,,10733.0,1939.1,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64110,39.03445,-94.57265,Kansas City,MO,Missouri,True,,17517.0,2264.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64111,39.05707,-94.59393,Kansas City,MO,Missouri,True,,17165.0,2446.2,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64112,39.03599,-94.59529,Kansas City,MO,Missouri,True,,8569.0,2255.1,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64113,39.01414,-94.5956,Kansas City,MO,Missouri,True,,12080.0,1843.6,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64114,38.9581,-94.59715,Kansas City,MO,Missouri,True,,25314.0,1381.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64116,39.14875,-94.57444,Kansas City,MO,Missouri,True,,16556.0,589.8,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64117,39.16522,-94.52251,Kansas City,MO,Missouri,True,,14492.0,926.4,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64118,39.21301,-94.57497,Kansas City,MO,Missouri,True,,43649.0,1319.1,29047,Clay,"{""29047"": 98.86, ""29165"": 1.14}",Clay|Platte,29047|29165,False,False,America/Chicago
+64119,39.21137,-94.5186,Kansas City,MO,Missouri,True,,29450.0,784.1,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64120,39.13142,-94.51489,Kansas City,MO,Missouri,True,,386.0,18.8,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64123,39.11436,-94.52167,Kansas City,MO,Missouri,True,,10469.0,2248.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64124,39.10718,-94.5391,Kansas City,MO,Missouri,True,,11809.0,2706.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64125,39.1065,-94.49388,Kansas City,MO,Missouri,True,,2286.0,574.8,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64126,39.09095,-94.49581,Kansas City,MO,Missouri,True,,5889.0,876.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64127,39.08912,-94.53837,Kansas City,MO,Missouri,True,,15402.0,1423.1,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64128,39.06555,-94.53484,Kansas City,MO,Missouri,True,,12164.0,1562.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64129,39.04935,-94.49682,Kansas City,MO,Missouri,True,,8460.0,315.8,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64130,39.03345,-94.54119,Kansas City,MO,Missouri,True,,19310.0,1052.4,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64131,38.95723,-94.57449,Kansas City,MO,Missouri,True,,22208.0,1004.0,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64132,38.98551,-94.5396,Kansas City,MO,Missouri,True,,14095.0,505.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64133,39.01406,-94.45689,Kansas City,MO,Missouri,True,,35504.0,806.9,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64134,38.9308,-94.48667,Kansas City,MO,Missouri,True,,22850.0,740.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64136,39.01361,-94.40181,Kansas City,MO,Missouri,True,,1716.0,154.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64137,38.93196,-94.54287,Kansas City,MO,Missouri,True,,11220.0,750.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64138,38.96852,-94.47088,Kansas City,MO,Missouri,True,,24516.0,710.3,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64139,38.96832,-94.40677,Kansas City,MO,Missouri,True,,2435.0,196.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64145,38.88046,-94.59652,Kansas City,MO,Missouri,True,,4775.0,331.5,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64146,38.87888,-94.57436,Kansas City,MO,Missouri,True,,1766.0,127.9,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64147,38.85387,-94.54688,Kansas City,MO,Missouri,True,,463.0,54.2,29095,Jackson,"{""29095"": 90.18, ""29037"": 9.82}",Jackson|Cass,29095|29037,False,False,America/Chicago
+64149,38.86524,-94.46666,Kansas City,MO,Missouri,True,,461.0,19.7,29095,Jackson,"{""29095"": 100}",Jackson,29095,False,False,America/Chicago
+64150,39.17052,-94.6303,Riverside,MO,Missouri,True,,3501.0,240.3,29165,Platte,"{""29165"": 99.79, ""29047"": 0.21}",Platte|Clay,29165|29047,False,False,America/Chicago
+64151,39.21494,-94.63115,Kansas City,MO,Missouri,True,,26451.0,778.5,29165,Platte,"{""29165"": 99.84, ""29047"": 0.16}",Platte|Clay,29165|29047,False,False,America/Chicago
+64152,39.21278,-94.72271,Kansas City,MO,Missouri,True,,31010.0,387.6,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64153,39.27999,-94.73148,Kansas City,MO,Missouri,True,,5981.0,63.4,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64154,39.27653,-94.62967,Kansas City,MO,Missouri,True,,12004.0,358.2,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64155,39.28031,-94.56801,Kansas City,MO,Missouri,True,,24099.0,637.3,29047,Clay,"{""29047"": 99.58, ""29165"": 0.42}",Clay|Platte,29047|29165,False,False,America/Chicago
+64156,39.2762,-94.5195,Kansas City,MO,Missouri,True,,7549.0,269.3,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64157,39.27657,-94.47103,Kansas City,MO,Missouri,True,,19762.0,706.0,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64158,39.23493,-94.47839,Kansas City,MO,Missouri,True,,5875.0,987.8,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64161,39.16184,-94.44943,Kansas City,MO,Missouri,True,,346.0,8.4,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64163,39.33674,-94.68922,Kansas City,MO,Missouri,True,,750.0,32.1,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64164,39.32988,-94.63113,Kansas City,MO,Missouri,True,,112.0,4.3,29165,Platte,"{""29165"": 100}",Platte,29165,False,False,America/Chicago
+64165,39.32081,-94.57749,Kansas City,MO,Missouri,True,,476.0,46.3,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64166,39.32215,-94.52301,Kansas City,MO,Missouri,True,,316.0,24.8,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64167,39.31939,-94.48187,Kansas City,MO,Missouri,True,,414.0,92.2,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago
+64401,39.63452,-94.71522,Agency,MO,Missouri,True,,1172.0,12.2,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64402,40.25201,-94.32276,Albany,MO,Missouri,True,,2437.0,7.8,29075,Gentry,"{""29075"": 100}",Gentry,29075,False,False,America/Chicago
+64420,40.48645,-94.2892,Allendale,MO,Missouri,True,,64.0,56.2,29227,Worth,"{""29227"": 100}",Worth,29227,False,False,America/Chicago
+64421,39.9082,-94.92779,Amazonia,MO,Missouri,True,,1175.0,18.5,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64422,39.90022,-94.4941,Amity,MO,Missouri,True,,555.0,4.9,29063,DeKalb,"{""29063"": 100}",DeKalb,29063,False,False,America/Chicago
+64423,40.18695,-94.8552,Barnard,MO,Missouri,True,,798.0,4.3,29147,Nodaway,"{""29147"": 97.92, ""29003"": 2.08}",Nodaway|Andrew,29147|29003,False,False,America/Chicago
+64424,40.26453,-94.03242,Bethany,MO,Missouri,True,,4047.0,9.4,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago
+64426,40.51747,-93.86158,Blythedale,MO,Missouri,True,,441.0,3.1,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago
+64427,40.10828,-94.84136,Bolckow,MO,Missouri,True,,558.0,3.5,29003,Andrew,"{""29003"": 82.33, ""29147"": 17.67}",Andrew|Nodaway,29003|29147,False,False,America/Chicago
+64428,40.4418,-95.08836,Burlington Junction,MO,Missouri,True,,664.0,2.8,29147,Nodaway,"{""29147"": 86.55, ""29005"": 13.45}",Nodaway|Atchison,29147|29005,False,False,America/Chicago
+64429,39.73895,-94.2285,Cameron,MO,Missouri,True,,12282.0,31.4,29063,DeKalb,"{""29063"": 32.98, ""29025"": 30.87, ""29049"": 30.54, ""29061"": 5.61}",DeKalb|Caldwell|Clinton|Daviess,29063|29025|29049|29061,False,False,America/Chicago
+64430,39.83771,-94.56924,Clarksdale,MO,Missouri,True,,784.0,6.9,29063,DeKalb,"{""29063"": 84.54, ""29003"": 15.46}",DeKalb|Andrew,29063|29003,False,False,America/Chicago
+64431,40.53046,-94.99357,Clearmont,MO,Missouri,True,,459.0,3.8,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64432,40.26399,-94.66119,Clyde,MO,Missouri,True,,114.0,40.7,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64433,40.24107,-94.68053,Conception,MO,Missouri,True,,291.0,149.9,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64434,40.2584,-94.73615,Conception Junction,MO,Missouri,True,,498.0,5.2,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64436,39.85362,-94.69034,Cosby,MO,Missouri,True,,989.0,12.5,29003,Andrew,"{""29003"": 99.85, ""29021"": 0.15}",Andrew|Buchanan,29003|29021,False,False,America/Chicago
+64437,40.14292,-95.35546,Craig,MO,Missouri,True,,476.0,1.2,29087,Holt,"{""29087"": 99.58, ""29005"": 0.42}",Holt|Atchison,29087|29005,False,False,America/Chicago
+64438,40.16106,-94.41091,Darlington,MO,Missouri,True,,138.0,1.2,29075,Gentry,"{""29075"": 100}",Gentry,29075,False,False,America/Chicago
+64439,39.52371,-94.74986,Dearborn,MO,Missouri,True,,1418.0,10.1,29165,Platte,"{""29165"": 58.5, ""29021"": 41.5}",Platte|Buchanan,29165|29021,False,False,America/Chicago
+64440,39.57849,-94.91841,De Kalb,MO,Missouri,True,,814.0,8.7,29021,Buchanan,"{""29021"": 90.65, ""29165"": 9.35}",Buchanan|Platte,29021|29165,False,False,America/Chicago
+64441,40.39883,-94.2642,Denver,MO,Missouri,True,,58.0,0.4,29227,Worth,"{""29227"": 61.72, ""29075"": 38.28}",Worth|Gentry,29227|29075,False,False,America/Chicago
+64442,40.49935,-94.00645,Eagleville,MO,Missouri,True,,827.0,4.0,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago
+64443,39.74724,-94.65205,Easton,MO,Missouri,True,,1813.0,14.4,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64444,39.48334,-94.63856,Edgerton,MO,Missouri,True,,1422.0,15.9,29165,Platte,"{""29165"": 76.85, ""29021"": 18.96, ""29049"": 4.19}",Platte|Buchanan|Clinton,29165|29021|29049,False,False,America/Chicago
+64445,40.53533,-95.13881,Elmo,MO,Missouri,True,,266.0,2.4,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64446,40.32176,-95.40297,Fairfax,MO,Missouri,True,,1004.0,2.8,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago
+64448,39.60258,-94.81856,Faucett,MO,Missouri,True,,1085.0,10.4,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64449,40.04135,-94.97754,Fillmore,MO,Missouri,True,,687.0,6.9,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64451,39.99067,-95.20664,Forest City,MO,Missouri,True,,460.0,3.2,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago
+64453,40.34471,-94.46947,Gentry,MO,Missouri,True,,212.0,2.0,29075,Gentry,"{""29075"": 99.85, ""29227"": 0.15}",Gentry|Worth,29075|29227,False,False,America/Chicago
+64454,39.60771,-94.59423,Gower,MO,Missouri,True,,2426.0,13.1,29049,Clinton,"{""29049"": 55.8, ""29021"": 44.2}",Clinton|Buchanan,29049|29021,False,False,America/Chicago
+64455,40.18592,-95.00594,Graham,MO,Missouri,True,,361.0,2.5,29147,Nodaway,"{""29147"": 91.04, ""29003"": 8.96}",Nodaway|Andrew,29147|29003,False,False,America/Chicago
+64456,40.49433,-94.38733,Grant City,MO,Missouri,True,,1461.0,3.4,29227,Worth,"{""29227"": 93.9, ""29081"": 6.1}",Worth|Harrison,29227|29081,False,False,America/Chicago
+64457,40.15886,-94.68368,Guilford,MO,Missouri,True,,198.0,2.0,29147,Nodaway,"{""29147"": 85.47, ""29003"": 14.53}",Nodaway|Andrew,29147|29003,False,False,America/Chicago
+64458,40.52246,-94.14491,Hatfield,MO,Missouri,True,,289.0,1.8,29081,Harrison,"{""29081"": 95.11, ""29227"": 4.89}",Harrison|Worth,29081|29227,False,False,America/Chicago
+64459,39.93129,-94.65017,Helena,MO,Missouri,True,,454.0,7.4,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64461,40.52459,-94.81063,Hopkins,MO,Missouri,True,,796.0,3.9,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64463,40.06526,-94.4869,King City,MO,Missouri,True,,1565.0,4.4,29075,Gentry,"{""29075"": 66.11, ""29063"": 26.22, ""29003"": 7.67}",Gentry|DeKalb|Andrew,29075|29063|29003,False,False,America/Chicago
+64465,39.54853,-94.29525,Lathrop,MO,Missouri,True,,4050.0,16.6,29049,Clinton,"{""29049"": 86.28, ""29025"": 13.72}",Clinton|Caldwell,29049|29025,False,False,America/Chicago
+64466,40.16865,-95.1067,Maitland,MO,Missouri,True,,354.0,2.4,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago
+64467,40.39772,-94.16236,Martinsville,MO,Missouri,True,,186.0,1.6,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago
+64468,40.34241,-94.8811,Maryville,MO,Missouri,True,,15497.0,41.3,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64469,39.93085,-94.35762,Maysville,MO,Missouri,True,,1957.0,6.3,29063,DeKalb,"{""29063"": 98.34, ""29075"": 1.66}",DeKalb|Gentry,29063|29075,False,False,America/Chicago
+64470,40.17036,-95.22138,Mound City,MO,Missouri,True,,1637.0,8.3,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago
+64471,40.26548,-94.1936,New Hampton,MO,Missouri,True,,455.0,4.1,29081,Harrison,"{""29081"": 79.07, ""29075"": 20.93}",Harrison|Gentry,29081|29075,False,False,America/Chicago
+64473,39.97606,-95.08446,Oregon,MO,Missouri,True,,1408.0,4.9,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago
+64474,39.75829,-94.38103,Osborn,MO,Missouri,True,,912.0,6.2,29063,DeKalb,"{""29063"": 57.94, ""29049"": 42.06}",DeKalb|Clinton,29063|29049,False,False,America/Chicago
+64475,40.43561,-94.63049,Parnell,MO,Missouri,True,,309.0,1.7,29147,Nodaway,"{""29147"": 60.04, ""29227"": 38.0, ""29075"": 1.96}",Nodaway|Worth|Gentry,29147|29227|29075,False,False,America/Chicago
+64476,40.45115,-94.83034,Pickering,MO,Missouri,True,,285.0,3.2,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago
+64477,39.57872,-94.45289,Plattsburg,MO,Missouri,True,,3484.0,15.3,29049,Clinton,"{""29049"": 100}",Clinton,29049,False,False,America/Chicago
+64479,40.34853,-94.66636,Ravenwood,MO,Missouri,True,,1014.0,6.0,29147,Nodaway,"{""29147"": 84.26, ""29075"": 15.74}",Nodaway|Gentry,29147|29075,False,False,America/Chicago
+64480,40.06102,-94.70826,Rea,MO,Missouri,True,,238.0,3.5,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64481,40.35622,-93.8957,Ridgeway,MO,Missouri,True,,958.0,2.9,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago
+64482,40.45345,-95.54329,Rock Port,MO,Missouri,True,,2150.0,6.3,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago
+64483,40.04335,-94.83471,Rosendale,MO,Missouri,True,,695.0,8.0,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64484,39.55638,-95.01974,Rushville,MO,Missouri,True,,918.0,4.9,29021,Buchanan,"{""29021"": 65.72, ""29165"": 34.28}",Buchanan|Platte,29021|29165,False,False,America/Chicago
+64485,39.95325,-94.8184,Savannah,MO,Missouri,True,,7651.0,27.2,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago
+64486,40.52951,-94.61471,Sheridan,MO,Missouri,True,,327.0,2.5,29227,Worth,"{""29227"": 60.76, ""29147"": 39.24}",Worth|Nodaway,29227|29147,False,False,America/Chicago
+64487,40.31218,-95.10293,Skidmore,MO,Missouri,True,,600.0,1.8,29147,Nodaway,"{""29147"": 75.08, ""29005"": 16.26, ""29087"": 8.66}",Nodaway|Atchison|Holt,29147|29005|29087,False,False,America/Chicago
+64489,40.23543,-94.54969,Stanberry,MO,Missouri,True,,2270.0,6.7,29075,Gentry,"{""29075"": 77.48, ""29147"": 22.52}",Gentry|Nodaway,29075|29147,False,False,America/Chicago
+64490,39.73837,-94.50984,Stewartsville,MO,Missouri,True,,1729.0,7.7,29049,Clinton,"{""29049"": 59.63, ""29063"": 40.19, ""29021"": 0.18}",Clinton|DeKalb|Buchanan,29049|29063|29021,False,False,America/Chicago
+64491,40.44868,-95.34499,Tarkio,MO,Missouri,True,,1732.0,5.8,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago
+64492,39.48067,-94.53363,Trimble,MO,Missouri,True,,1694.0,18.3,29049,Clinton,"{""29049"": 72.66, ""29047"": 21.73, ""29165"": 5.61}",Clinton|Clay|Platte,29049|29047|29165,False,False,America/Chicago
+64493,39.63058,-94.30454,Turney,MO,Missouri,True,,398.0,4.7,29049,Clinton,"{""29049"": 100}",Clinton,29049,False,False,America/Chicago
+64494,39.99234,-94.61465,Union Star,MO,Missouri,True,,995.0,6.8,29003,Andrew,"{""29003"": 53.27, ""29063"": 46.73}",Andrew|DeKalb,29003|29063,False,False,America/Chicago
+64496,40.49563,-95.62372,Watson,MO,Missouri,True,,86.0,0.9,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago
+64497,39.92929,-94.22275,Weatherby,MO,Missouri,True,,523.0,4.9,29063,DeKalb,"{""29063"": 65.98, ""29061"": 34.02}",DeKalb|Daviess,29063|29061,False,False,America/Chicago
+64498,40.54023,-95.31255,Westboro,MO,Missouri,True,,201.0,1.1,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago
+64499,40.39707,-94.41521,Worth,MO,Missouri,True,,102.0,1.5,29227,Worth,"{""29227"": 70.19, ""29075"": 29.81}",Worth|Gentry,29227|29075,False,False,America/Chicago
+64501,39.76584,-94.84448,Saint Joseph,MO,Missouri,True,,11482.0,1193.9,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64503,39.74973,-94.84545,Saint Joseph,MO,Missouri,True,,12302.0,328.1,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64504,39.68605,-94.91264,Saint Joseph,MO,Missouri,True,,11797.0,97.0,29021,Buchanan,"{""29021"": 100}",Buchanan,29021,False,False,America/Chicago
+64505,39.84431,-94.83354,Saint Joseph,MO,Missouri,True,,13217.0,111.8,29003,Andrew,"{""29003"": 76.78, ""29021"": 23.22}",Andrew|Buchanan,29003|29021,False,False,America/Chicago
+64506,39.79048,-94.80277,Saint Joseph,MO,Missouri,True,,23296.0,897.1,29021,Buchanan,"{""29021"": 95.96, ""29003"": 4.04}",Buchanan|Andrew,29021|29003,False,False,America/Chicago
+64507,39.73324,-94.75735,Saint Joseph,MO,Missouri,True,,13916.0,96.3,29021,Buchanan,"{""29021"": 98.94, ""29003"": 1.06}",Buchanan|Andrew,29021|29003,False,False,America/Chicago
+64601,39.8044,-93.57334,Chillicothe,MO,Missouri,True,,11980.0,19.4,29117,Livingston,"{""29117"": 99.7, ""29061"": 0.3}",Livingston|Daviess,29117|29061,False,False,America/Chicago
+64620,39.89617,-94.09094,Altamont,MO,Missouri,True,,544.0,10.2,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago
+64622,39.49535,-93.54569,Bogard,MO,Missouri,True,,583.0,3.6,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago
+64623,39.47,-93.33344,Bosworth,MO,Missouri,True,,379.0,2.1,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago
+64624,39.57189,-93.7848,Braymer,MO,Missouri,True,,1514.0,4.8,29025,Caldwell,"{""29025"": 49.63, ""29033"": 26.17, ""29177"": 18.37, ""29117"": 5.83}",Caldwell|Carroll|Ray|Livingston,29025|29033|29177|29117,False,False,America/Chicago
+64625,39.74378,-93.80527,Breckenridge,MO,Missouri,True,,723.0,4.3,29025,Caldwell,"{""29025"": 66.59, ""29061"": 22.93, ""29117"": 10.48}",Caldwell|Daviess|Livingston,29025|29061|29117,False,False,America/Chicago
+64628,39.79711,-93.05002,Brookfield,MO,Missouri,True,,5872.0,15.2,29115,Linn,"{""29115"": 86.86, ""29041"": 13.14}",Linn|Chariton,29115|29041,False,False,America/Chicago
+64630,40.03726,-93.15435,Browning,MO,Missouri,True,,601.0,2.2,29211,Sullivan,"{""29211"": 52.66, ""29115"": 47.34}",Sullivan|Linn,29211|29115,False,False,America/Chicago
+64631,39.82018,-92.88213,Bucklin,MO,Missouri,True,,584.0,2.5,29115,Linn,"{""29115"": 68.8, ""29121"": 31.2}",Linn|Macon,29115|29121,False,False,America/Chicago
+64632,40.46915,-93.76862,Cainsville,MO,Missouri,True,,377.0,1.5,29129,Mercer,"{""29129"": 58.5, ""29081"": 41.5}",Mercer|Harrison,29129|29081,False,False,America/Chicago
+64633,39.35951,-93.48171,Carrollton,MO,Missouri,True,,4597.0,7.4,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago
+64635,39.93943,-93.43632,Chula,MO,Missouri,True,,451.0,2.8,29117,Livingston,"{""29117"": 74.47, ""29115"": 15.46, ""29079"": 10.07}",Livingston|Linn|Grundy,29117|29115|29079,False,False,America/Chicago
+64636,40.11989,-93.98769,Coffey,MO,Missouri,True,,273.0,4.8,29061,Daviess,"{""29061"": 74.29, ""29081"": 25.71}",Daviess|Harrison,29061|29081,False,False,America/Chicago
+64637,39.57439,-93.91573,Cowgill,MO,Missouri,True,,541.0,2.9,29025,Caldwell,"{""29025"": 76.57, ""29177"": 23.43}",Caldwell|Ray,29025|29177,False,False,America/Chicago
+64638,39.61894,-93.61498,Dawn,MO,Missouri,True,,571.0,3.3,29117,Livingston,"{""29117"": 59.09, ""29033"": 40.91}",Livingston|Carroll,29117|29033,False,False,America/Chicago
+64639,39.3962,-93.22276,De Witt,MO,Missouri,True,,157.0,1.7,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago
+64640,39.90172,-93.94542,Gallatin,MO,Missouri,True,,3161.0,8.5,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago
+64641,40.16221,-93.3992,Galt,MO,Missouri,True,,571.0,2.8,29079,Grundy,"{""29079"": 78.47, ""29211"": 21.53}",Grundy|Sullivan,29079|29211,False,False,America/Chicago
+64642,40.16979,-93.83574,Gilman City,MO,Missouri,True,,878.0,3.0,29081,Harrison,"{""29081"": 64.5, ""29061"": 23.76, ""29079"": 11.74}",Harrison|Daviess|Grundy,29081|29061|29079,False,False,America/Chicago
+64643,39.61366,-93.36883,Hale,MO,Missouri,True,,1179.0,4.2,29033,Carroll,"{""29033"": 53.93, ""29117"": 46.07}",Carroll|Livingston,29033|29117,False,False,America/Chicago
+64644,39.7418,-93.97384,Hamilton,MO,Missouri,True,,3493.0,12.5,29025,Caldwell,"{""29025"": 80.39, ""29061"": 19.61}",Caldwell|Daviess,29025|29061,False,False,America/Chicago
+64645,40.29834,-93.32575,Harris,MO,Missouri,True,,128.0,0.7,29211,Sullivan,"{""29211"": 70.8, ""29129"": 29.2}",Sullivan|Mercer,29211|29129,False,False,America/Chicago
+64646,40.10456,-93.30819,Humphreys,MO,Missouri,True,,246.0,2.0,29211,Sullivan,"{""29211"": 87.79, ""29115"": 12.21}",Sullivan|Linn,29211|29115,False,False,America/Chicago
+64647,40.03016,-93.96862,Jameson,MO,Missouri,True,,411.0,3.2,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago
+64648,39.98517,-93.79922,Jamesport,MO,Missouri,True,,2372.0,7.9,29061,Daviess,"{""29061"": 78.16, ""29079"": 14.86, ""29117"": 6.98}",Daviess|Grundy|Livingston,29061|29079|29117,False,False,America/Chicago
+64649,39.77428,-94.09183,Kidder,MO,Missouri,True,,619.0,6.6,29025,Caldwell,"{""29025"": 57.95, ""29061"": 42.05}",Caldwell|Daviess,29025|29061,False,False,America/Chicago
+64650,39.63716,-94.0548,Kingston,MO,Missouri,True,,685.0,6.2,29025,Caldwell,"{""29025"": 100}",Caldwell,29025,False,False,America/Chicago
+64651,39.7759,-93.1797,Laclede,MO,Missouri,True,,555.0,5.4,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago
+64652,40.01979,-93.42103,Laredo,MO,Missouri,True,,336.0,2.9,29079,Grundy,"{""29079"": 96.79, ""29211"": 2.28, ""29115"": 0.93}",Grundy|Sullivan|Linn,29079|29211|29115,False,False,America/Chicago
+64653,39.89403,-93.20403,Linneus,MO,Missouri,True,,586.0,2.8,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago
+64654,39.84864,-93.77552,Lock Springs,MO,Missouri,True,,50.0,199.4,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago
+64655,40.44017,-93.23684,Lucerne,MO,Missouri,True,,162.0,1.0,29171,Putnam,"{""29171"": 100}",Putnam,29171,False,False,America/Chicago
+64656,39.67803,-93.69375,Ludlow,MO,Missouri,True,,327.0,5.9,29117,Livingston,"{""29117"": 100}",Livingston,29117,False,False,America/Chicago
+64657,40.13269,-94.21292,McFall,MO,Missouri,True,,491.0,2.8,29075,Gentry,"{""29075"": 53.92, ""29081"": 35.86, ""29061"": 10.22}",Gentry|Harrison|Daviess,29075|29081|29061,False,False,America/Chicago
+64658,39.66124,-92.92181,Marceline,MO,Missouri,True,,3262.0,13.4,29041,Chariton,"{""29041"": 75.06, ""29115"": 22.27, ""29121"": 2.67}",Chariton|Linn|Macon,29041|29115|29121,False,False,America/Chicago
+64659,39.78138,-93.29224,Meadville,MO,Missouri,True,,1100.0,6.4,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago
+64660,39.57226,-93.08923,Mendon,MO,Missouri,True,,455.0,2.1,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+64661,40.53031,-93.51901,Mercer,MO,Missouri,True,,906.0,3.5,29129,Mercer,"{""29129"": 100}",Mercer,29129,False,False,America/Chicago
+64664,39.74601,-93.66027,Mooresville,MO,Missouri,True,,314.0,2.5,29117,Livingston,"{""29117"": 100}",Livingston,29117,False,False,America/Chicago
+64667,40.39434,-93.33618,Newtown,MO,Missouri,True,,399.0,2.0,29211,Sullivan,"{""29211"": 38.35, ""29129"": 34.54, ""29171"": 27.11}",Sullivan|Mercer|Putnam,29211|29129|29171,False,False,America/Chicago
+64668,39.35226,-93.70704,Norborne,MO,Missouri,True,,1561.0,3.7,29033,Carroll,"{""29033"": 80.21, ""29177"": 19.79}",Carroll|Ray,29033|29177,False,False,America/Chicago
+64670,40.04986,-94.13833,Pattonsburg,MO,Missouri,True,,925.0,2.8,29061,Daviess,"{""29061"": 78.04, ""29063"": 12.11, ""29075"": 5.16, ""29081"": 4.69}",Daviess|DeKalb|Gentry|Harrison,29061|29063|29075|29081,False,False,America/Chicago
+64671,39.53655,-94.0518,Polo,MO,Missouri,True,,1863.0,7.8,29025,Caldwell,"{""29025"": 60.94, ""29177"": 39.06}",Caldwell|Ray,29025|29177,False,False,America/Chicago
+64672,40.53869,-93.26015,Powersville,MO,Missouri,True,,96.0,0.5,29171,Putnam,"{""29171"": 95.78, ""29129"": 4.22}",Putnam|Mercer,29171|29129,False,False,America/Chicago
+64673,40.38001,-93.59094,Princeton,MO,Missouri,True,,2473.0,4.0,29129,Mercer,"{""29129"": 100}",Mercer,29129,False,False,America/Chicago
+64674,39.96491,-93.15884,Purdin,MO,Missouri,True,,287.0,1.7,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago
+64676,39.6471,-93.03729,Rothville,MO,Missouri,True,,164.0,3.0,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+64679,40.23246,-93.58181,Spickard,MO,Missouri,True,,879.0,3.6,29079,Grundy,"{""29079"": 88.02, ""29129"": 11.98}",Grundy|Mercer,29079|29129,False,False,America/Chicago
+64681,39.64706,-93.21375,Sumner,MO,Missouri,True,,138.0,1.0,29041,Chariton,"{""29041"": 94.08, ""29115"": 5.92}",Chariton|Linn,29041|29115,False,False,America/Chicago
+64682,39.55251,-93.49132,Tina,MO,Missouri,True,,424.0,4.5,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago
+64683,40.07395,-93.60346,Trenton,MO,Missouri,True,,7867.0,13.3,29079,Grundy,"{""29079"": 92.15, ""29117"": 7.85}",Grundy|Livingston,29079|29117,False,False,America/Chicago
+64686,39.75005,-93.62449,Utica,MO,Missouri,True,,222.0,54.9,29117,Livingston,"{""29117"": 100}",Livingston,29117,False,False,America/Chicago
+64688,39.8139,-93.37664,Wheeling,MO,Missouri,True,,794.0,4.6,29117,Livingston,"{""29117"": 74.33, ""29115"": 25.67}",Livingston|Linn,29117|29115,False,False,America/Chicago
+64689,39.87461,-94.152,Winston,MO,Missouri,True,,603.0,7.1,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago
+64701,38.62053,-94.3378,Harrisonville,MO,Missouri,True,,14461.0,45.0,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64720,38.40533,-94.33742,Adrian,MO,Missouri,True,,3987.0,11.6,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago
+64722,38.27388,-94.55188,Amoret,MO,Missouri,True,,458.0,4.9,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago
+64723,38.3615,-94.55298,Amsterdam,MO,Missouri,True,,733.0,5.5,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago
+64724,38.15188,-94.01025,Appleton City,MO,Missouri,True,,2121.0,6.4,29185,St. Clair,"{""29185"": 63.1, ""29013"": 35.46, ""29083"": 1.44}",St. Clair|Bates|Henry,29185|29013|29083,False,False,America/Chicago
+64725,38.49482,-94.36609,Archie,MO,Missouri,True,,2162.0,15.3,29037,Cass,"{""29037"": 81.73, ""29013"": 18.27}",Cass|Bates,29037|29013,False,False,America/Chicago
+64726,38.52921,-93.92492,Blairstown,MO,Missouri,True,,367.0,3.1,29083,Henry,"{""29083"": 92.13, ""29101"": 7.87}",Henry|Johnson,29083|29101,False,False,America/Chicago
+64728,37.70217,-94.5174,Bronaugh,MO,Missouri,True,,501.0,2.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64730,38.25789,-94.29236,Butler,MO,Missouri,True,,6740.0,9.2,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago
+64733,38.58016,-93.8283,Chilhowee,MO,Missouri,True,,1355.0,7.1,29101,Johnson,"{""29101"": 65.87, ""29083"": 34.13}",Johnson|Henry,29101|29083,False,False,America/Chicago
+64734,38.64888,-94.57405,Cleveland,MO,Missouri,True,,2596.0,24.3,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64735,38.36612,-93.73644,Clinton,MO,Missouri,True,,12904.0,19.0,29083,Henry,"{""29083"": 97.88, ""29015"": 2.12}",Henry|Benton,29083|29015,False,False,America/Chicago
+64738,37.90098,-93.65987,Collins,MO,Missouri,True,,1242.0,6.0,29185,St. Clair,"{""29185"": 100}",St. Clair,29185,False,False,America/Chicago
+64739,38.51139,-94.09389,Creighton,MO,Missouri,True,,978.0,7.2,29037,Cass,"{""29037"": 71.48, ""29083"": 28.52}",Cass|Henry,29037|29083,False,False,America/Chicago
+64740,38.22349,-93.71204,Deepwater,MO,Missouri,True,,1670.0,6.2,29083,Henry,"{""29083"": 70.07, ""29185"": 29.93}",Henry|St. Clair,29083|29185,False,False,America/Chicago
+64741,37.81671,-94.5629,Deerfield,MO,Missouri,True,,126.0,1.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64742,38.50034,-94.54329,Drexel,MO,Missouri,True,,2189.0,11.0,29037,Cass,"{""29037"": 68.88, ""29013"": 31.12}",Cass|Bates,29037|29013,False,False,America/Chicago
+64743,38.66596,-94.21827,East Lynne,MO,Missouri,True,,184.0,52.2,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64744,37.84963,-93.97755,El Dorado Springs,MO,Missouri,True,,7989.0,12.3,29039,Cedar,"{""29039"": 57.08, ""29185"": 27.94, ""29217"": 14.98}",Cedar|St. Clair|Vernon,29039|29185|29217,False,False,America/Chicago
+64745,38.15662,-94.50384,Foster,MO,Missouri,True,,64.0,16.1,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago
+64746,38.61054,-94.49304,Freeman,MO,Missouri,True,,1345.0,16.7,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago
+64747,38.57353,-94.17399,Garden City,MO,Missouri,True,,3999.0,12.3,29037,Cass,"{""29037"": 80.72, ""29101"": 19.28}",Cass|Johnson,29037|29101,False,False,America/Chicago
+64748,37.36497,-94.10017,Golden City,MO,Missouri,True,,1584.0,5.6,29011,Barton,"{""29011"": 45.74, ""29057"": 28.65, ""29097"": 18.77, ""29109"": 6.85}",Barton|Dade|Jasper|Lawrence,29011|29057|29097|29109,False,False,America/Chicago
+64750,37.93033,-94.11427,Harwood,MO,Missouri,True,,517.0,6.7,29217,Vernon,"{""29217"": 89.39, ""29185"": 10.61}",Vernon|St. Clair,29217|29185,False,False,America/Chicago
+64752,38.0689,-94.56862,Hume,MO,Missouri,True,,622.0,3.5,29217,Vernon,"{""29217"": 52.3, ""29013"": 47.7}",Vernon|Bates,29217|29013,False,False,America/Chicago
+64755,37.33685,-94.31112,Jasper,MO,Missouri,True,,2844.0,7.5,29097,Jasper,"{""29097"": 65.24, ""29011"": 34.76}",Jasper|Barton,29097|29011,False,False,America/Chicago
+64756,37.61931,-94.01462,Jerico Springs,MO,Missouri,True,,641.0,4.1,29039,Cedar,"{""29039"": 76.73, ""29057"": 23.27}",Cedar|Dade,29039|29057,False,False,America/Chicago
+64759,37.52655,-94.26775,Lamar,MO,Missouri,True,,7701.0,11.2,29011,Barton,"{""29011"": 99.01, ""29057"": 0.99}",Barton|Dade,29011|29057,False,False,America/Chicago
+64761,38.59463,-93.68657,Leeton,MO,Missouri,True,,1470.0,8.1,29101,Johnson,"{""29101"": 79.59, ""29083"": 20.41}",Johnson|Henry,29101|29083,False,False,America/Chicago
+64762,37.54628,-94.50176,Liberal,MO,Missouri,True,,1614.0,4.9,29011,Barton,"{""29011"": 100}",Barton,29011,False,False,America/Chicago
+64763,38.14354,-93.71573,Lowry City,MO,Missouri,True,,1339.0,7.4,29185,St. Clair,"{""29185"": 100}",St. Clair,29185,False,False,America/Chicago
+64765,37.9965,-94.44297,Metz,MO,Missouri,True,,15.0,45.6,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64767,37.7499,-94.1997,Milo,MO,Missouri,True,,635.0,4.1,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64769,37.48028,-94.56688,Mindenmines,MO,Missouri,True,,709.0,6.7,29011,Barton,"{""29011"": 100}",Barton,29011,False,False,America/Chicago
+64770,38.27528,-93.98662,Montrose,MO,Missouri,True,,1166.0,4.1,29083,Henry,"{""29083"": 84.01, ""29013"": 11.38, ""29185"": 4.61}",Henry|Bates|St. Clair,29083|29013|29185,False,False,America/Chicago
+64771,37.77091,-94.45967,Moundville,MO,Missouri,True,,428.0,4.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64772,37.82712,-94.33355,Nevada,MO,Missouri,True,,13498.0,40.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64776,38.04242,-93.67469,Osceola,MO,Missouri,True,,3765.0,6.1,29185,St. Clair,"{""29185"": 94.55, ""29015"": 5.45}",St. Clair|Benton,29185|29015,False,False,America/Chicago
+64778,37.92283,-94.4841,Richards,MO,Missouri,True,,536.0,1.8,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64779,38.09214,-94.40152,Rich Hill,MO,Missouri,True,,2780.0,5.4,29013,Bates,"{""29013"": 72.81, ""29217"": 27.19}",Bates|Vernon,29013|29217,False,False,America/Chicago
+64780,38.06246,-94.04276,Rockville,MO,Missouri,True,,455.0,1.8,29185,St. Clair,"{""29185"": 58.09, ""29013"": 41.91}",St. Clair|Bates,29185|29013,False,False,America/Chicago
+64781,37.97837,-93.81242,Roscoe,MO,Missouri,True,,100.0,48.2,29185,St. Clair,"{""29185"": 100}",St. Clair,29185,False,False,America/Chicago
+64783,37.99972,-94.10688,Schell City,MO,Missouri,True,,726.0,4.3,29217,Vernon,"{""29217"": 72.79, ""29185"": 27.21}",Vernon|St. Clair,29217|29185,False,False,America/Chicago
+64784,37.66624,-94.23131,Sheldon,MO,Missouri,True,,1302.0,4.5,29217,Vernon,"{""29217"": 74.41, ""29011"": 24.06, ""29039"": 1.53}",Vernon|Barton|Cedar,29217|29011|29039,False,False,America/Chicago
+64788,38.42868,-94.02045,Urich,MO,Missouri,True,,1629.0,6.1,29083,Henry,"{""29083"": 74.69, ""29013"": 25.31}",Henry|Bates,29083|29013,False,False,America/Chicago
+64790,37.92924,-94.22969,Walker,MO,Missouri,True,,906.0,4.1,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago
+64801,37.11056,-94.4974,Joplin,MO,Missouri,True,,37360.0,250.8,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64804,37.01955,-94.51137,Joplin,MO,Missouri,True,,36116.0,152.5,29145,Newton,"{""29145"": 81.39, ""29097"": 18.61}",Newton|Jasper,29145|29097,False,False,America/Chicago
+64830,37.2308,-94.41053,Alba,MO,Missouri,True,,837.0,212.1,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64831,36.65598,-94.4541,Anderson,MO,Missouri,True,,6942.0,23.0,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64832,37.33951,-94.57264,Asbury,MO,Missouri,True,,1134.0,6.2,29097,Jasper,"{""29097"": 60.1, ""29011"": 39.9}",Jasper|Barton,29097|29011,False,False,America/Chicago
+64833,37.1938,-94.12982,Avilla,MO,Missouri,True,,41.0,81.0,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64834,37.18714,-94.56865,Carl Junction,MO,Missouri,True,,10247.0,122.8,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64835,37.14749,-94.43824,Carterville,MO,Missouri,True,,2228.0,400.0,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64836,37.18886,-94.28898,Carthage,MO,Missouri,True,,24375.0,51.1,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64840,37.01826,-94.33536,Diamond,MO,Missouri,True,,3049.0,22.6,29145,Newton,"{""29145"": 87.25, ""29097"": 12.75}",Newton|Jasper,29145|29097,False,False,America/Chicago
+64841,37.07873,-94.41101,Duenweg,MO,Missouri,True,,350.0,322.4,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64842,36.7914,-94.10427,Fairview,MO,Missouri,True,,894.0,15.8,29145,Newton,"{""29145"": 94.43, ""29009"": 5.57}",Newton|Barry,29145|29009,False,False,America/Chicago
+64843,36.73345,-94.45319,Goodman,MO,Missouri,True,,3764.0,24.9,29119,McDonald,"{""29119"": 86.34, ""29145"": 13.66}",McDonald|Newton,29119|29145,False,False,America/Chicago
+64844,36.91388,-94.24038,Granby,MO,Missouri,True,,4880.0,28.6,29145,Newton,"{""29145"": 100}",Newton,29145,False,False,America/Chicago
+64847,36.59217,-94.43863,Lanagan,MO,Missouri,True,,461.0,50.1,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64848,37.18061,-93.99523,La Russell,MO,Missouri,True,,451.0,4.1,29109,Lawrence,"{""29109"": 98.78, ""29097"": 1.22}",Lawrence|Jasper,29109|29097,False,False,America/Chicago
+64849,37.2544,-94.44529,Neck City,MO,Missouri,True,,199.0,221.1,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64850,36.86008,-94.3975,Neosho,MO,Missouri,True,,23217.0,44.1,29145,Newton,"{""29145"": 96.14, ""29119"": 3.86}",Newton|McDonald,29145|29119,False,False,America/Chicago
+64854,36.54369,-94.44144,Noel,MO,Missouri,True,,4106.0,21.3,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64855,37.29548,-94.48637,Oronogo,MO,Missouri,True,,2317.0,21.0,29097,Jasper,"{""29097"": 86.97, ""29011"": 13.03}",Jasper|Barton,29097|29011,False,False,America/Chicago
+64856,36.5652,-94.26346,Pineville,MO,Missouri,True,,3734.0,15.9,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64857,37.24587,-94.43861,Purcell,MO,Missouri,True,,400.0,257.8,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64858,36.89981,-94.52888,Racine,MO,Missouri,True,,419.0,475.5,29145,Newton,"{""29145"": 100}",Newton,29145,False,False,America/Chicago
+64859,37.15822,-94.14703,Reeds,MO,Missouri,True,,1360.0,10.3,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64861,36.6953,-94.14864,Rocky Comfort,MO,Missouri,True,,997.0,6.6,29119,McDonald,"{""29119"": 96.07, ""29145"": 3.93}",McDonald|Newton,29119|29145,False,False,America/Chicago
+64862,37.10128,-94.11469,Sarcoxie,MO,Missouri,True,,3943.0,16.8,29097,Jasper,"{""29097"": 60.84, ""29145"": 25.02, ""29109"": 14.14}",Jasper|Newton|Lawrence,29097|29145|29109,False,False,America/Chicago
+64863,36.55511,-94.58444,South West City,MO,Missouri,True,,1641.0,20.5,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64865,36.84253,-94.57797,Seneca,MO,Missouri,True,,5679.0,29.2,29145,Newton,"{""29145"": 84.33, ""29119"": 15.67}",Newton|McDonald,29145|29119,False,False,America/Chicago
+64866,36.8677,-94.14317,Stark City,MO,Missouri,True,,934.0,6.8,29145,Newton,"{""29145"": 100}",Newton,29145,False,False,America/Chicago
+64867,36.73023,-94.23316,Stella,MO,Missouri,True,,1302.0,8.7,29119,McDonald,"{""29119"": 62.81, ""29145"": 37.19}",McDonald|Newton,29119|29145,False,False,America/Chicago
+64868,36.68742,-94.61285,Tiff City,MO,Missouri,True,,,,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+64870,37.18474,-94.48136,Webb City,MO,Missouri,True,,14982.0,171.9,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago
+64873,37.01565,-94.05358,Wentworth,MO,Missouri,True,,775.0,7.1,29109,Lawrence,"{""29109"": 53.53, ""29145"": 46.47}",Lawrence|Newton,29109|29145,False,False,America/Chicago
+64874,36.75617,-94.05444,Wheaton,MO,Missouri,True,,563.0,119.2,29009,Barry,"{""29009"": 100}",Barry,29009,False,False,America/Chicago
+65001,38.27141,-92.00077,Argyle,MO,Missouri,True,,247.0,4.3,29125,Maries,"{""29125"": 73.22, ""29151"": 26.78}",Maries|Osage,29125|29151,False,False,America/Chicago
+65010,38.78757,-92.24301,Ashland,MO,Missouri,True,,6083.0,38.7,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago
+65011,38.39493,-92.70815,Barnett,MO,Missouri,True,,2689.0,12.6,29141,Morgan,"{""29141"": 87.28, ""29135"": 12.72}",Morgan|Moniteau,29141|29135,False,False,America/Chicago
+65013,38.26868,-91.75493,Belle,MO,Missouri,True,,2597.0,7.7,29125,Maries,"{""29125"": 61.28, ""29151"": 38.72}",Maries|Osage,29125|29151,False,False,America/Chicago
+65014,38.32184,-91.6247,Bland,MO,Missouri,True,,2658.0,7.2,29073,Gasconade,"{""29073"": 69.31, ""29151"": 27.41, ""29125"": 3.28}",Gasconade|Osage|Maries,29073|29151|29125,False,False,America/Chicago
+65016,38.56167,-91.91896,Bonnots Mill,MO,Missouri,True,,1414.0,10.6,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65017,38.09185,-92.49548,Brumley,MO,Missouri,True,,844.0,5.3,29131,Miller,"{""29131"": 98.59, ""29029"": 1.41}",Miller|Camden,29131|29029,False,False,America/Chicago
+65018,38.62038,-92.56314,California,MO,Missouri,True,,7696.0,19.0,29135,Moniteau,"{""29135"": 92.81, ""29053"": 7.19}",Moniteau|Cooper,29135|29053,False,False,America/Chicago
+65020,38.00517,-92.78193,Camdenton,MO,Missouri,True,,16055.0,50.1,29029,Camden,"{""29029"": 99.51, ""29105"": 0.49}",Camden|Laclede,29029|29105,False,False,America/Chicago
+65023,38.65274,-92.39915,Centertown,MO,Missouri,True,,1741.0,12.3,29051,Cole,"{""29051"": 75.63, ""29135"": 24.37}",Cole|Moniteau,29051|29135,False,False,America/Chicago
+65024,38.62444,-91.75712,Chamois,MO,Missouri,True,,1061.0,4.2,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65025,38.66618,-92.68119,Clarksburg,MO,Missouri,True,,742.0,5.5,29135,Moniteau,"{""29135"": 60.88, ""29053"": 39.12}",Moniteau|Cooper,29135|29053,False,False,America/Chicago
+65026,38.32105,-92.57099,Eldon,MO,Missouri,True,,10928.0,29.4,29131,Miller,"{""29131"": 97.85, ""29141"": 2.15}",Miller|Morgan,29131|29141,False,False,America/Chicago
+65032,38.34024,-92.37942,Eugene,MO,Missouri,True,,1551.0,10.3,29131,Miller,"{""29131"": 68.48, ""29051"": 31.52}",Miller|Cole,29131|29051,False,False,America/Chicago
+65034,38.55637,-92.82183,Fortuna,MO,Missouri,True,,1235.0,15.8,29141,Morgan,"{""29141"": 75.03, ""29135"": 24.97}",Morgan|Moniteau,29141|29135,False,False,America/Chicago
+65035,38.36338,-91.93585,Freeburg,MO,Missouri,True,,1884.0,10.2,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65037,38.23845,-92.85749,Gravois Mills,MO,Missouri,True,,4246.0,20.7,29141,Morgan,"{""29141"": 85.53, ""29029"": 14.47}",Morgan|Camden,29141|29029,False,False,America/Chicago
+65039,38.71388,-92.2984,Hartsburg,MO,Missouri,True,,2888.0,18.8,29019,Boone,"{""29019"": 92.2, ""29027"": 7.8}",Boone|Callaway,29019|29027,False,False,America/Chicago
+65040,38.36367,-92.31252,Henley,MO,Missouri,True,,1007.0,9.5,29051,Cole,"{""29051"": 83.52, ""29131"": 16.48}",Cole|Miller,29051|29131,False,False,America/Chicago
+65041,38.64088,-91.47712,Hermann,MO,Missouri,True,,5465.0,8.8,29073,Gasconade,"{""29073"": 70.78, ""29139"": 17.64, ""29219"": 11.58}",Gasconade|Montgomery|Warren,29073|29139|29219,False,False,America/Chicago
+65043,38.62563,-92.10774,Holts Summit,MO,Missouri,True,,10327.0,68.6,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65046,38.77658,-92.47889,Jamestown,MO,Missouri,True,,1548.0,8.1,29135,Moniteau,"{""29135"": 100}",Moniteau,29135,False,False,America/Chicago
+65047,38.15483,-92.57774,Kaiser,MO,Missouri,True,,1756.0,22.1,29131,Miller,"{""29131"": 76.44, ""29029"": 23.56}",Miller|Camden,29131|29029,False,False,America/Chicago
+65048,38.35745,-92.0365,Koeltztown,MO,Missouri,True,,131.0,2.4,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65049,38.20127,-92.67067,Lake Ozark,MO,Missouri,True,,7455.0,155.3,29029,Camden,"{""29029"": 58.06, ""29131"": 41.94}",Camden|Miller,29029|29131,False,False,America/Chicago
+65050,38.5305,-92.68867,Latham,MO,Missouri,True,,774.0,16.8,29135,Moniteau,"{""29135"": 100}",Moniteau,29135,False,False,America/Chicago
+65051,38.46519,-91.79758,Linn,MO,Missouri,True,,4668.0,14.2,29151,Osage,"{""29151"": 99.43, ""29073"": 0.57}",Osage|Gasconade,29151|29073,False,False,America/Chicago
+65052,38.05068,-92.65568,Linn Creek,MO,Missouri,True,,4028.0,32.8,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago
+65053,38.54132,-92.36966,Lohman,MO,Missouri,True,,1721.0,19.1,29051,Cole,"{""29051"": 100}",Cole,29051,False,False,America/Chicago
+65054,38.49103,-91.95003,Loose Creek,MO,Missouri,True,,1209.0,22.4,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65058,38.25777,-92.12946,Meta,MO,Missouri,True,,794.0,3.1,29125,Maries,"{""29125"": 68.93, ""29151"": 18.89, ""29131"": 11.69, ""29051"": 0.49}",Maries|Osage|Miller|Cole,29125|29151|29131|29051,False,False,America/Chicago
+65059,38.70365,-91.88447,Mokane,MO,Missouri,True,,1090.0,11.9,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65061,38.59773,-91.638,Morrison,MO,Missouri,True,,593.0,4.3,29073,Gasconade,"{""29073"": 53.65, ""29151"": 46.35}",Gasconade|Osage,29073|29151,False,False,America/Chicago
+65062,38.49486,-91.65059,Mount Sterling,MO,Missouri,True,,47.0,4.4,29151,Osage,"{""29151"": 65.38, ""29073"": 34.62}",Osage|Gasconade,29151|29073,False,False,America/Chicago
+65063,38.72635,-92.08743,New Bloomfield,MO,Missouri,True,,3423.0,15.4,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65064,38.40634,-92.47664,Olean,MO,Missouri,True,,666.0,15.1,29131,Miller,"{""29131"": 98.94, ""29135"": 1.06}",Miller|Moniteau,29131|29135,False,False,America/Chicago
+65065,38.13462,-92.66593,Osage Beach,MO,Missouri,True,,6944.0,162.3,29029,Camden,"{""29029"": 90.79, ""29131"": 9.21}",Camden|Miller,29029|29131,False,False,America/Chicago
+65066,38.3454,-91.48898,Owensville,MO,Missouri,True,,5932.0,13.1,29073,Gasconade,"{""29073"": 90.08, ""29055"": 9.92}",Gasconade|Crawford,29073|29055,False,False,America/Chicago
+65067,38.75365,-91.72369,Portland,MO,Missouri,True,,563.0,4.3,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65068,38.82757,-92.59909,Prairie Home,MO,Missouri,True,,798.0,6.3,29053,Cooper,"{""29053"": 95.11, ""29135"": 4.89}",Cooper|Moniteau,29053|29135,False,False,America/Chicago
+65069,38.75573,-91.5966,Rhineland,MO,Missouri,True,,506.0,2.7,29139,Montgomery,"{""29139"": 84.01, ""29027"": 15.99}",Montgomery|Callaway,29139|29027,False,False,America/Chicago
+65072,38.26635,-92.72178,Rocky Mount,MO,Missouri,True,,1757.0,35.6,29141,Morgan,"{""29141"": 90.16, ""29131"": 9.84}",Morgan|Miller,29141|29131,False,False,America/Chicago
+65074,38.47967,-92.47306,Russellville,MO,Missouri,True,,2787.0,11.4,29135,Moniteau,"{""29135"": 49.49, ""29051"": 48.52, ""29131"": 1.99}",Moniteau|Cole|Miller,29135|29051|29131,False,False,America/Chicago
+65075,38.24849,-92.26388,Saint Elizabeth,MO,Missouri,True,,1082.0,8.4,29131,Miller,"{""29131"": 100}",Miller,29131,False,False,America/Chicago
+65076,38.37064,-92.20376,Saint Thomas,MO,Missouri,True,,758.0,11.5,29051,Cole,"{""29051"": 67.86, ""29151"": 32.14}",Cole|Osage,29051|29151,False,False,America/Chicago
+65077,38.7691,-91.80305,Steedman,MO,Missouri,True,,392.0,5.6,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65078,38.38473,-93.01085,Stover,MO,Missouri,True,,3620.0,8.9,29141,Morgan,"{""29141"": 93.7, ""29015"": 6.3}",Morgan|Benton,29141|29015,False,False,America/Chicago
+65079,38.15283,-92.75225,Sunrise Beach,MO,Missouri,True,,4615.0,56.0,29029,Camden,"{""29029"": 97.14, ""29141"": 2.86}",Camden|Morgan,29029|29141,False,False,America/Chicago
+65080,38.63231,-91.97713,Tebbetts,MO,Missouri,True,,1155.0,10.8,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65081,38.64086,-92.78424,Tipton,MO,Missouri,True,,4013.0,21.0,29135,Moniteau,"{""29135"": 70.26, ""29053"": 21.41, ""29141"": 8.33}",Moniteau|Cooper|Morgan,29135|29053|29141,False,False,America/Chicago
+65082,38.22243,-92.42632,Tuscumbia,MO,Missouri,True,,1124.0,6.1,29131,Miller,"{""29131"": 100}",Miller,29131,False,False,America/Chicago
+65083,38.14318,-92.44089,Ulman,MO,Missouri,True,,231.0,6.3,29131,Miller,"{""29131"": 100}",Miller,29131,False,False,America/Chicago
+65084,38.43574,-92.85119,Versailles,MO,Missouri,True,,6534.0,15.0,29141,Morgan,"{""29141"": 98.75, ""29135"": 1.25}",Morgan|Moniteau,29141|29135,False,False,America/Chicago
+65085,38.40304,-92.07272,Westphalia,MO,Missouri,True,,1349.0,9.1,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago
+65101,38.49143,-92.15009,Jefferson City,MO,Missouri,True,,29665.0,87.5,29051,Cole,"{""29051"": 89.25, ""29151"": 5.88, ""29027"": 4.87}",Cole|Osage|Callaway,29051|29151|29027,False,False,America/Chicago
+65109,38.57365,-92.27791,Jefferson City,MO,Missouri,True,,39593.0,189.4,29051,Cole,"{""29051"": 100}",Cole,29051,False,False,America/Chicago
+65201,38.89595,-92.24365,Columbia,MO,Missouri,True,,47215.0,208.7,29019,Boone,"{""29019"": 98.09, ""29027"": 1.91}",Boone|Callaway,29019|29027,False,False,America/Chicago
+65202,39.01721,-92.29822,Columbia,MO,Missouri,True,,48027.0,131.2,29019,Boone,"{""29019"": 90.67, ""29027"": 9.33}",Boone|Callaway,29019|29027,False,False,America/Chicago
+65203,38.89497,-92.39928,Columbia,MO,Missouri,True,,58271.0,301.3,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago
+65215,38.95171,-92.32043,Columbia,MO,Missouri,True,,277.0,3000.0,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago
+65216,38.95818,-92.32629,Columbia,MO,Missouri,True,,,,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago
+65230,39.28715,-92.69218,Armstrong,MO,Missouri,True,,552.0,3.3,29089,Howard,"{""29089"": 78.67, ""29175"": 21.33}",Howard|Randolph,29089|29175,False,False,America/Chicago
+65231,39.01773,-91.90803,Auxvasse,MO,Missouri,True,,3277.0,10.2,29027,Callaway,"{""29027"": 97.51, ""29007"": 2.49}",Callaway|Audrain,29027|29007,False,False,America/Chicago
+65232,39.15901,-91.75516,Benton City,MO,Missouri,True,,207.0,3.4,29007,Audrain,"{""29007"": 100}",Audrain,29007,False,False,America/Chicago
+65233,38.91528,-92.72035,Boonville,MO,Missouri,True,,11785.0,32.1,29053,Cooper,"{""29053"": 100}",Cooper,29053,False,False,America/Chicago
+65236,39.44596,-93.08305,Brunswick,MO,Missouri,True,,1440.0,8.0,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+65237,38.78078,-92.78438,Bunceton,MO,Missouri,True,,1022.0,4.0,29053,Cooper,"{""29053"": 100}",Cooper,29053,False,False,America/Chicago
+65239,39.53312,-92.42334,Cairo,MO,Missouri,True,,1695.0,11.5,29175,Randolph,"{""29175"": 100}",Randolph,29175,False,False,America/Chicago
+65240,39.22085,-92.13026,Centralia,MO,Missouri,True,,9051.0,19.4,29007,Audrain,"{""29007"": 58.49, ""29019"": 36.66, ""29137"": 3.41, ""29027"": 1.44}",Audrain|Boone|Monroe|Callaway,29007|29019|29137|29027,False,False,America/Chicago
+65243,39.27654,-92.35207,Clark,MO,Missouri,True,,2383.0,9.4,29175,Randolph,"{""29175"": 41.62, ""29019"": 25.9, ""29007"": 24.22, ""29089"": 5.43, ""29137"": 2.83}",Randolph|Boone|Audrain|Howard|Monroe,29175|29019|29007|29089|29137,False,False,America/Chicago
+65244,39.4807,-92.65982,Clifton Hill,MO,Missouri,True,,352.0,2.0,29175,Randolph,"{""29175"": 100}",Randolph,29175,False,False,America/Chicago
+65246,39.37725,-93.00059,Dalton,MO,Missouri,True,,48.0,0.5,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+65247,39.63502,-92.47296,Excello,MO,Missouri,True,,897.0,8.1,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago
+65248,39.13952,-92.65894,Fayette,MO,Missouri,True,,4724.0,10.6,29089,Howard,"{""29089"": 100}",Howard,29089,False,False,America/Chicago
+65250,39.03524,-92.83991,Franklin,MO,Missouri,True,,473.0,3.5,29089,Howard,"{""29089"": 100}",Howard,29089,False,False,America/Chicago
+65251,38.84902,-91.97911,Fulton,MO,Missouri,True,,22347.0,40.5,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65254,39.21228,-92.85351,Glasgow,MO,Missouri,True,,1865.0,6.9,29089,Howard,"{""29089"": 67.26, ""29041"": 32.74}",Howard|Chariton,29089|29041,False,False,America/Chicago
+65255,39.09632,-92.23463,Hallsville,MO,Missouri,True,,4067.0,27.8,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago
+65256,39.12713,-92.45568,Harrisburg,MO,Missouri,True,,1452.0,10.1,29019,Boone,"{""29019"": 76.87, ""29089"": 23.13}",Boone|Howard,29019|29089,False,False,America/Chicago
+65257,39.28404,-92.53112,Higbee,MO,Missouri,True,,1756.0,7.9,29175,Randolph,"{""29175"": 60.47, ""29089"": 39.53}",Randolph|Howard,29175|29089,False,False,America/Chicago
+65258,39.52339,-92.13706,Holliday,MO,Missouri,True,,553.0,4.2,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago
+65259,39.47122,-92.56536,Huntsville,MO,Missouri,True,,3020.0,11.2,29175,Randolph,"{""29175"": 100}",Randolph,29175,False,False,America/Chicago
+65260,39.58806,-92.40227,Jacksonville,MO,Missouri,True,,386.0,3.0,29175,Randolph,"{""29175"": 68.95, ""29121"": 19.14, ""29137"": 11.91}",Randolph|Macon|Monroe,29175|29121|29137,False,False,America/Chicago
+65261,39.47542,-92.92388,Keytesville,MO,Missouri,True,,1104.0,4.3,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+65262,38.9548,-91.95285,Kingdom City,MO,Missouri,True,,768.0,6.4,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago
+65263,39.45244,-92.22062,Madison,MO,Missouri,True,,1471.0,4.5,29137,Monroe,"{""29137"": 97.09, ""29175"": 2.91}",Monroe|Randolph,29137|29175,False,False,America/Chicago
+65264,39.08852,-91.69544,Martinsburg,MO,Missouri,True,,954.0,6.0,29007,Audrain,"{""29007"": 71.2, ""29027"": 24.34, ""29139"": 4.46}",Audrain|Callaway|Montgomery,29007|29027|29139,False,False,America/Chicago
+65265,39.20531,-91.88728,Mexico,MO,Missouri,True,,14961.0,25.8,29007,Audrain,"{""29007"": 94.34, ""29137"": 5.66}",Audrain|Monroe,29007|29137,False,False,America/Chicago
+65270,39.41552,-92.39917,Moberly,MO,Missouri,True,,16914.0,57.7,29175,Randolph,"{""29175"": 94.06, ""29137"": 5.94}",Randolph|Monroe,29175|29137,False,False,America/Chicago
+65274,39.01342,-92.68321,New Franklin,MO,Missouri,True,,1904.0,14.8,29089,Howard,"{""29089"": 100}",Howard,29089,False,False,America/Chicago
+65275,39.45935,-91.99414,Paris,MO,Missouri,True,,2545.0,5.7,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago
+65276,38.84581,-92.95498,Pilot Grove,MO,Missouri,True,,1605.0,6.3,29053,Cooper,"{""29053"": 100}",Cooper,29053,False,False,America/Chicago
+65278,39.34217,-92.41251,Renick,MO,Missouri,True,,80.0,267.7,29175,Randolph,"{""29175"": 100}",Randolph,29175,False,False,America/Chicago
+65279,39.01284,-92.52062,Rocheport,MO,Missouri,True,,1621.0,12.0,29019,Boone,"{""29019"": 75.08, ""29089"": 24.92}",Boone|Howard,29019|29089,False,False,America/Chicago
+65280,39.23487,-91.75048,Rush Hill,MO,Missouri,True,,338.0,6.9,29007,Audrain,"{""29007"": 100}",Audrain,29007,False,False,America/Chicago
+65281,39.46431,-92.79099,Salisbury,MO,Missouri,True,,2729.0,5.4,29041,Chariton,"{""29041"": 98.41, ""29089"": 1.3, ""29175"": 0.29}",Chariton|Howard|Randolph,29041|29089|29175,False,False,America/Chicago
+65282,39.38975,-91.83302,Santa Fe,MO,Missouri,True,,114.0,4.0,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago
+65283,39.50811,-91.83449,Stoutsville,MO,Missouri,True,,654.0,4.6,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago
+65284,39.19658,-92.30361,Sturgeon,MO,Missouri,True,,2237.0,14.3,29019,Boone,"{""29019"": 85.67, ""29007"": 14.33}",Boone|Audrain,29019|29007,False,False,America/Chicago
+65285,39.2067,-92.02056,Thompson,MO,Missouri,True,,420.0,2.9,29007,Audrain,"{""29007"": 100}",Audrain,29007,False,False,America/Chicago
+65286,39.50616,-93.22059,Triplett,MO,Missouri,True,,130.0,1.2,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago
+65287,38.88443,-92.51953,Wooldridge,MO,Missouri,True,,284.0,5.1,29135,Moniteau,"{""29135"": 54.88, ""29053"": 45.12}",Moniteau|Cooper,29135|29053,False,False,America/Chicago
+65301,38.69922,-93.22104,Sedalia,MO,Missouri,True,,34335.0,59.3,29159,Pettis,"{""29159"": 99.34, ""29053"": 0.66}",Pettis|Cooper,29159|29053,False,False,America/Chicago
+65305,38.72944,-93.55446,Whiteman Air Force Base,MO,Missouri,True,,4052.0,273.1,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago
+65320,39.06606,-92.94415,Arrow Rock,MO,Missouri,True,,37.0,26.8,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago
+65321,39.08604,-93.4526,Blackburn,MO,Missouri,True,,357.0,3.6,29195,Saline,"{""29195"": 86.26, ""29107"": 13.74}",Saline|Lafayette,29195|29107,False,False,America/Chicago
+65322,38.9729,-92.95535,Blackwater,MO,Missouri,True,,632.0,4.0,29053,Cooper,"{""29053"": 100}",Cooper,29053,False,False,America/Chicago
+65323,38.45289,-93.6212,Calhoun,MO,Missouri,True,,864.0,6.5,29083,Henry,"{""29083"": 100}",Henry,29083,False,False,America/Chicago
+65324,38.11104,-92.99997,Climax Springs,MO,Missouri,True,,1130.0,6.9,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago
+65325,38.43239,-93.18535,Cole Camp,MO,Missouri,True,,3308.0,8.9,29015,Benton,"{""29015"": 98.63, ""29159"": 1.02, ""29141"": 0.35}",Benton|Pettis|Morgan,29015|29159|29141,False,False,America/Chicago
+65326,38.16271,-93.1458,Edwards,MO,Missouri,True,,1665.0,4.3,29015,Benton,"{""29015"": 81.2, ""29029"": 16.83, ""29085"": 1.97}",Benton|Camden|Hickory,29015|29029|29085,False,False,America/Chicago
+65327,38.97525,-93.48909,Emma,MO,Missouri,True,,205.0,70.4,29195,Saline,"{""29195"": 74.45, ""29107"": 25.55}",Saline|Lafayette,29195|29107,False,False,America/Chicago
+65329,38.60937,-92.96132,Florence,MO,Missouri,True,,358.0,3.7,29141,Morgan,"{""29141"": 100}",Morgan,29141,False,False,America/Chicago
+65330,39.22096,-92.94945,Gilliam,MO,Missouri,True,,494.0,3.7,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago
+65332,38.61973,-93.41324,Green Ridge,MO,Missouri,True,,1681.0,7.8,29159,Pettis,"{""29159"": 97.07, ""29101"": 2.93}",Pettis|Johnson,29159|29101,False,False,America/Chicago
+65333,38.90687,-93.30724,Houstonia,MO,Missouri,True,,543.0,3.2,29159,Pettis,"{""29159"": 85.06, ""29195"": 14.94}",Pettis|Saline,29159|29195,False,False,America/Chicago
+65334,38.8348,-93.24558,Hughesville,MO,Missouri,True,,1082.0,6.4,29159,Pettis,"{""29159"": 100}",Pettis,29159,False,False,America/Chicago
+65335,38.51338,-93.32667,Ionia,MO,Missouri,True,,135.0,3.0,29159,Pettis,"{""29159"": 54.74, ""29015"": 45.26}",Pettis|Benton,29159|29015,False,False,America/Chicago
+65336,38.78169,-93.56241,Knob Noster,MO,Missouri,True,,6280.0,20.8,29101,Johnson,"{""29101"": 93.38, ""29159"": 6.62}",Johnson|Pettis,29101|29159,False,False,America/Chicago
+65337,38.79202,-93.42573,La Monte,MO,Missouri,True,,1787.0,7.9,29159,Pettis,"{""29159"": 100}",Pettis,29159,False,False,America/Chicago
+65338,38.36227,-93.29523,Lincoln,MO,Missouri,True,,3099.0,10.1,29015,Benton,"{""29015"": 100}",Benton,29015,False,False,America/Chicago
+65339,39.19407,-93.37671,Malta Bend,MO,Missouri,True,,382.0,1.6,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago
+65340,39.09149,-93.18041,Marshall,MO,Missouri,True,,15596.0,23.7,29195,Saline,"{""29195"": 96.15, ""29159"": 3.85}",Saline|Pettis,29195|29159,False,False,America/Chicago
+65344,39.31174,-93.1976,Miami,MO,Missouri,True,,177.0,0.9,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago
+65345,38.54111,-93.1254,Mora,MO,Missouri,True,,349.0,3.3,29015,Benton,"{""29015"": 42.21, ""29159"": 39.77, ""29141"": 18.02}",Benton|Pettis|Morgan,29015|29159|29141,False,False,America/Chicago
+65347,38.98453,-93.0495,Nelson,MO,Missouri,True,,932.0,4.6,29195,Saline,"{""29195"": 71.53, ""29159"": 22.97, ""29053"": 5.5}",Saline|Pettis|Cooper,29195|29159|29053,False,False,America/Chicago
+65348,38.70963,-92.98344,Otterville,MO,Missouri,True,,1346.0,7.3,29053,Cooper,"{""29053"": 70.38, ""29141"": 26.61, ""29159"": 3.01}",Cooper|Morgan|Pettis,29053|29141|29159,False,False,America/Chicago
+65349,39.22863,-93.05581,Slater,MO,Missouri,True,,2568.0,10.2,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago
+65350,38.65557,-93.10038,Smithton,MO,Missouri,True,,2014.0,12.2,29159,Pettis,"{""29159"": 86.46, ""29141"": 13.19, ""29053"": 0.35}",Pettis|Morgan|Cooper,29159|29141|29053,False,False,America/Chicago
+65351,38.98445,-93.38628,Sweet Springs,MO,Missouri,True,,2406.0,8.7,29195,Saline,"{""29195"": 82.51, ""29159"": 16.0, ""29101"": 1.49}",Saline|Pettis|Johnson,29195|29159|29101,False,False,America/Chicago
+65354,38.64841,-92.88786,Syracuse,MO,Missouri,True,,1196.0,18.7,29141,Morgan,"{""29141"": 85.89, ""29053"": 14.11}",Morgan|Cooper,29141|29053,False,False,America/Chicago
+65355,38.22137,-93.37144,Warsaw,MO,Missouri,True,,10707.0,19.1,29015,Benton,"{""29015"": 98.48, ""29185"": 0.91, ""29085"": 0.61}",Benton|St. Clair|Hickory,29015|29185|29085,False,False,America/Chicago
+65360,38.51989,-93.51334,Windsor,MO,Missouri,True,,4932.0,12.1,29083,Henry,"{""29083"": 32.44, ""29015"": 25.42, ""29159"": 21.28, ""29101"": 20.86}",Henry|Benton|Pettis|Johnson,29083|29015|29159|29101,False,False,America/Chicago
+65401,37.90691,-91.76374,Rolla,MO,Missouri,True,,33502.0,50.0,29161,Phelps,"{""29161"": 83.01, ""29065"": 12.72, ""29125"": 4.27}",Phelps|Dent|Maries,29161|29065|29125,False,False,America/Chicago
+65409,37.95103,-91.77948,Rolla,MO,Missouri,True,,,,29161,Phelps,"{""29161"": 100}",Phelps,29161,False,False,America/Chicago
+65436,37.62239,-91.9726,Beulah,MO,Missouri,True,,18.0,0.3,29161,Phelps,"{""29161"": 95.23, ""29215"": 4.77}",Phelps|Texas,29161|29215,False,False,America/Chicago
+65438,36.9375,-91.50739,Birch Tree,MO,Missouri,True,,2681.0,3.5,29203,Shannon,"{""29203"": 67.19, ""29149"": 32.81}",Shannon|Oregon,29203|29149,False,False,America/Chicago
+65439,37.65718,-91.09535,Bixby,MO,Missouri,True,,140.0,1.6,29093,Iron,"{""29093"": 100}",Iron,29093,False,False,America/Chicago
+65440,37.60388,-91.18539,Boss,MO,Missouri,True,,584.0,2.1,29065,Dent,"{""29065"": 54.45, ""29179"": 40.2, ""29093"": 5.35}",Dent|Reynolds|Iron,29065|29179|29093,False,False,America/Chicago
+65441,38.09394,-91.15842,Bourbon,MO,Missouri,True,,5817.0,13.2,29055,Crawford,"{""29055"": 72.63, ""29221"": 26.01, ""29071"": 1.36}",Crawford|Washington|Franklin,29055|29221|29071,False,False,America/Chicago
+65443,38.13089,-92.0918,Brinktown,MO,Missouri,True,,95.0,3.4,29125,Maries,"{""29125"": 100}",Maries,29125,False,False,America/Chicago
+65444,37.37772,-92.06308,Bucyrus,MO,Missouri,True,,907.0,4.2,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65446,37.80902,-91.26999,Cherryville,MO,Missouri,True,,556.0,6.0,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago
+65449,37.84745,-91.48722,Cook Sta,MO,Missouri,True,,230.0,2.0,29055,Crawford,"{""29055"": 91.52, ""29161"": 8.48}",Crawford|Phelps,29055|29161,False,False,America/Chicago
+65452,37.96271,-92.26702,Crocker,MO,Missouri,True,,2527.0,10.7,29169,Pulaski,"{""29169"": 93.25, ""29131"": 6.75}",Pulaski|Miller,29169|29131,False,False,America/Chicago
+65453,38.10706,-91.42509,Cuba,MO,Missouri,True,,9220.0,24.9,29055,Crawford,"{""29055"": 88.57, ""29073"": 11.43}",Crawford|Gasconade,29055|29073,False,False,America/Chicago
+65456,37.78048,-91.20267,Davisville,MO,Missouri,True,,512.0,3.2,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago
+65457,37.82647,-92.05047,Devils Elbow,MO,Missouri,True,,243.0,7.3,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago
+65459,38.02919,-92.08337,Dixon,MO,Missouri,True,,7310.0,12.2,29125,Maries,"{""29125"": 53.28, ""29169"": 35.8, ""29161"": 5.57, ""29131"": 5.35}",Maries|Pulaski|Phelps|Miller,29125|29169|29161|29131,False,False,America/Chicago
+65461,37.68406,-92.02379,Duke,MO,Missouri,True,,111.0,1.6,29169,Pulaski,"{""29169"": 51.32, ""29161"": 48.68}",Pulaski|Phelps,29169|29161,False,False,America/Chicago
+65462,37.68654,-91.86417,Edgar Springs,MO,Missouri,True,,1273.0,5.1,29161,Phelps,"{""29161"": 84.78, ""29065"": 15.22}",Phelps|Dent,29161|29065,False,False,America/Chicago
+65463,37.84536,-92.7811,Eldridge,MO,Missouri,True,,1383.0,8.1,29105,Laclede,"{""29105"": 92.77, ""29029"": 3.84, ""29059"": 3.39}",Laclede|Camden|Dallas,29105|29029|29059,False,False,America/Chicago
+65464,37.18353,-91.89236,Elk Creek,MO,Missouri,True,,624.0,4.3,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65466,37.2113,-91.38645,Eminence,MO,Missouri,True,,2031.0,4.5,29203,Shannon,"{""29203"": 100}",Shannon,29203,False,False,America/Chicago
+65468,37.25434,-91.79824,Eunice,MO,Missouri,True,,0.0,0.0,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65470,37.54872,-92.40287,Falcon,MO,Missouri,True,,1250.0,4.5,29105,Laclede,"{""29105"": 88.02, ""29229"": 11.98}",Laclede|Wright,29105|29229,False,False,America/Chicago
+65473,37.71215,-92.14811,Fort Leonard Wood,MO,Missouri,True,,14759.0,54.0,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago
+65479,37.3368,-91.63382,Hartshorn,MO,Missouri,True,,143.0,0.6,29203,Shannon,"{""29203"": 60.54, ""29215"": 39.46}",Shannon|Texas,29203|29215,False,False,America/Chicago
+65483,37.30463,-91.94911,Houston,MO,Missouri,True,,4534.0,16.4,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65484,37.36348,-92.22052,Huggins,MO,Missouri,True,,68.0,0.9,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65486,38.10007,-92.3107,Iberia,MO,Missouri,True,,3669.0,11.5,29131,Miller,"{""29131"": 100}",Miller,29131,False,False,America/Chicago
+65501,37.47319,-91.5549,Jadwin,MO,Missouri,True,,127.0,2.0,29065,Dent,"{""29065"": 100}",Dent,29065,False,False,America/Chicago
+65529,37.92912,-91.98926,Jerome,MO,Missouri,True,,322.0,90.3,29161,Phelps,"{""29161"": 100}",Phelps,29161,False,False,America/Chicago
+65534,37.70236,-92.27656,Laquey,MO,Missouri,True,,680.0,6.9,29169,Pulaski,"{""29169"": 78.94, ""29105"": 21.06}",Pulaski|Laclede,29169|29105,False,False,America/Chicago
+65535,38.07194,-91.2752,Leasburg,MO,Missouri,True,,1463.0,12.5,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago
+65536,37.68942,-92.64974,Lebanon,MO,Missouri,True,,29288.0,28.1,29105,Laclede,"{""29105"": 93.86, ""29059"": 4.66, ""29029"": 1.48}",Laclede|Dallas|Camden,29105|29059|29029,False,False,America/Chicago
+65541,37.64401,-91.75624,Lenox,MO,Missouri,True,,293.0,4.7,29065,Dent,"{""29065"": 100}",Dent,29065,False,False,America/Chicago
+65542,37.50497,-91.88432,Licking,MO,Missouri,True,,6587.0,11.7,29215,Texas,"{""29215"": 91.41, ""29065"": 7.65, ""29161"": 0.94}",Texas|Dent|Phelps,29215|29065|29161,False,False,America/Chicago
+65543,37.47172,-92.3045,Lynchburg,MO,Missouri,True,,273.0,1.8,29229,Wright,"{""29229"": 53.35, ""29105"": 46.65}",Wright|Laclede,29229|29105,False,False,America/Chicago
+65548,37.00545,-91.71131,Mountain View,MO,Missouri,True,,6268.0,12.9,29091,Howell,"{""29091"": 60.54, ""29203"": 31.7, ""29215"": 7.76}",Howell|Shannon|Texas,29091|29203|29215,False,False,America/Chicago
+65550,37.84425,-91.9433,Newburg,MO,Missouri,True,,2624.0,5.8,29161,Phelps,"{""29161"": 92.19, ""29169"": 7.81}",Phelps|Pulaski,29161|29169,False,False,America/Chicago
+65552,37.53842,-92.16701,Plato,MO,Missouri,True,,2268.0,6.1,29215,Texas,"{""29215"": 77.69, ""29169"": 12.18, ""29105"": 10.13}",Texas|Pulaski|Laclede,29215|29169|29105,False,False,America/Chicago
+65555,37.35906,-91.77723,Raymondville,MO,Missouri,True,,1319.0,6.9,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65556,37.83582,-92.40541,Richland,MO,Missouri,True,,5833.0,10.1,29169,Pulaski,"{""29169"": 44.2, ""29029"": 29.05, ""29105"": 26.75}",Pulaski|Camden|Laclede,29169|29029|29105,False,False,America/Chicago
+65557,37.51778,-92.14024,Roby,MO,Missouri,True,,97.0,4.5,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65559,38.0181,-91.60664,Saint James,MO,Missouri,True,,8557.0,17.4,29161,Phelps,"{""29161"": 78.8, ""29125"": 17.84, ""29055"": 2.78, ""29073"": 0.58}",Phelps|Maries|Crawford|Gasconade,29161|29125|29055|29073,False,False,America/Chicago
+65560,37.59609,-91.49943,Salem,MO,Missouri,True,,14576.0,8.5,29065,Dent,"{""29065"": 79.17, ""29203"": 12.33, ""29055"": 5.94, ""29161"": 1.76, ""29215"": 0.8}",Dent|Shannon|Crawford|Phelps|Texas,29065|29203|29055|29161|29215,False,False,America/Chicago
+65564,37.23476,-91.95781,Solo,MO,Missouri,True,,107.0,2.6,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65565,37.90573,-91.23841,Steelville,MO,Missouri,True,,4728.0,6.6,29055,Crawford,"{""29055"": 81.51, ""29221"": 10.68, ""29093"": 7.81}",Crawford|Washington|Iron,29055|29221|29093,False,False,America/Chicago
+65566,37.76618,-91.14689,Viburnum,MO,Missouri,True,,835.0,28.3,29055,Crawford,"{""29055"": 64.38, ""29093"": 35.62}",Crawford|Iron,29055|29093,False,False,America/Chicago
+65567,37.85594,-92.53699,Stoutland,MO,Missouri,True,,1774.0,10.7,29029,Camden,"{""29029"": 79.47, ""29105"": 20.53}",Camden|Laclede,29029|29105,False,False,America/Chicago
+65570,37.45702,-92.10115,Success,MO,Missouri,True,,673.0,9.2,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65571,37.18501,-91.64546,Summersville,MO,Missouri,True,,1864.0,3.9,29215,Texas,"{""29215"": 51.2, ""29203"": 48.8}",Texas|Shannon,29215|29203,False,False,America/Chicago
+65580,38.11656,-91.78617,Vichy,MO,Missouri,True,,465.0,3.1,29125,Maries,"{""29125"": 100}",Maries,29125,False,False,America/Chicago
+65582,38.19177,-91.92463,Vienna,MO,Missouri,True,,2458.0,7.7,29125,Maries,"{""29125"": 97.39, ""29151"": 2.61}",Maries|Osage,29125|29151,False,False,America/Chicago
+65583,37.82171,-92.2541,Waynesville,MO,Missouri,True,,12470.0,76.1,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago
+65584,37.82901,-92.13086,Saint Robert,MO,Missouri,True,,11986.0,190.4,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago
+65586,37.86483,-91.43294,Wesco,MO,Missouri,True,,81.0,9.2,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago
+65588,36.96196,-91.29987,Winona,MO,Missouri,True,,2219.0,3.7,29203,Shannon,"{""29203"": 67.58, ""29149"": 32.42}",Shannon|Oregon,29203|29149,False,False,America/Chicago
+65589,37.23729,-91.82747,Yukon,MO,Missouri,True,,76.0,2.8,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago
+65590,37.61687,-92.95008,Long Lane,MO,Missouri,True,,971.0,4.7,29059,Dallas,"{""29059"": 100}",Dallas,29059,False,False,America/Chicago
+65591,37.97941,-92.59076,Montreal,MO,Missouri,True,,1619.0,10.3,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago
+65601,37.53155,-93.5869,Aldrich,MO,Missouri,True,,470.0,3.4,29167,Polk,"{""29167"": 64.64, ""29057"": 34.68, ""29039"": 0.68}",Polk|Dade|Cedar,29167|29057|29039,False,False,America/Chicago
+65603,37.54574,-93.86072,Arcola,MO,Missouri,True,,143.0,2.8,29057,Dade,"{""29057"": 100}",Dade,29057,False,False,America/Chicago
+65604,37.27348,-93.60367,Ash Grove,MO,Missouri,True,,3223.0,14.3,29077,Greene,"{""29077"": 59.15, ""29109"": 33.06, ""29057"": 7.79}",Greene|Lawrence|Dade,29077|29109|29057,False,False,America/Chicago
+65605,36.88408,-93.69132,Aurora,MO,Missouri,True,,12325.0,29.3,29009,Barry,"{""29009"": 56.65, ""29109"": 42.16, ""29209"": 1.19}",Barry|Lawrence|Stone,29009|29109|29209,False,False,America/Chicago
+65606,36.69634,-91.3586,Alton,MO,Missouri,True,,2962.0,5.4,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago
+65608,36.90456,-92.66662,Ava,MO,Missouri,True,,9334.0,8.9,29067,Douglas,"{""29067"": 92.97, ""29213"": 3.6, ""29153"": 3.43}",Douglas|Taney|Ozark,29067|29213|29153,False,False,America/Chicago
+65609,36.52593,-92.1609,Bakersfield,MO,Missouri,True,,865.0,10.5,29153,Ozark,"{""29153"": 71.58, ""29091"": 28.42}",Ozark|Howell,29153|29091,False,False,America/Chicago
+65610,37.03897,-93.52986,Billings,MO,Missouri,True,,4838.0,21.6,29043,Christian,"{""29043"": 61.2, ""29209"": 23.97, ""29077"": 13.93, ""29109"": 0.9}",Christian|Stone|Greene|Lawrence,29043|29209|29077|29109,False,False,America/Chicago
+65611,36.54339,-93.36127,Blue Eye,MO,Missouri,True,,2493.0,33.7,29209,Stone,"{""29209"": 99.32, ""29213"": 0.68}",Stone|Taney,29209|29213,False,False,America/Chicago
+65612,37.21897,-93.54694,Bois D Arc,MO,Missouri,True,,1775.0,19.1,29077,Greene,"{""29077"": 89.92, ""29109"": 10.08}",Greene|Lawrence,29077|29109,False,False,America/Chicago
+65613,37.63557,-93.39205,Bolivar,MO,Missouri,True,,18310.0,38.2,29167,Polk,"{""29167"": 100}",Polk,29167,False,False,America/Chicago
+65614,36.73739,-92.88684,Bradleyville,MO,Missouri,True,,492.0,1.8,29213,Taney,"{""29213"": 92.81, ""29043"": 7.19}",Taney|Christian,29213|29043,False,False,America/Chicago
+65616,36.67133,-93.24887,Branson,MO,Missouri,True,,27423.0,138.5,29213,Taney,"{""29213"": 87.72, ""29209"": 12.28}",Taney|Stone,29213|29209,False,False,America/Chicago
+65617,37.4376,-93.34063,Brighton,MO,Missouri,True,,1571.0,18.7,29167,Polk,"{""29167"": 63.79, ""29077"": 36.21}",Polk|Greene,29167|29077,False,False,America/Chicago
+65618,36.75157,-92.38641,Brixey,MO,Missouri,True,,133.0,2.2,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65619,37.12312,-93.38864,Brookline,MO,Missouri,True,,7826.0,157.2,29077,Greene,"{""29077"": 82.55, ""29043"": 17.45}",Greene|Christian,29077|29043,False,False,America/Chicago
+65620,37.02045,-92.95594,Bruner,MO,Missouri,True,,227.0,5.7,29043,Christian,"{""29043"": 100}",Christian,29043,False,False,America/Chicago
+65622,37.6337,-93.10775,Buffalo,MO,Missouri,True,,8305.0,21.2,29059,Dallas,"{""29059"": 89.57, ""29167"": 10.43}",Dallas|Polk,29059|29167,False,False,America/Chicago
+65623,36.7489,-93.90659,Butterfield,MO,Missouri,True,,12.0,234.1,29009,Barry,"{""29009"": 100}",Barry,29009,False,False,America/Chicago
+65624,36.73276,-93.56241,Cape Fair,MO,Missouri,True,,1456.0,9.3,29209,Stone,"{""29209"": 54.21, ""29009"": 45.79}",Stone|Barry,29209|29009,False,False,America/Chicago
+65625,36.67635,-93.8174,Cassville,MO,Missouri,True,,8951.0,22.0,29009,Barry,"{""29009"": 100}",Barry,29009,False,False,America/Chicago
+65626,36.59088,-92.11697,Caulfield,MO,Missouri,True,,2057.0,7.6,29153,Ozark,"{""29153"": 50.43, ""29091"": 49.57}",Ozark|Howell,29153|29091,False,False,America/Chicago
+65627,36.56247,-93.00613,Cedarcreek,MO,Missouri,True,,785.0,6.4,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65629,36.89371,-93.00294,Chadwick,MO,Missouri,True,,668.0,4.1,29043,Christian,"{""29043"": 100}",Christian,29043,False,False,America/Chicago
+65630,36.83463,-93.2204,Chestnutridge,MO,Missouri,True,,318.0,10.6,29043,Christian,"{""29043"": 98.14, ""29213"": 1.86}",Christian|Taney,29043|29213,False,False,America/Chicago
+65631,37.00594,-93.4232,Clever,MO,Missouri,True,,6563.0,60.2,29043,Christian,"{""29043"": 66.82, ""29209"": 33.18}",Christian|Stone,29043|29209,False,False,America/Chicago
+65632,37.49961,-92.81612,Conway,MO,Missouri,True,,2180.0,7.5,29105,Laclede,"{""29105"": 46.8, ""29225"": 30.11, ""29059"": 23.09}",Laclede|Webster|Dallas,29105|29225|29059,False,False,America/Chicago
+65633,36.89841,-93.5346,Crane,MO,Missouri,True,,3832.0,17.7,29209,Stone,"{""29209"": 81.13, ""29009"": 18.87}",Stone|Barry,29209|29009,False,False,America/Chicago
+65634,38.02355,-93.18827,Cross Timbers,MO,Missouri,True,,674.0,3.5,29085,Hickory,"{""29085"": 97.56, ""29015"": 2.07, ""29029"": 0.37}",Hickory|Benton|Camden,29085|29015|29029,False,False,America/Chicago
+65635,37.53487,-93.71812,Dadeville,MO,Missouri,True,,513.0,4.9,29057,Dade,"{""29057"": 72.78, ""29039"": 27.22}",Dade|Cedar,29057|29039,False,False,America/Chicago
+65637,36.76964,-92.20371,Dora,MO,Missouri,True,,1111.0,4.5,29153,Ozark,"{""29153"": 61.94, ""29067"": 28.69, ""29091"": 9.37}",Ozark|Douglas|Howell,29153|29067|29091,False,False,America/Chicago
+65638,36.84319,-92.32418,Drury,MO,Missouri,True,,614.0,4.5,29067,Douglas,"{""29067"": 80.64, ""29153"": 19.36}",Douglas|Ozark,29067|29153,False,False,America/Chicago
+65640,37.69956,-93.57165,Dunnegan,MO,Missouri,True,,1148.0,11.3,29167,Polk,"{""29167"": 74.17, ""29039"": 25.83}",Polk|Cedar,29167|29039,False,False,America/Chicago
+65641,36.5481,-93.76198,Eagle Rock,MO,Missouri,True,,947.0,6.5,29009,Barry,"{""29009"": 100}",Barry,29009,False,False,America/Chicago
+65644,37.50999,-93.03625,Elkland,MO,Missouri,True,,1898.0,9.0,29059,Dallas,"{""29059"": 65.19, ""29225"": 34.81}",Dallas|Webster,29059|29225,False,False,America/Chicago
+65646,37.33511,-93.7039,Everton,MO,Missouri,True,,1757.0,6.6,29057,Dade,"{""29057"": 75.6, ""29109"": 24.4}",Dade|Lawrence,29057|29109,False,False,America/Chicago
+65647,36.68968,-94.00624,Exeter,MO,Missouri,True,,2801.0,19.9,29009,Barry,"{""29009"": 93.11, ""29119"": 6.89}",Barry|McDonald,29009|29119,False,False,America/Chicago
+65648,37.40297,-93.15402,Fair Grove,MO,Missouri,True,,5801.0,28.6,29077,Greene,"{""29077"": 58.22, ""29059"": 26.1, ""29225"": 8.11, ""29167"": 7.57}",Greene|Dallas|Webster|Polk,29077|29059|29225|29167,False,False,America/Chicago
+65649,37.621,-93.61839,Fair Play,MO,Missouri,True,,1786.0,10.3,29167,Polk,"{""29167"": 50.32, ""29039"": 49.68}",Polk|Cedar,29167|29039,False,False,America/Chicago
+65650,37.81388,-93.44749,Flemington,MO,Missouri,True,,1837.0,9.2,29085,Hickory,"{""29085"": 53.58, ""29167"": 46.42}",Hickory|Polk,29085|29167,False,False,America/Chicago
+65652,37.14264,-92.94642,Fordland,MO,Missouri,True,,3823.0,20.7,29225,Webster,"{""29225"": 84.86, ""29043"": 13.49, ""29067"": 1.65}",Webster|Christian|Douglas,29225|29043|29067,False,False,America/Chicago
+65653,36.78118,-93.11631,Forsyth,MO,Missouri,True,,5824.0,35.3,29213,Taney,"{""29213"": 58.96, ""29043"": 41.04}",Taney|Christian,29213|29043,False,False,America/Chicago
+65654,37.02164,-93.8975,Freistatt,MO,Missouri,True,,327.0,612.7,29109,Lawrence,"{""29109"": 100}",Lawrence,29109,False,False,America/Chicago
+65655,36.60262,-92.42379,Gainesville,MO,Missouri,True,,2555.0,4.9,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65656,36.79552,-93.46626,Galena,MO,Missouri,True,,5100.0,17.2,29209,Stone,"{""29209"": 97.52, ""29009"": 2.48}",Stone|Barry,29209|29009,False,False,America/Chicago
+65657,36.83934,-93.01952,Garrison,MO,Missouri,True,,402.0,7.7,29043,Christian,"{""29043"": 100}",Christian,29043,False,False,America/Chicago
+65658,36.5426,-93.63984,Golden,MO,Missouri,True,,1364.0,26.4,29009,Barry,"{""29009"": 100}",Barry,29009,False,False,America/Chicago
+65660,37.32624,-92.26998,Graff,MO,Missouri,True,,222.0,3.2,29229,Wright,"{""29229"": 81.68, ""29215"": 18.32}",Wright|Texas,29229|29215,False,False,America/Chicago
+65661,37.46095,-93.82722,Greenfield,MO,Missouri,True,,2440.0,10.9,29057,Dade,"{""29057"": 100}",Dade,29057,False,False,America/Chicago
+65662,37.43421,-92.5698,Grovespring,MO,Missouri,True,,1077.0,5.5,29229,Wright,"{""29229"": 77.36, ""29105"": 22.64}",Wright|Laclede,29229|29105,False,False,America/Chicago
+65663,37.62732,-93.24486,Half Way,MO,Missouri,True,,2575.0,8.7,29167,Polk,"{""29167"": 100}",Polk,29167,False,False,America/Chicago
+65664,37.19728,-93.61732,Halltown,MO,Missouri,True,,141.0,69.7,29109,Lawrence,"{""29109"": 100}",Lawrence,29109,False,False,America/Chicago
+65666,36.57829,-92.36065,Hardenville,MO,Missouri,True,,,,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65667,37.30574,-92.51435,Hartville,MO,Missouri,True,,3446.0,7.3,29229,Wright,"{""29229"": 100}",Wright,29229,False,False,America/Chicago
+65668,37.9364,-93.29177,Hermitage,MO,Missouri,True,,1875.0,20.7,29085,Hickory,"{""29085"": 100}",Hickory,29085,False,False,America/Chicago
+65669,36.91339,-93.30137,Highlandville,MO,Missouri,True,,2067.0,19.5,29043,Christian,"{""29043"": 76.07, ""29209"": 23.93}",Christian|Stone,29043|29209,False,False,America/Chicago
+65672,36.56446,-93.21351,Hollister,MO,Missouri,True,,9631.0,65.3,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65674,37.78872,-93.61018,Humansville,MO,Missouri,True,,3104.0,12.5,29167,Polk,"{""29167"": 42.95, ""29039"": 38.19, ""29085"": 11.33, ""29185"": 7.53}",Polk|Cedar|Hickory|St. Clair,29167|29039|29085|29185,False,False,America/Chicago
+65675,36.93101,-93.49245,Hurley,MO,Missouri,True,,,,29209,Stone,"{""29209"": 100}",Stone,29209,False,False,America/Chicago
+65676,36.58187,-92.60531,Isabella,MO,Missouri,True,,443.0,9.2,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65679,36.57738,-93.10407,Kirbyville,MO,Missouri,True,,2958.0,22.3,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65680,36.64518,-92.98551,Kissee Mills,MO,Missouri,True,,992.0,9.6,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65681,36.55211,-93.46658,Lampe,MO,Missouri,True,,1968.0,21.6,29209,Stone,"{""29209"": 100}",Stone,29209,False,False,America/Chicago
+65682,37.41722,-93.97293,Lockwood,MO,Missouri,True,,2123.0,5.6,29057,Dade,"{""29057"": 94.57, ""29109"": 5.43}",Dade|Lawrence,29057|29109,False,False,America/Chicago
+65685,37.75642,-93.1511,Louisburg,MO,Missouri,True,,800.0,8.7,29059,Dallas,"{""29059"": 80.38, ""29167"": 19.62}",Dallas|Polk,29059|29167,False,False,America/Chicago
+65686,36.62275,-93.43625,Kimberling City,MO,Missouri,True,,5351.0,211.3,29209,Stone,"{""29209"": 100}",Stone,29209,False,False,America/Chicago
+65688,36.64928,-91.69328,Brandsville,MO,Missouri,True,,,,29091,Howell,"{""29091"": 100}",Howell,29091,False,False,America/Chicago
+65689,37.13665,-92.09794,Cabool,MO,Missouri,True,,5309.0,11.6,29215,Texas,"{""29215"": 76.22, ""29067"": 18.9, ""29091"": 4.88}",Texas|Douglas|Howell,29215|29067|29091,False,False,America/Chicago
+65690,36.5856,-91.26657,Couch,MO,Missouri,True,,169.0,2.2,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago
+65692,36.61801,-91.65592,Koshkonong,MO,Missouri,True,,1269.0,4.8,29149,Oregon,"{""29149"": 58.43, ""29091"": 41.57}",Oregon|Howell,29149|29091,False,False,America/Chicago
+65702,37.05726,-92.488,Macomb,MO,Missouri,True,,339.0,4.6,29067,Douglas,"{""29067"": 55.47, ""29229"": 44.53}",Douglas|Wright,29067|29229,False,False,America/Chicago
+65704,37.12657,-92.58323,Mansfield,MO,Missouri,True,,3600.0,11.1,29229,Wright,"{""29229"": 74.87, ""29067"": 25.13}",Wright|Douglas,29229|29067,False,False,America/Chicago
+65705,37.02607,-93.60835,Marionville,MO,Missouri,True,,4114.0,38.3,29109,Lawrence,"{""29109"": 70.96, ""29209"": 29.04}",Lawrence|Stone,29109|29209,False,False,America/Chicago
+65706,37.3224,-92.89421,Marshfield,MO,Missouri,True,,17263.0,37.0,29225,Webster,"{""29225"": 99.85, ""29077"": 0.15}",Webster|Greene,29225|29077,False,False,America/Chicago
+65707,37.22862,-93.84574,Miller,MO,Missouri,True,,1917.0,7.8,29109,Lawrence,"{""29109"": 100}",Lawrence,29109,False,False,America/Chicago
+65708,36.91048,-93.90899,Monett,MO,Missouri,True,,13202.0,59.1,29009,Barry,"{""29009"": 69.04, ""29109"": 30.96}",Barry|Lawrence,29009|29109,False,False,America/Chicago
+65710,37.48707,-93.42099,Morrisville,MO,Missouri,True,,1054.0,13.3,29167,Polk,"{""29167"": 100}",Polk,29167,False,False,America/Chicago
+65711,37.17355,-92.27747,Mountain Grove,MO,Missouri,True,,9160.0,12.1,29229,Wright,"{""29229"": 51.68, ""29215"": 27.79, ""29067"": 20.53}",Wright|Texas|Douglas,29229|29215|29067,False,False,America/Chicago
+65712,37.10964,-93.80645,Mount Vernon,MO,Missouri,True,,9119.0,29.3,29109,Lawrence,"{""29109"": 100}",Lawrence,29109,False,False,America/Chicago
+65713,37.40403,-92.73971,Niangua,MO,Missouri,True,,2605.0,9.0,29225,Webster,"{""29225"": 72.57, ""29229"": 27.43}",Webster|Wright,29225|29229,False,False,America/Chicago
+65714,37.03801,-93.31976,Nixa,MO,Missouri,True,,33646.0,254.1,29043,Christian,"{""29043"": 93.75, ""29209"": 6.25}",Christian|Stone,29043|29209,False,False,America/Chicago
+65715,36.73192,-92.57631,Noble,MO,Missouri,True,,16.0,0.5,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65717,37.06017,-92.41472,Norwood,MO,Missouri,True,,2708.0,8.1,29229,Wright,"{""29229"": 52.69, ""29067"": 47.31}",Wright|Douglas,29229|29067,False,False,America/Chicago
+65720,36.95513,-92.95998,Oldfield,MO,Missouri,True,,1015.0,13.1,29043,Christian,"{""29043"": 76.95, ""29067"": 23.05}",Christian|Douglas,29043|29067,False,False,America/Chicago
+65721,36.9805,-93.21045,Ozark,MO,Missouri,True,,32788.0,132.0,29043,Christian,"{""29043"": 97.96, ""29077"": 2.04}",Christian|Greene,29043|29077,False,False,America/Chicago
+65722,37.58694,-92.79967,Phillipsburg,MO,Missouri,True,,1639.0,12.8,29105,Laclede,"{""29105"": 74.37, ""29059"": 25.63}",Laclede|Dallas,29105|29059,False,False,America/Chicago
+65723,36.95635,-94.04648,Pierce City,MO,Missouri,True,,2959.0,12.7,29109,Lawrence,"{""29109"": 46.71, ""29145"": 35.24, ""29009"": 18.04}",Lawrence|Newton|Barry,29109|29145|29009,False,False,America/Chicago
+65724,37.83924,-93.31488,Pittsburg,MO,Missouri,True,,1180.0,19.7,29085,Hickory,"{""29085"": 92.29, ""29167"": 7.71}",Hickory|Polk,29085|29167,False,False,America/Chicago
+65725,37.42986,-93.27424,Pleasant Hope,MO,Missouri,True,,3199.0,39.5,29167,Polk,"{""29167"": 61.98, ""29077"": 38.02}",Polk|Greene,29167|29077,False,False,America/Chicago
+65726,36.61947,-93.2427,Point Lookout,MO,Missouri,True,,,,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65727,37.76266,-93.28889,Polk,MO,Missouri,True,,167.0,6.4,29167,Polk,"{""29167"": 99.43, ""29085"": 0.57}",Polk|Hickory,29167|29085,False,False,America/Chicago
+65728,36.87712,-93.33533,Ponce De Leon,MO,Missouri,True,,0.0,0.0,29043,Christian,"{""29043"": 72.59, ""29209"": 27.41}",Christian|Stone,29043|29209,False,False,America/Chicago
+65729,36.53842,-92.55661,Pontiac,MO,Missouri,True,,169.0,3.2,29153,Ozark,"{""29153"": 89.37, ""05089"": 10.63}",Ozark|Marion,29153|05089,False,False,America/Chicago
+65730,36.61549,-94.17001,Powell,MO,Missouri,True,,8.0,0.2,29119,McDonald,"{""29119"": 100}",McDonald,29119,False,False,America/Chicago
+65731,36.65458,-93.12222,Powersite,MO,Missouri,True,,250.0,68.5,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65732,37.93938,-93.16763,Preston,MO,Missouri,True,,1227.0,8.2,29085,Hickory,"{""29085"": 100}",Hickory,29085,False,False,America/Chicago
+65733,36.53157,-92.85077,Protem,MO,Missouri,True,,863.0,5.1,29213,Taney,"{""29213"": 77.89, ""05089"": 11.68, ""05009"": 7.21, ""29153"": 3.22}",Taney|Marion|Boone|Ozark,29213|05089|05009|29153,False,False,America/Chicago
+65734,36.79841,-93.95233,Purdy,MO,Missouri,True,,3184.0,14.5,29009,Barry,"{""29009"": 99.6, ""29145"": 0.4}",Barry|Newton,29009|29145,False,False,America/Chicago
+65735,38.03728,-93.48391,Quincy,MO,Missouri,True,,113.0,1.4,29085,Hickory,"{""29085"": 63.81, ""29185"": 20.12, ""29015"": 16.07}",Hickory|St. Clair|Benton,29085|29185|29015,False,False,America/Chicago
+65737,36.7146,-93.35796,Reeds Spring,MO,Missouri,True,,8106.0,37.1,29209,Stone,"{""29209"": 85.24, ""29213"": 12.74, ""29043"": 2.02}",Stone|Taney|Christian,29209|29213|29043,False,False,America/Chicago
+65738,37.13503,-93.49424,Republic,MO,Missouri,True,,19459.0,139.5,29077,Greene,"{""29077"": 85.53, ""29043"": 13.08, ""29109"": 1.39}",Greene|Christian|Lawrence,29077|29043|29109,False,False,America/Chicago
+65739,36.51925,-93.26864,Ridgedale,MO,Missouri,True,,772.0,23.0,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65740,36.71288,-93.16169,Rockaway Beach,MO,Missouri,True,,3794.0,360.0,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65741,36.79545,-92.40127,Rockbridge,MO,Missouri,True,,,,29153,Ozark,"{""29153"": 99.9, ""29067"": 0.1}",Ozark|Douglas,29153|29067,False,False,America/Chicago
+65742,37.12543,-93.08001,Rogersville,MO,Missouri,True,,14170.0,46.2,29077,Greene,"{""29077"": 41.75, ""29225"": 30.7, ""29043"": 27.55}",Greene|Webster|Christian,29077|29225|29043,False,False,America/Chicago
+65744,36.62449,-92.89337,Rueter,MO,Missouri,True,,86.0,1.9,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65745,36.52928,-93.97917,Seligman,MO,Missouri,True,,2616.0,14.8,29009,Barry,"{""29009"": 81.15, ""29119"": 18.85}",Barry|McDonald,29009|29119,False,False,America/Chicago
+65746,37.14278,-92.78144,Seymour,MO,Missouri,True,,8805.0,18.3,29225,Webster,"{""29225"": 77.09, ""29067"": 14.16, ""29229"": 8.75}",Webster|Douglas|Wright,29225|29067|29229,False,False,America/Chicago
+65747,36.60248,-93.57971,Shell Knob,MO,Missouri,True,,3204.0,16.1,29209,Stone,"{""29209"": 54.94, ""29009"": 45.06}",Stone|Barry,29209|29009,False,False,America/Chicago
+65752,37.32742,-93.83842,South Greenfield,MO,Missouri,True,,285.0,2.4,29057,Dade,"{""29057"": 92.16, ""29109"": 7.84}",Dade|Lawrence,29057|29109,False,False,America/Chicago
+65753,36.9955,-93.05386,Sparta,MO,Missouri,True,,4768.0,25.9,29043,Christian,"{""29043"": 93.18, ""29067"": 6.82}",Christian|Douglas,29043|29067,False,False,America/Chicago
+65754,36.85032,-93.29595,Spokane,MO,Missouri,True,,581.0,11.8,29043,Christian,"{""29043"": 99.38, ""29209"": 0.62}",Christian|Stone,29043|29209,False,False,America/Chicago
+65755,36.7996,-92.62858,Squires,MO,Missouri,True,,683.0,6.8,29067,Douglas,"{""29067"": 56.26, ""29153"": 43.74}",Douglas|Ozark,29067|29153,False,False,America/Chicago
+65756,37.0981,-93.96315,Stotts City,MO,Missouri,True,,633.0,7.9,29109,Lawrence,"{""29109"": 100}",Lawrence,29109,False,False,America/Chicago
+65757,37.2838,-93.09861,Strafford,MO,Missouri,True,,7077.0,32.8,29077,Greene,"{""29077"": 71.57, ""29225"": 28.43}",Greene|Webster,29077|29225,False,False,America/Chicago
+65759,36.75762,-93.03167,Taneyville,MO,Missouri,True,,1287.0,9.8,29213,Taney,"{""29213"": 97.68, ""29043"": 2.32}",Taney|Christian,29213|29043,False,False,America/Chicago
+65760,36.62236,-92.27943,Tecumseh,MO,Missouri,True,,722.0,7.4,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65761,36.56974,-92.72561,Theodosia,MO,Missouri,True,,1061.0,3.6,29153,Ozark,"{""29153"": 61.58, ""29213"": 20.52, ""05089"": 17.9}",Ozark|Taney|Marion,29153|29213|05089,False,False,America/Chicago
+65762,36.68613,-92.65634,Thornfield,MO,Missouri,True,,398.0,2.0,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65764,37.82189,-92.95682,Tunas,MO,Missouri,True,,1414.0,5.7,29059,Dallas,"{""29059"": 100}",Dallas,29059,False,False,America/Chicago
+65766,36.53933,-92.25948,Udall,MO,Missouri,True,,89.0,6.3,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65767,37.84495,-93.1529,Urbana,MO,Missouri,True,,2066.0,9.9,29059,Dallas,"{""29059"": 66.55, ""29085"": 29.43, ""29167"": 4.02}",Dallas|Hickory|Polk,29059|29085|29167,False,False,America/Chicago
+65768,36.92072,-92.26456,Vanzant,MO,Missouri,True,,414.0,3.1,29067,Douglas,"{""29067"": 100}",Douglas,29067,False,False,America/Chicago
+65769,36.91676,-93.79511,Verona,MO,Missouri,True,,2944.0,13.0,29009,Barry,"{""29009"": 51.74, ""29109"": 48.26}",Barry|Lawrence,29009|29109,False,False,America/Chicago
+65770,37.42165,-93.5456,Walnut Grove,MO,Missouri,True,,2650.0,10.7,29077,Greene,"{""29077"": 48.39, ""29167"": 37.69, ""29057"": 13.92}",Greene|Polk|Dade,29077|29167|29057,False,False,America/Chicago
+65771,36.77484,-93.2042,Walnut Shade,MO,Missouri,True,,1454.0,15.6,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago
+65772,36.59624,-94.03479,Washburn,MO,Missouri,True,,2007.0,10.0,29009,Barry,"{""29009"": 69.06, ""29119"": 30.94}",Barry|McDonald,29009|29119,False,False,America/Chicago
+65773,36.75551,-92.51332,Wasola,MO,Missouri,True,,667.0,4.0,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65774,37.92806,-93.49529,Weaubleau,MO,Missouri,True,,1251.0,10.1,29085,Hickory,"{""29085"": 78.71, ""29185"": 21.29}",Hickory|St. Clair,29085|29185,False,False,America/Chicago
+65775,36.6995,-91.85999,West Plains,MO,Missouri,True,,25289.0,22.1,29091,Howell,"{""29091"": 91.05, ""29149"": 5.39, ""29067"": 3.56}",Howell|Oregon|Douglas,29091|29149|29067,False,False,America/Chicago
+65777,36.51768,-91.98356,Moody,MO,Missouri,True,,250.0,7.4,29091,Howell,"{""29091"": 100}",Howell,29091,False,False,America/Chicago
+65778,36.52846,-91.2719,Myrtle,MO,Missouri,True,,467.0,5.0,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago
+65779,37.9789,-93.38561,Wheatland,MO,Missouri,True,,1457.0,7.2,29085,Hickory,"{""29085"": 97.03, ""29015"": 2.97}",Hickory|Benton,29085|29015,False,False,America/Chicago
+65781,37.35035,-93.41778,Willard,MO,Missouri,True,,8755.0,47.2,29077,Greene,"{""29077"": 89.42, ""29167"": 10.58}",Greene|Polk,29077|29167,False,False,America/Chicago
+65783,37.7153,-92.91623,Windyville,MO,Missouri,True,,168.0,5.6,29059,Dallas,"{""29059"": 100}",Dallas,29059,False,False,America/Chicago
+65784,36.72588,-92.31538,Zanoni,MO,Missouri,True,,,,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago
+65785,37.70296,-93.82338,Stockton,MO,Missouri,True,,5538.0,9.8,29039,Cedar,"{""29039"": 90.17, ""29185"": 6.08, ""29057"": 3.75}",Cedar|St. Clair|Dade,29039|29185|29057,False,False,America/Chicago
+65786,37.96715,-92.96516,Macks Creek,MO,Missouri,True,,2101.0,7.4,29029,Camden,"{""29029"": 96.43, ""29059"": 3.57}",Camden|Dallas,29029|29059,False,False,America/Chicago
+65787,38.07306,-92.89213,Roach,MO,Missouri,True,,1526.0,15.3,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago
+65788,36.81442,-91.69626,Peace Valley,MO,Missouri,True,,339.0,5.0,29091,Howell,"{""29091"": 91.48, ""29149"": 8.52}",Howell|Oregon,29091|29149,False,False,America/Chicago
+65789,36.85719,-91.88968,Pomona,MO,Missouri,True,,2149.0,11.4,29091,Howell,"{""29091"": 100}",Howell,29091,False,False,America/Chicago
+65790,36.69784,-92.11326,Pottersville,MO,Missouri,True,,724.0,4.9,29091,Howell,"{""29091"": 51.76, ""29153"": 48.24}",Howell|Ozark,29091|29153,False,False,America/Chicago
+65791,36.56651,-91.49583,Thayer,MO,Missouri,True,,5042.0,12.7,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago
+65793,36.98975,-91.9787,Willow Springs,MO,Missouri,True,,5597.0,8.3,29091,Howell,"{""29091"": 57.69, ""29215"": 28.22, ""29067"": 14.09}",Howell|Texas|Douglas,29091|29215|29067,False,False,America/Chicago
+65801,37.21421,-93.29521,Springfield,MO,Missouri,True,,,,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65802,37.21048,-93.35167,Springfield,MO,Missouri,True,,47098.0,296.1,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65803,37.28464,-93.29036,Springfield,MO,Missouri,True,,41897.0,173.3,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65804,37.14822,-93.25294,Springfield,MO,Missouri,True,,37782.0,784.3,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65806,37.20567,-93.29847,Springfield,MO,Missouri,True,,13315.0,2407.6,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65807,37.166,-93.32483,Springfield,MO,Missouri,True,,58366.0,1072.3,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65809,37.17071,-93.1936,Springfield,MO,Missouri,True,,10611.0,240.8,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65810,37.1174,-93.31707,Springfield,MO,Missouri,True,,22085.0,712.4,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago
+65897,37.19985,-93.28055,Springfield,MO,Missouri,True,,,,29077,Greene,"{""29077"": 100}",Greene,29077,False,False,America/Chicago

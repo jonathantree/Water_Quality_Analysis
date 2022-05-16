@@ -69,12 +69,14 @@ for zipcode in zip_list:
         print(f'No systems found that match your search for: {zipcode}')
 print(utilities_df.shape)
 #Output the resulting dataframe to a csv file
+print('Writing utilities_with_duplicates file')
 state_path_utility_raw_output = os.path.join(path,'utilities_with_duplicates.csv')
 utilities_df.to_csv(state_path_utility_raw_output, index=False)
 
 #Get rid of duplicates to result in a unique list of utilities to scrape
 utilities_df.drop_duplicates(subset=['Utility name'],inplace=True)
 
+print('Writing utilities file')
 #Output the resulting dataframe to a csv file
 state_path_utility_output = os.path.join(path,'utilities.csv')
 utilities_df.to_csv(state_path_utility_output, index=False)
@@ -159,7 +161,7 @@ for utility in utility_list:
             contaminant_list.append(d)
     except:
         pass
-
+print ('Done Scraping, moving on to dataset cleaning and file writing')
 #Construct a dataframe from the results
 scraped_df = pd.DataFrame(contaminant_list)
 

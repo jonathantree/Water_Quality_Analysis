@@ -1,0 +1,370 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+59001,45.52952,-109.54022,Absarokee,MT,Montana,True,,1574.0,4.3,30095,Stillwater,"{""30095"": 94.29, ""30009"": 5.71}",Stillwater|Carbon,30095|30009,False,False,America/Denver
+59002,45.99832,-108.6649,Acton,MT,Montana,True,,197.0,1.0,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59003,45.48179,-106.20153,Ashland,MT,Montana,True,,1168.0,0.6,30075,Powder River,"{""30075"": 61.44, ""30087"": 38.56}",Powder River|Rosebud,30075|30087,False,False,America/Denver
+59006,45.90755,-108.08535,Ballantine,MT,Montana,True,,1538.0,9.6,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59007,45.15555,-109.15805,Bearcreek,MT,Montana,True,,157.0,1.9,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59008,45.07982,-109.07496,Belfry,MT,Montana,True,,519.0,1.6,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59010,45.97505,-107.3037,Bighorn,MT,Montana,True,,154.0,0.2,30103,Treasure,"{""30103"": 54.95, ""30003"": 45.05}",Treasure|Big Horn,30103|30003,False,False,America/Denver
+59011,45.92453,-109.97244,Big Timber,MT,Montana,True,,3083.0,1.3,30097,Sweet Grass,"{""30097"": 100}",Sweet Grass,30097,False,False,America/Denver
+59012,45.29922,-106.6006,Birney,MT,Montana,True,,278.0,0.5,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59013,45.46131,-109.08054,Boyd,MT,Montana,True,,132.0,11.8,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59014,45.15351,-108.66421,Bridger,MT,Montana,True,,1710.0,0.9,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59015,46.08464,-108.83464,Broadview,MT,Montana,True,,439.0,0.7,30111,Yellowstone,"{""30111"": 51.72, ""30095"": 28.87, ""30065"": 19.41}",Yellowstone|Stillwater|Musselshell,30111|30095|30065,False,False,America/Denver
+59016,45.41871,-106.93872,Busby,MT,Montana,True,,1155.0,1.1,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59018,45.85791,-110.62326,Clyde Park,MT,Montana,True,,475.0,1.0,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59019,45.62995,-109.24208,Columbus,MT,Montana,True,,4275.0,5.4,30095,Stillwater,"{""30095"": 97.83, ""30009"": 2.17}",Stillwater|Carbon,30095|30009,False,False,America/Denver
+59020,45.08831,-110.01499,Cooke City,MT,Montana,True,,69.0,0.1,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59022,45.57541,-107.26756,Crow Agency,MT,Montana,True,,2357.0,5.8,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59024,46.20549,-107.71464,Custer,MT,Montana,True,,334.0,0.3,30111,Yellowstone,"{""30111"": 92.12, ""30003"": 7.88}",Yellowstone|Big Horn,30111|30003,False,False,America/Denver
+59025,45.09503,-106.7178,Decker,MT,Montana,True,,65.0,0.0,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59026,45.46385,-108.78392,Edgar,MT,Montana,True,,177.0,3.0,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59027,45.26118,-110.90674,Emigrant,MT,Montana,True,,721.0,1.2,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59028,45.32093,-109.7434,Fishtail,MT,Montana,True,,525.0,0.6,30095,Stillwater,"{""30095"": 100}",Stillwater,30095,False,False,America/Denver
+59029,45.4085,-108.80467,Fromberg,MT,Montana,True,,764.0,3.1,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59030,45.08882,-110.59376,Gardiner,MT,Montana,True,,1249.0,1.0,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59031,45.50005,-107.37964,Garryowen,MT,Montana,True,,308.0,1.1,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59032,47.0106,-108.75808,Grass Range,MT,Montana,True,,461.0,0.3,30027,Fergus,"{""30027"": 76.55, ""30069"": 23.45}",Fergus|Petroleum,30027|30069,False,False,America/Denver
+59033,45.72296,-109.73246,Greycliff,MT,Montana,True,,298.0,3.3,30097,Sweet Grass,"{""30097"": 100}",Sweet Grass,30097,False,False,America/Denver
+59034,45.70121,-107.7078,Hardin,MT,Montana,True,,5348.0,2.6,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59035,45.29814,-107.96042,Fort Smith,MT,Montana,True,,226.0,1.0,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59036,46.46606,-109.89035,Harlowton,MT,Montana,True,,1405.0,0.8,30107,Wheatland,"{""30107"": 100}",Wheatland,30107,False,False,America/Denver
+59037,45.852,-108.20927,Huntley,MT,Montana,True,,2642.0,8.2,30111,Yellowstone,"{""30111"": 92.76, ""30003"": 7.24}",Yellowstone|Big Horn,30111|30003,False,False,America/Denver
+59038,46.18917,-107.23069,Hysham,MT,Montana,True,,513.0,0.2,30103,Treasure,"{""30103"": 87.24, ""30003"": 12.76}",Treasure|Big Horn,30103|30003,False,False,America/Denver
+59039,46.68533,-107.28458,Ingomar,MT,Montana,True,,47.0,0.0,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59041,45.50239,-108.9663,Joliet,MT,Montana,True,,1971.0,4.0,30009,Carbon,"{""30009"": 97.36, ""30111"": 2.64}",Carbon|Yellowstone,30009|30111,False,False,America/Denver
+59043,45.53266,-106.6568,Lame Deer,MT,Montana,True,,3140.0,3.6,30087,Rosebud,"{""30087"": 70.0, ""30003"": 30.0}",Rosebud|Big Horn,30087|30003,False,False,America/Denver
+59044,45.64251,-108.74975,Laurel,MT,Montana,True,,12300.0,27.1,30111,Yellowstone,"{""30111"": 91.01, ""30009"": 8.99}",Yellowstone|Carbon,30111|30009,False,False,America/Denver
+59046,46.39147,-108.98604,Lavina,MT,Montana,True,,379.0,0.2,30037,Golden Valley,"{""30037"": 91.74, ""30065"": 8.26}",Golden Valley|Musselshell,30037|30065,False,False,America/Denver
+59047,45.56852,-110.55174,Livingston,MT,Montana,True,,12711.0,6.3,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59050,45.25013,-107.47849,Lodge Grass,MT,Montana,True,,1661.0,0.9,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59052,45.43651,-110.18676,McLeod,MT,Montana,True,,149.0,0.1,30097,Sweet Grass,"{""30097"": 58.83, ""30067"": 41.17}",Sweet Grass|Park,30097|30067,False,False,America/Denver
+59053,46.45713,-110.43492,Martinsdale,MT,Montana,True,,370.0,0.3,30059,Meagher,"{""30059"": 96.81, ""30107"": 3.19}",Meagher|Wheatland,30059|30107,False,False,America/Denver
+59054,46.66809,-107.7691,Melstone,MT,Montana,True,,253.0,0.2,30087,Rosebud,"{""30087"": 57.73, ""30065"": 42.27}",Rosebud|Musselshell,30087|30065,False,False,America/Denver
+59055,46.10282,-109.78662,Melville,MT,Montana,True,,85.0,0.1,30097,Sweet Grass,"{""30097"": 100}",Sweet Grass,30097,False,False,America/Denver
+59057,45.85358,-108.95377,Molt,MT,Montana,True,,878.0,1.2,30095,Stillwater,"{""30095"": 68.46, ""30111"": 31.54}",Stillwater|Yellowstone,30095|30111,False,False,America/Denver
+59058,46.98517,-107.79652,Mosby,MT,Montana,True,,24.0,0.0,30033,Garfield,"{""30033"": 74.43, ""30069"": 25.57}",Garfield|Petroleum,30033|30069,False,False,America/Denver
+59059,46.51161,-108.088,Musselshell,MT,Montana,True,,205.0,0.2,30065,Musselshell,"{""30065"": 100}",Musselshell,30065,False,False,America/Denver
+59061,45.39634,-109.87728,Nye,MT,Montana,True,,260.0,0.6,30095,Stillwater,"{""30095"": 100}",Stillwater,30095,False,False,America/Denver
+59062,45.15773,-106.20895,Otter,MT,Montana,True,,29.0,0.0,30075,Powder River,"{""30075"": 69.03, ""30087"": 30.97}",Powder River|Rosebud,30075|30087,False,False,America/Denver
+59063,45.65079,-108.97028,Park City,MT,Montana,True,,2205.0,13.9,30095,Stillwater,"{""30095"": 99.59, ""30111"": 0.41}",Stillwater|Yellowstone,30095|30111,False,False,America/Denver
+59064,45.88011,-107.87245,Pompeys Pillar,MT,Montana,True,,182.0,0.3,30003,Big Horn,"{""30003"": 71.23, ""30111"": 28.77}",Big Horn|Yellowstone,30003|30111,False,False,America/Denver
+59065,45.26883,-110.6784,Pray,MT,Montana,True,,125.0,0.4,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59066,45.33907,-108.49718,Pryor,MT,Montana,True,,594.0,0.8,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59067,45.96827,-109.23433,Rapelje,MT,Montana,True,,262.0,0.3,30095,Stillwater,"{""30095"": 100}",Stillwater,30095,False,False,America/Denver
+59068,45.15929,-109.45626,Red Lodge,MT,Montana,True,,3178.0,2.4,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59069,45.72204,-109.57945,Reed Point,MT,Montana,True,,517.0,0.5,30095,Stillwater,"{""30095"": 50.66, ""30097"": 49.34}",Stillwater|Sweet Grass,30095|30097,False,False,America/Denver
+59070,45.36289,-109.17961,Roberts,MT,Montana,True,,1163.0,2.5,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59071,45.26582,-109.57003,Roscoe,MT,Montana,True,,160.0,0.7,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver
+59072,46.51839,-108.54969,Roundup,MT,Montana,True,,4249.0,1.3,30065,Musselshell,"{""30065"": 93.07, ""30069"": 6.93}",Musselshell|Petroleum,30065|30069,False,False,America/Denver
+59074,46.36062,-109.30181,Ryegate,MT,Montana,True,,430.0,0.3,30037,Golden Valley,"{""30037"": 91.48, ""30095"": 6.76, ""30107"": 1.76}",Golden Valley|Stillwater|Wheatland,30037|30095|30107,False,False,America/Denver
+59075,45.40457,-107.85051,Saint Xavier,MT,Montana,True,,297.0,0.6,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59076,46.28252,-107.06847,Sanders,MT,Montana,True,,48.0,1.3,30103,Treasure,"{""30103"": 100}",Treasure,30103,False,False,America/Denver
+59077,47.22224,-107.58999,Sand Springs,MT,Montana,True,,103.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver
+59078,46.32585,-109.5442,Shawmut,MT,Montana,True,,167.0,0.2,30107,Wheatland,"{""30107"": 69.81, ""30037"": 22.1, ""30097"": 8.09}",Wheatland|Golden Valley|Sweet Grass,30107|30037|30097,False,False,America/Denver
+59079,46.0607,-108.36718,Shepherd,MT,Montana,True,,3632.0,4.2,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59081,45.01979,-109.98295,Silver Gate,MT,Montana,True,,82.0,7.3,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver
+59082,45.84041,-110.29227,Springdale,MT,Montana,True,,,,30067,Park,"{""30067"": 65.8, ""30097"": 34.2}",Park|Sweet Grass,30067|30097,False,False,America/Denver
+59083,46.55133,-107.56312,Sumatra,MT,Montana,True,,,,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59085,46.36172,-110.14019,Two Dot,MT,Montana,True,,199.0,0.3,30107,Wheatland,"{""30107"": 100}",Wheatland,30107,False,False,America/Denver
+59086,46.05608,-110.65293,Wilsall,MT,Montana,True,,832.0,0.5,30067,Park,"{""30067"": 66.28, ""30031"": 31.45, ""30059"": 2.27}",Park|Gallatin|Meagher,30067|30031|30059,False,False,America/Denver
+59087,47.16806,-108.22779,Winnett,MT,Montana,True,,396.0,0.1,30069,Petroleum,"{""30069"": 100}",Petroleum,30069,False,False,America/Denver
+59088,46.13006,-108.02933,Worden,MT,Montana,True,,1168.0,1.3,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59089,45.09259,-107.34476,Wyola,MT,Montana,True,,495.0,0.8,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver
+59101,45.63013,-108.36445,Billings,MT,Montana,True,,41048.0,26.8,30111,Yellowstone,"{""30111"": 97.71, ""30003"": 2.29}",Yellowstone|Big Horn,30111|30003,False,False,America/Denver
+59102,45.77479,-108.58133,Billings,MT,Montana,True,,45549.0,1169.5,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59105,45.87708,-108.50145,Billings,MT,Montana,True,,32168.0,129.6,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59106,45.80637,-108.6948,Billings,MT,Montana,True,,19170.0,66.1,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver
+59201,48.15981,-105.64647,Wolf Point,MT,Montana,True,,5745.0,1.7,30085,Roosevelt,"{""30085"": 54.22, ""30055"": 37.76, ""30105"": 8.02}",Roosevelt|McCone|Valley,30085|30055|30105,False,False,America/Denver
+59211,48.69582,-104.35493,Antelope,MT,Montana,True,,259.0,1.0,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59212,48.19231,-104.16968,Bainville,MT,Montana,True,,383.0,0.5,30085,Roosevelt,"{""30085"": 100}",Roosevelt,30085,False,False,America/Denver
+59213,48.17553,-104.85612,Brockton,MT,Montana,True,,778.0,0.8,30085,Roosevelt,"{""30085"": 56.62, ""30083"": 43.38}",Roosevelt|Richland,30085|30083,False,False,America/Denver
+59214,47.28325,-106.02221,Brockway,MT,Montana,True,,76.0,0.1,30055,McCone,"{""30055"": 83.9, ""30079"": 11.03, ""30033"": 5.07}",McCone|Prairie|Garfield,30055|30079|30033,False,False,America/Denver
+59215,47.50431,-105.74543,Circle,MT,Montana,True,,973.0,0.3,30055,McCone,"{""30055"": 90.95, ""30021"": 9.05}",McCone|Dawson,30055|30021,False,False,America/Denver
+59217,47.58449,-104.24455,Crane,MT,Montana,True,,237.0,24.9,30083,Richland,"{""30083"": 100}",Richland,30083,False,False,America/Denver
+59218,48.09993,-104.52361,Culbertson,MT,Montana,True,,932.0,0.9,30085,Roosevelt,"{""30085"": 50.16, ""30083"": 49.84}",Roosevelt|Richland,30085|30083,False,False,America/Denver
+59219,48.5579,-104.15541,Dagmar,MT,Montana,True,,302.0,0.6,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59221,47.91952,-104.1816,Fairview,MT,Montana,True,,1927.0,2.8,30083,Richland,"{""30083"": 84.02, ""38053"": 15.98}",Richland|McKenzie,30083|38053,False,False,America/Denver
+59222,48.7007,-105.1557,Flaxville,MT,Montana,True,,191.0,0.3,30019,Daniels,"{""30019"": 98.41, ""30085"": 1.59}",Daniels|Roosevelt,30019|30085,False,False,America/Denver
+59223,47.90319,-106.19348,Fort Peck,MT,Montana,True,,362.0,0.5,30055,McCone,"{""30055"": 88.84, ""30033"": 8.68, ""30105"": 2.48}",McCone|Garfield|Valley,30055|30033|30105,False,False,America/Denver
+59225,48.27723,-105.97413,Frazer,MT,Montana,True,,617.0,0.7,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59226,48.34283,-104.51545,Froid,MT,Montana,True,,744.0,0.9,30085,Roosevelt,"{""30085"": 86.95, ""30091"": 13.05}",Roosevelt|Sheridan,30085|30091,False,False,America/Denver
+59230,48.09992,-106.80196,Glasgow,MT,Montana,True,,4483.0,1.2,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59231,48.40395,-106.54411,Saint Marie,MT,Montana,True,,325.0,225.9,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59240,48.84222,-106.24046,Glentana,MT,Montana,True,,13.0,0.1,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59241,48.46125,-107.04602,Hinsdale,MT,Montana,True,,420.0,0.1,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59242,48.4387,-104.55787,Homestead,MT,Montana,True,,77.0,0.3,30091,Sheridan,"{""30091"": 64.29, ""30085"": 35.71}",Sheridan|Roosevelt,30091|30085,False,False,America/Denver
+59243,47.76062,-104.67387,Lambert,MT,Montana,True,,258.0,0.3,30083,Richland,"{""30083"": 100}",Richland,30083,False,False,America/Denver
+59244,48.62832,-106.30945,Larslan,MT,Montana,True,,21.0,0.0,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59247,48.51848,-104.52209,Medicine Lake,MT,Montana,True,,252.0,0.7,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59248,48.27555,-106.25841,Nashua,MT,Montana,True,,766.0,0.5,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59250,48.86715,-106.63905,Opheim,MT,Montana,True,,194.0,0.2,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59252,48.92728,-104.82152,Outlook,MT,Montana,True,,96.0,0.2,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59253,48.70422,-105.83496,Peerless,MT,Montana,True,,90.0,0.1,30019,Daniels,"{""30019"": 98.03, ""30105"": 1.97}",Daniels|Valley,30019|30105,False,False,America/Denver
+59254,48.75753,-104.61123,Plentywood,MT,Montana,True,,1739.0,2.4,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59255,48.23115,-105.16825,Poplar,MT,Montana,True,,3209.0,1.8,30085,Roosevelt,"{""30085"": 77.55, ""30083"": 19.44, ""30055"": 3.01}",Roosevelt|Richland|McCone,30085|30083|30055,False,False,America/Denver
+59256,48.91919,-104.54965,Raymond,MT,Montana,True,,52.0,0.3,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59257,48.75364,-104.94239,Redstone,MT,Montana,True,,82.0,0.2,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver
+59258,48.57025,-104.735,Reserve,MT,Montana,True,,143.0,0.2,30091,Sheridan,"{""30091"": 64.42, ""30085"": 35.58}",Sheridan|Roosevelt,30091|30085,False,False,America/Denver
+59259,47.69109,-105.08416,Richey,MT,Montana,True,,239.0,0.1,30021,Dawson,"{""30021"": 54.37, ""30083"": 45.63}",Dawson|Richland,30021|30083,False,False,America/Denver
+59260,48.84027,-106.10217,Richland,MT,Montana,True,,86.0,0.1,30105,Valley,"{""30105"": 60.82, ""30019"": 39.18}",Valley|Daniels,30105|30019,False,False,America/Denver
+59261,48.53327,-107.3599,Saco,MT,Montana,True,,551.0,0.3,30071,Phillips,"{""30071"": 79.05, ""30105"": 20.95}",Phillips|Valley,30071|30105,False,False,America/Denver
+59262,47.49341,-104.50518,Savage,MT,Montana,True,,503.0,0.6,30083,Richland,"{""30083"": 57.49, ""30021"": 42.51}",Richland|Dawson,30083|30021,False,False,America/Denver
+59263,48.78921,-105.51838,Scobey,MT,Montana,True,,1378.0,0.9,30019,Daniels,"{""30019"": 98.01, ""30085"": 1.99}",Daniels|Roosevelt,30019|30085,False,False,America/Denver
+59270,47.57233,-104.08264,Sidney,MT,Montana,True,,8664.0,3.8,30083,Richland,"{""30083"": 60.71, ""38053"": 39.29}",Richland|McKenzie,30083|38053,False,False,America/Denver
+59273,48.29491,-106.93589,Vandalia,MT,Montana,True,,,,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver
+59274,47.83944,-105.42204,Vida,MT,Montana,True,,297.0,0.4,30055,McCone,"{""30055"": 100}",McCone,30055,False,False,America/Denver
+59275,48.87415,-104.17865,Westby,MT,Montana,True,,460.0,0.5,30091,Sheridan,"{""30091"": 75.76, ""38023"": 24.24}",Sheridan|Divide,30091|38023,False,False,America/Denver
+59276,48.92979,-105.20108,Whitetail,MT,Montana,True,,28.0,0.1,30019,Daniels,"{""30019"": 100}",Daniels,30019,False,False,America/Denver
+59301,46.36022,-105.85055,Miles City,MT,Montana,True,,11212.0,1.5,30017,Custer,"{""30017"": 81.2, ""30087"": 10.06, ""30033"": 5.1, ""30075"": 2.26, ""30079"": 1.38}",Custer|Rosebud|Garfield|Powder River|Prairie,30017|30087|30033|30075|30079,False,False,America/Denver
+59311,45.16944,-104.53017,Alzada,MT,Montana,True,,148.0,0.1,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver
+59312,47.0541,-106.26872,Angela,MT,Montana,True,,28.0,0.0,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver
+59313,46.27497,-104.25016,Baker,MT,Montana,True,,2427.0,1.0,30025,Fallon,"{""30025"": 93.63, ""30011"": 6.37}",Fallon|Carter,30025|30011,False,False,America/Denver
+59314,45.07847,-105.43933,Biddle,MT,Montana,True,,89.0,0.1,30075,Powder River,"{""30075"": 100}",Powder River,30075,False,False,America/Denver
+59315,47.44241,-104.87483,Bloomfield,MT,Montana,True,,57.0,0.1,30021,Dawson,"{""30021"": 100}",Dawson,30021,False,False,America/Denver
+59316,45.33726,-105.04973,Boyes,MT,Montana,True,,,,30075,Powder River,"{""30075"": 70.33, ""30011"": 29.67}",Powder River|Carter,30075|30011,False,False,America/Denver
+59317,45.33477,-105.52106,Broadus,MT,Montana,True,,1144.0,0.3,30075,Powder River,"{""30075"": 100}",Powder River,30075,False,False,America/Denver
+59318,47.48955,-107.4784,Brusett,MT,Montana,True,,121.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver
+59319,45.40696,-104.17379,Capitol,MT,Montana,True,,,,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver
+59322,47.03521,-106.64069,Cohagen,MT,Montana,True,,59.0,0.0,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver
+59323,45.91234,-106.7032,Colstrip,MT,Montana,True,,2375.0,17.2,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59324,45.76652,-104.58732,Ekalaka,MT,Montana,True,,926.0,0.3,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver
+59326,46.77178,-104.85183,Fallon,MT,Montana,True,,308.0,0.3,30079,Prairie,"{""30079"": 87.37, ""30021"": 12.63}",Prairie|Dawson,30079|30021,False,False,America/Denver
+59327,46.2389,-106.7082,Forsyth,MT,Montana,True,,2619.0,0.5,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59330,47.11812,-104.76469,Glendive,MT,Montana,True,,8401.0,3.2,30021,Dawson,"{""30021"": 96.85, ""30079"": 3.15}",Dawson|Prairie,30021|30079,False,False,America/Denver
+59332,45.37589,-104.72542,Hammond,MT,Montana,True,,203.0,0.2,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver
+59333,46.28123,-106.24765,Hathaway,MT,Montana,True,,6.0,0.3,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver
+59336,46.342,-104.95063,Ismay,MT,Montana,True,,213.0,0.1,30017,Custer,"{""30017"": 65.45, ""30025"": 28.2, ""30011"": 5.66, ""30079"": 0.69}",Custer|Fallon|Carter|Prairie,30017|30025|30011|30079,False,False,America/Denver
+59337,47.39098,-106.81486,Jordan,MT,Montana,True,,711.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver
+59338,46.63392,-105.65584,Kinsey,MT,Montana,True,,136.0,0.7,30017,Custer,"{""30017"": 100}",Custer,30017,False,False,America/Denver
+59339,47.22587,-105.19934,Lindsay,MT,Montana,True,,114.0,0.1,30021,Dawson,"{""30021"": 98.9, ""30079"": 1.1}",Dawson|Prairie,30021|30079,False,False,America/Denver
+59343,45.65602,-105.43296,Olive,MT,Montana,True,,31.0,0.1,30075,Powder River,"{""30075"": 100}",Powder River,30075,False,False,America/Denver
+59344,46.3516,-104.5713,Plevna,MT,Montana,True,,446.0,0.4,30025,Fallon,"{""30025"": 93.98, ""30011"": 6.02}",Fallon|Carter,30025|30011,False,False,America/Denver
+59345,45.85367,-105.20436,Powderville,MT,Montana,True,,,,30017,Custer,"{""30017"": 68.17, ""30075"": 31.83}",Custer|Powder River,30017|30075,False,False,America/Denver
+59347,46.45434,-106.34614,Rosebud,MT,Montana,True,,298.0,0.1,30087,Rosebud,"{""30087"": 92.43, ""30017"": 7.57}",Rosebud|Custer,30087|30017,False,False,America/Denver
+59349,46.87278,-105.48388,Terry,MT,Montana,True,,875.0,0.3,30079,Prairie,"{""30079"": 98.62, ""30017"": 1.38}",Prairie|Custer,30079|30017,False,False,America/Denver
+59351,45.7633,-105.70844,Volborg,MT,Montana,True,,165.0,0.1,30075,Powder River,"{""30075"": 60.38, ""30017"": 39.62}",Powder River|Custer,30075|30017,False,False,America/Denver
+59353,46.96394,-104.28218,Wibaux,MT,Montana,True,,1037.0,0.4,30109,Wibaux,"{""30109"": 83.91, ""30021"": 13.92, ""30025"": 2.17}",Wibaux|Dawson|Fallon,30109|30021|30025,False,False,America/Denver
+59354,46.18924,-104.41939,Willard,MT,Montana,True,,33.0,0.2,30025,Fallon,"{""30025"": 100}",Fallon,30025,False,False,America/Denver
+59401,47.51083,-111.27691,Great Falls,MT,Montana,True,,13410.0,1748.1,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59404,47.63197,-111.34807,Great Falls,MT,Montana,True,,27914.0,32.5,30013,Cascade,"{""30013"": 71.69, ""30015"": 28.31}",Cascade|Chouteau,30013|30015,False,False,America/Denver
+59405,47.28102,-111.25937,Great Falls,MT,Montana,True,,31745.0,25.6,30013,Cascade,"{""30013"": 98.85, ""30015"": 1.15}",Cascade|Chouteau,30013|30015,False,False,America/Denver
+59410,47.49442,-112.64299,Augusta,MT,Montana,True,,519.0,0.2,30049,Lewis and Clark,"{""30049"": 97.51, ""30099"": 2.49}",Lewis and Clark|Teton,30049|30099,False,False,America/Denver
+59411,48.88965,-113.41403,Babb,MT,Montana,True,,1188.0,2.1,30035,Glacier,"{""30035"": 100}",Glacier,30035,False,False,America/Denver
+59412,47.32538,-110.8762,Belt,MT,Montana,True,,1490.0,1.5,30013,Cascade,"{""30013"": 96.89, ""30045"": 3.11}",Cascade|Judith Basin,30013|30045,False,False,America/Denver
+59414,47.5276,-111.26871,Black Eagle,MT,Montana,True,,836.0,185.1,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59416,48.04059,-111.52359,Brady,MT,Montana,True,,268.0,0.3,30073,Pondera,"{""30073"": 56.26, ""30015"": 41.1, ""30099"": 1.51, ""30051"": 1.13}",Pondera|Chouteau|Teton|Liberty,30073|30015|30099|30051,False,False,America/Denver
+59417,48.54483,-113.0086,Browning,MT,Montana,True,,7680.0,3.9,30035,Glacier,"{""30035"": 100}",Glacier,30035,False,False,America/Denver
+59418,46.80258,-109.87849,Buffalo,MT,Montana,True,,65.0,0.2,30045,Judith Basin,"{""30045"": 76.86, ""30027"": 23.14}",Judith Basin|Fergus,30045|30027,False,False,America/Denver
+59419,48.00641,-112.40855,Bynum,MT,Montana,True,,94.0,0.4,30099,Teton,"{""30099"": 100}",Teton,30099,False,False,America/Denver
+59420,47.89688,-111.04034,Carter,MT,Montana,True,,255.0,0.4,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver
+59421,47.20179,-111.72,Cascade,MT,Montana,True,,1838.0,1.0,30013,Cascade,"{""30013"": 95.54, ""30049"": 4.46}",Cascade|Lewis and Clark,30013|30049,False,False,America/Denver
+59422,47.83957,-112.48266,Choteau,MT,Montana,True,,2718.0,0.9,30099,Teton,"{""30099"": 100}",Teton,30099,False,False,America/Denver
+59424,47.34929,-110.1022,Coffee Creek,MT,Montana,True,,16.0,0.1,30027,Fergus,"{""30027"": 66.71, ""30045"": 33.29}",Fergus|Judith Basin,30027|30045,False,False,America/Denver
+59425,48.18641,-111.88738,Conrad,MT,Montana,True,,3616.0,2.5,30073,Pondera,"{""30073"": 91.09, ""30099"": 8.91}",Pondera|Teton,30073|30099,False,False,America/Denver
+59427,48.77357,-112.61639,Cut Bank,MT,Montana,True,,4417.0,1.2,30035,Glacier,"{""30035"": 97.27, ""30101"": 2.73}",Glacier|Toole,30035|30101,False,False,America/Denver
+59430,47.43089,-109.83434,Denton,MT,Montana,True,,448.0,0.3,30027,Fergus,"{""30027"": 94.67, ""30045"": 5.33}",Fergus|Judith Basin,30027|30045,False,False,America/Denver
+59432,48.14595,-112.58853,Dupuyer,MT,Montana,True,,114.0,0.2,30073,Pondera,"{""30073"": 73.19, ""30099"": 26.81}",Pondera|Teton,30073|30099,False,False,America/Denver
+59433,47.89565,-111.68483,Dutton,MT,Montana,True,,484.0,0.6,30099,Teton,"{""30099"": 99.65, ""30073"": 0.35}",Teton|Pondera,30099|30073,False,False,America/Denver
+59434,48.68682,-113.55678,East Glacier Park,MT,Montana,True,,421.0,0.2,30035,Glacier,"{""30035"": 100}",Glacier,30035,False,False,America/Denver
+59435,48.5616,-112.06059,Ethridge,MT,Montana,True,,,,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59436,47.6135,-112.0907,Fairfield,MT,Montana,True,,2045.0,3.2,30099,Teton,"{""30099"": 99.58, ""30013"": 0.42}",Teton|Cascade,30099|30013,False,False,America/Denver
+59440,47.72489,-111.14261,Floweree,MT,Montana,True,,221.0,0.4,30015,Chouteau,"{""30015"": 67.52, ""30013"": 32.48}",Chouteau|Cascade,30015|30013,False,False,America/Denver
+59441,46.852,-108.98933,Forest Grove,MT,Montana,True,,63.0,0.1,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver
+59442,47.93005,-110.64697,Fort Benton,MT,Montana,True,,1742.0,0.9,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver
+59443,47.5621,-111.82647,Fort Shaw,MT,Montana,True,,383.0,2.5,30013,Cascade,"{""30013"": 93.54, ""30099"": 6.46}",Cascade|Teton,30013|30099,False,False,America/Denver
+59444,48.65227,-111.34881,Galata,MT,Montana,True,,262.0,0.2,30101,Toole,"{""30101"": 80.5, ""30051"": 19.5}",Toole|Liberty,30101|30051,False,False,America/Denver
+59446,47.64083,-110.17894,Geraldine,MT,Montana,True,,580.0,0.3,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver
+59447,47.28116,-110.45955,Geyser,MT,Montana,True,,271.0,0.3,30045,Judith Basin,"{""30045"": 96.99, ""30015"": 3.01}",Judith Basin|Chouteau,30045|30015,False,False,America/Denver
+59448,48.25789,-112.86703,Heart Butte,MT,Montana,True,,775.0,3.9,30073,Pondera,"{""30073"": 99.14, ""30035"": 0.86}",Pondera|Glacier,30073|30035,False,False,America/Denver
+59450,47.5992,-110.73923,Highwood,MT,Montana,True,,584.0,0.6,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver
+59451,47.38984,-109.39779,Hilger,MT,Montana,True,,127.0,0.2,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver
+59452,46.86946,-110.09831,Hobson,MT,Montana,True,,470.0,0.5,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver
+59453,46.65903,-109.66996,Judith Gap,MT,Montana,True,,301.0,0.3,30107,Wheatland,"{""30107"": 76.59, ""30027"": 18.54, ""30045"": 4.87}",Wheatland|Fergus|Judith Basin,30107|30027|30045,False,False,America/Denver
+59454,48.74481,-111.97769,Kevin,MT,Montana,True,,202.0,0.7,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59456,48.27221,-111.35432,Ledger,MT,Montana,True,,175.0,0.2,30051,Liberty,"{""30051"": 52.28, ""30101"": 38.35, ""30073"": 9.37}",Liberty|Toole|Pondera,30051|30101|30073,False,False,America/Denver
+59457,47.08027,-109.38656,Lewistown,MT,Montana,True,,9058.0,3.5,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver
+59460,48.07682,-110.50908,Loma,MT,Montana,True,,170.0,0.3,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver
+59461,48.4894,-111.19985,Lothair,MT,Montana,True,,12.0,0.1,30051,Liberty,"{""30051"": 100}",Liberty,30051,False,False,America/Denver
+59462,47.10833,-109.88513,Moccasin,MT,Montana,True,,159.0,0.5,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver
+59463,47.0489,-110.86668,Monarch,MT,Montana,True,,97.0,0.2,30013,Cascade,"{""30013"": 94.01, ""30045"": 5.99}",Cascade|Judith Basin,30013|30045,False,False,America/Denver
+59464,46.87409,-109.60589,Moore,MT,Montana,True,,418.0,0.7,30027,Fergus,"{""30027"": 94.58, ""30045"": 5.42}",Fergus|Judith Basin,30027|30045,False,False,America/Denver
+59465,46.93777,-110.70788,Neihart,MT,Montana,True,,35.0,0.1,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59466,48.78746,-111.69124,Oilmont,MT,Montana,True,,109.0,0.3,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59467,48.07149,-112.37794,Pendroy,MT,Montana,True,,107.0,0.4,30099,Teton,"{""30099"": 100}",Teton,30099,False,False,America/Denver
+59468,47.71253,-111.62842,Power,MT,Montana,True,,587.0,0.9,30099,Teton,"{""30099"": 71.23, ""30013"": 28.77}",Teton|Cascade,30099|30013,False,False,America/Denver
+59469,47.19087,-110.68378,Raynesford,MT,Montana,True,,143.0,0.5,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver
+59471,47.4161,-108.77191,Roy,MT,Montana,True,,303.0,0.1,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver
+59472,47.37939,-111.17095,Sand Coulee,MT,Montana,True,,843.0,5.9,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59474,48.53314,-111.69254,Shelby,MT,Montana,True,,3286.0,2.3,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59477,47.44467,-111.97419,Simms,MT,Montana,True,,390.0,2.3,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59479,47.016,-110.33696,Stanford,MT,Montana,True,,766.0,0.4,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver
+59480,47.22696,-111.12013,Stockett,MT,Montana,True,,365.0,1.0,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59482,48.88446,-111.86622,Sunburst,MT,Montana,True,,923.0,1.7,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59483,47.47212,-111.72261,Sun River,MT,Montana,True,,621.0,3.0,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59484,48.95074,-111.76795,Sweet Grass,MT,Montana,True,,101.0,0.2,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver
+59485,47.43264,-111.56667,Ulm,MT,Montana,True,,482.0,3.3,30013,Cascade,"{""30013"": 100}",Cascade,30013,False,False,America/Denver
+59486,48.33709,-112.35552,Valier,MT,Montana,True,,1200.0,0.9,30073,Pondera,"{""30073"": 100}",Pondera,30073,False,False,America/Denver
+59487,47.58393,-111.64592,Vaughn,MT,Montana,True,,1291.0,9.1,30013,Cascade,"{""30013"": 92.37, ""30099"": 7.63}",Cascade|Teton,30013|30099,False,False,America/Denver
+59489,47.64007,-109.25586,Winifred,MT,Montana,True,,334.0,0.2,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver
+59501,48.69591,-109.78556,Havre,MT,Montana,True,,12528.0,3.6,30041,Hill,"{""30041"": 95.74, ""30005"": 4.26}",Hill|Blaine,30041|30005,False,False,America/Denver
+59520,48.03822,-109.93749,Big Sandy,MT,Montana,True,,1093.0,0.4,30015,Chouteau,"{""30015"": 97.14, ""30005"": 2.33, ""30041"": 0.53}",Chouteau|Blaine|Hill,30015|30005|30041,False,False,America/Denver
+59521,48.30489,-109.972,Box Elder,MT,Montana,True,,3863.0,5.3,30041,Hill,"{""30041"": 81.61, ""30015"": 18.39}",Hill|Chouteau,30041|30015,False,False,America/Denver
+59522,48.56497,-110.98827,Chester,MT,Montana,True,,1908.0,0.9,30051,Liberty,"{""30051"": 100}",Liberty,30051,False,False,America/Denver
+59523,48.52013,-109.20829,Chinook,MT,Montana,True,,2034.0,0.5,30005,Blaine,"{""30005"": 98.86, ""30041"": 1.14}",Blaine|Hill,30005|30041,False,False,America/Denver
+59524,48.12273,-108.40374,Dodson,MT,Montana,True,,808.0,0.3,30071,Phillips,"{""30071"": 88.09, ""30005"": 11.91}",Phillips|Blaine,30071|30005,False,False,America/Denver
+59525,48.6524,-110.27405,Gildford,MT,Montana,True,,237.0,0.3,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver
+59526,48.4414,-108.67155,Harlem,MT,Montana,True,,2675.0,1.4,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver
+59527,48.04527,-108.74677,Hays,MT,Montana,True,,1041.0,1.9,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver
+59528,48.6233,-110.42628,Hingham,MT,Montana,True,,264.0,0.5,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver
+59529,48.79655,-108.69059,Hogeland,MT,Montana,True,,164.0,0.2,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver
+59530,48.60212,-110.68802,Inverness,MT,Montana,True,,125.0,0.2,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver
+59531,48.77294,-110.78334,Joplin,MT,Montana,True,,291.0,0.4,30051,Liberty,"{""30051"": 72.94, ""30041"": 27.06}",Liberty|Hill,30051|30041,False,False,America/Denver
+59532,48.58837,-110.08515,Kremlin,MT,Montana,True,,115.0,0.2,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver
+59535,47.94123,-109.26059,Lloyd,MT,Montana,True,,80.0,0.1,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver
+59537,48.84762,-107.93725,Loring,MT,Montana,True,,70.0,0.1,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver
+59538,48.02231,-107.8657,Malta,MT,Montana,True,,2779.0,0.4,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver
+59540,48.60665,-110.56418,Rudyard,MT,Montana,True,,343.0,0.3,30041,Hill,"{""30041"": 96.17, ""30015"": 3.83}",Hill|Chouteau,30041|30015,False,False,America/Denver
+59542,48.81907,-108.33693,Turner,MT,Montana,True,,204.0,0.1,30005,Blaine,"{""30005"": 65.31, ""30071"": 34.69}",Blaine|Phillips,30005|30071,False,False,America/Denver
+59544,48.81294,-107.59147,Whitewater,MT,Montana,True,,166.0,0.1,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver
+59545,48.94067,-111.21768,Whitlash,MT,Montana,True,,48.0,0.2,30051,Liberty,"{""30051"": 67.98, ""30101"": 32.02}",Liberty|Toole,30051|30101,False,False,America/Denver
+59546,47.88208,-108.55654,Zortman,MT,Montana,True,,135.0,0.6,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver
+59547,48.70576,-108.98747,Zurich,MT,Montana,True,,65.0,0.2,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver
+59601,46.54199,-112.17474,Helena,MT,Montana,True,,32165.0,95.4,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59602,46.73577,-111.90753,Helena,MT,Montana,True,,27154.0,20.0,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59623,46.58991,-112.04068,Helena,MT,Montana,True,,,,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59625,46.60135,-112.03891,Helena,MT,Montana,True,,,,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59631,46.29168,-112.38687,Basin,MT,Montana,True,,278.0,0.7,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver
+59632,46.16522,-111.99918,Boulder,MT,Montana,True,,1836.0,1.6,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver
+59633,46.82338,-112.36362,Canyon Creek,MT,Montana,True,,317.0,0.6,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59634,46.43583,-112.00986,Clancy,MT,Montana,True,,5320.0,8.2,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver
+59635,46.5546,-111.81749,East Helena,MT,Montana,True,,7172.0,34.8,30049,Lewis and Clark,"{""30049"": 38.17, ""30043"": 36.11, ""30007"": 25.72}",Lewis and Clark|Jefferson|Broadwater,30049|30043|30007,False,False,America/Denver
+59636,46.61614,-112.11399,Fort Harrison,MT,Montana,True,,54.0,6.4,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59638,46.3579,-112.02772,Jefferson City,MT,Montana,True,,705.0,4.5,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver
+59639,47.09436,-112.69371,Lincoln,MT,Montana,True,,1184.0,0.7,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59640,46.76814,-112.34922,Marysville,MT,Montana,True,,,,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59642,46.28045,-110.75624,Ringling,MT,Montana,True,,36.0,0.0,30059,Meagher,"{""30059"": 100}",Meagher,30059,False,False,America/Denver
+59643,46.13283,-111.57884,Toston,MT,Montana,True,,302.0,0.4,30007,Broadwater,"{""30007"": 100}",Broadwater,30007,False,False,America/Denver
+59644,46.419,-111.43885,Townsend,MT,Montana,True,,4334.0,2.3,30007,Broadwater,"{""30007"": 100}",Broadwater,30007,False,False,America/Denver
+59645,46.69476,-111.04729,White Sulphur Springs,MT,Montana,True,,1513.0,0.4,30059,Meagher,"{""30059"": 98.62, ""30007"": 1.38}",Meagher|Broadwater,30059|30007,False,False,America/Denver
+59647,46.46726,-111.65138,Winston,MT,Montana,True,,522.0,2.4,30007,Broadwater,"{""30007"": 100}",Broadwater,30007,False,False,America/Denver
+59648,47.07221,-112.14059,Wolf Creek,MT,Montana,True,,402.0,0.2,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver
+59701,46.03497,-112.46087,Butte,MT,Montana,True,,33685.0,25.5,30093,Silver Bow,"{""30093"": 48.47, ""30043"": 46.89, ""30023"": 4.64}",Silver Bow|Jefferson|Deer Lodge,30093|30043|30023,False,False,America/Denver
+59710,45.06801,-112.08613,Alder,MT,Montana,True,,243.0,0.1,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59711,46.09734,-113.10317,Anaconda,MT,Montana,True,,8855.0,6.1,30023,Deer Lodge,"{""30023"": 63.43, ""30039"": 25.76, ""30093"": 10.81}",Deer Lodge|Granite|Silver Bow,30023|30039|30093,False,False,America/Denver
+59713,46.67973,-112.61228,Avon,MT,Montana,True,,182.0,0.3,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59714,45.97538,-111.13112,Belgrade,MT,Montana,True,,21530.0,19.9,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver
+59715,45.6928,-110.9065,Bozeman,MT,Montana,True,,36760.0,48.1,30031,Gallatin,"{""30031"": 91.82, ""30067"": 8.18}",Gallatin|Park,30031|30067,False,False,America/Denver
+59716,45.28578,-111.3873,Big Sky,MT,Montana,True,,2477.0,14.8,30057,Madison,"{""30057"": 55.87, ""30031"": 44.13}",Madison|Gallatin,30057|30031,False,False,America/Denver
+59718,45.63999,-111.16978,Bozeman,MT,Montana,True,,39282.0,92.2,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver
+59720,44.95821,-111.59366,Cameron,MT,Montana,True,,126.0,0.1,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59721,45.85189,-111.88177,Cardwell,MT,Montana,True,,565.0,1.0,30043,Jefferson,"{""30043"": 61.65, ""30057"": 38.35}",Jefferson|Madison,30043|30057,False,False,America/Denver
+59722,46.35143,-112.75684,Deer Lodge,MT,Montana,True,,5655.0,5.6,30077,Powell,"{""30077"": 85.75, ""30023"": 14.25}",Powell|Deer Lodge,30077|30023,False,False,America/Denver
+59724,44.67716,-112.79359,Dell,MT,Montana,True,,81.0,0.1,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver
+59725,45.06267,-112.85714,Dillon,MT,Montana,True,,8018.0,1.6,30001,Beaverhead,"{""30001"": 96.05, ""30057"": 3.95}",Beaverhead|Madison,30001|30057,False,False,America/Denver
+59727,45.78797,-112.79394,Divide,MT,Montana,True,,269.0,0.3,30093,Silver Bow,"{""30093"": 79.64, ""30001"": 20.36}",Silver Bow|Beaverhead,30093|30001,False,False,America/Denver
+59728,46.50487,-112.41135,Elliston,MT,Montana,True,,327.0,0.7,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59729,45.31343,-111.64827,Ennis,MT,Montana,True,,2384.0,2.0,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59730,45.30988,-111.19025,Gallatin Gateway,MT,Montana,True,,2092.0,1.2,30031,Gallatin,"{""30031"": 94.04, ""30057"": 5.96}",Gallatin|Madison,30031|30057,False,False,America/Denver
+59731,46.58455,-112.76326,Garrison,MT,Montana,True,,142.0,0.4,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59732,45.48899,-112.69457,Glen,MT,Montana,True,,334.0,0.6,30001,Beaverhead,"{""30001"": 58.44, ""30057"": 41.56}",Beaverhead|Madison,30001|30057,False,False,America/Denver
+59733,46.54922,-112.94987,Gold Creek,MT,Montana,True,,234.0,0.6,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59735,45.65775,-111.84615,Harrison,MT,Montana,True,,260.0,0.9,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59736,45.34242,-113.3458,Jackson,MT,Montana,True,,146.0,0.2,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver
+59739,44.65378,-112.16963,Lima,MT,Montana,True,,267.0,0.1,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver
+59740,45.49871,-111.81159,McAllister,MT,Montana,True,,458.0,1.1,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59741,45.77265,-111.3638,Manhattan,MT,Montana,True,,5041.0,11.8,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver
+59743,45.60068,-112.74964,Melrose,MT,Montana,True,,153.0,0.3,30001,Beaverhead,"{""30001"": 62.75, ""30057"": 27.89, ""30093"": 9.36}",Beaverhead|Madison|Silver Bow,30001|30057|30093,False,False,America/Denver
+59745,45.5941,-111.60658,Norris,MT,Montana,True,,67.0,0.2,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59746,45.37137,-113.05332,Polaris,MT,Montana,True,,147.0,0.3,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver
+59747,45.69862,-111.93281,Pony,MT,Montana,True,,165.0,1.6,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59748,46.04611,-112.69601,Ramsay,MT,Montana,True,,245.0,4.4,30093,Silver Bow,"{""30093"": 100}",Silver Bow,30093,False,False,America/Denver
+59749,45.44332,-112.09548,Sheridan,MT,Montana,True,,2080.0,3.4,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59750,45.91857,-112.68323,Butte,MT,Montana,True,,390.0,1.5,30093,Silver Bow,"{""30093"": 100}",Silver Bow,30093,False,False,America/Denver
+59751,45.69001,-112.29755,Silver Star,MT,Montana,True,,277.0,4.0,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59752,45.92412,-111.52577,Three Forks,MT,Montana,True,,3878.0,3.7,30031,Gallatin,"{""30031"": 62.21, ""30043"": 19.43, ""30007"": 18.36}",Gallatin|Jefferson|Broadwater,30031|30043|30007,False,False,America/Denver
+59754,45.52435,-112.35339,Twin Bridges,MT,Montana,True,,966.0,1.0,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59755,45.27174,-111.94274,Virginia City,MT,Montana,True,,169.0,1.0,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver
+59756,46.17418,-112.83453,Warm Springs,MT,Montana,True,,475.0,17.8,30023,Deer Lodge,"{""30023"": 100}",Deer Lodge,30023,False,False,America/Denver
+59758,44.78962,-111.19348,West Yellowstone,MT,Montana,True,,1623.0,1.5,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver
+59759,45.83972,-112.16233,Whitehall,MT,Montana,True,,3784.0,3.3,30043,Jefferson,"{""30043"": 61.28, ""30057"": 32.23, ""30093"": 6.49}",Jefferson|Madison|Silver Bow,30043|30057|30093,False,False,America/Denver
+59760,45.76267,-111.60386,Willow Creek,MT,Montana,True,,251.0,2.1,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver
+59761,45.60427,-113.52661,Wisdom,MT,Montana,True,,319.0,0.1,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver
+59762,45.82231,-113.15271,Wise River,MT,Montana,True,,199.0,0.1,30023,Deer Lodge,"{""30023"": 56.11, ""30001"": 43.89}",Deer Lodge|Beaverhead,30023|30001,False,False,America/Denver
+59801,46.85505,-114.01009,Missoula,MT,Montana,True,,33427.0,1673.8,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59802,46.90569,-113.92077,Missoula,MT,Montana,True,,20778.0,176.8,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59803,46.77781,-113.95826,Missoula,MT,Montana,True,,18156.0,72.3,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59804,46.90084,-114.25066,Missoula,MT,Montana,True,,8072.0,24.7,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59808,46.97984,-114.064,Missoula,MT,Montana,True,,20165.0,49.6,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59812,46.86121,-113.98442,Missoula,MT,Montana,True,,,,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59820,46.89803,-114.61474,Alberton,MT,Montana,True,,2064.0,2.1,30061,Mineral,"{""30061"": 72.05, ""30063"": 27.95}",Mineral|Missoula,30061|30063,False,False,America/Denver
+59821,47.17603,-114.00431,Arlee,MT,Montana,True,,2650.0,3.2,30063,Missoula,"{""30063"": 43.96, ""30047"": 37.18, ""30089"": 18.86}",Missoula|Lake|Sanders,30063|30047|30089,False,False,America/Denver
+59823,46.96334,-113.59753,Bonner,MT,Montana,True,,1840.0,1.4,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59824,47.41817,-114.20362,Charlo,MT,Montana,True,,1258.0,5.2,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59825,46.66009,-113.66421,Clinton,MT,Montana,True,,2341.0,2.2,30039,Granite,"{""30039"": 61.49, ""30063"": 38.51}",Granite|Missoula,30039|30063,False,False,America/Denver
+59826,47.46339,-113.69827,Condon,MT,Montana,True,,578.0,0.6,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59827,45.88649,-114.08346,Conner,MT,Montana,True,,335.0,7.9,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59828,46.33478,-113.96444,Corvallis,MT,Montana,True,,5709.0,13.4,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59829,45.79814,-114.2614,Darby,MT,Montana,True,,2432.0,1.1,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59830,47.43419,-115.45896,De Borgia,MT,Montana,True,,183.0,0.7,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver
+59831,47.27732,-114.36296,Dixon,MT,Montana,True,,498.0,1.9,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59832,46.67864,-113.22904,Drummond,MT,Montana,True,,625.0,1.0,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver
+59833,46.64437,-114.07678,Florence,MT,Montana,True,,5444.0,13.7,30081,Ravalli,"{""30081"": 70.2, ""30063"": 29.8}",Ravalli|Missoula,30081|30063,False,False,America/Denver
+59834,47.06979,-114.2221,Frenchtown,MT,Montana,True,,2161.0,12.5,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59837,46.53898,-113.27688,Hall,MT,Montana,True,,560.0,1.1,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver
+59840,46.17558,-114.11674,Hamilton,MT,Montana,True,,13966.0,10.0,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59841,46.33384,-114.22319,Pinesdale,MT,Montana,True,,987.0,292.2,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59842,47.32526,-115.40107,Haugan,MT,Montana,True,,91.0,0.3,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver
+59843,46.84897,-113.01114,Helmville,MT,Montana,True,,295.0,0.3,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59844,48.00803,-115.9707,Heron,MT,Montana,True,,783.0,4.0,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59845,47.65892,-114.54734,Hot Springs,MT,Montana,True,,1355.0,1.2,30089,Sanders,"{""30089"": 66.98, ""30047"": 17.32, ""30029"": 15.7}",Sanders|Lake|Flathead,30089|30047|30029,False,False,America/Denver
+59846,47.14899,-114.50615,Huson,MT,Montana,True,,1236.0,2.3,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59847,46.73105,-114.37782,Lolo,MT,Montana,True,,6005.0,7.7,30063,Missoula,"{""30063"": 94.85, ""16049"": 5.15}",Missoula|Idaho,30063|16049,False,False,America/Denver
+59848,47.71526,-114.68162,Lonepine,MT,Montana,True,,108.0,1.4,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59851,46.87215,-113.87348,Milltown,MT,Montana,True,,99.0,108.4,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver
+59853,48.0571,-115.81522,Noxon,MT,Montana,True,,699.0,0.9,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59854,47.26481,-113.18997,Ovando,MT,Montana,True,,155.0,0.1,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver
+59855,47.60032,-114.11787,Pablo,MT,Montana,True,,675.0,738.5,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59856,47.38237,-114.73627,Paradise,MT,Montana,True,,526.0,10.5,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59858,46.29584,-113.48371,Philipsburg,MT,Montana,True,,1640.0,0.7,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver
+59859,47.5205,-114.80396,Plains,MT,Montana,True,,3194.0,1.7,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59860,47.71314,-114.17832,Polson,MT,Montana,True,,10834.0,16.0,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59863,47.29397,-114.17637,Ravalli,MT,Montana,True,,220.0,11.1,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59864,47.53324,-114.11741,Ronan,MT,Montana,True,,6757.0,14.0,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59865,47.33184,-114.0045,Saint Ignatius,MT,Montana,True,,3958.0,9.4,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59866,47.32207,-115.12329,Saint Regis,MT,Montana,True,,869.0,1.5,30061,Mineral,"{""30061"": 90.51, ""30089"": 9.49}",Mineral|Sanders,30061|30089,False,False,America/Denver
+59867,47.4028,-115.54993,Saltese,MT,Montana,True,,53.0,0.9,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver
+59868,47.21401,-113.53535,Seeley Lake,MT,Montana,True,,1963.0,3.0,30063,Missoula,"{""30063"": 95.82, ""30077"": 4.18}",Missoula|Powell,30063|30077,False,False,America/Denver
+59870,46.51596,-114.0618,Stevensville,MT,Montana,True,,11305.0,17.1,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59871,45.89666,-113.81366,Sula,MT,Montana,True,,268.0,0.3,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59872,47.10282,-114.90339,Superior,MT,Montana,True,,2049.0,1.5,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver
+59873,47.6972,-115.27357,Thompson Falls,MT,Montana,True,,3139.0,1.6,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59874,47.80675,-115.60749,Trout Creek,MT,Montana,True,,1554.0,1.6,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver
+59875,46.40793,-114.26151,Victor,MT,Montana,True,,3895.0,11.7,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver
+59901,48.22873,-114.40564,Kalispell,MT,Montana,True,,56951.0,46.9,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59910,47.82409,-114.23271,Big Arm,MT,Montana,True,,455.0,9.1,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59911,47.86041,-113.88552,Bigfork,MT,Montana,True,,8905.0,7.0,30047,Lake,"{""30047"": 83.62, ""30029"": 16.38}",Lake|Flathead,30047|30029,False,False,America/Denver
+59912,48.43879,-114.16898,Columbia Falls,MT,Montana,True,,15673.0,32.0,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59913,48.41391,-113.95045,Coram,MT,Montana,True,,456.0,3.4,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59914,47.86878,-114.29546,Dayton,MT,Montana,True,,326.0,11.2,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59915,47.82025,-114.41124,Elmo,MT,Montana,True,,563.0,3.8,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59916,48.31716,-113.65779,Essex,MT,Montana,True,,178.0,0.6,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59917,48.90614,-114.91359,Eureka,MT,Montana,True,,5008.0,7.9,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59918,48.75766,-114.8077,Fortine,MT,Montana,True,,808.0,3.3,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59919,48.3776,-114.05645,Hungry Horse,MT,Montana,True,,650.0,110.5,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59920,48.06412,-114.53464,Kila,MT,Montana,True,,1630.0,3.4,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59922,47.99962,-114.22227,Lakeside,MT,Montana,True,,2128.0,21.5,30029,Flathead,"{""30029"": 93.2, ""30047"": 6.8}",Flathead|Lake,30029|30047,False,False,America/Denver
+59923,48.26996,-115.31073,Libby,MT,Montana,True,,9154.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59925,48.04732,-114.83045,Marion,MT,Montana,True,,1526.0,1.6,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59926,48.36294,-114.00459,Martin City,MT,Montana,True,,369.0,14.2,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59927,48.56021,-114.717,Olney,MT,Montana,True,,270.0,0.5,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59928,48.79745,-114.29117,Polebridge,MT,Montana,True,,202.0,0.1,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59929,47.92365,-114.40272,Proctor,MT,Montana,True,,234.0,2.2,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59930,48.86277,-115.14514,Rexford,MT,Montana,True,,399.0,1.6,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59931,47.9208,-114.25486,Rollins,MT,Montana,True,,325.0,4.4,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver
+59932,48.0502,-114.24624,Somers,MT,Montana,True,,1355.0,19.2,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59933,48.70858,-114.76694,Stryker,MT,Montana,True,,66.0,1.3,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59934,48.63437,-114.94446,Trego,MT,Montana,True,,794.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59935,48.64726,-115.83505,Troy,MT,Montana,True,,3616.0,1.3,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver
+59936,48.17178,-113.46357,West Glacier,MT,Montana,True,,491.0,0.1,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
+59937,48.43893,-114.49769,Whitefish,MT,Montana,True,,13962.0,17.4,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver
