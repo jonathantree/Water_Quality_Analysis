@@ -1,7 +1,3 @@
-
-county-level      place
-  FIPS code        name
- ------------    --------------
 01000        Alabama
 01001        Autauga County
 01003        Baldwin County
@@ -2997,7 +2993,7 @@ county-level      place
 51760        Richmond city
 51770        Roanoke city
 51775        Salem city
-51780        South Boston city                (After 1990, part of Halifax County)
+51780        South Boston city
 51790        Staunton city
 51800        Suffolk city
 51810        Virginia Beach city
