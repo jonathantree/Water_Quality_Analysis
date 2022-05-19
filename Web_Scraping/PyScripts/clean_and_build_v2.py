@@ -6,7 +6,7 @@ import re
 data_dir = os.path.join('..', '..','Resources', 'Data', 'user_scrape_data')
 
 #Function that cleans the scraping data and builds/exports the final dataframe
-def clean_scraped_data(d):
+def clean_scraped_data(d, state_dir):
     #Zip code info with county FIPS that we need to join to the final df
     zips_df = pd.read_csv(os.path.join(d, 'zips.csv'), on_bad_lines='skip')
     
@@ -41,10 +41,16 @@ def clean_scraped_data(d):
     #Drop rows with non EWG Guideline for a contaminant
     df3.dropna(subset=['EWG HEALTH GUIDELINE'], inplace=True)
     
-    #Split of the contaminant measurements and units
+    #Split of the contaminant measurements and units and people served
     df3['Units'] = df3['Utility Measuremnt'].apply(lambda x: x.split()[-1])
     df3['Utility Measuremnt'] = df3['Utility Measuremnt'].apply(lambda x: x.split()[0])
     df3['EWG HEALTH GUIDELINE'] = df3['EWG HEALTH GUIDELINE'].apply(lambda x: x.split()[0])
+    df3['Legal Limit']=df3['Legal Limit'].apply(lambda x: '0 units' if pd.isnull(x) else x)
+    df3['Legal Limit'] = df3['Legal Limit'].apply(lambda x: x.split()[0])
+    df3['People served'] = df3['People served'].apply(lambda x: x.split(':')[-1])
+
+    #Add a column for the state
+    df3['State'] = pd.Series([state_dir for x in range(len(df3.index))])
     
     #Replace any commas in the thousandths place
     df3.replace(',','', regex=True, inplace=True)
@@ -52,14 +58,22 @@ def clean_scraped_data(d):
     #Change the datatype of the measurements and EWG Guidlines to numeric values
     df3['Utility Measuremnt'] = pd.to_numeric(df3['Utility Measuremnt'])
     df3['EWG HEALTH GUIDELINE'] = pd.to_numeric(df3['EWG HEALTH GUIDELINE'])
-    
+    df3['People served'] = pd.to_numeric(df3['People served'])
+
     #Define the Contaminant Factor (how many times larger is the utility measurement than EWG guideline)
     df3['Contaminant_Factor'] = df3['Utility Measuremnt']/df3['EWG HEALTH GUIDELINE']
     
     #Rename the column and drop the redundant 'Utility_other' column
     df3 = df3.rename(columns={'Utility_caller':'Utility'})
     df3 = df3.drop(columns=['Utility_other'])
+
+    #Reorder Columns
+    df3 = df3.reindex(columns=['State', 'City', 'Zip', 'Utility', 'People served', 'Contaminant', 'Utility Measuremnt', 'EWG HEALTH GUIDELINE',
+       'Legal Limit', 'Units', 'Contaminant_Factor'])
     
+    #Write cleaned dataset to state directory
+    df3.to_csv(os.path.join(d,'contaminants_cleaned.csv'), index=False)
+
     #Make a unique list of the Utilities to loop through next
     utlities_list = list(df3.Utility.unique())
     
@@ -70,11 +84,16 @@ def clean_scraped_data(d):
         temp_df = df3[df3.Utility == utility]
         cont_factor_sum = round(temp_df.Contaminant_Factor.sum())
         zipcode = temp_df['Zip'].values[0]
+        state = temp_df['State'].values[0]
+        pop_served = temp_df['People served'].values[0]
         #print(f'The Contaminant factor for {utility} is: {cont_factor_sum}')
         new_dataset_dict = {
-        'Utility' : utility,
-        'Contaminant_Factor' : cont_factor_sum,
-        'Zip' : zipcode
+            'State': state,
+            'Zip' : zipcode,
+            'Utility' : utility,
+            'Population Served': pop_served,
+            'Contaminant_Factor' : cont_factor_sum
+            
         }
         new_dataset.append(new_dataset_dict)
         
@@ -94,7 +113,7 @@ def clean_scraped_data(d):
 for state_dir in os.listdir(data_dir):
     d = os.path.join(data_dir, state_dir)
     print(d)
-    clean_scraped_data(d)
+    clean_scraped_data(d, state_dir)
 
 print('Finished cleaning every state scraped data')
 print ('==============================================')
@@ -112,8 +131,23 @@ for state_dir in os.listdir(data_dir):
 #Pandas likes to try to reset the int FIPS code to float, change it back before writing the file
 master_df.county_FIPS = pd.Series(master_df.county_FIPS, dtype=pd.Int64Dtype())
 
-print('Writing the master dataset file')
-master_df.to_csv(os.path.join('..', '..' , 'Resources', 'Data', 'Cleaned_Data', 'master_contaminants.csv'), index=False)
+print('Writing the master utilitily dataset file')
+master_df.to_csv(os.path.join('..', '..' , 'Resources', 'Data', 'Cleaned_Data', 'master_utilities.csv'), index=False)
+
+#Write a master data file for all of the conaminants cleaned .csv files
+states_data = os.path.join('..','..','Resources','Data','user_scrape_data')
+list_of_available_data = []
+
+for state_dir in os.listdir(states_data):
+    list_of_available_data.append(state_dir)
+
+data_files = [os.path.join(states_data,i,'contaminants_cleaned.csv') for i in list_of_available_data]
+
+#combine all files in the list
+combined_df = pd.concat([pd.read_csv(f) for f in data_files ])
+
+print('Writing the master contaminants dataset file')
+combined_df.to_csv(os.path.join('..', '..' , 'Resources', 'Data', 'Cleaned_Data', 'all_contaminants.csv'), index=False)
 
 print('Done')
 
