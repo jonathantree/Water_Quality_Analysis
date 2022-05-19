@@ -1,4 +1,3 @@
-from matplotlib.pyplot import pause
 import pandas as pd
 import os
 import re
