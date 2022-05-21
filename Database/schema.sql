@@ -61,3 +61,36 @@ INSERT INTO Utilities (
 DROP TABLE sqlitestudio_temp_table;
 
 PRAGMA foreign_keys = 1;
+
+CREATE TABLE "Census_Data" (
+"county_FIPS" INTEGER PRIMARY KEY,
+  "Geographic_Area_Name" TEXT,
+  "County" TEXT,
+  "GEOID" TEXT,
+  "Total_Population" INTEGER,
+  "White" INTEGER,
+  "Black" INTEGER,
+  "Native" INTEGER,
+  "Asian" INTEGER,
+  "Pacific_Islander" INTEGER,
+  "Other" INTEGER,
+  "Two_or_more_Races" INTEGER,
+  "Hispanic" INTEGER,
+  "Not_Hispanic" INTEGER,
+  "Not_White" INTEGER,
+  "pct_White" REAL,
+  "pct_Black" REAL,
+  "pct_Native" REAL,
+  "pct_Asian" REAL,
+  "pct_Pacific_Islander" REAL,
+  "pct_Other" REAL,
+  "pct_Not_White" REAL,
+  "pct_Hispanic" REAL,
+  "pct_Not_Hispanic" REAL,
+  "pct_Two_or_more_Races" REAL,
+  "Simpson_Race_DI" REAL,
+  "Simpson_Ethnic_DI" REAL,
+  "Shannon_Race_DI" REAL,
+  "Shannon_Ethnic_DI" REAL,
+  "Gini_Index" REAL
+)
