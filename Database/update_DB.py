@@ -111,5 +111,7 @@ DROP TABLE sqlitestudio_temp_table;
 PRAGMA foreign_keys = 1;
 ''')
 
+
+
 con.commit()
 con.close()
