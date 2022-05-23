@@ -7,7 +7,7 @@ require(reshape2)
 dat <- read.dta("https://stats.idre.ucla.edu/stat/data/ologit.dta")
 head(dat)
 
-# Outcome variable: unlikely, somewhat likely, or very likely to apply (coded 1, 2, 3 respecively)
+# Outcome variable: unlikely, somewhat likely, or very likely to apply (coded 1, 2, 3 respectively)
 # Pared - 0/1 indicates if at least one parent has a graduate degree
 # public (1 public, 0 private)
 # gpa 

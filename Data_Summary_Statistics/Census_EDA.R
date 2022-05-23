@@ -13,6 +13,10 @@ dbDisconnect(mydb)
 
 head(df)
 
+# Read csv data with outliers removed for contaminants
+df <- read.csv('../Census_Data_Cleaning/data_contaminant_outliers_removed.csv')
+summary(df)
+
 # Shapiro test
 
 numeric_df <- df[c('Total_Population', 'White', 'Black',
