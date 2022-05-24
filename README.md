@@ -1,14 +1,16 @@
 # 2022 Data Analytics Final Project
 ## Identifying at-risk and underserved communities with poor quality drinking water in the United States
 
+## [View the Google Presentation](https://docs.google.com/presentation/d/1KNtJILQS13t8GJm_S1Poi-_9Wk_sNTs_-LUTHM7UoB4/edit?usp=sharing)
+
 ## Project Overview
 The purpose of this project is to analyze drinking water quality to determine if the quality of the community's drinking water is correlated with certain demographic markers, such as income level. Specifically, we are aiming to use socioeconomic data and drinking water quality data to identify at-risk communities that are historically underserved. By identifying which communities are at most risk (i.e., poverty level, racial inequity) alongside our analysis of water quality data and our supervised machine learning model results, we can identify those high-priority communities. We can then have a subset of communities that can be targeted that need humanitarian support to remediate their water source.
 
 ### Why
-Access to clean drinking water, free of chemicals and biological material, is a basic human right. In the United States, we take access to clean drinking water for granted. The lead in the drinking water in Flint, MI was a wake-up call that perhaps other communities are also dealing with sub-par water. 
+Free of chemicals and biological material, access to clean drinking water is a basic human right. In the United States, we take access to clean drinking water for granted. The news of lead in the drinking water in Flint, MI was a wake-up call that perhaps other communities are also dealing with sub-par water. 
 
 ### Question
-Do communities with traditionally underserved demographics have access to clean drinking water?
+Do communities with traditionally underserved demographics have access to clean drinking water? If so, how can we prioritize which communities are most in the need of cleaner water?
 
 ### Team Communication 
 We are utilizing the following channels for communication and co-working:
@@ -17,13 +19,25 @@ We are utilizing the following channels for communication and co-working:
 - Zoom: for co-working sessions
 
 ## Data
-Data is being sourced from web scraping of [Environmental Working Group's Tap Water Database](https://www.ewg.org/tapwater/), and the US Census data (2010).
+Data is being sourced from web scraping of [Environmental Working Group's Tap Water Database](https://www.ewg.org/tapwater/), the 2020 United States Decennial Census ([curated on Kaggle.com](https://www.kaggle.com/datasets/zusmani/us-census-2020)), and Table B19083 from the United States Census American Community Survey, providing the Gini Index for each county in the United States.
 
 ## Project Flow Outline
 
 ### Data Collection and Preprocessing for ML Feature Engineering
 1. Census Data Workflow
-   - Calculation of diversity indices
+   - Download raw data from Kaggle and filter dataframe on column ```df['SUMLEV'] == 50``` to make a master .csv that includes the census data of all states.
+   - Read CSV into a dataframe and keep columns relating to the total population, the population of one race, the population of two or more races, Hispanic and Not Hispanic population, and geographic identifiers GEOCODE and GEOID (aka county_FIPS). 
+   - Calculation of diversity indices:
+      - Simpson Diversity Index for Race
+      - Simpson Diversity Index for Ethnicity
+      - The Simpson Diversity Index, D, is calculated as follows:
+      ![Simpson_Diversity_Index](images/Simpson_Diversity_Index.png)
+      - Shannon Diversity Index for Race
+      - Shannon Diversity Index for Ethnicity
+      - The Shannon Diversity Index, H, is calculated as follows:
+      ![Shannon_Diversity_Index](images/Shannon_Diversity_Index.png)
+  - Import Gini index data as .csv, save as DataFrame and merge with Census DataFrame on GEOID (unique geographic identifier).
+  - Using Sqlite3, export to a new table in the database, with the primary key "County_FIPS"
 2. EWG Web scraping
    - The [`web scraping script`](/Web_Scraping/PyScripts/scrape_EWG.py) receives a state ID from the user. It then creates [directory](/Resources/Data/user_scrape_data/) for that state where all of the scraped data are stored. The script generates a [list](/Resources/Data/user_scrape_data/AL/utilities.csv) of all of the water utilities in that state, visits each one, and pulls out the [data](/Resources/Data/user_scrape_data/AL/contaminants.csv) contained on each site about contaminants. 
    - Cleaning of web scraped data is done by executing the [`clean_and_build_v2.py`](/Web_Scraping/PyScripts/clean_and_build_v2.py) which steps through each state directory created by the [`web scraping script`](/Web_Scraping/PyScripts/scrape_EWG.py) and generates the [cleaned data file](/Resources/Data/user_scrape_data/AL/contaminants_cleaned.csv), and builds a master [dataset](/Resources/Data/Cleaned_Data/) containing all of the scraped data to update the database.
@@ -36,7 +50,10 @@ Data is being sourced from web scraping of [Environmental Working Group's Tap Wa
  3. Target Engineering for Binary Classification
     - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev.ipynb) which establishes the binary target was used for all binary classification model development.
 4. Supervised ML Binary Classification
-   - The benefit of choosing a binary classifier model is that there are many models to choose from and many hyperparameters for tuning. The drawback is that we are limited to two target values (high-prority to low-priority). 
+   - The benefit of choosing a binary classifier model is that there are many models to choose from and many hyperparameters for tuning. The drawback is that we are limited to only two priority values (high-prority to low-priority). 
+   - Initial testing of our models revealed that our weight established in the priority algorithm for water quality is not resulting in a significant predictor in priority. Instead, our models are relying on racial demographic data to establish priority. This is undesirable because we are trying to identify most importantly communities with poor water quality that are both racially diverse and show income inequality. The weight that our models determined best fit for these features is summarized below within the first model's summary. 
+   - A new approach will focus on weighting the water quality more heavily and thus not including a high priority value for counties with high diversity and income inequality but those who share those characteristics along with poor water quality.
+   - Another approach can include more selective feature selection, limiting the features to only water quality and diversity index values, since the models are too reliant on the proportion of non-white communities.
    - To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low).
    - The target had a slight imbalance and some resampling techniques were explored but did not yield any better results.
    - The feature selection included the following columns:
