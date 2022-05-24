@@ -5,7 +5,7 @@ require(Hmisc)
 require(reshape2)
 require(RSQLite)
 
-priority.df <- read.csv('data_with_ternary_priority.csv')
+priority.df <- read.csv('data_with_ternary_priority_no_outliers.csv')
 head(priority.df)
 
 Priority <- factor(priority.df$Priority, levels = c(0,1,2));
