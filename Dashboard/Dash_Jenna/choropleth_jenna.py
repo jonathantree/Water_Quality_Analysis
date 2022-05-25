@@ -21,8 +21,8 @@ cursor = conn.cursor()
 #Read in the Data from the DB
 census_df = pd.read_sql_query("SELECT * FROM Census_Data" ,conn)
 conn.close()
-file_to_read = os.path.join("..","..","Census_Data_Cleaning","zips_to_counties.csv")
-zips_to_counties = pd.read_csv(file_to_read)
+# file_to_read = os.path.join("..","..","Census_Data_Cleaning","zips_to_counties.csv")
+zips_to_counties = pd.read_csv("Census_Data_Cleaning/zips_to_counties.csv")
 df = pd.merge(zips_to_counties,census_df,how='left',left_on='county_fips',right_on="county_FIPS")
 
 # Build your components
