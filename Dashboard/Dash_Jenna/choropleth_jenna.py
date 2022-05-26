@@ -33,7 +33,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 df = pd.read_csv("census_data_for_graphs.csv", dtype={"zip":str,"fips":str})
 
 # Build your components
-app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
+app = Dash(__name__, external_stylesheets=[dbc.themes.SOLAR])
 mytitle = dcc.Markdown(children='')
 mygraph = dcc.Graph(figure={})
 zip_input = dcc.Input(#id='zip_code',
