@@ -39,9 +39,10 @@ mygraph = dcc.Graph(figure={})
 zip_input = dcc.Input(#id='zip_code',
                     type='numbers',
                     placeholder='Zip Code',
-                    value=97701,
+                    # value='',
                     debounce = True  # initial value displayed when page first loads
                     )
+submit_button = html.Button(n_clicks=0,children='Submit')
 # dropdown = dcc.Dropdown(#options=['59715','97701'],
 #                         options=df["zip"].values,
 #                         value='59715',
@@ -55,7 +56,7 @@ app.layout = dbc.Container([
         dbc.Col([mytitle], width=6)
     ], justify='center'),
     dbc.Row([
-        dbc.Col([mygraph], width=12)
+        dbc.Col([mygraph], width=6)
     ]),
     dbc.Row([
         dbc.Col([zip_input], width=6)
@@ -94,7 +95,7 @@ def update_graph(zip_code):  # function arguments come from the component proper
         hover_data=['County','Gini_Index']
     )
     
-    # fig.update_geos(fitbounds="locations", visible=False)
+    fig.update_geos(fitbounds="locations", visible=False)
     # fig.show()
     return fig , container # returned objects are assigned to the component property of the Output in the order
 
