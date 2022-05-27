@@ -29,7 +29,7 @@ df_map = df[['Simpson_Race_DI','Simpson_Ethnic_DI', 'Shannon_Race_DI',
 # app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
 
 app = Dash(__name__,
-                external_stylesheets=[dbc.themes.SANDSTONE],
+                external_stylesheets=[dbc.themes.LUX],
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
                 )
@@ -47,6 +47,7 @@ app = Dash(__name__,
 # Customize your own Layout
 
 app.layout = dbc.Container([
+    dbc.Row(html.H1("Water Quality Analysis")),
     dbc.Row([
         dbc.Col(dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
                         value='Gini_Index',
