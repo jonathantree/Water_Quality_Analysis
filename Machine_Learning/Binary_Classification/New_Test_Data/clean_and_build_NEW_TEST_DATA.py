@@ -6,7 +6,9 @@ import re
 #Function that cleans the scraping data and builds/exports the final dataframe
 def clean_scraped_data(state_dir):
     #Zip code info with county FIPS that we need to join to the final df
-    zips_df = pd.read_csv(os.path.join(state_dir, 'zips.csv'), dtype={'zip':str})
+    zips_df = pd.read_csv(os.path.join(state_dir, 'zips.csv'), dtype={'zip':str, 'count_FIPS' : str})
+    zips_df['county_fips'] = zips_df['county_fips'].apply('{:0>5}'.format)
+
     
     # Contaminant scraped data
     EWG_Scrape_df = pd.read_csv(os.path.join(state_dir, 'contaminants.csv'), on_bad_lines='skip')

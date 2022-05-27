@@ -10,7 +10,7 @@ import os
 
 start_time = time.time()
 #Read in the master data set of zip codes to filter for state on user prompr
-us_zip_df = pd.read_csv('../../Resources/Data/simplemaps_uszips_basicv1.80/uszips.csv', dtype={'zip':str})
+us_zip_df = pd.read_csv('../../Resources/Data/simplemaps_uszips_basicv1.80/uszips.csv', dtype={'zip':str, 'count_FIPS' : str})
 
 #Create a list of all of the state ID's to assist user in selecting a state ID
 states_list = list(us_zip_df.state_id.unique().ravel())
