@@ -1,5 +1,4 @@
-# 2022 Data Analytics Final Project
-## Identifying at-risk and underserved communities with poor quality drinking water in the United States
+# Identifying at-risk and underserved communities with poor quality drinking water in the United States
 
 ## [View the Google Presentation](https://docs.google.com/presentation/d/1KNtJILQS13t8GJm_S1Poi-_9Wk_sNTs_-LUTHM7UoB4/edit?usp=sharing)
 
