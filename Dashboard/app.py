@@ -11,7 +11,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     counties = json.load(response)
 
 # Read data
-df = pd.read_csv("census_cont_zip_data_for_graphs.csv", dtype={"zip":str,"fips":str})
+df = pd.read_csv('census_contaminant_priority_by_zip.csv', dtype={"zip":str,"fips":str})
 db = r'/Users/jennadodge/uofo-virt-data-pt-12-2021-u-b/Water_Quality_Analysis/Database/database.sqlite3'
 conn = sqlite3.connect(db)
 # Create cursor object
@@ -20,10 +20,10 @@ contaminants_df = pd.read_sql_query("SELECT * FROM all_contaminants",conn)
 conn.close()
 contaminants_df["Zip"] = contaminants_df["Zip"].astype(str).str[:-2].apply('{:0>5}'.format)  
 print(contaminants_df.head())
-df_map = df[['Simpson_Race_DI','Simpson_Ethnic_DI', 'Shannon_Race_DI',
-       'Shannon_Ethnic_DI', 'Gini_Index',
-       'Num_Contaminants', 'Sum_Population_Served',
-       'Sum_ContaminantFactor']]
+df_map = df[['Simpson Race Diversity Index','Simpson Ethnic Diversity Index', 'Shannon Race Diversity Index',
+       'Shannon Ethnic Diversity Index', 'Gini Index',
+       'Number of Contaminants', 'Population Served',
+       'Total Contaminant Factor']]
 
 # Build your components
 # app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
