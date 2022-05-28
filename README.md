@@ -47,35 +47,13 @@ Data is being sourced from web scraping of [Environmental Working Group's Tap Wa
      df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary on Census_Data.county_FIPS = Contaminant_Summary.county_FIPS",conn)
      ```
  3. Target Engineering for Binary Classification
-    - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev.ipynb) which establishes the binary target was used for all binary classification model development.
+    - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev_v2.ipynb) which establishes the binary target was used for all binary classification model development. This algorithm was adapted from a previous version to only establish a high priority taret if the water quality index (Sum_ContaminantFactor) was greater than the median.
 4. Supervised ML Binary Classification
    - The benefit of choosing a binary classifier model is that there are many models to choose from and many hyperparameters for tuning. The drawback is that we are limited to only two priority values (high-prority to low-priority). 
-   - Initial testing of our models revealed that our weight established in the priority algorithm for water quality is not resulting in a significant predictor in priority. Instead, our models are relying on racial demographic data to establish priority. This is undesirable because we are trying to identify most importantly communities with poor water quality that are both racially diverse and show income inequality. The weight that our models determined best fit for these features is summarized below within the first model's summary. 
-   - A new approach will focus on weighting the water quality more heavily and thus not including a high priority value for counties with high diversity and income inequality but those who share those characteristics along with poor water quality.
-   - Another approach can include more selective feature selection, limiting the features to only water quality and diversity index values, since the models are too reliant on the proportion of non-white communities.
    - To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low).
-   - The target had a slight imbalance and some resampling techniques were explored but did not yield any better results.
-   - The feature selection included the following columns:
-      - pct_White                 float64
-      -  pct_Black                 float64
-      -  pct_Native                float64
-      -  pct_Asian                 float64
-      -  pct_Pacific_Islander      float64
-      -  pct_Other                 float64
-      -  pct_Not_White             float64
-      -  pct_Hispanic              float64
-      -  pct_Not_Hispanic          float64
-      - pct_Two_or_more_Races     float64
-      - Simpson_Race_DI           float64
-      - Simpson_Ethnic_DI         float64
-      - Shannon_Race_DI           float64
-      - Shannon_Ethnic_DI         float64
-      - Gini_Index                float64
-      - Num_Contaminants            int64
-      - Sum_ContaminantFactor       int64
-      - Avg_Contaminant_Factor    float64
-    - These features were selected due to their ability to characterize a county's racial distribution, income inequality, and, the overall water quality to the county residents have access. 
-   - The top-performing model was XGBoost `GBClassifier` with a 98% accuracy
+   - The top-performing model was Balanced Random Forest Classifier with a 98% accuracy and the  Easy Ensemble AdaBoost Classifier performed with a 97% accuracy.
+
+### NEED To EDIT FROM THIS POINT ON
    - Binary Classification models test were:
       - Balanced Random Forest Classifier  
       - Easy Ensemble AdaBoost Classifier
