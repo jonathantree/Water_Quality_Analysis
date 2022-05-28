@@ -28,51 +28,57 @@ df_map = df[['Simpson Race Diversity Index','Simpson Ethnic Diversity Index', 'S
        'Total Contaminant Factor']]
 
 app = Dash(__name__,
-                external_stylesheets=[dbc.themes.LUX],
+                external_stylesheets=[dbc.themes.FLATLY],
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
                 )
-                        
+# Add a title
+app.title=("Water Quality Analysis")                   
 #--------------------------------------------------------------------------
 # Customize the Layout
 
 app.layout = dbc.Container([
-    dbc.Row(html.H1("Water Quality Analysis")),
+
+    dbc.Row( #Title
+        dbc.Col(html.H1("Water Quality Analysis",
+                    className='text-center text-primary mb-4'), #mb-4 padding
+            width=12)
+    ),
+
     dbc.Row([
-        dbc.Col(html.H4("Please select a value"), width=6),
-        dbc.Col(dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
+
+        dbc.Col([
+            html.H5("Please Select A Value", className='mb-3'),
+            dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
                         value='Gini Index',
-                        clearable=False), width=6)
+                        clearable=False),
+            dcc.Graph(id='mygraph', figure={}), 
+        ], width=12),
+ 
     ], justify='center'),
+
+
     dbc.Row([
-        dbc.Col(dcc.Graph(id='mygraph', figure={}), width=12)
-    ]),
-    dbc.Row([
-        dbc.Col(html.H4("Please Select a State"), width = 6),
-        dbc.Col(dcc.Dropdown(id='states_dropdown',options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
+        dbc.Col([
+            html.P("Please Select a State"), 
+            dcc.Dropdown(id='states_dropdown',options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
                         value='VT',
-                        clearable=False), width=6)
-    ], justify='center'),
-    dbc.Row([
-        dbc.Col(html.H4("Zip Code:")),                
-        dbc.Col(dcc.Input(id='zip_code',
+                        clearable=False),
+            dcc.Graph(id='myhist', figure={})
+        ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
+
+        dbc.Col([
+            html.P("Zip Code:"),
+            dcc.Input(id='zip_code',
                     type='number',
                     # placeholder='',
-                    value=97701,
+                    value=97124,
                     debounce = True  # initial value displayed when page first loads
-                    ),width=6),
+                    ),
+            dcc.Graph(id='gauge',figure={})
+        ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], justify='center'),
-    dbc.Row([
-        dbc.Col(dcc.Graph(id='myhist', figure={}), width=6),
-        # dbc.Col(daq.Gauge(id='gauge',
-        #     label='Priority',
-        #     scale={'start':0,'interval':1,'labelInterval':1},
-        #     value = dff.Priority,
-        #     min=0,
-        #     max=3,
-        #      ), width=6)
-        dbc.Col(dcc.Graph(id='gauge',figure={}),width=6)
-    ], justify='center'),
+    
     dbc.Row([
         dbc.Col(dcc.Graph(id='scatter', figure={}), width=12)
     ], justify='center'),
@@ -107,9 +113,7 @@ def update_graph(column_name):  # function arguments come from the component pro
         hover_data=['County',column_name]
     )
     
-    # fig.update_geos(fitbounds="locations", visible=False)
-    # fig.show()
-    return fig #, container # returned objects are assigned to the component property of the Output in the order
+    return fig 
 
 @app.callback(
     Output('myhist','figure'),
@@ -172,14 +176,12 @@ def update_gauge(zip):
         domain={'x': [0, 1], 'y': [0, 1]},
         title={'text':'Priority','font':{'size':24}},
         gauge = {
-            'axis':{'range':[-0.5,2.5]},
+            'axis':{'range':[-0.25,1.25]},
+            'bar':{'color':'teal'},
             'steps':[
-                {'range':[-0.5,0.5],'color':'lightgray'},
-                {'range':[0.5,1.5],'color':'gray'},
-                {'range':[1.5,2.5],'color':'lightblue'}],
-            'threshold':{'line':{'color':'red','width':4}, 'thickness':0.75,'value':2.5}
-        },
-    ))
+                {'range':[0,0.5],'color':'lightgray'},
+                {'range':[0.5,1.0],'color':'gray'}]
+        },))
 
     return fig4
 
