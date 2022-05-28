@@ -1,10 +1,12 @@
 from dash import Dash, dcc, Output, Input, html  
 import dash_bootstrap_components as dbc    
 import plotly.express as px
+import plotly.graph_objects as go
 import pandas as pd                       
 import sqlite3
 from urllib.request import urlopen
 import json
+import dash_daq as daq
 
 #import and clean data
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
@@ -25,44 +27,54 @@ df_map = df[['Simpson Race Diversity Index','Simpson Ethnic Diversity Index', 'S
        'Number of Contaminants', 'Population Served',
        'Total Contaminant Factor']]
 
-# Build your components
-# app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
-
 app = Dash(__name__,
                 external_stylesheets=[dbc.themes.LUX],
                 meta_tags=[{'name': 'viewport',
                             'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
                 )
-
-# mygraph = dcc.Graph(figure={})
-# myhist = dcc.Graph(figure={})
-# dropdown = dcc.Dropdown(options=df_map.columns.values,
-#                         value='Gini_Index',
-#                         clearable=False)
-# states_dropdown = dcc.Dropdown(options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
-#                         value='VT',
-#                         clearable=False)
                         
 #--------------------------------------------------------------------------
-# Customize your own Layout
+# Customize the Layout
 
 app.layout = dbc.Container([
     dbc.Row(html.H1("Water Quality Analysis")),
     dbc.Row([
+        dbc.Col(html.H4("Please select a value"), width=6),
         dbc.Col(dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
-                        value='Gini_Index',
+                        value='Gini Index',
                         clearable=False), width=6)
     ], justify='center'),
     dbc.Row([
         dbc.Col(dcc.Graph(id='mygraph', figure={}), width=12)
     ]),
     dbc.Row([
+        dbc.Col(html.H4("Please Select a State"), width = 6),
         dbc.Col(dcc.Dropdown(id='states_dropdown',options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
                         value='VT',
                         clearable=False), width=6)
     ], justify='center'),
     dbc.Row([
-        dbc.Col(dcc.Graph(id='myhist', figure={}), width=6)
+        dbc.Col(html.H4("Zip Code:")),                
+        dbc.Col(dcc.Input(id='zip_code',
+                    type='number',
+                    # placeholder='',
+                    value=97701,
+                    debounce = True  # initial value displayed when page first loads
+                    ),width=6),
+    ], justify='center'),
+    dbc.Row([
+        dbc.Col(dcc.Graph(id='myhist', figure={}), width=6),
+        # dbc.Col(daq.Gauge(id='gauge',
+        #     label='Priority',
+        #     scale={'start':0,'interval':1,'labelInterval':1},
+        #     value = dff.Priority,
+        #     min=0,
+        #     max=3,
+        #      ), width=6)
+        dbc.Col(dcc.Graph(id='gauge',figure={}),width=6)
+    ], justify='center'),
+    dbc.Row([
+        dbc.Col(dcc.Graph(id='scatter', figure={}), width=12)
     ], justify='center'),
 
 ], fluid=True)
@@ -95,7 +107,6 @@ def update_graph(column_name):  # function arguments come from the component pro
         hover_data=['County',column_name]
     )
     
-    
     # fig.update_geos(fitbounds="locations", visible=False)
     # fig.show()
     return fig #, container # returned objects are assigned to the component property of the Output in the order
@@ -120,6 +131,57 @@ def update_hist(state_input):
         xaxis_title="Number of Occurences"
     )
     return fig2
+
+@app.callback(
+    Output('scatter','figure'),
+    Input('states_dropdown','value')
+)
+
+def update_scatter(state_input):
+
+    c_df = contaminants_df.copy()
+    c_df2 = c_df[c_df.State == state_input]
+    top_c_df =c_df2.groupby(by=["Contaminant"]).sum().sort_values(by=['Contaminant_Factor'], ascending=False)[['People_served', 'Contaminant_Factor']]
+    top15_c_df = top_c_df.head(15)
+    top15_c_df = top15_c_df.reset_index()
+
+    fig3 = px.scatter(
+        data_frame = top15_c_df, 
+        x="Contaminant", 
+        y="People_served",
+        size="Contaminant_Factor", 
+        color="Contaminant",
+        hover_name="Contaminant", 
+        size_max=60
+    )
+    return fig3
+
+@app.callback(
+    Output('gauge','figure'),
+    Input('zip_code','value')
+)
+
+def update_gauge(zip):
+    zip = str(zip)
+    dff = df.copy()
+    dff = dff[dff['zip']==zip]
+
+    fig4 = go.Figure(go.Indicator(
+        mode = "gauge+number",
+        value=dff.Priority.values[0],
+        domain={'x': [0, 1], 'y': [0, 1]},
+        title={'text':'Priority','font':{'size':24}},
+        gauge = {
+            'axis':{'range':[-0.5,2.5]},
+            'steps':[
+                {'range':[-0.5,0.5],'color':'lightgray'},
+                {'range':[0.5,1.5],'color':'gray'},
+                {'range':[1.5,2.5],'color':'lightblue'}],
+            'threshold':{'line':{'color':'red','width':4}, 'thickness':0.75,'value':2.5}
+        },
+    ))
+
+    return fig4
 
 # Run app
 if __name__=='__main__':
