@@ -1,0 +1,195 @@
+from dash import Dash, dcc, Output, Input, html  
+import dash_bootstrap_components as dbc    
+import plotly.express as px
+import plotly.graph_objects as go
+import pandas as pd                       
+import sqlite3
+from urllib.request import urlopen
+import json
+# import dash_daq as daq
+import pathlib
+from app import app
+
+#import and clean data
+with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+    counties = json.load(response)
+
+# Read data
+PATH = pathlib.Path(__file__).parent
+DATA_PATH = PATH.joinpath("../datasets").resolve()
+df = pd.read_csv(DATA_PATH.joinpath('census_contaminant_priority_by_zip.csv'), dtype={"zip":str,"fips":str})
+# df = pd.read_csv('../datasets/census_contaminant_priority_by_zip.csv',dtype={"zip":str,"fips":str})
+db = r'/Users/jennadodge/uofo-virt-data-pt-12-2021-u-b/Water_Quality_Analysis/Database/database.sqlite3'
+conn = sqlite3.connect(db)
+# Create cursor object
+cursor = conn.cursor()
+contaminants_df = pd.read_sql_query("SELECT * FROM all_contaminants",conn)
+conn.close()
+contaminants_df["Zip"] = contaminants_df["Zip"].astype(str).str[:-2].apply('{:0>5}'.format)  
+print(contaminants_df.head())
+df_map = df[['Simpson Race Diversity Index','Simpson Ethnic Diversity Index', 'Shannon Race Diversity Index',
+       'Shannon Ethnic Diversity Index', 'Gini Index',
+       'Number of Contaminants', 'Population Served',
+       'Total Contaminant Factor']]
+
+# app = Dash(__name__,
+#                 external_stylesheets=[dbc.themes.FLATLY],
+#                 meta_tags=[{'name': 'viewport',
+#                             'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.2, minimum-scale=0.5,'}]
+#                 )
+# Add a title
+# app.title=("Water Quality Analysis")                   
+#--------------------------------------------------------------------------
+# Customize the Layout
+
+layout = dbc.Container([
+
+    dbc.Row( #Title
+        dbc.Col(html.H1("Water Quality Analysis",
+                    className='text-center text-primary mb-4'), #mb-4 padding
+            width=12)
+    ),
+
+    dbc.Row([
+
+        dbc.Col([
+            html.H5("Please Select A Value", className='mb-3'),
+            dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
+                        value='Gini Index',
+                        clearable=False),
+            dcc.Graph(id='mygraph', figure={}), 
+        ], width=12),
+ 
+    ], justify='center'),
+
+
+    dbc.Row([
+        dbc.Col([
+            html.P("Please Select a State"), 
+            dcc.Dropdown(id='states_dropdown',options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
+                        value='VT',
+                        clearable=False),
+            dcc.Graph(id='myhist', figure={})
+        ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
+
+        dbc.Col([
+            html.P("Zip Code:"),
+            dcc.Input(id='zip_code',
+                    type='number',
+                    # placeholder='',
+                    value=97124,
+                    debounce = True  # initial value displayed when page first loads
+                    ),
+            dcc.Graph(id='gauge',figure={})
+        ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
+    ], justify='center'),
+    
+    dbc.Row([
+        dbc.Col(dcc.Graph(id='scatter', figure={}), width=12)
+    ], justify='center'),
+
+], fluid=True)
+
+#-----------------------------------------------------
+# Callback allows components to interact
+@app.callback(
+    Output('mygraph', 'figure'),
+    Input('dropdown', 'value')
+)
+
+def update_graph(column_name):  # function arguments come from the component property of the Input
+    print(column_name)
+    print(type(column_name))
+
+    # container = "The column chosen by the user was: {}".format(column_name)
+
+    # https://plotly.com/python/choropleth-maps/
+    fig = px.choropleth(
+        data_frame = df, 
+        # locationmode='USA-states',
+        geojson=counties, 
+        locations='fips',
+        scope='usa', 
+        color=column_name,
+        color_continuous_scale="Viridis",
+        # range_color=(min(column_name.values), max(column_name.values)),                           
+        # template='plotly_dark',
+        # labels={'Gini_Index':'Gini Index'},
+        hover_data=['County',column_name]
+    )
+    
+    return fig 
+
+@app.callback(
+    Output('myhist','figure'),
+    Input('states_dropdown','value')
+)
+def update_hist(state_input):
+    print(state_input)
+
+    dff = contaminants_df.copy()
+    dff = dff[dff['State']==state_input]
+    dff = dff.groupby(["Contaminant"]).size().to_frame().sort_values([0], ascending = True).tail(10).reset_index()
+    dff = dff.rename(columns={0: 'Count of Contaminant'})
+
+    fig2 = px.histogram(
+        data_frame = dff, 
+        x = 'Count of Contaminant', 
+        y="Contaminant").update_layout(
+        title={"text": "Top Ten Contaminants", "x": 0.5}, 
+        xaxis_title="Number of Occurences"
+    )
+    return fig2
+
+@app.callback(
+    Output('scatter','figure'),
+    Input('states_dropdown','value')
+)
+
+def update_scatter(state_input):
+
+    c_df = contaminants_df.copy()
+    c_df2 = c_df[c_df.State == state_input]
+    top_c_df =c_df2.groupby(by=["Contaminant"]).sum().sort_values(by=['Contaminant_Factor'], ascending=False)[['People_served', 'Contaminant_Factor']]
+    top15_c_df = top_c_df.head(15)
+    top15_c_df = top15_c_df.reset_index()
+
+    fig3 = px.scatter(
+        data_frame = top15_c_df, 
+        x="Contaminant", 
+        y="People_served",
+        size="Contaminant_Factor", 
+        color="Contaminant",
+        hover_name="Contaminant", 
+        size_max=60
+    )
+    return fig3
+
+@app.callback(
+    Output('gauge','figure'),
+    Input('zip_code','value')
+)
+
+def update_gauge(zip):
+    zip = str(zip)
+    dff = df.copy()
+    dff = dff[dff['zip']==zip]
+
+    fig4 = go.Figure(go.Indicator(
+        mode = "gauge+number",
+        value=dff.Priority.values[0],
+        domain={'x': [0, 1], 'y': [0, 1]},
+        title={'text':'Priority','font':{'size':24}},
+        gauge = {
+            'axis':{'range':[-0.25,1.25]},
+            'bar':{'color':'teal'},
+            'steps':[
+                {'range':[0,0.5],'color':'lightgray'},
+                {'range':[0.5,1.0],'color':'gray'}]
+        },))
+
+    return fig4
+
+# # Run app
+# if __name__=='__main__':
+#     app.run_server(debug=True, port=8045)

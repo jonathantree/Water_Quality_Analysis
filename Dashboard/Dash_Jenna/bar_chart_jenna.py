@@ -9,8 +9,8 @@ import os
 
 
 #import and clean data
-with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
-    counties = json.load(response)
+# with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+#     counties = json.load(response)
 
 # incorporate data into app
 # Connect to SQLite database
