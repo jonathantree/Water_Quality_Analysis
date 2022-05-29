@@ -46,7 +46,7 @@ Data is being sourced from web scraping of [Environmental Working Group's Tap Wa
       ``` python 
      df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary on Census_Data.county_FIPS = Contaminant_Summary.county_FIPS",conn)
      ```
- 3. Target Engineering for Binary Classification
+ 4. Target Engineering for Binary Classification
     - The Following SQLite Queries builds the features used for the Binary Classification:
  ```python
 con.execute('''
@@ -66,8 +66,8 @@ df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary
 
  ``` 
    - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev_v2.ipynb) which establishes the binary target was used for all binary classification model development. This algorithm was adapted from a previous version to only establish a high priority taret if the water quality index (Sum_ContaminantFactor) was greater than the median.
-4. To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low). These efforts have not been fully implemented and are stillunder construction.
-5. Supervised ML Binary Classification
+5. To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low). These efforts have not been fully implemented and are stillunder construction.
+6. Supervised ML Binary Classification
    - The benefit of choosing a binary classifier model is that there are many models to choose from and many hyperparameters for tuning. The drawback is that we are limited to only two priority values (high-prority to low-priority). 
    - The top-performing model was Balanced Random Forest Classifier with a 98% accuracy and the Easy Ensemble AdaBoost Classifier performed with a 97% accuracy.
    - Feature Selection:
@@ -98,9 +98,10 @@ sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
    - Only the top weighted ethnic and race diversity indeces were chosen because redunancy of a correlated feature is unnecesary and does not affect the accuracy of the model.    
    - Outlier detection and filtering on the Sum_Contaminant feature was done as a Inter-quartile Range method (see code blocks below for more detail).
    - Features were then scaled using scikitlearn `StandardScalar`
-   - The model is saved using `pickle`. This model can then be loaded in to our Dash app for active prediction of newly scraped data from user input of a zip code.
-   - The model is currently being evaluated using new test data from Arkansas.
-6. Dashboard Construction:
+   - The models are saved using `pickle`. This model can then be loaded in to our Dash app for active prediction of newly scraped data from user input of a zip code.
+   - The models were used to make predictions on the new test data from Arkansas (see the [script](/Machine_Learning/Binary_Classification/New_Predictions.ipynb) for details). This test data recieved all low-priority predictions from both the Easy Ensemble Classifier and the Balanced Random Forrest model. This is due to the fact that the feature (Sum_ContaminantFactor) was not at high enough levels for any of the counties with similar levels of ethinic and race indices, so the models predicted low-priority. 
+   - Example from the new test data: A county had a `Sum_ContaminantFactor` > 5000 yet a `Simpson_Ethnic_DI` < 0.15. These parameters alone are enough to trigger a low-priority prediction form tehse models.
+7. Dashboard Construction:
    - The dashboard we are using to host this project is a Plotly Dash App
    - The app is hosted on Heroku
    - A link to our dashboard is at the top of this README and is also here: [link](www.link.com) 
