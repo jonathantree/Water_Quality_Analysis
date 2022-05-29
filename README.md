@@ -47,36 +47,65 @@ Data is being sourced from web scraping of [Environmental Working Group's Tap Wa
      df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary on Census_Data.county_FIPS = Contaminant_Summary.county_FIPS",conn)
      ```
  3. Target Engineering for Binary Classification
-    - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev_v2.ipynb) which establishes the binary target was used for all binary classification model development. This algorithm was adapted from a previous version to only establish a high priority taret if the water quality index (Sum_ContaminantFactor) was greater than the median.
-4. Supervised ML Binary Classification
+    - The Following SQLite Queries builds the features used for the Binary Classification:
+ ```python
+con.execute('''
+CREATE TABLE Contaminant_Summary AS SELECT Utilities.County_FIPS,
+                                           COUNT(county_FIPS) AS Num_Contaminants,
+                                           SUM(Population_Served) AS Sum_Population_Served,
+                                           SUM(Contaminant_Factor) AS Sum_ContaminantFactor,
+                                           min(Contaminant_Factor) AS Min_Contaminant_Factor,
+                                           max(Contaminant_Factor) AS Max_Contaminant_Factor,
+                                           round(avg(Contaminant_Factor), 2) AS Avg_Contaminant_Factor
+                                      FROM Utilities
+                                     GROUP BY County_FIPS;
+                                 
+''')
+
+df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary on Census_Data.county_FIPS = Contaminant_Summary.county_FIPS",conn)
+
+ ``` 
+   - To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0). The [algorithm](/Priority_Algo_dev/Priority_algo_dev_v2.ipynb) which establishes the binary target was used for all binary classification model development. This algorithm was adapted from a previous version to only establish a high priority taret if the water quality index (Sum_ContaminantFactor) was greater than the median.
+4. To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low). These efforts have not been fully implemented and are stillunder construction.
+5. Supervised ML Binary Classification
    - The benefit of choosing a binary classifier model is that there are many models to choose from and many hyperparameters for tuning. The drawback is that we are limited to only two priority values (high-prority to low-priority). 
-   - To gain access to predicting multiple levels of priorities, we are also exploring the development of an ordinal logistic regression model which will be developed in `R`. This model allows us to predict variables that are not only categorical but they are also following an order (low to high / high to low).
-   - The top-performing model was Balanced Random Forest Classifier with a 98% accuracy and the  Easy Ensemble AdaBoost Classifier performed with a 97% accuracy.
+   - The top-performing model was Balanced Random Forest Classifier with a 98% accuracy and the Easy Ensemble AdaBoost Classifier performed with a 97% accuracy.
+   - Feature Selection:
+      - Simpson_Race_DI           
+      - Simpson_Ethnic_DI         
+      - Shannon_Race_DI           
+      - Shannon_Ethnic_DI         
+      - Gini_Index                
+      - Num_Contaminants          
+      - Sum_ContaminantFactor     
+      - Avg_Contaminant_Factor
+### Figure 1. `sns.pairplot` of our feature distributions colored by the priority target high or low priority
+![png](/Machine_Learning/Binary_Classification/EEC_BRF_BC_Models_files/EEC_BRF_BC_Models_26_2.png)
 
-### NEED To EDIT FROM THIS POINT ON
-   - Binary Classification models test were:
-      - Balanced Random Forest Classifier  
-      - Easy Ensemble AdaBoost Classifier
-      - GBClassifier
-      - Other under/oversampling techniques were also explored but did not yield better results than the aforementioned models
-- These models are summarized below in the following code:
-
+### Figure 2. Bubble plot of the top three features based on importance in the Random Forest model
+![png](/images/ShannonEI_TCF_Target.png)
+   - These features have been selected based on previous models showing the feature importance weights (see the code blocks below). 
 ```python
-import sqlite3
-import warnings
-warnings.filterwarnings('ignore')
-import numpy as np
-import pandas as pd
-from pathlib import Path
-from collections import Counter
-from sklearn.metrics import balanced_accuracy_score
-from sklearn.metrics import confusion_matrix
-from imblearn.metrics import classification_report_imbalanced
-from sklearn.model_selection import train_test_split
-
+# List the features sorted in descending order by feature importance
+sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
 ```
+    [(0.3328339120046307, 'Simpson_Ethnic_DI'),
+     (0.30260330303838934, 'Shannon_Race_DI'),
+     (0.2502549828888729, 'Sum_ContaminantFactor'),
+     (0.060136657356903975, 'Num_Contaminants'),
+     (0.03967709824887343, 'Avg_Contaminant_Factor'),
+     (0.014494046462329805, 'Gini_Index')]
+   - Only the top weighted ethnic and race diversity indeces were chosen because redunancy of a correlated feature is unnecesary and does not affect the accuracy of the model.    
+   - Outlier detection and filtering on the Sum_Contaminant feature was done as a Inter-quartile Range method (see code blocks below for more detail).
+   - Features were then scaled using scikitlearn `StandardScalar`
+   - The model is saved using `pickle`. This model can then be loaded in to our Dash app for active prediction of newly scraped data from user input of a zip code.
+   - The model is currently being evaluated using new test data from Arkansas.
+6. Dashboard Construction:
+   - The dashboard we are using to host this project is a Plotly Dash App
+   - The app is hosted on Heroku
+   - A link to our dashboard is at the top of this README and is also here: [link](www.link.com) 
 
-
+### Code for Binary Classification Model
 ```python
 db = r'C:/Users/jonat/UO_Bootcamp/Group_project/git_Water_Quality_Analysis/Water_Quality_Analysis/Database/database.sqlite3'
 # Connect to SQLite database
@@ -92,96 +121,107 @@ df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary
 
 ```python
 #Get the target binary data from the .csv file that was generated in the Priority_algo_dev.ipynb
-target = pd.read_csv('data_with_binary_priority.csv', usecols=['Priority'])
+target = pd.read_csv(os.path.join('..', '..', 'Priority_Algo_dev', 'new_priority.csv'), usecols=['New_Priority'])
+target
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>New_Priority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>877</th>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>878</th>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>879</th>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>880</th>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>881</th>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+<p>882 rows × 1 columns</p>
+</div>
+
+
+
+
+```python
+sr = pd.Series(target.New_Priority)
+sr
+```
+
+
+
+
+    0      0
+    1      1
+    2      1
+    3      1
+    4      0
+          ..
+    877    0
+    878    0
+    879    0
+    880    1
+    881    1
+    Name: New_Priority, Length: 882, dtype: int64
+
+
+
+
+```python
+target_labels = sr.apply(lambda x : 'High Priority' if x>0 else 'Low Priority')
 ```
 
 
 ```python
-#The problem is the imbalanced data and this will need to be addressed
-target.Priority.value_counts()
+df['Target'] = target.New_Priority
 ```
-
-
-
-
-    0    616
-    1    266
-    Name: Priority, dtype: int64
-
-
-
-
-
-```python
-df.dtypes
-```
-
-
-
-
-    county_FIPS                 int64
-    Geographic_Area_Name       object
-    County                     object
-    GEOID                      object
-    Total_Population            int64
-    White                       int64
-    Black                       int64
-    Native                      int64
-    Asian                       int64
-    Pacific_Islander            int64
-    Other                       int64
-    Two_or_more_Races           int64
-    Hispanic                    int64
-    Not_Hispanic                int64
-    Not_White                   int64
-    pct_White                 float64
-    pct_Black                 float64
-    pct_Native                float64
-    pct_Asian                 float64
-    pct_Pacific_Islander      float64
-    pct_Other                 float64
-    pct_Not_White             float64
-    pct_Hispanic              float64
-    pct_Not_Hispanic          float64
-    pct_Two_or_more_Races     float64
-    Simpson_Race_DI           float64
-    Simpson_Ethnic_DI         float64
-    Shannon_Race_DI           float64
-    Shannon_Ethnic_DI         float64
-    Gini_Index                float64
-    County_FIPS                object
-    Num_Contaminants            int64
-    Sum_Population_Served       int64
-    Sum_ContaminantFactor       int64
-    Min_Contaminant_Factor     object
-    Max_Contaminant_Factor     object
-    Avg_Contaminant_Factor    float64
-    dtype: object
-
-
-
-
-```python
-df.columns
-```
-
-
-
-
-    Index(['county_FIPS', 'Geographic_Area_Name', 'County', 'GEOID',
-           'Total_Population', 'White', 'Black', 'Native', 'Asian',
-           'Pacific_Islander', 'Other', 'Two_or_more_Races', 'Hispanic',
-           'Not_Hispanic', 'Not_White', 'pct_White', 'pct_Black', 'pct_Native',
-           'pct_Asian', 'pct_Pacific_Islander', 'pct_Other', 'pct_Not_White',
-           'pct_Hispanic', 'pct_Not_Hispanic', 'pct_Two_or_more_Races',
-           'Simpson_Race_DI', 'Simpson_Ethnic_DI', 'Shannon_Race_DI',
-           'Shannon_Ethnic_DI', 'Gini_Index', 'County_FIPS', 'Num_Contaminants',
-           'Sum_Population_Served', 'Sum_ContaminantFactor',
-           'Min_Contaminant_Factor', 'Max_Contaminant_Factor',
-           'Avg_Contaminant_Factor'],
-          dtype='object')
-
-
 
 ## Feature Selection
 
@@ -201,6 +241,16 @@ df_model = df.drop(columns=['county_FIPS',
                             'Hispanic',
                             'Not_Hispanic', 
                             'Not_White',
+                            'pct_White', 
+                            'pct_Black', 
+                            'pct_Native',
+                            'pct_Asian', 
+                            'pct_Pacific_Islander', 
+                            'pct_Other', 
+                            'pct_Not_White',
+                            'pct_Hispanic', 
+                            'pct_Not_Hispanic', 
+                            'pct_Two_or_more_Races',
                             'County_FIPS',
                             'Sum_Population_Served',
                             'Min_Contaminant_Factor', 
@@ -217,16 +267,6 @@ df_model.dtypes
 
 
 
-    pct_White                 float64
-    pct_Black                 float64
-    pct_Native                float64
-    pct_Asian                 float64
-    pct_Pacific_Islander      float64
-    pct_Other                 float64
-    pct_Not_White             float64
-    pct_Hispanic              float64
-    pct_Not_Hispanic          float64
-    pct_Two_or_more_Races     float64
     Simpson_Race_DI           float64
     Simpson_Ethnic_DI         float64
     Shannon_Race_DI           float64
@@ -235,6 +275,7 @@ df_model.dtypes
     Num_Contaminants            int64
     Sum_ContaminantFactor       int64
     Avg_Contaminant_Factor    float64
+    Target                      int64
     dtype: object
 
 
@@ -248,16 +289,6 @@ df_model.isna().sum()
 
 
 
-    pct_White                 0
-    pct_Black                 0
-    pct_Native                0
-    pct_Asian                 0
-    pct_Pacific_Islander      0
-    pct_Other                 0
-    pct_Not_White             0
-    pct_Hispanic              0
-    pct_Not_Hispanic          0
-    pct_Two_or_more_Races     0
     Simpson_Race_DI           0
     Simpson_Ethnic_DI         0
     Shannon_Race_DI           0
@@ -266,18 +297,565 @@ df_model.isna().sum()
     Num_Contaminants          0
     Sum_ContaminantFactor     0
     Avg_Contaminant_Factor    0
+    Target                    0
     dtype: int64
 
 
 
-## Split the data into training and test data
+## Filter the Data using the IQR method
+
+
+```python
+percentile25 = df_model['Sum_ContaminantFactor'].quantile(0.25)
+percentile75 = df_model['Sum_ContaminantFactor'].quantile(0.75)
+```
+
+
+```python
+SCF_IQR = iqr(df_model['Sum_ContaminantFactor'])
+```
+
+
+```python
+print(percentile25, percentile75, SCF_IQR)
+```
+
+    1966.5 11049.5 9083.0
+    
+
+
+```python
+upper_limit = percentile75 + 1.5 * SCF_IQR
+lower_limit = percentile25 - 1.5 * SCF_IQR
+```
+
+
+```python
+new_df = df_model[df_model['Sum_ContaminantFactor'] < upper_limit]
+
+```
+
+
+```python
+new_df['Label'] = target_labels
+```
+
+
+```python
+new_df.sample(20)
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Simpson_Race_DI</th>
+      <th>Simpson_Ethnic_DI</th>
+      <th>Shannon_Race_DI</th>
+      <th>Shannon_Ethnic_DI</th>
+      <th>Gini_Index</th>
+      <th>Num_Contaminants</th>
+      <th>Sum_ContaminantFactor</th>
+      <th>Avg_Contaminant_Factor</th>
+      <th>Target</th>
+      <th>Label</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>811</th>
+      <td>0.123800</td>
+      <td>0.024524</td>
+      <td>0.362783</td>
+      <td>0.066826</td>
+      <td>0.4616</td>
+      <td>3</td>
+      <td>3856</td>
+      <td>1285.33</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>461</th>
+      <td>0.595608</td>
+      <td>0.265007</td>
+      <td>1.523013</td>
+      <td>0.435026</td>
+      <td>0.3817</td>
+      <td>3</td>
+      <td>8607</td>
+      <td>2869.00</td>
+      <td>1</td>
+      <td>High Priority</td>
+    </tr>
+    <tr>
+      <th>600</th>
+      <td>0.149196</td>
+      <td>0.041241</td>
+      <td>0.443405</td>
+      <td>0.102151</td>
+      <td>0.4200</td>
+      <td>4</td>
+      <td>106</td>
+      <td>26.50</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>271</th>
+      <td>0.126232</td>
+      <td>0.050211</td>
+      <td>0.418627</td>
+      <td>0.119712</td>
+      <td>0.4202</td>
+      <td>5</td>
+      <td>3964</td>
+      <td>792.80</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>563</th>
+      <td>0.094933</td>
+      <td>0.023446</td>
+      <td>0.302269</td>
+      <td>0.064395</td>
+      <td>0.4524</td>
+      <td>1</td>
+      <td>926</td>
+      <td>926.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>148</th>
+      <td>0.403550</td>
+      <td>0.325308</td>
+      <td>1.179164</td>
+      <td>0.506509</td>
+      <td>0.4353</td>
+      <td>9</td>
+      <td>2897</td>
+      <td>321.89</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>0.487995</td>
+      <td>0.100374</td>
+      <td>1.076582</td>
+      <td>0.207240</td>
+      <td>0.4363</td>
+      <td>15</td>
+      <td>5281</td>
+      <td>352.07</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>408</th>
+      <td>0.209698</td>
+      <td>0.037032</td>
+      <td>0.565055</td>
+      <td>0.093614</td>
+      <td>0.4291</td>
+      <td>11</td>
+      <td>13612</td>
+      <td>1237.45</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>401</th>
+      <td>0.218188</td>
+      <td>0.056749</td>
+      <td>0.612333</td>
+      <td>0.132048</td>
+      <td>0.4381</td>
+      <td>10</td>
+      <td>7270</td>
+      <td>727.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>0.399721</td>
+      <td>0.089576</td>
+      <td>0.956214</td>
+      <td>0.189574</td>
+      <td>0.4594</td>
+      <td>1</td>
+      <td>1096</td>
+      <td>1096.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>0.228871</td>
+      <td>0.075716</td>
+      <td>0.679439</td>
+      <td>0.166065</td>
+      <td>0.4321</td>
+      <td>9</td>
+      <td>5812</td>
+      <td>645.78</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>0.144976</td>
+      <td>0.033514</td>
+      <td>0.447271</td>
+      <td>0.086308</td>
+      <td>0.4265</td>
+      <td>4</td>
+      <td>7408</td>
+      <td>1852.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>151</th>
+      <td>0.618971</td>
+      <td>0.321972</td>
+      <td>1.609691</td>
+      <td>0.502678</td>
+      <td>0.4296</td>
+      <td>24</td>
+      <td>11252</td>
+      <td>468.83</td>
+      <td>1</td>
+      <td>High Priority</td>
+    </tr>
+    <tr>
+      <th>445</th>
+      <td>0.299979</td>
+      <td>0.271371</td>
+      <td>0.940018</td>
+      <td>0.442787</td>
+      <td>0.4328</td>
+      <td>1</td>
+      <td>985</td>
+      <td>985.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>708</th>
+      <td>0.171324</td>
+      <td>0.063603</td>
+      <td>0.502696</td>
+      <td>0.144568</td>
+      <td>0.5167</td>
+      <td>5</td>
+      <td>719</td>
+      <td>143.80</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>0.538178</td>
+      <td>0.159892</td>
+      <td>1.212859</td>
+      <td>0.297000</td>
+      <td>0.4741</td>
+      <td>15</td>
+      <td>11654</td>
+      <td>776.93</td>
+      <td>1</td>
+      <td>High Priority</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>0.340404</td>
+      <td>0.053646</td>
+      <td>0.804621</td>
+      <td>0.126235</td>
+      <td>0.3916</td>
+      <td>2</td>
+      <td>2846</td>
+      <td>1423.00</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>568</th>
+      <td>0.127527</td>
+      <td>0.079044</td>
+      <td>0.444908</td>
+      <td>0.171803</td>
+      <td>0.4232</td>
+      <td>22</td>
+      <td>21493</td>
+      <td>976.95</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>414</th>
+      <td>0.114847</td>
+      <td>0.036273</td>
+      <td>0.357974</td>
+      <td>0.092052</td>
+      <td>0.4145</td>
+      <td>4</td>
+      <td>5199</td>
+      <td>1299.75</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+    <tr>
+      <th>585</th>
+      <td>0.401754</td>
+      <td>0.083862</td>
+      <td>0.999394</td>
+      <td>0.180004</td>
+      <td>0.4650</td>
+      <td>9</td>
+      <td>2963</td>
+      <td>329.22</td>
+      <td>0</td>
+      <td>Low Priority</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+new_df.shape
+```
+
+
+
+
+    (834, 10)
+
+
+
+
+```python
+df_model.shape
+```
+
+
+
+
+    (882, 9)
+
+
+
+
+```python
+new_df.columns
+```
+
+
+
+
+    Index(['Simpson_Race_DI', 'Simpson_Ethnic_DI', 'Shannon_Race_DI',
+           'Shannon_Ethnic_DI', 'Gini_Index', 'Num_Contaminants',
+           'Sum_ContaminantFactor', 'Avg_Contaminant_Factor', 'Target', 'Label'],
+          dtype='object')
+
+
+
+
+```python
+fig = px.scatter(
+    new_df, 
+    x="Simpson_Ethnic_DI", 
+    y="Sum_ContaminantFactor", 
+    color="Label",
+    size='Num_Contaminants', 
+    hover_data=['Sum_ContaminantFactor'],
+    labels={
+        "Sum_ContaminantFactor": "Total Conatmainant Factor",
+        "Simpson_Ethnic_DI" : " Simpson Ethnic Index"
+                     
+                 },
+)
+
+fig.update_layout(
+    title={
+        'text': "Plot of the Adaboost Top Feature Importance",
+        'y':0.95,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+
+fig.show()
+
+```
+
+```python
+fig = px.scatter(
+    new_df, 
+    x="Shannon_Ethnic_DI", 
+    y="Sum_ContaminantFactor", 
+    color="Label",
+    size='Num_Contaminants', 
+    hover_data=['Sum_ContaminantFactor'],
+    labels={
+        "Sum_ContaminantFactor": "Total Conatmainant Factor",
+        "Shannon_Ethnic_DI" : " Shannon Ethnic Index"
+                     
+                 },
+)
+
+fig.update_layout(
+    title={
+        'text': "Plot of the Adaboost Top Feature Importance",
+        'y':0.95,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+
+fig.show()
+```
+
+```python
+plt.figure(figsize=(30,30))
+sns.pairplot(new_df, hue='Label')
+```
+
+
+
+
+    <seaborn.axisgrid.PairGrid at 0x15f067552e0>
+
+
+
+
+    <Figure size 2160x2160 with 0 Axes>
+
+
+
+    
+![png](/Machine_Learning/Binary_Classification/EEC_BRF_BC_Models_files/EEC_BRF_BC_Models_26_2.png)
+    
+
+
+## Drop extra features then split the data into training and test data
+
+
+```python
+new_df.columns
+```
+
+
+
+
+    Index(['Simpson_Race_DI', 'Simpson_Ethnic_DI', 'Shannon_Race_DI',
+           'Shannon_Ethnic_DI', 'Gini_Index', 'Num_Contaminants',
+           'Sum_ContaminantFactor', 'Avg_Contaminant_Factor', 'Target', 'Label'],
+          dtype='object')
+
+
+
+
+```python
+mdf = new_df.drop(columns=['Shannon_Ethnic_DI', 'Simpson_Race_DI', 'Target', 'Label'])
+mdf.sample(5)
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Simpson_Ethnic_DI</th>
+      <th>Shannon_Race_DI</th>
+      <th>Gini_Index</th>
+      <th>Num_Contaminants</th>
+      <th>Sum_ContaminantFactor</th>
+      <th>Avg_Contaminant_Factor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>767</th>
+      <td>0.018794</td>
+      <td>0.271860</td>
+      <td>0.4112</td>
+      <td>9</td>
+      <td>7936</td>
+      <td>881.78</td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>0.069004</td>
+      <td>0.554265</td>
+      <td>0.4852</td>
+      <td>1</td>
+      <td>126</td>
+      <td>126.00</td>
+    </tr>
+    <tr>
+      <th>426</th>
+      <td>0.092984</td>
+      <td>1.164492</td>
+      <td>0.4658</td>
+      <td>19</td>
+      <td>23578</td>
+      <td>1240.95</td>
+    </tr>
+    <tr>
+      <th>818</th>
+      <td>0.016446</td>
+      <td>0.274129</td>
+      <td>0.3967</td>
+      <td>5</td>
+      <td>4497</td>
+      <td>899.40</td>
+    </tr>
+    <tr>
+      <th>647</th>
+      <td>0.037614</td>
+      <td>0.400051</td>
+      <td>0.4195</td>
+      <td>3</td>
+      <td>1106</td>
+      <td>368.67</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 
 
 ```python
 # Create our features
-X = df_model
+X = mdf
 # Create our target
-y = target
+y = new_df.Target
+```
+
+
+```python
+# define standard scaler
+scaler = StandardScaler()
+# transform data
+X_scaled = scaler.fit_transform(X)
 ```
 
 
@@ -294,129 +872,9 @@ y_train.value_counts()
 
 
 
-    Priority
-    0           460
-    1           201
-    dtype: int64
-
-
-
-## Ensemble Learners
-
-### Balanced Random Forest Classifier
-
-
-```python
-# Resample the training data with the BalancedRandomForestClassifier
-from imblearn.ensemble import BalancedRandomForestClassifier
-brf_model = BalancedRandomForestClassifier(n_estimators=100, random_state=1) 
-brf_model.fit(X_train,y_train)
-```
-
-
-
-
-    BalancedRandomForestClassifier(random_state=1)
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = brf_model.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.9717948717948718
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>152</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>2</td>
-      <td>63</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.99      0.97      0.97      0.98      0.97      0.94       156
-              1       0.94      0.97      0.97      0.95      0.97      0.94        65
-    
-    avg / total       0.97      0.97      0.97      0.97      0.97      0.94       221
-    
-    
-
-
-```python
-# List the features sorted in descending order by feature importance
-sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
-```
-
-
-
-
-    [(0.21577329250084878, 'pct_Hispanic'),
-     (0.18270331734030493, 'Simpson_Ethnic_DI'),
-     (0.16933527790291714, 'Shannon_Ethnic_DI'),
-     (0.14741969379439726, 'pct_Not_Hispanic'),
-     (0.07618300294105276, 'pct_Other'),
-     (0.06788945084338857, 'Shannon_Race_DI'),
-     (0.04540258450048268, 'pct_Not_White'),
-     (0.02858899205530442, 'Simpson_Race_DI'),
-     (0.019062721712183664, 'pct_White'),
-     (0.013419859566826287, 'pct_Asian'),
-     (0.010463765501046053, 'pct_Two_or_more_Races'),
-     (0.00537416069877027, 'pct_Black'),
-     (0.005029362553335992, 'Sum_ContaminantFactor'),
-     (0.003813001607423072, 'pct_Native'),
-     (0.003033713296187055, 'Gini_Index'),
-     (0.002441597706863405, 'Num_Contaminants'),
-     (0.002387526716818439, 'Avg_Contaminant_Factor'),
-     (0.0016786787618492632, 'pct_Pacific_Islander')]
+    0    521
+    1    104
+    Name: Target, dtype: int64
 
 
 
@@ -447,7 +905,7 @@ balanced_accuracy_score(y_test, y_pred)
 
 
 
-    0.9685897435897436
+    0.9767226890756302
 
 
 
@@ -479,571 +937,13 @@ display(cm_df)
   <tbody>
     <tr>
       <th>Actual High-Priority</th>
-      <td>151</td>
-      <td>5</td>
+      <td>172</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>Actual Low-Priority</th>
-      <td>2</td>
-      <td>63</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.99      0.97      0.97      0.98      0.97      0.94       156
-              1       0.93      0.97      0.97      0.95      0.97      0.94        65
-    
-    avg / total       0.97      0.97      0.97      0.97      0.97      0.94       221
-    
-    
-
-### Naive Random Oversampling
-
-
-```python
-# implement random oversampling
-from imblearn.over_sampling import RandomOverSampler
-# Resample the training data with the RandomOversampler
-ros = RandomOverSampler(random_state=1)
-X_resampled, y_resampled = ros.fit_resample(X_train, y_train)
-
-y_resampled.value_counts()
-```
-
-
-
-
-    Priority
-    0           460
-    1           460
-    dtype: int64
-
-
-
-
-```python
-from sklearn.linear_model import LogisticRegression
-# Train the Logistic Regression model using the resampled data
-model = LogisticRegression(solver='lbfgs', random_state=1)
-model.fit(X_resampled, y_resampled)
-```
-
-
-
-
-    LogisticRegression(random_state=1)
-
-
-
-
-```python
-# make predictions
-y_pred = model.predict(X_test)
-```
-
-
-```python
-from sklearn.metrics import balanced_accuracy_score
-#Calculate the balanced accuracy score
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.8987179487179486
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>134</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>4</td>
-      <td>61</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-from imblearn.metrics import classification_report_imbalanced
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.97      0.86      0.94      0.91      0.90      0.80       156
-              1       0.73      0.94      0.86      0.82      0.90      0.81        65
-    
-    avg / total       0.90      0.88      0.92      0.89      0.90      0.80       221
-    
-    
-
-### SMOTE Oversampling
-
-
-```python
-# Resample the training data with SMOTE
-from imblearn.over_sampling import SMOTE
-X_resampled, y_resampled = SMOTE(random_state=1, sampling_strategy='auto').fit_resample(
-    X_train, y_train
-)
-y_resampled.value_counts()
-```
-
-
-
-
-    Priority
-    0           460
-    1           460
-    dtype: int64
-
-
-
-
-```python
-# Train the Logistic Regression model using the resampled data
-model = LogisticRegression(solver='lbfgs', random_state=1)
-model.fit(X_resampled, y_resampled)
-```
-
-
-
-
-    LogisticRegression(random_state=1)
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = model.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.9019230769230769
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>135</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>4</td>
-      <td>61</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.97      0.87      0.94      0.92      0.90      0.81       156
-              1       0.74      0.94      0.87      0.83      0.90      0.82        65
-    
-    avg / total       0.90      0.89      0.92      0.89      0.90      0.81       221
-    
-    
-
-## Undersampling
-
-
-
-```python
-# Resample the data using the ClusterCentroids resampler
-from imblearn.under_sampling import ClusterCentroids
-cc = ClusterCentroids(random_state=1)
-X_resampled, y_resampled = cc.fit_resample(X_train, y_train)
-Counter(y_resampled)
-```
-
-
-
-
-    Counter({'Priority': 1})
-
-
-
-
-```python
-# Train the Logistic Regression model using the resampled data
-model = LogisticRegression(solver='lbfgs', random_state=1)
-model.fit(X_resampled, y_resampled)
-```
-
-
-
-
-    LogisticRegression(random_state=1)
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = model.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.5935897435897436
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>118</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>37</td>
-      <td>28</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.76      0.76      0.43      0.76      0.57      0.34       156
-              1       0.42      0.43      0.76      0.43      0.57      0.32        65
-    
-    avg / total       0.66      0.66      0.53      0.66      0.57      0.33       221
-    
-    
-
-## Combination (Over and Under) Sampling
-
-
-
-```python
-# Resample the training data with SMOTEENN
-from imblearn.combine import SMOTEENN
-
-smote_enn = SMOTEENN(random_state=1)
-X_resampled, y_resampled = smote_enn.fit_resample(X_train, y_train)
-y_resampled.value_counts()
-```
-
-
-
-
-    Priority
-    1           192
-    0           158
-    dtype: int64
-
-
-
-
-```python
-# Train the Logistic Regression model using the resampled data
-model = LogisticRegression(solver='lbfgs', random_state=1)
-model.fit(X_resampled, y_resampled)
-```
-
-
-
-
-    LogisticRegression(random_state=1)
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = model.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-
-```
-
-
-
-
-    0.8865384615384615
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>135</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>6</td>
-      <td>59</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-```python
-# Print the imbalanced classification report
-print(classification_report_imbalanced(y_test, y_pred))
-```
-
-                       pre       rec       spe        f1       geo       iba       sup
-    
-              0       0.96      0.87      0.91      0.91      0.89      0.78       156
-              1       0.74      0.91      0.87      0.81      0.89      0.79        65
-    
-    avg / total       0.89      0.88      0.90      0.88      0.89      0.78       221
-    
-    
-
-## Naive Bayes Classifier
-
-
-```python
-from sklearn.naive_bayes import GaussianNB
-gnb = GaussianNB()
-gnb.fit(X_train, y_train)
-```
-
-
-
-
-    GaussianNB()
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = gnb.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.5698717948717948
-
-
-
-## XGBoost
-
-
-```python
-from xgboost import XGBClassifier
-model = XGBClassifier(use_label_encoder=False, eval_metric='mlogloss')
-model.fit(X_train, y_train)
-```
-
-
-
-
-    XGBClassifier(base_score=0.5, booster='gbtree', callbacks=None,
-                  colsample_bylevel=1, colsample_bynode=1, colsample_bytree=1,
-                  early_stopping_rounds=None, enable_categorical=False,
-                  eval_metric='mlogloss', gamma=0, gpu_id=-1,
-                  grow_policy='depthwise', importance_type=None,
-                  interaction_constraints='', learning_rate=0.300000012,
-                  max_bin=256, max_cat_to_onehot=4, max_delta_step=0, max_depth=6,
-                  max_leaves=0, min_child_weight=1, missing=nan,
-                  monotone_constraints='()', n_estimators=100, n_jobs=0,
-                  num_parallel_tree=1, predictor='auto', random_state=0,
-                  reg_alpha=0, reg_lambda=1, ...)
-
-
-
-
-```python
-# Calculated the balanced accuracy score
-y_pred = model.predict(X_test)
-balanced_accuracy_score(y_test, y_pred)
-```
-
-
-
-
-    0.9814102564102565
-
-
-
-
-```python
-# Display the confusion matrix
-cm = confusion_matrix(y_test, y_pred)
-
-cm_df = pd.DataFrame(
-    cm, index=["Actual High-Priority", "Actual Low-Priority"],
-    columns=["Predicted High-Priority", "Predicted Low-Priority"]
-)
-
-# Displaying results
-display(cm_df)
-```
-
-
-<div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Predicted High-Priority</th>
-      <th>Predicted Low-Priority</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Actual High-Priority</th>
-      <td>155</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>Actual Low-Priority</th>
-      <td>2</td>
-      <td>63</td>
+      <td>33</td>
     </tr>
   </tbody>
 </table>
@@ -1052,9 +952,154 @@ display(cm_df)
 
 
 ```python
-
+# Print the imbalanced classification report
+print(classification_report_imbalanced(y_test, y_pred))
 ```
 
+                       pre       rec       spe        f1       geo       iba       sup
+    
+              0       0.99      0.98      0.97      0.99      0.98      0.96       175
+              1       0.92      0.97      0.98      0.94      0.98      0.95        34
+    
+    avg / total       0.98      0.98      0.97      0.98      0.98      0.95       209
+    
+    
+
+
+```python
+y_score = eec.predict_proba(X)[:, 1]
+
+fpr, tpr, thresholds = roc_curve(y, y_score)
+
+fig = px.area(
+    x=fpr, y=tpr,
+    title=f'ROC Curve (AUC={auc(fpr, tpr):.4f})',
+    labels=dict(x='False Positive Rate', y='True Positive Rate'),
+    width=700, height=500
+)
+fig.add_shape(
+    type='line', line=dict(dash='dash'),
+    x0=0, x1=1, y0=0, y1=1
+)
+
+fig.update_yaxes(scaleanchor="x", scaleratio=1)
+fig.update_xaxes(constrain='domain')
+fig.show()
+```
+
+```python
+# The histogram of scores compared to true labels
+fig_hist = px.histogram(
+    x=y_score, color=y, nbins=50,
+    labels=dict(color='True Labels', x='Score')
+)
+
+fig_hist.show()
+
+
+# Evaluating model performance at various thresholds
+df = pd.DataFrame({
+    'False Positive Rate': fpr,
+    'True Positive Rate': tpr
+}, index=thresholds)
+df.index.name = "Thresholds"
+df.columns.name = "Rate"
+
+fig_thresh = px.line(
+    df, title='TPR and FPR at every threshold',
+    width=700, height=500
+)
+
+fig_thresh.update_yaxes(scaleanchor="x", scaleratio=1)
+fig_thresh.update_xaxes(range=[0, 1], constrain='domain')
+fig_thresh.show()
+```
+
+```python
+precision, recall, thresholds = precision_recall_curve(y, y_score)
+
+fig = px.area(
+    x=recall, y=precision,
+    title=f'Precision-Recall Curve (AUC={auc(fpr, tpr):.4f})',
+    labels=dict(x='Recall', y='Precision'),
+    width=700, height=500
+)
+fig.add_shape(
+    type='line', line=dict(dash='dash'),
+    x0=0, x1=1, y0=1, y1=0
+)
+fig.update_yaxes(scaleanchor="x", scaleratio=1)
+fig.update_xaxes(constrain='domain')
+
+fig.show()
+```
+
+## Save the model using pickle
+
+
+```python
+# save the model to disk
+filename = 'EEC_model.sav'
+pickle.dump(eec, open(filename, 'wb'))
+ 
+```
+
+## some time later...
+ 
+
+
+```python
+# load the model from disk
+loaded_model = pickle.load(open(filename, 'rb'))
+result = loaded_model.score(X_test, y_test)
+print(result)
+```
+
+    0.9808612440191388
+    
+
+# Balanced Random Forest Classifier
+
+
+```python
+# Resample the training data with the BalancedRandomForestClassifier
+from imblearn.ensemble import BalancedRandomForestClassifier
+brf_model = BalancedRandomForestClassifier(n_estimators=100, random_state=1) 
+brf_model.fit(X_train,y_train)
+# Calculated the balanced accuracy score
+y_pred = brf_model.predict(X_test)
+balanced_accuracy_score(y_test, y_pred)
+```
+
+
+
+
+    0.982436974789916
+
+
+
+
+```python
+# List the features sorted in descending order by feature importance
+sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
+```
+
+
+
+
+    [(0.3328339120046307, 'Simpson_Ethnic_DI'),
+     (0.30260330303838934, 'Shannon_Race_DI'),
+     (0.2502549828888729, 'Sum_ContaminantFactor'),
+     (0.060136657356903975, 'Num_Contaminants'),
+     (0.03967709824887343, 'Avg_Contaminant_Factor'),
+     (0.014494046462329805, 'Gini_Index')]
+
+
+
+
+```python
+
+```
 
      
 
