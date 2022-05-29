@@ -11,12 +11,6 @@ Free of chemicals and biological material, access to clean drinking water is a b
 ### Question
 Do communities with traditionally underserved demographics have access to clean drinking water? If so, how can we prioritize which communities are most in the need of cleaner water?
 
-### Team Communication 
-We are utilizing the following channels for communication and co-working:
-- Slack: for daily stand-ups and discussion or troubleshooting
-- Microsoft OneNote: for project planning and note-taking
-- Zoom: for co-working sessions
-
 ## Data
 Data is being sourced from web scraping of [Environmental Working Group's Tap Water Database](https://www.ewg.org/tapwater/), the 2020 United States Decennial Census ([curated on Kaggle.com](https://www.kaggle.com/datasets/zusmani/us-census-2020)), and Table B19083 from the United States Census American Community Survey, providing the Gini Index for each county in the United States.
 
