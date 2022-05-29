@@ -82,7 +82,7 @@ df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary
 ### Figure 1. `sns.pairplot` of our feature distributions colored by the priority target high or low priority
 ![png](/Machine_Learning/Binary_Classification/EEC_BRF_BC_Models_files/EEC_BRF_BC_Models_26_2.png)
 
-### Figure 2. Bubble plot of the top three features based on importance in the Random Forest model
+### Figure 2. Bubble plot of the top three features based on importance in the Random Forest model. Note: Siz is proportional to the Total Number of Contaminants
 ![png](/images/ShannonEI_TCF_Target.png)
    - These features have been selected based on previous models showing the feature importance weights (see the code blocks below). 
 ```python
