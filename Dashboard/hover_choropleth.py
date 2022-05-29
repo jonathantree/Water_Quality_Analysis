@@ -15,18 +15,11 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 
 # Read data
 df = pd.read_csv('census_contaminant_priority_by_zip.csv', dtype={"zip":str,"fips":str})
-# file_to_read = os.path.join("..","..","Census_Data_Cleaning","zips_to_counties.csv")
 zips_to_counties = pd.read_csv("../Census_Data_Cleaning/zips_to_counties.csv",dtype={"zip": str})
 zips_to_counties["county_fips"] = zips_to_counties["county_fips"].astype(str).apply('{:0>5}'.format)
-# db = r'/Users/jennadodge/uofo-virt-data-pt-12-2021-u-b/Water_Quality_Analysis/Database/database.sqlite3'
-# conn = sqlite3.connect(db)
-# cursor = conn.cursor() # Create cursor object
-# contaminants_df = pd.read_sql_query("SELECT * FROM all_contaminants",conn)
-# conn.close()
+
 cont_fips_df = pd.read_csv('all_contaminants_with_fips.csv',dtype = {"zip":str,"county_fips":str})
-# contaminants_df["Zip"] = contaminants_df["Zip"].astype(str).str[:-2].apply('{:0>5}'.format) 
-# cont_fips_df = pd.merge(contaminants_df,zips_to_counties,how="left",left_on="Zip",right_on='zip')
-# print(contaminants_df.head())
+
 df_map = df[['Simpson Race Diversity Index','Simpson Ethnic Diversity Index', 'Shannon Race Diversity Index',
        'Shannon Ethnic Diversity Index', 'Gini Index',
        'Number of Contaminants', 'Population Served',
@@ -74,21 +67,12 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            # html.P("Please Select a State"), 
-            # dcc.Dropdown(id='states_dropdown',options=[{'label': s, 'value': s} for s in sorted(contaminants_df.State.unique())],
-            #             value='VT',
-            #             clearable=False),
+
             dcc.Graph(id='myhist', figure={})
         ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
 
         dbc.Col([
-            # html.P("Zip Code:"),
-            # dcc.Input(id='zip_code',
-            #         type='number',
-            #         # placeholder='',
-            #         value=97124,
-            #         debounce = True  # initial value displayed when page first loads
-            #         ),
+           
             dcc.Graph(id='gauge',figure={})
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], justify='center'),
@@ -109,8 +93,6 @@ app.layout = dbc.Container([
 def update_graph(column_name):  # function arguments come from the component property of the Input
     print(column_name)
     print(type(column_name))
-
-    # container = "The column chosen by the user was: {}".format(column_name)
 
     # https://plotly.com/python/choropleth-maps/
     fig = px.choropleth(
@@ -134,7 +116,6 @@ def update_graph(column_name):  # function arguments come from the component pro
     Output('scatter','figure'),
     Output('gauge','figure'),
     Input('mygraph','clickData'),
-    # Input('states_dropdown','value')
 )
 def update_hist(click_data):
     # print(state_input)
@@ -229,7 +210,6 @@ def update_hist(click_data):
                     {'range':[0,0.5],'color':'lightgray'},
                     {'range':[0.5,1.0],'color':'gray'}]
             },))
-
 
         return fig2, fig3, fig4
 
