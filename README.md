@@ -6,7 +6,7 @@
 The purpose of this project is to analyze drinking water quality to determine if the quality of the community's drinking water is correlated with certain demographic markers, such as income level. Specifically, we are aiming to use socioeconomic data and drinking water quality data to identify at-risk communities that are historically underserved. By identifying which communities are at most risk (i.e., poverty level, racial inequity) alongside our analysis of water quality data and our supervised machine learning model results, we can identify those high-priority communities. We can then have a subset of communities that can be targeted that need humanitarian support to remediate their water source.
 
 ### Why
-Free of chemicals and biological material, access to clean drinking water is a basic human right. In the United States, we take access to clean drinking water for granted. The news of lead in the drinking water in Flint, MI was a wake-up call that perhaps other communities are also dealing with sub-par water. 
+Free of chemicals and biological material, access to clean drinking water is a basic human right. In the United States, we take access to clean drinking water for granted. The news of lead in the drinking water in Flint, MI was a wake-up call that perhaps other communities are also dealing with sub-par water. Guidelines from the Environmental Protection Agency (EPA) have not been updated in decades, with some regulations dating back nearly 50 years without more recent revisions. [See the Summary of Drinking Water Regulations](https://www.epa.gov/sites/default/files/2015-10/documents/dw_regulation_timeline.pdf).
 
 ### Question
 Do communities with traditionally underserved demographics have access to clean drinking water? If so, how can we prioritize which communities are most in the need of cleaner water?
@@ -76,7 +76,7 @@ df = pd.read_sql_query("SELECT * FROM Census_Data INNER JOIN Contaminant_Summary
 ### Figure 1. `sns.pairplot` of our feature distributions colored by the priority target high or low priority
 ![png](/Machine_Learning/Binary_Classification/EEC_BRF_BC_Models_files/EEC_BRF_BC_Models_26_2.png)
 
-### Figure 2. Bubble plot of the top three features based on importance in the Random Forest model. Note: Siz is proportional to the Total Number of Contaminants
+### Figure 2. Bubble plot of the top three features based on importance in the Random Forest model. Note: Size is proportional to the Total Number of Contaminants
 ![png](/images/ShannonEI_TCF_Target.png)
    - These features have been selected based on previous models showing the feature importance weights (see the code blocks below). 
 ```python
@@ -89,16 +89,18 @@ sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
      (0.060136657356903975, 'Num_Contaminants'),
      (0.03967709824887343, 'Avg_Contaminant_Factor'),
      (0.014494046462329805, 'Gini_Index')]
-   - Only the top weighted ethnic and race diversity indeces were chosen because redunancy of a correlated feature is unnecesary and does not affect the accuracy of the model.    
+   - Only the top weighted ethnic and race diversity indices were chosen because redundancy of a correlated feature is unnecesary and does not affect the accuracy of the model.    
    - Outlier detection and filtering on the Sum_Contaminant feature was done as a Inter-quartile Range method (see code blocks below for more detail).
-   - Features were then scaled using scikitlearn `StandardScalar`
+   - Features were then scaled using scikit-learn `StandardScalar`
    - The models are saved using `pickle`. This model can then be loaded in to our Dash app for active prediction of newly scraped data from user input of a zip code.
    - The models were used to make predictions on the new test data from Arkansas (see the [script](/Machine_Learning/Binary_Classification/New_Predictions.ipynb) for details). This test data recieved all low-priority predictions from both the Easy Ensemble Classifier and the Balanced Random Forrest model. This is due to the fact that the feature (Sum_ContaminantFactor) was not at high enough levels for any of the counties with similar levels of ethinic and race indices, so the models predicted low-priority. 
-   - Example from the new test data: A county had a `Sum_ContaminantFactor` > 5000 yet a `Simpson_Ethnic_DI` < 0.15. These parameters alone are enough to trigger a low-priority prediction form tehse models.
+   - Example from the new test data: A county had a `Sum_ContaminantFactor` > 5000 yet a `Simpson_Ethnic_DI` < 0.15. These parameters alone are enough to trigger a low-priority prediction form these models.
 7. Dashboard Construction:
-   - The dashboard we are using to host this project is a Plotly Dash App
-   - The app is hosted on Heroku
-   - A link to our dashboard is at the top of this README and is also here: [link](www.link.com) 
+   - The dashboard we are using to host this project is a multi-page Plotly Dash App
+   - The app will be hosted on Heroku
+   - A link to our dashboard will be at the top of this README and is also here: [the link will go here](www.heroku.com) 
+   - The interactive portion of the (draft) dashboard looks like the below image. The user can select a value to display on the Choropleth map. In this screenshot, the default value of Number of Contaminants is shown. When the user clicks on a county, the histogram, gauge, and scatterplot all update to display information for that county:
+   ![](images/Dashboard_Draft_Screenshot.png)
 
 ### Code for Binary Classification Model
 ```python
