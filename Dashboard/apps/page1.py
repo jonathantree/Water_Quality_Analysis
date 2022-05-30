@@ -29,14 +29,17 @@ layout = dbc.Container([
     
     dbc.Row([
         dbc.Col([
-            html.P("Row 1 column 1"),
-            dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
-            ),
-
-        ], width=6),
+            # html.P("Row 1 column 1"),
+            dbc.Card([
+                # dbc.CardHeader("The Data"),
+                dbc.CardBody([
+                    html.H2("The Data", className='card-title'),
+                    html.Li("2020 Dicennial US Census Data provided demographic information at the the county level for every state (except Washington.) From these we calculated the Simpson and Shannon Racial and Ethnic Diversity Indices ",className='class-text'),
+                    html.Li("Income diversity data is from US Census American Community Survey Table B19083 - Gini Index.", className='class-text'),
+                    html.Li("Water contamination data was scraped from the Environmental Working Group's Tapwater Database.", className='class-text')
+                ])
+            ]),
+        ], width=5),
         dbc.Col([
             html.P("Row 1 column 2"),
             dbc.Card(

@@ -50,21 +50,26 @@ layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            html.P("Row 2 column 1"),
-            dbc.Card(
+            # html.P("Row 2 column 1"),
+            dbc.Card([
+                dbc.CardHeader("Simpson Ethnic Diversity Index",className='card-header'),
                 dbc.CardBody(
-                    html.P("card")
+                    # html.P("card"),
+                    dcc.Graph('scatter-1',figure={})
                 )
-            ),
+            ]),
 
         ], width=6),
+        
         dbc.Col([
-            html.P("Row 2 column 2"),
-            dbc.Card(
+            # html.P("Row 2 column 2"),
+            dbc.Card([
+                dbc.CardHeader("Shannon Racial Diversity Index",className='card-header'),
                 dbc.CardBody(
-                    html.P("card")
+                    # html.P("card"),
+                    dcc.Graph('scatter-2',figure={})
                 )
-            ),
+            ]),
 
         ], width=6),
     ]),
