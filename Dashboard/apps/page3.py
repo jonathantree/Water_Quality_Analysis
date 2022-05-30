@@ -69,8 +69,14 @@ layout = dbc.Container([
         ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
 
         dbc.Col([
-           
-            dcc.Graph(id='gauge',figure={})
+            dbc.Card(
+                dbc.CardBody([
+                    html.H4("Priority Level", className='card=title'),
+                    html.P('Based on the demographic and water quality data', className='card-text'),
+                    dcc.Graph(id='gauge',figure={}),
+
+                ]), color="light"
+            )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], justify='center'),
     

@@ -75,7 +75,7 @@ app.layout = dbc.Container([
                     html.P('Based on the demographic and water quality data', className='card-text'),
                     dcc.Graph(id='gauge',figure={}),
 
-                ]), color="secondary"
+                ]), color="light"
             )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], justify='center'),

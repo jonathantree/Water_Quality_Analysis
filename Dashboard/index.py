@@ -6,14 +6,14 @@ from app import app     #import app object from app.py file
 from app import server    # impor server object from app.py
 
 # Connect to your app pages
-from apps import page3 #page1, page2, page3 #put other app page names here
+from apps import page1, page2, page3 #put other app page names here
 
 app.layout = dbc.Container([
     dcc.Location(id='url',refresh=False),
     dbc.Nav([
         dcc.Link('Exploratory Data Analysis | ', href='/apps/page1'),
         dcc.Link('Machine Learning Model | ',href='/apps/page2'),
-        dcc.Link('Results',href='/apps/page3')
+        dcc.Link(' Results',href='/apps/page3')
     ]),
     html.Div(id='page-content', children=[]), #page content all goes in here
     # dbc.Row([
@@ -30,10 +30,10 @@ app.layout = dbc.Container([
     [Input('url', 'pathname')])
 
 def display_page(pathname):
-    # if pathname == '/apps/page1':
-    #     return page1.layout
-    # if pathname == '/apps/page2':
-    #     return page2.layout
+    if pathname == '/apps/page1':
+        return page1.layout
+    if pathname == '/apps/page2':
+        return page2.layout
     if pathname == '/apps/page3':
         return page3.layout
     else:
