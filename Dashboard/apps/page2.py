@@ -75,30 +75,35 @@ layout = dbc.Container([
             html.H1("Water Quality Analysis",
                     className='text-center text-primary mb-4'), #mb-4 padding
             html.H6("This page will talk about Machine Learning Results",
-                    className="text-center text-muted")
-        ], width=12)
+                    className="text-center text-muted mb-4")
+        ], width=12),
+    justify="evenly"
     ),
     
     dbc.Row([
         dbc.Col([
-            html.P("Row 1 column 1"),
-            dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
-            ),
+            html.H4("Supervised Machine Learning - Binary Classification"),
+            html.Li("To have a target for ML models to predict an algorithm had to be developed to establish the weights of the features and determine a final priority level. In the case of the binary classification models, this target is a high-priority (1) or low-priority (0).",className='class-text'),
+            html.Li("An algorithm was used to establish a high priority target if the Total Contaminant Factor was greater than the median and if several other feature values were also greater than the median.",className='class-text mb-5'),
+            # html.Li(,className='class-text')
+            # dbc.Card(
+            #     dbc.CardBody(
+            #         html.H6("The top-performing Binary Classification models were the Balancd Random Forest Classifier with 98% accuracy and the Easy Ensemble Adaboost Classifier with 97% accuracy."),
+            #         className="card text-white bg-primary mb-3")
+            #     ),
 
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
         dbc.Col([
-            html.P("Row 1 column 2"),
+            # html.P("Row 1 column 2"),
             dbc.Card(
                 dbc.CardBody(
-                    html.P("card")
-                )
+                    html.H4("The top-performing Binary Classification models were the Balanced Random Forest Classifier with 98% accuracy and the Easy Ensemble Adaboost Classifier with 97% accuracy."),
+                    className="card text-white bg-secondary mb-3")
+                , className='mb-5'
             ),
 
-        ], width=6)
-    ]),
+        ], xs=12, sm=12, md=12, lg=6, xl=6)
+    ], justify="evenly"),
 
     dbc.Row([
         dbc.Col([
@@ -109,9 +114,9 @@ layout = dbc.Container([
                     # html.P("card"),
                     dcc.Graph('scatter-1',figure=fig1)
                 )
-            ]),
+            ], className='mb-5'),
 
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
 
         dbc.Col([
             # html.P("Row 2 column 2"),
@@ -121,21 +126,22 @@ layout = dbc.Container([
                     # html.P("card"),
                     dcc.Graph('scatter-2',figure=fig2)
                 )
-            ]),
+            ], className='mb-5'),
 
-        ], width=6),
-    ]),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
+    ], justify="evenly"),
 
     dbc.Row([
         dbc.Col([
-            html.P("Row 3 column 1"),
-            dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
-            ),
+            html.H4("Feature Pairplot", className='text-center text-primary mb-4'),
+            # dbc.Card(
+            #     dbc.CardBody(
+            #         html.P("card")
+            #     )
+            # ),
+            html.Img(src='/assets/feature_pairplot.png', title='Feature Pairplot', width=600)
 
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
         dbc.Col([
             html.P("Row 3 column 1"),
             dbc.Card(
@@ -144,8 +150,8 @@ layout = dbc.Container([
                 )
             ),
 
-        ], width=6),
-    ])
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
+    ], justify="evenly")
 
 ])
 
