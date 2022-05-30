@@ -10,11 +10,19 @@ from apps import page1, page2, page3 #put other app page names here
 
 app.layout = dbc.Container([
     dcc.Location(id='url',refresh=False),
-    dbc.Nav([
-        dcc.Link('Exploratory Data Analysis | ', href='/apps/page1'),
-        dcc.Link('Machine Learning Model | ',href='/apps/page2'),
-        dcc.Link(' Results',href='/apps/page3')
-    ]),
+    dbc.NavbarSimple(    
+        children=[
+            # dbc.NavbarBrand("Water Quality Analysis", href='#'),
+            dbc.Nav(
+                [
+                dbc.NavLink('Exploratory Data Analysis', href='/apps/page1'),
+                dbc.NavLink('Machine Learning Model',href='/apps/page2'),
+                dbc.NavLink('Results',href='/apps/page3')
+                ]
+            ),
+        ],
+    fluid=True, color = "light"
+    ),    
     html.Div(id='page-content', children=[]), #page content all goes in here
     # dbc.Row([
     #     dbc.Col([
@@ -37,7 +45,7 @@ def display_page(pathname):
     if pathname == '/apps/page3':
         return page3.layout
     else:
-        return "404 Page Error! Please choose a link."
+        return page1.layout
 
 
 if __name__ == '__main__':
