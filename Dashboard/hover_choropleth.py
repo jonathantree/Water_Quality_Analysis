@@ -3,7 +3,6 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd                       
-import sqlite3
 from urllib.request import urlopen
 import json
 import os
@@ -15,8 +14,6 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 
 # Read data
 df = pd.read_csv('census_contaminant_priority_by_zip.csv', dtype={"zip":str,"fips":str})
-zips_to_counties = pd.read_csv("../Census_Data_Cleaning/zips_to_counties.csv",dtype={"zip": str})
-zips_to_counties["county_fips"] = zips_to_counties["county_fips"].astype(str).apply('{:0>5}'.format)
 
 cont_fips_df = pd.read_csv('all_contaminants_with_fips.csv',dtype = {"zip":str,"county_fips":str})
 
@@ -72,8 +69,14 @@ app.layout = dbc.Container([
         ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
 
         dbc.Col([
-           
-            dcc.Graph(id='gauge',figure={})
+            dbc.Card(
+                dbc.CardBody([
+                    html.H4("Priority Level", className='card=title'),
+                    html.P('Based on the demographic and water quality data', className='card-text'),
+                    dcc.Graph(id='gauge',figure={}),
+
+                ]), color="secondary"
+            )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], justify='center'),
     
