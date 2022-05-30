@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 import pandas as pd                       
 from urllib.request import urlopen
 import json
+import pathlib
 
 # app = Dash(__name__,
 #                 external_stylesheets=[dbc.themes.FLATLY],
@@ -13,6 +14,57 @@ import json
 #                 )
 # Add a title
 title=("Water Quality Analysis")    
+
+#read in data
+PATH = pathlib.Path(__file__).parent
+DATA_PATH = PATH.joinpath("../datasets").resolve()
+df = pd.read_csv(DATA_PATH.joinpath('new_priority_by_fips.csv'))
+
+#add graphs
+
+fig1 = px.scatter(
+    df, 
+    x="Simpson_Ethnic_DI", 
+    y="Sum_ContaminantFactor", 
+    color="Label",
+    size='Num_Contaminants', 
+    hover_data=['Sum_ContaminantFactor'],
+    labels={
+        "Sum_ContaminantFactor": "Total Conataminant Factor",
+        "Simpson_Ethnic_DI" : " Simpson Ethnic Index"
+                     
+            },
+)
+
+fig1.update_layout(
+    title={
+        'text': "Plot of the Adaboost Top Feature Importance",
+        'y':0.95,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+fig2 = px.scatter(
+    df, 
+    x="Shannon_Race_DI", 
+    y="Sum_ContaminantFactor", 
+    color="Label",
+    size='Num_Contaminants', 
+    hover_data=['Sum_ContaminantFactor'],
+    labels={
+        "Sum_ContaminantFactor": "Total Conataminant Factor",
+        "Shannon_Race_DI" : " Shannon Race Index"
+                     
+            },
+)
+
+fig2.update_layout(
+    title={
+        'text': "Plot of the Adaboost Top Feature Importance",
+        'y':0.95,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
 
 # layout
 
@@ -52,22 +104,22 @@ layout = dbc.Container([
         dbc.Col([
             # html.P("Row 2 column 1"),
             dbc.Card([
-                dbc.CardHeader("Simpson Ethnic Diversity Index",className='card-header'),
+                dbc.CardHeader("Simpson Ethnic Diversity Index vs Total Contaminant Factor",className='card-header'),
                 dbc.CardBody(
                     # html.P("card"),
-                    dcc.Graph('scatter-1',figure={})
+                    dcc.Graph('scatter-1',figure=fig1)
                 )
             ]),
 
         ], width=6),
-        
+
         dbc.Col([
             # html.P("Row 2 column 2"),
             dbc.Card([
-                dbc.CardHeader("Shannon Racial Diversity Index",className='card-header'),
+                dbc.CardHeader("Shannon Race Diversity Index vs. Total Contaminant Factor",className='card-header'),
                 dbc.CardBody(
                     # html.P("card"),
-                    dcc.Graph('scatter-2',figure={})
+                    dcc.Graph('scatter-2',figure=fig2)
                 )
             ]),
 
@@ -96,6 +148,12 @@ layout = dbc.Container([
     ])
 
 ])
+
+# @app.callback(
+#     Output('scatter-1','figure'),
+#     Output('scatter-2','figure'),
+#     Input()
+# )
 
 # # Run app
 # if __name__=='__main__':
