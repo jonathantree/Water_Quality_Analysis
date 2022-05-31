@@ -10,4 +10,4 @@ app = Dash(__name__,
 
 server = app.server
 
-# app.title=('Water Quality Analysis')
+app.title=('Water Quality Analysis')

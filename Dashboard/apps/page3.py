@@ -59,7 +59,7 @@ layout = dbc.Container([
                         },), 
         ], width=12),
  
-    ], justify='center'),
+    ], className='mb-5', justify='center'),
 
 
     dbc.Row([
@@ -78,6 +78,13 @@ layout = dbc.Container([
                 ]), color="light"
             )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
+    ], className='mb-5', justify='center'),
+    
+    dbc.Row([
+        dbc.Col([
+            html.H4('Top Contaminants vs People Served',className='text-center text-primary mb-3'), 
+            html.H6('Bubble size indicates Contaminant Factor',className="text-center text-muted mb-4")],
+        width=12),
     ], justify='center'),
     
     dbc.Row([
@@ -111,7 +118,7 @@ def update_graph(column_name):  # function arguments come from the component pro
         # labels={'Gini_Index':'Gini Index'},
         hover_data=['County',column_name]
     )
-    
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     return fig 
 
 @app.callback(
