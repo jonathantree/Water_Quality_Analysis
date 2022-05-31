@@ -20,9 +20,14 @@ app.layout = dbc.Container([
                 dbc.NavLink('Results',href='/apps/page3')
                 ]
             ),
-        ],
-    fluid=True, color = "light"
-    ),    
+        ], 
+        brand="Water Quality Analysis",
+        brand_href="#",
+        color='primary',
+        dark=True,
+        className='mb-4', 
+    # fluid=True, 
+    ) ,    
     html.Div(id='page-content', children=[]), #page content all goes in here
     # dbc.Row([
     #     dbc.Col([
