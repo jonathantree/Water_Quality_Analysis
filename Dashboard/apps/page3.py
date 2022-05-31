@@ -36,12 +36,28 @@ title=("Water Quality Analysis")
 layout = dbc.Container([
 
     dbc.Row([ #Title
-        dbc.Col(
-            html.H5("Please select a value from the dropdown to view demographic "
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    html.H5("Please select a value from the dropdown to view demographic "
                         "or contaminant data on a County level. Click on a County to view "
                         "more detailed graphs below.",
-                    className='text-center text-primary mb-4'), #mb-4 padding
-            width=6),
+                        className="text-center card-subtitle")
+                    ],
+                className="card bg-light")
+            ]),
+            # html.H5("Initial Analysis",
+                    # className='text-center text-primary mb-4'), #mb-4 padding
+            # html.H6("This page will talk about initial analysis of the data",
+            #         className="text-center text-muted")
+        ], width=6),
+        
+        # dbc.Col(
+        #     html.H5("Please select a value from the dropdown to view demographic "
+        #                 "or contaminant data on a County level. Click on a County to view "
+        #                 "more detailed graphs below.",
+        #             className='text-center text-primary mb-4'), #mb-4 padding
+        #     width=6),
         dbc.Col(
              dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
                         value='Number of Contaminants',
@@ -66,30 +82,31 @@ layout = dbc.Container([
                       'watermark': True,
                       # 'modeBarButtonsToRemove': ['pan2d','select2d'],
                         },), 
-        ], width=12),
+        ], className='mb-4', width=12),
  
     ], className='mb-5', justify='center'),
 
     dbc.Row([
         dbc.Col([
-            dcc.Markdown(id='county_confirm', children=[])#, className='text-center text-primary mb-4'),
+            # dcc.Markdown(id='county_confirm', children=[])#, className='text-center text-primary mb-4'),
+            html.H4("The following charts are based on the County chosen above.",className='text-center text-primary mb-3')
         ])
     ], className='mb-5', justify='center'),
 
     dbc.Row([
         dbc.Col([
-
+            # html.H4("Top 10 Contaminants ",className='text-center text-primary mb-3'),
             dcc.Graph(id='myhist', figure={})
         ], xs=12, sm=12, md=12, lg=8, xl=8), # responsive column sizing
 
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
-                    html.H4("Priority Level", className='card=title'),
-                    html.P('Based on the demographic and water quality data', className='card-text'),
+                    html.H4("Priority Level", className='card-title text-center'),
+                    html.P('Based on the demographic and water quality data', className='card-text text-center'),
                     dcc.Graph(id='gauge',figure={}),
 
-                ]), color="light"
+                ]), color="info"
             )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], className='mb-5', justify='center'),
@@ -97,7 +114,7 @@ layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             html.H4('Top Contaminants vs People Served',className='text-center text-primary mb-3'), 
-            html.H6('Bubble size indicates Contaminant Factor',className="text-center text-muted mb-4")],
+            html.H6('Bubble size indicates Contaminant Factor',className="text-center text-muted mb-2")],
         width=12),
     ], justify='center'),
     
@@ -139,7 +156,7 @@ def update_graph(column_name):  # function arguments come from the component pro
     Output('myhist','figure'),
     Output('scatter','figure'),
     Output('gauge','figure'),
-    Output('county_confirm','value'),
+    # Output('county_confirm','value'),
     Input('mygraph','clickData'),
 )
 def update_hist(click_data):
@@ -188,9 +205,9 @@ def update_hist(click_data):
                     {'range':[0.5,1.0],'color':'gray'}]
             },))
 
-        container=f'The Below Graphs are Based on Clackamas County'
+        #container=f'The Below Graphs are Based on Clackamas County'
 
-        return fig2, fig3, fig4, container
+        return fig2, fig3, fig4#, container
     
     else:
         #print(f'click data: {click_data}')
@@ -242,6 +259,6 @@ def update_hist(click_data):
                     {'range':[0.5,1.0],'color':'gray'}]
             },))
         
-        container=f"The Below Graphs Are Based on {click_county}"
+        #container=f"The Below Graphs Are Based on {click_county}"
 
-        return fig2, fig3, fig4, container
+        return fig2, fig3, fig4#, container

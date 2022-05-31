@@ -20,11 +20,19 @@ layout = dbc.Container([
     
     dbc.Row( #Title
         dbc.Col([
-            html.H5("Initial Analysis",
-                    className='text-center text-primary mb-4'), #mb-4 padding
+            dbc.Card([
+                dbc.CardBody([
+                    html.H3("Do communities with traditionally underserved demographics have access to clean drinking water? "
+                        "If so, how can we prioritize which communities are most in the need of cleaner water?",
+                        className="text-center card-subtitle mb-4")
+                    ],
+                className="card text-white bg-info mb-4")
+            ]),
+            # html.H5("Initial Analysis",
+                    # className='text-center text-primary mb-4'), #mb-4 padding
             # html.H6("This page will talk about initial analysis of the data",
             #         className="text-center text-muted")
-        ], width=12)
+        ], width=12), justify="center"
     ),
     
     dbc.Row([
@@ -48,7 +56,7 @@ layout = dbc.Container([
                         "contaminant factors for a given Zip Code.", className='class-text mb-2')
                 ])
             ]),
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
         dbc.Col([
             # html.P("Row 1 column 2"),
             dbc.Card([
@@ -63,7 +71,7 @@ layout = dbc.Container([
                     title="Distribution of Number of Contaminants", alt='Distribution of Number of Contaminants')
                 ])
             ]),
-        ], width=6)
+        ], xs=12, sm=12, md=12, lg=6, xl=6)
     ], className='mb-5', justify="evenly"),
 
     dbc.Row([
@@ -76,7 +84,7 @@ layout = dbc.Container([
             #     )
             # ),
 
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
         dbc.Col([
             html.H5("After removing outliers, the data has a more normal distribution. "
                     "Less than 10% of data points were eliminated in this process.",className='text-center text-primary mb-2'),
@@ -86,7 +94,7 @@ layout = dbc.Container([
             #     )
             # ),
 
-        ], width=6),
+        ], xs=12, sm=12, md=12, lg=6, xl=6),
     ], className='mb-5', justify="evenly"),
 
     dbc.Row([
@@ -96,28 +104,28 @@ layout = dbc.Container([
                 dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Boxplot_before.png", top=True, bottom=False,
                     title="Total Contaminant Factor Boxplot Before", alt='Total Contaminant Factor Boxplot Before')
             ),
-        ], width=3),
+        ], xs=12, sm=6, md=6, lg=3, xl=3),
         dbc.Col([
             # html.P("Row 2 column 2"),
             dbc.Card(
                 dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Hist_before.png", top=False, bottom=True,
                     title="Total Contaminant Factor Histogram Before", alt='Total Contaminant Factor Histogram Before')
             ),
-        ], width=3),
+        ], xs=12, sm=6, md=6, lg=3, xl=3),
         dbc.Col([
             # html.P("Row 2 column 1"),
             dbc.Card(
                 dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Boxplot_after.png", top=True, bottom=False,
                     title="Total Contaminant Factor Boxplot Before", alt='Total Contaminant Factor Boxplot Before')
             ),
-        ], width=3),
+        ], xs=12, sm=6, md=6, lg=3, xl=3),
         dbc.Col([
             # html.P("Row 2 column 2"),
             dbc.Card(
                 dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Hist_after.png", top=False, bottom=True,
                     title="Total Contaminant Factor Histogram Before", alt='Total Contaminant Factor Histogram Before')
             ),
-        ], width=3),
+        ], xs=12, sm=6, md=6, lg=3, xl=3),
     ], className='mb-5', justify="evenly"),
 
 ])
