@@ -1,5 +1,6 @@
 from dash import Dash, dcc, Output, Input, html  
-import dash_bootstrap_components as dbc    
+import dash_bootstrap_components as dbc
+from matplotlib import container    
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd                       
@@ -34,19 +35,27 @@ title=("Water Quality Analysis")
 
 layout = dbc.Container([
 
-    dbc.Row( #Title
-        dbc.Col(html.H1("Water Quality Analysis",
+    dbc.Row([ #Title
+        dbc.Col(
+            html.H5("Please select a value from the dropdown to view demographic "
+                        "or contaminant data on a County level. Click on a County to view "
+                        "more detailed graphs below.",
                     className='text-center text-primary mb-4'), #mb-4 padding
-            width=12)
-    ),
+            width=6),
+        dbc.Col(
+             dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
+                        value='Number of Contaminants',
+                        clearable=False),
+            width = 6)
+    ]),
 
     dbc.Row([
 
         dbc.Col([
-            html.H5("Please Select A Value", className='mb-3'),
-            dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
-                        value='Number of Contaminants',
-                        clearable=False),
+            # html.H5("Please Select A Value", className='mb-3'),
+            # dcc.Dropdown(id = 'dropdown',options=df_map.columns.values,
+            #             value='Number of Contaminants',
+            #             clearable=False),
             dcc.Graph(id='mygraph', figure={}, clickData=None, hoverData=None, # By defualt, these are None, unless you specify otherwise.
                   config={
                       'staticPlot': False,     # True, False
@@ -61,6 +70,11 @@ layout = dbc.Container([
  
     ], className='mb-5', justify='center'),
 
+    dbc.Row([
+        dbc.Col([
+            dcc.Markdown(id='county_confirm', children=[])#, className='text-center text-primary mb-4'),
+        ])
+    ], className='mb-5', justify='center'),
 
     dbc.Row([
         dbc.Col([
@@ -125,10 +139,11 @@ def update_graph(column_name):  # function arguments come from the component pro
     Output('myhist','figure'),
     Output('scatter','figure'),
     Output('gauge','figure'),
+    Output('county_confirm','value'),
     Input('mygraph','clickData'),
 )
 def update_hist(click_data):
-    # print(state_input)
+    print(f'click data: {click_data}')
     if click_data is None:
         dff = cont_fips_df.copy()
         dff = dff[dff['county_fips']=='41005']
@@ -173,21 +188,26 @@ def update_hist(click_data):
                     {'range':[0.5,1.0],'color':'gray'}]
             },))
 
-        return fig2, fig3, fig4
+        container=f'The Below Graphs are Based on Clackamas County'
+
+        return fig2, fig3, fig4, container
     
     else:
-        # print(f'click data: {click_data}')
+        #print(f'click data: {click_data}')
         dff = cont_fips_df.copy()
         click_fips = click_data['points'][0]['location']
+        click_county = click_data['points'][0]['customdata'][0]
         dff = dff[dff['county_fips']==click_fips]
         dff2 = dff.groupby(["Contaminant"]).size().to_frame().sort_values([0], ascending = True).tail(10).reset_index()
         dff2 = dff2.rename(columns={0: 'Count of Contaminant'})
+        
 
         fig2 = px.histogram(
             data_frame = dff2, 
             x = 'Count of Contaminant', 
             y="Contaminant").update_layout(
-            title={"text": "Top Ten Contaminants", "x": 0.5}, 
+            # title={"text": f"Top Ten Contaminants in {click_county}", "x": 0.5}, 
+            title=f'Top Ten Contaminants in {click_county}',
             xaxis_title="Number of Occurences"
         )
 
@@ -202,7 +222,8 @@ def update_hist(click_data):
             size="Contaminant_Factor", 
             color="Contaminant",
             hover_name="Contaminant", 
-            size_max=60
+            size_max=60,
+            # title={'text':f'Contaminants in {click_county}',"size":24}
             )
 
         df_copy = df.copy()
@@ -212,7 +233,7 @@ def update_hist(click_data):
             mode = "gauge+number",
             value=df_copy.Priority.values[0],
             domain={'x': [0, 1], 'y': [0, 1]},
-            title={'text':'Priority','font':{'size':24}},
+            # title={'text':f'Priority Level for {click_county}','font':{'size':24}},
             gauge = {
                 'axis':{'range':[-0.25,1.25]},
                 'bar':{'color':'teal'},
@@ -220,5 +241,7 @@ def update_hist(click_data):
                     {'range':[0,0.5],'color':'lightgray'},
                     {'range':[0.5,1.0],'color':'gray'}]
             },))
+        
+        container=f"The Below Graphs Are Based on {click_county}"
 
-        return fig2, fig3, fig4
+        return fig2, fig3, fig4, container

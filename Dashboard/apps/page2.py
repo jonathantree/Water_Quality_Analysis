@@ -72,10 +72,10 @@ layout = dbc.Container([
     
     dbc.Row( #Title
         dbc.Col([
-            html.H1("Water Quality Analysis",
+            html.H5("Machine Learning",
                     className='text-center text-primary mb-4'), #mb-4 padding
-            html.H6("This page will talk about Machine Learning Results",
-                    className="text-center text-muted mb-4")
+            # html.H6("This page will talk about Machine Learning Results",
+            #         className="text-center text-muted mb-4")
         ], width=12),
     justify="evenly"
     ),
@@ -109,7 +109,7 @@ layout = dbc.Container([
         dbc.Col([
             # html.P("Row 2 column 1"),
             dbc.Card([
-                dbc.CardHeader("Simpson Ethnic Diversity Index vs Total Contaminant Factor",className='card-header'),
+                dbc.CardHeader("Simpson Ethnic Diversity Index vs Total Contaminant Factor",className='card-header text-center'),
                 dbc.CardBody(
                     # html.P("card"),
                     dcc.Graph('scatter-1',figure=fig1)
@@ -121,7 +121,7 @@ layout = dbc.Container([
         dbc.Col([
             # html.P("Row 2 column 2"),
             dbc.Card([
-                dbc.CardHeader("Shannon Race Diversity Index vs. Total Contaminant Factor",className='card-header'),
+                dbc.CardHeader("Shannon Race Diversity Index vs. Total Contaminant Factor",className='card-header text-center'),
                 dbc.CardBody(
                     # html.P("card"),
                     dcc.Graph('scatter-2',figure=fig2)
@@ -133,13 +133,23 @@ layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            html.H4("Feature Pairplot", className='text-center text-primary mb-4'),
-            # dbc.Card(
-            #     dbc.CardBody(
-            #         html.P("card")
-            #     )
-            # ),
-            html.Img(src='/assets/feature_pairplot.png', title='Feature Pairplot', width=600)
+            dbc.Card([
+                dbc.CardHeader("Feature Pairplot",className='card-header text-center'),
+                dbc.CardImg(src='/assets/feature_pairplot.png',top=True, bottom=False,
+                    title="Feature Pairplot", alt='Feature Pairplot')
+                # dbc.CardBody(
+                #     # html.P("card"),
+                #     dcc.Graph('scatter-2',figure=fig2)
+                # )
+            ], className='mb-5'),
+
+            # html.H4("Feature Pairplot", className='text-center text-primary mb-4'),
+            # # dbc.Card(
+            # #     dbc.CardBody(
+            # #         html.P("card")
+            # #     )
+            # # ),
+            # html.Img(src='/assets/feature_pairplot.png', title='Feature Pairplot', width=600)
 
         ], xs=12, sm=12, md=12, lg=6, xl=6),
         dbc.Col([
