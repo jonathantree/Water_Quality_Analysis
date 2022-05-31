@@ -33,44 +33,62 @@ layout = dbc.Container([
             dbc.Card([
                 # dbc.CardHeader("The Data"),
                 dbc.CardBody([
-                    html.H2("The Data", className='card-title'),
-                    html.Li("2020 Dicennial US Census Data provided demographic information at the the county level for every state (except Washington.) From these we calculated the Simpson and Shannon Racial and Ethnic Diversity Indices ",className='class-text'),
-                    html.Li("Income diversity data is from US Census American Community Survey Table B19083 - Gini Index.", className='class-text'),
-                    html.Li("Water contamination data was scraped from the Environmental Working Group's Tapwater Database.", className='class-text')
+                    html.H2("The Data", className='card-title mb-4'),
+                    html.Li("2020 Dicennial US Census Data provided demographic information at the the county level"
+                    " for every state (except Washington). From these we calculated the Simpson and Shannon Racial and "
+                    "Ethnic Diversity Indices ",className='class-text mb-2'),
+                    html.Li("Income diversity data is from US Census American Community Survey Table B19083 - Gini Index.", className='class-text mb-2'),
+                    html.Li("Water contamination data was scraped from the Environmental Working Group's Tapwater Database.", className='class-text mb-2')
                 ])
             ]),
-        ], width=5),
+        ], width=6),
         dbc.Col([
-            html.P("Row 1 column 2"),
-            dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
-            ),
+            # html.P("Row 1 column 2"),
+            dbc.Card([
+                dbc.CardBody([
+                    html.H2("Eliminating Outliers", className='card-title mb-4'),
+                    html.Li("No features ofthe data pass the Shapiro-Wilk test for normality (Shapiro.test() in R)",className='class-text mb-2'),
+                    html.Li("Many Features show a F-distribution, nulling any parametric tests for correlation.", className='class-text mb-2'),
+                    html.Li("Visualization of data to look for trends show that most data is right skewed.", className='class-text mb-2'),
+                    # dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Boxplot_after.png", top=False, bottom=True,
+                    # title="Total Contaminant Factor Boxplot Before", alt='Total Contaminant Factor Boxplot Before')
+                ])
+            ]),
+
 
         ], width=6)
-    ]),
+    ], className='mb-5', justify="evenly"),
 
     dbc.Row([
         dbc.Col([
-            html.P("Row 2 column 1"),
+            # html.P("Row 2 column 1"),
             dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
+                dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Boxplot_before.png", top=True, bottom=False,
+                    title="Total Contaminant Factor Boxplot Before", alt='Total Contaminant Factor Boxplot Before')
             ),
-
-        ], width=6),
+        ], width=3),
         dbc.Col([
-            html.P("Row 2 column 2"),
+            # html.P("Row 2 column 2"),
             dbc.Card(
-                dbc.CardBody(
-                    html.P("card")
-                )
+                dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Hist_before.png", top=False, bottom=True,
+                    title="Total Contaminant Factor Histogram Before", alt='Total Contaminant Factor Histogram Before')
             ),
-
-        ], width=6),
-    ]),
+        ], width=3),
+        dbc.Col([
+            # html.P("Row 2 column 1"),
+            dbc.Card(
+                dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Boxplot_after.png", top=True, bottom=False,
+                    title="Total Contaminant Factor Boxplot Before", alt='Total Contaminant Factor Boxplot Before')
+            ),
+        ], width=3),
+        dbc.Col([
+            # html.P("Row 2 column 2"),
+            dbc.Card(
+                dbc.CardImg(src="/assets/Sum_Contaminant_Factor_Hist_after.png", top=False, bottom=True,
+                    title="Total Contaminant Factor Histogram Before", alt='Total Contaminant Factor Histogram Before')
+            ),
+        ], width=3),
+    ], className='mb-5', justify="evenly"),
 
     dbc.Row([
         dbc.Col([
@@ -91,7 +109,7 @@ layout = dbc.Container([
             ),
 
         ], width=6),
-    ])
+    ], className='mb-5', justify="evenly")
 
 ])
 
