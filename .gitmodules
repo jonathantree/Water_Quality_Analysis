@@ -1,3 +1,6 @@
 [submodule "Dashboard/Dash_Jenna/dash_selenium_test"]
 	path = Dashboard/Dash_Jenna/dash_selenium_test
 	url = git@github.com:jennadodge/dash_selenium_test.git
+[submodule "Water-Quality-Analysis-Dashboard"]
+	path = Water-Quality-Analysis-Dashboard
+	url = https://github.com/jennadodge/Water-Quality-Analysis-Dashboard.git
