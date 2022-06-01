@@ -1,6 +1,6 @@
 # Identifying at-risk and underserved communities with poor quality drinking water in the United States
 
-## [View the Google Presentation](https://docs.google.com/presentation/d/1KNtJILQS13t8GJm_S1Poi-_9Wk_sNTs_-LUTHM7UoB4/edit?usp=sharing)
+## [View the Presentation](https://docs.google.com/presentation/d/1KNtJILQS13t8GJm_S1Poi-_9Wk_sNTs_-LUTHM7UoB4/edit?usp=sharing) | [View the Dashboard](https://our-dashboard.herokuapp.com/apps/page1)
 
 ## Project Overview
 The purpose of this project is to analyze drinking water quality to determine if the quality of the community's drinking water is correlated with certain demographic markers, such as income level. Specifically, we are aiming to use socioeconomic data and drinking water quality data to identify at-risk communities that are historically underserved. By identifying which communities are at most risk (i.e., poverty level, racial inequity) alongside our analysis of water quality data and our supervised machine learning model results, we can identify those high-priority communities. We can then have a subset of communities that can be targeted that need humanitarian support to remediate their water source.
@@ -97,10 +97,10 @@ sorted(zip(brf_model.feature_importances_, X.columns), reverse=True)
    - Example from the new test data: A county had a `Sum_ContaminantFactor` > 5000 yet a `Simpson_Ethnic_DI` < 0.15. These parameters alone are enough to trigger a low-priority prediction form these models.
 7. Dashboard Construction:
    - The dashboard we are using to host this project is a multi-page Plotly Dash App
-   - The app will be hosted on Heroku
-   - A link to our dashboard will be at the top of this README and is also here: [the link will go here](www.heroku.com) 
-   - The interactive portion of the (draft) dashboard looks like the below image. The user can select a value to display on the Choropleth map. In this screenshot, the default value of Number of Contaminants is shown. When the user clicks on a county, the histogram, gauge, and scatterplot all update to display information for that county:
-   ![](images/Dashboard_Draft_Screenshot.png)
+   - The app is hosted on Heroku
+   - A link to our dashboard is at the top of this README and is also here: [Dashboard](https://our-dashboard.herokuapp.com/apps/page1) 
+   - The interactive portion of the dashboard looks like the below image. The user can select a value to display on the Choropleth map. In this screenshot, the default value of Number of Contaminants is shown. When the user clicks on a county, the histogram, gauge, and scatterplot all update to display information for that county (Deschutes County Displayed in the below screenshot):
+   ![](images/Dashboard_Screenshot.png)
 
 ### Code for Binary Classification Model
 ```python

@@ -85,6 +85,10 @@ layout = dbc.Container([
         ], className='mb-4', width=12),
  
     ], className='mb-5', justify='center'),
+    
+    dbc.Row(
+        html.Hr(className="mb-3")
+    ),
 
     dbc.Row([
         dbc.Col([
@@ -106,7 +110,7 @@ layout = dbc.Container([
                     html.P('Based on the demographic and water quality data', className='card-text text-center'),
                     dcc.Graph(id='gauge',figure={}),
 
-                ]), color="info"
+                ]), className="card text-white bg-secondary"
             )
         ], xs=12, sm=12, md=12, lg=4, xl=4), # responsive column sizing
     ], className='mb-5', justify='center'),
@@ -143,7 +147,7 @@ def update_graph(column_name):  # function arguments come from the component pro
         locations='fips',
         scope='usa', 
         color=column_name,
-        color_continuous_scale="Viridis",
+        color_continuous_scale="teal",
         # range_color=(min(column_name.values), max(column_name.values)),                           
         # template='plotly_dark',
         # labels={'Gini_Index':'Gini Index'},
@@ -226,6 +230,8 @@ def update_hist(click_data):
             # title={"text": f"Top Ten Contaminants in {click_county}", "x": 0.5}, 
             title=f'Top Ten Contaminants in {click_county}',
             xaxis_title="Number of Occurences"
+            # color="Contaminant",
+            # color_continuous_scale="teal"
         )
 
         dff3 = dff.groupby(by=["Contaminant"]).sum().sort_values(by=['Contaminant_Factor'], ascending=False)[['People_served', 'Contaminant_Factor']]
